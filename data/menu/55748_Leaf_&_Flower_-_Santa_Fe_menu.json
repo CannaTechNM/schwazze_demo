@@ -1,0 +1,3612 @@
+{
+  "meta": {
+    "page": 1,
+    "per_page": 100,
+    "total": 30
+  },
+  "data": [
+    {
+      "id": 12347005,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Strain Specific Prerolls",
+        "slug": "strain-specific-prerolls",
+        "category_name": "Flower",
+        "body": "<p></p><p>1g & .5g Prerolls. Available in Sativa, Indica, Hybrid and CBD. Call for availability.</p>",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": false,
+        "picture_url": "https://images.weedmaps.com/pictures/users/000/667/952/429919372_20240116_181401.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/users/000/667/952/429919372_20240116_181401.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/users/000/667/952/429919372_20240116_181401.jpg",
+        "is_badged": false,
+        "brand_name": null,
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 4,
+          "price_gram": 7,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2018-02-13T21:07:57Z",
+        "updated_at": "2024-04-04T00:21:27Z",
+        "parent_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "sub_category": {
+          "id": 185,
+          "name": "Pre Roll",
+          "slug": "pre-roll"
+        },
+        "measurements": [],
+        "variants": [
+          {
+            "name": "1/2 gram",
+            "label": "1/2 g",
+            "price": {
+              "amount": "4.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.5,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 500,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          },
+          {
+            "name": "1 gram",
+            "label": "1 g",
+            "price": {
+              "amount": "7.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 1,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 1000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/cg-corrigan-3/menu/strain-specific-prerolls",
+        "order": "https://weedmaps.com/dispensaries/cg-corrigan-3/menu/strain-specific-prerolls"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 55748,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 2
+          },
+          "data": [
+            {
+              "id": 2,
+              "type": "category"
+            },
+            {
+              "id": 185,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 158236902,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 12359463,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Dark Chocolate",
+        "slug": "sativa-300mg-chocolate-bar",
+        "category_name": "Edibles",
+        "body": "<p></p><p>Milk, Dark, White chocolate with optional toffee</p>",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": false,
+        "picture_url": "https://images.weedmaps.com/pictures/users/000/667/952/429917515_20240116_141732.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/users/000/667/952/429917515_20240116_141732.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/users/000/667/952/429917515_20240116_141732.jpg",
+        "is_badged": true,
+        "brand_name": "Elevated RX",
+        "cannabinoids": {},
+        "genetics": "sativa",
+        "prices": {
+          "price_unit": 15,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2018-02-14T19:09:32Z",
+        "updated_at": "2024-04-26T23:34:50Z",
+        "parent_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "sub_category": {
+          "id": 212,
+          "name": "Chocolates",
+          "slug": "chocolates"
+        },
+        "measurements": [
+          {
+            "id": 1343895132,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "mg",
+            "value": "300.0"
+          }
+        ],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/cg-corrigan-3/menu/sativa-300mg-chocolate-bar",
+        "order": "https://weedmaps.com/dispensaries/cg-corrigan-3/menu/sativa-300mg-chocolate-bar"
+      },
+      "relationships": {
+        "brand": {
+          "data": {
+            "id": 20885,
+            "type": "brand"
+          }
+        },
+        "listing": {
+          "data": {
+            "id": 55748,
+            "type": "dispensary"
+          }
+        },
+        "product": {
+          "data": {
+            "id": 363184,
+            "type": "product"
+          }
+        },
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 3
+          },
+          "data": [
+            {
+              "id": 212,
+              "type": "category"
+            },
+            {
+              "id": 219,
+              "type": "category"
+            },
+            {
+              "id": 5,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 2
+          },
+          "data": [
+            {
+              "type": "tag",
+              "id": "0777c485-a69d-41fe-bf47-ad91ff185525"
+            },
+            {
+              "type": "tag",
+              "id": "9f52b69a-8a25-4501-8dc9-2cdfa6b078a0"
+            }
+          ]
+        },
+        "menu_parent": {
+          "data": {
+            "id": 158236902,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 28258524,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Elevated - 100mg Honey Capsules",
+        "slug": "elevated-100mg-honey-capsules",
+        "category_name": "Edibles",
+        "body": "<p></p><p>10mg per capsule. 10 capsules per pack. Available in Indica and Sativa. Call for availability. </p>",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": false,
+        "picture_url": "https://images.weedmaps.com/categories/000/000/005/placeholder/1613661822-1613605717-edibles_image_missing.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/categories/000/000/005/placeholder/1613661822-1613605717-edibles_image_missing.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/categories/000/000/005/placeholder/1613661822-1613605717-edibles_image_missing.jpg",
+        "is_badged": false,
+        "brand_name": null,
+        "cannabinoids": {},
+        "genetics": "indica",
+        "prices": {
+          "price_unit": 14,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2020-01-28T19:36:41Z",
+        "updated_at": "2024-04-27T00:08:21Z",
+        "parent_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "sub_category": {
+          "id": 32,
+          "name": "Capsules",
+          "slug": "capsules"
+        },
+        "measurements": [
+          {
+            "id": 1346186652,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "mg",
+            "value": "100.0"
+          }
+        ],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/cg-corrigan-3/menu/elevated-100mg-honey-capsules",
+        "order": "https://weedmaps.com/dispensaries/cg-corrigan-3/menu/elevated-100mg-honey-capsules"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 55748,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 2
+          },
+          "data": [
+            {
+              "id": 32,
+              "type": "category"
+            },
+            {
+              "id": 5,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 2
+          },
+          "data": [
+            {
+              "type": "tag",
+              "id": "0777c485-a69d-41fe-bf47-ad91ff185525"
+            },
+            {
+              "type": "tag",
+              "id": "4111e944-1514-4698-a9fa-924e55289ac3"
+            }
+          ]
+        },
+        "menu_parent": {
+          "data": {
+            "id": 158236902,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 64192600,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Elevated Hybrid Wax",
+        "slug": "elevated-hybrid-wax",
+        "category_name": "Concentrates",
+        "body": "<p></p><p>Ask for availability</p>",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": false,
+        "picture_url": "https://images.weedmaps.com/pictures/users/000/667/952/429917342_Resized_20240116_142243_1705441780033.jpeg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/users/000/667/952/429917342_Resized_20240116_142243_1705441780033.jpeg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/users/000/667/952/429917342_Resized_20240116_142243_1705441780033.jpeg",
+        "is_badged": false,
+        "brand_name": null,
+        "cannabinoids": {
+          "thc": "83.4"
+        },
+        "genetics": null,
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 0,
+          "price_gram": 20,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2021-06-26T16:32:35Z",
+        "updated_at": "2024-04-04T00:13:12Z",
+        "parent_category": {
+          "id": 3,
+          "name": "Concentrates",
+          "slug": "concentrates"
+        },
+        "sub_category": {
+          "id": 48,
+          "name": "Budder",
+          "slug": "budder"
+        },
+        "measurements": [
+          {
+            "id": 542057305,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "%",
+            "value": "83.4"
+          }
+        ],
+        "variants": [
+          {
+            "name": "1 gram",
+            "label": "1 g",
+            "price": {
+              "amount": "20.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 1,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 1000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/cg-corrigan-3/menu/elevated-hybrid-wax",
+        "order": "https://weedmaps.com/dispensaries/cg-corrigan-3/menu/elevated-hybrid-wax"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 55748,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": {
+            "id": 9371,
+            "type": "strain"
+          }
+        },
+        "categories": {
+          "meta": {
+            "total": 2
+          },
+          "data": [
+            {
+              "id": 48,
+              "type": "category"
+            },
+            {
+              "id": 3,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 158236902,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 88586054,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Elevated 10mg Sucker",
+        "slug": "elevated-25mg-sucker",
+        "category_name": "Edibles",
+        "body": "<p></p><p>Sucker in variable flavors ask for availability.</p>",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": false,
+        "picture_url": "https://images.weedmaps.com/pictures/users/000/667/952/429918325_20240116_161743.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/users/000/667/952/429918325_20240116_161743.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/users/000/667/952/429918325_20240116_161743.jpg",
+        "is_badged": false,
+        "brand_name": null,
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 5,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2022-02-09T00:07:23Z",
+        "updated_at": "2024-01-16T23:31:29Z",
+        "parent_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "sub_category": {
+          "id": 219,
+          "name": "Candy",
+          "slug": "candy"
+        },
+        "measurements": [],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/cg-corrigan-3/menu/elevated-25mg-sucker",
+        "order": "https://weedmaps.com/dispensaries/cg-corrigan-3/menu/elevated-25mg-sucker"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 55748,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 2
+          },
+          "data": [
+            {
+              "id": 219,
+              "type": "category"
+            },
+            {
+              "id": 5,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 158236902,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 96356143,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Elevated - Distillate Cartridge Full Gram",
+        "slug": "elevated-distillate-cartridge-400mg-half-gram",
+        "category_name": "Vape Pens",
+        "body": "<p></p><p>400mg THC</p>",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": false,
+        "picture_url": "https://images.weedmaps.com/categories/000/000/004/placeholder/1613661827-1613605721-vape-pens_image_missing.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/categories/000/000/004/placeholder/1613661827-1613605721-vape-pens_image_missing.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/categories/000/000/004/placeholder/1613661827-1613605721-vape-pens_image_missing.jpg",
+        "is_badged": false,
+        "brand_name": null,
+        "cannabinoids": {
+          "thc": "82.0"
+        },
+        "genetics": null,
+        "prices": {
+          "price_unit": 35,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2022-05-03T16:56:11Z",
+        "updated_at": "2024-04-16T17:17:00Z",
+        "parent_category": {
+          "id": 4,
+          "name": "Vape Pens",
+          "slug": "vape-pens"
+        },
+        "sub_category": {
+          "id": 193,
+          "name": "Cartridge",
+          "slug": "cartridge"
+        },
+        "measurements": [
+          {
+            "id": 293940764,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "%",
+            "value": "82.0"
+          }
+        ],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/cg-corrigan-3/menu/elevated-distillate-cartridge-400mg-half-gram",
+        "order": "https://weedmaps.com/dispensaries/cg-corrigan-3/menu/elevated-distillate-cartridge-400mg-half-gram"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 55748,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 2
+          },
+          "data": [
+            {
+              "id": 193,
+              "type": "category"
+            },
+            {
+              "id": 4,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 158236902,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 101151271,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Derived - Gummies 100mg",
+        "slug": "derived-gummies-100mg",
+        "category_name": "Edibles",
+        "body": "<p></p><p>Ask for flavor</p>",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": false,
+        "picture_url": "https://images.weedmaps.com/categories/000/000/005/placeholder/1613661822-1613605717-edibles_image_missing.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/categories/000/000/005/placeholder/1613661822-1613605717-edibles_image_missing.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/categories/000/000/005/placeholder/1613661822-1613605717-edibles_image_missing.jpg",
+        "is_badged": false,
+        "brand_name": null,
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 10,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2022-06-25T21:14:06Z",
+        "updated_at": "2024-04-14T16:07:47Z",
+        "parent_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "sub_category": {
+          "id": 22,
+          "name": "Gummies",
+          "slug": "gummies"
+        },
+        "measurements": [],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/cg-corrigan-3/menu/derived-gummies-100mg",
+        "order": "https://weedmaps.com/dispensaries/cg-corrigan-3/menu/derived-gummies-100mg"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 55748,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 3
+          },
+          "data": [
+            {
+              "id": 22,
+              "type": "category"
+            },
+            {
+              "id": 219,
+              "type": "category"
+            },
+            {
+              "id": 5,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 158236902,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 108871157,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Thin Mints x Jealousy",
+        "slug": "thin-mints-x-jealousy",
+        "category_name": "Flower",
+        "body": "<p>27.9% THC</p>",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": false,
+        "picture_url": "https://images.weedmaps.com/pictures/users/000/667/952/429917511_Resized_20240116_151006_1705443073424.jpeg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/users/000/667/952/429917511_Resized_20240116_151006_1705443073424.jpeg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/users/000/667/952/429917511_Resized_20240116_151006_1705443073424.jpeg",
+        "is_badged": false,
+        "brand_name": "Seed Junky",
+        "cannabinoids": {
+          "thc": "27.9"
+        },
+        "genetics": "hybrid",
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 0,
+          "price_gram": 8,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2022-09-21T17:13:11Z",
+        "updated_at": "2024-04-04T00:19:44Z",
+        "parent_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "sub_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "measurements": [
+          {
+            "id": 1440031402,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "%",
+            "value": "27.9"
+          }
+        ],
+        "variants": [
+          {
+            "name": "1 gram",
+            "label": "1 g",
+            "price": {
+              "amount": "8.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 1,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 1000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/cg-corrigan-3/menu/thin-mints-x-jealousy",
+        "order": "https://weedmaps.com/dispensaries/cg-corrigan-3/menu/thin-mints-x-jealousy"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 55748,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": {
+            "id": 3568,
+            "type": "strain"
+          }
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 2,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 158236902,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 108871437,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Gelato x Animal Mints",
+        "slug": "gelato-x-animal-mints",
+        "category_name": "Flower",
+        "body": "<p></p><p>24.1% THC</p>",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": false,
+        "picture_url": "https://images.weedmaps.com/pictures/users/000/667/952/429917511_Resized_20240116_151006_1705443073424.jpeg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/users/000/667/952/429917511_Resized_20240116_151006_1705443073424.jpeg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/users/000/667/952/429917511_Resized_20240116_151006_1705443073424.jpeg",
+        "is_badged": false,
+        "brand_name": "Seed Junky",
+        "cannabinoids": {
+          "thc": "24.1"
+        },
+        "genetics": null,
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 0,
+          "price_gram": 8,
+          "price_two_grams": 0,
+          "price_eighth": 28,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2022-09-21T17:15:11Z",
+        "updated_at": "2024-04-14T16:23:07Z",
+        "parent_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "sub_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "measurements": [
+          {
+            "id": 1255162362,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "%",
+            "value": "24.1"
+          }
+        ],
+        "variants": [
+          {
+            "name": "1 gram",
+            "label": "1 g",
+            "price": {
+              "amount": "8.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 1,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 1000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          },
+          {
+            "name": "1/8 ounce",
+            "label": "1/8 oz",
+            "price": {
+              "amount": "28.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.125,
+              "unit": "oz"
+            },
+            "sku": null,
+            "compliance_net_mg": 3500,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/cg-corrigan-3/menu/gelato-x-animal-mints",
+        "order": "https://weedmaps.com/dispensaries/cg-corrigan-3/menu/gelato-x-animal-mints"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 55748,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": {
+            "id": 270,
+            "type": "strain"
+          }
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 2,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 158236902,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 118783451,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Gelato Bx1",
+        "slug": "gelato-bx1",
+        "category_name": "Flower",
+        "body": "<p></p><p>20.5%</p>",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": false,
+        "picture_url": "https://images.weedmaps.com/categories/000/000/002/placeholder/1613661817-1613605719-flower_image_missing.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/categories/000/000/002/placeholder/1613661817-1613605719-flower_image_missing.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/categories/000/000/002/placeholder/1613661817-1613605719-flower_image_missing.jpg",
+        "is_badged": false,
+        "brand_name": "Seed Junky",
+        "cannabinoids": {
+          "thc": "20.5"
+        },
+        "genetics": null,
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 0,
+          "price_gram": 8,
+          "price_two_grams": 0,
+          "price_eighth": 28,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2023-01-07T20:24:39Z",
+        "updated_at": "2024-04-22T20:42:49Z",
+        "parent_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "sub_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "measurements": [
+          {
+            "id": 1384830688,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "%",
+            "value": "20.5"
+          }
+        ],
+        "variants": [
+          {
+            "name": "1/8 ounce",
+            "label": "1/8 oz",
+            "price": {
+              "amount": "28.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.125,
+              "unit": "oz"
+            },
+            "sku": null,
+            "compliance_net_mg": 3500,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          },
+          {
+            "name": "1 gram",
+            "label": "1 g",
+            "price": {
+              "amount": "8.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 1,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 1000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/cg-corrigan-3/menu/gelato-bx1",
+        "order": "https://weedmaps.com/dispensaries/cg-corrigan-3/menu/gelato-bx1"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 55748,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 2,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 158236902,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 124089692,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Lemon Cherry x Jealousy",
+        "slug": "lemon-cherry-x-jealousy",
+        "category_name": "Flower",
+        "body": "<p></p><p>31.6%</p>",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": false,
+        "picture_url": "https://images.weedmaps.com/pictures/users/000/667/952/429917511_Resized_20240116_151006_1705443073424.jpeg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/users/000/667/952/429917511_Resized_20240116_151006_1705443073424.jpeg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/users/000/667/952/429917511_Resized_20240116_151006_1705443073424.jpeg",
+        "is_badged": false,
+        "brand_name": "Seed Junky",
+        "cannabinoids": {
+          "thc": "25.8"
+        },
+        "genetics": "sativa",
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 0,
+          "price_gram": 8,
+          "price_two_grams": 0,
+          "price_eighth": 28,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2023-03-05T23:56:36Z",
+        "updated_at": "2024-04-04T00:14:19Z",
+        "parent_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "sub_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "measurements": [
+          {
+            "id": 1340244946,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "%",
+            "value": "25.8"
+          }
+        ],
+        "variants": [
+          {
+            "name": "1 gram",
+            "label": "1 g",
+            "price": {
+              "amount": "8.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 1,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 1000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          },
+          {
+            "name": "1/8 ounce",
+            "label": "1/8 oz",
+            "price": {
+              "amount": "28.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.125,
+              "unit": "oz"
+            },
+            "sku": null,
+            "compliance_net_mg": 3500,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/cg-corrigan-3/menu/lemon-cherry-x-jealousy",
+        "order": "https://weedmaps.com/dispensaries/cg-corrigan-3/menu/lemon-cherry-x-jealousy"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 55748,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 2,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 158236902,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 129732339,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Runtz x Biscotti x Kush Mints",
+        "slug": "runtz-x-biscotti-x-kush-mints",
+        "category_name": "Flower",
+        "body": "<p></p><p>29.9%</p>",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": false,
+        "picture_url": "https://images.weedmaps.com/categories/000/000/002/placeholder/1613661817-1613605719-flower_image_missing.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/categories/000/000/002/placeholder/1613661817-1613605719-flower_image_missing.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/categories/000/000/002/placeholder/1613661817-1613605719-flower_image_missing.jpg",
+        "is_badged": false,
+        "brand_name": "Seed Junky",
+        "cannabinoids": {
+          "thc": "27.4"
+        },
+        "genetics": null,
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 28,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2023-05-08T20:35:09Z",
+        "updated_at": "2024-04-07T20:44:19Z",
+        "parent_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "sub_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "measurements": [
+          {
+            "id": 1440030516,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "%",
+            "value": "27.4"
+          }
+        ],
+        "variants": [
+          {
+            "name": "1/8 ounce",
+            "label": "1/8 oz",
+            "price": {
+              "amount": "28.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.125,
+              "unit": "oz"
+            },
+            "sku": null,
+            "compliance_net_mg": 3500,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/cg-corrigan-3/menu/runtz-x-biscotti-x-kush-mints",
+        "order": "https://weedmaps.com/dispensaries/cg-corrigan-3/menu/runtz-x-biscotti-x-kush-mints"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 55748,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 2,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 158236902,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 129733219,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Tumbleweedz",
+        "slug": "tumbleweedz",
+        "category_name": "Flower",
+        "body": "<p></p><p>20.4%</p>",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": false,
+        "picture_url": "https://images.weedmaps.com/pictures/users/000/667/952/429917499_Resized_20240116_150915_1705443071549.jpeg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/users/000/667/952/429917499_Resized_20240116_150915_1705443071549.jpeg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/users/000/667/952/429917499_Resized_20240116_150915_1705443071549.jpeg",
+        "is_badged": false,
+        "brand_name": null,
+        "cannabinoids": {
+          "thc": "23.6"
+        },
+        "genetics": "sativa",
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 0,
+          "price_gram": 6,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2023-05-08T20:42:35Z",
+        "updated_at": "2024-01-16T22:19:10Z",
+        "parent_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "sub_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "measurements": [
+          {
+            "id": 1440031855,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "%",
+            "value": "23.6"
+          }
+        ],
+        "variants": [
+          {
+            "name": "1 gram",
+            "label": "1 g",
+            "price": {
+              "amount": "6.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 1,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 1000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/cg-corrigan-3/menu/tumbleweedz",
+        "order": "https://weedmaps.com/dispensaries/cg-corrigan-3/menu/tumbleweedz"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 55748,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 2,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 158236902,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 133399751,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Mordor Fire",
+        "slug": "mordor-fire",
+        "category_name": "Flower",
+        "body": "<p>19.8%</p>",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": false,
+        "picture_url": "https://images.weedmaps.com/categories/000/000/002/placeholder/1613661817-1613605719-flower_image_missing.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/categories/000/000/002/placeholder/1613661817-1613605719-flower_image_missing.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/categories/000/000/002/placeholder/1613661817-1613605719-flower_image_missing.jpg",
+        "is_badged": false,
+        "brand_name": null,
+        "cannabinoids": {
+          "thc": "19.8"
+        },
+        "genetics": "indica",
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 0,
+          "price_gram": 6,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2023-06-30T17:59:35Z",
+        "updated_at": "2024-03-27T20:50:06Z",
+        "parent_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "sub_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "measurements": [
+          {
+            "id": 1320448764,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "%",
+            "value": "19.8"
+          }
+        ],
+        "variants": [
+          {
+            "name": "1 gram",
+            "label": "1 g",
+            "price": {
+              "amount": "6.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 1,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 1000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/cg-corrigan-3/menu/mordor-fire",
+        "order": "https://weedmaps.com/dispensaries/cg-corrigan-3/menu/mordor-fire"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 55748,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 2,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 158236902,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 134449941,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Cactus Jellies Hybrid 100mg THC",
+        "slug": "cactus-jellies-hybrid-100mg",
+        "category_name": "Edibles",
+        "body": "",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": false,
+        "picture_url": "https://images.weedmaps.com/pictures/users/000/667/952/429917332_Resized_20240116_142838_1705441779410.jpeg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/users/000/667/952/429917332_Resized_20240116_142838_1705441779410.jpeg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/users/000/667/952/429917332_Resized_20240116_142838_1705441779410.jpeg",
+        "is_badged": false,
+        "brand_name": null,
+        "cannabinoids": {},
+        "genetics": "hybrid",
+        "prices": {
+          "price_unit": 15,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2023-07-15T17:33:51Z",
+        "updated_at": "2024-03-17T04:13:58Z",
+        "parent_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "sub_category": {
+          "id": 22,
+          "name": "Gummies",
+          "slug": "gummies"
+        },
+        "measurements": [
+          {
+            "id": 1349919222,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "mg",
+            "value": "100.0"
+          }
+        ],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/cg-corrigan-3/menu/cactus-jellies-hybrid-100mg",
+        "order": "https://weedmaps.com/dispensaries/cg-corrigan-3/menu/cactus-jellies-hybrid-100mg"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 55748,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 3
+          },
+          "data": [
+            {
+              "id": 219,
+              "type": "category"
+            },
+            {
+              "id": 22,
+              "type": "category"
+            },
+            {
+              "id": 5,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 158236902,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 134450236,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Shake 2 Bake 100mg THC",
+        "slug": "shake-2-bake-100mg-thc",
+        "category_name": "Edibles",
+        "body": "",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": false,
+        "picture_url": "https://images.weedmaps.com/pictures/users/000/667/952/429917325_Resized_20240116_143212_1705441778939.jpeg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/users/000/667/952/429917325_Resized_20240116_143212_1705441778939.jpeg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/users/000/667/952/429917325_Resized_20240116_143212_1705441778939.jpeg",
+        "is_badged": false,
+        "brand_name": null,
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 12,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2023-07-15T17:41:40Z",
+        "updated_at": "2024-03-17T04:14:00Z",
+        "parent_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "sub_category": {
+          "id": 188,
+          "name": "Drinks",
+          "slug": "drinks"
+        },
+        "measurements": [
+          {
+            "id": 1349919516,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "mg",
+            "value": "100.0"
+          }
+        ],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/cg-corrigan-3/menu/shake-2-bake-100mg-thc",
+        "order": "https://weedmaps.com/dispensaries/cg-corrigan-3/menu/shake-2-bake-100mg-thc"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 55748,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 3
+          },
+          "data": [
+            {
+              "id": 188,
+              "type": "category"
+            },
+            {
+              "id": 33,
+              "type": "category"
+            },
+            {
+              "id": 5,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 158236902,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 139845749,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Chupacabra Breath",
+        "slug": "chupacabra-breath",
+        "category_name": "Flower",
+        "body": "<p></p><p>22.2% THC</p>",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": false,
+        "picture_url": "https://images.weedmaps.com/pictures/users/000/667/952/429917818_CB.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/users/000/667/952/429917818_CB.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/users/000/667/952/429917818_CB.jpg",
+        "is_badged": false,
+        "brand_name": null,
+        "cannabinoids": {
+          "thc": "22.2"
+        },
+        "genetics": "hybrid",
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 0,
+          "price_gram": 6,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2023-09-20T20:05:03Z",
+        "updated_at": "2024-01-16T22:41:33Z",
+        "parent_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "sub_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "measurements": [
+          {
+            "id": 1440013050,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "%",
+            "value": "22.2"
+          }
+        ],
+        "variants": [
+          {
+            "name": "1 gram",
+            "label": "1 g",
+            "price": {
+              "amount": "6.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 1,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 1000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/cg-corrigan-3/menu/chupacabra-breath",
+        "order": "https://weedmaps.com/dispensaries/cg-corrigan-3/menu/chupacabra-breath"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 55748,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 2,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 158236902,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 139846439,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Malibu",
+        "slug": "malibu",
+        "category_name": "Flower",
+        "body": "<p>26.8% THC</p>",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": false,
+        "picture_url": "https://images.weedmaps.com/categories/000/000/002/placeholder/1613661817-1613605719-flower_image_missing.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/categories/000/000/002/placeholder/1613661817-1613605719-flower_image_missing.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/categories/000/000/002/placeholder/1613661817-1613605719-flower_image_missing.jpg",
+        "is_badged": false,
+        "brand_name": "Seed Junky",
+        "cannabinoids": {
+          "thc": "26.8"
+        },
+        "genetics": "sativa",
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 35,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2023-09-20T20:09:40Z",
+        "updated_at": "2024-04-04T00:19:07Z",
+        "parent_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "sub_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "measurements": [
+          {
+            "id": 1440022749,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "%",
+            "value": "26.8"
+          }
+        ],
+        "variants": [
+          {
+            "name": "1/8 ounce",
+            "label": "1/8 oz",
+            "price": {
+              "amount": "35.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.125,
+              "unit": "oz"
+            },
+            "sku": null,
+            "compliance_net_mg": 3500,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/cg-corrigan-3/menu/malibu",
+        "order": "https://weedmaps.com/dispensaries/cg-corrigan-3/menu/malibu"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 55748,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 2,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 158236902,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 139846667,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Manzana Loco",
+        "slug": "manzana-loco",
+        "category_name": "Flower",
+        "body": "<p></p><p>19.2%</p>",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": false,
+        "picture_url": "https://images.weedmaps.com/pictures/users/000/667/952/429917793_ML.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/users/000/667/952/429917793_ML.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/users/000/667/952/429917793_ML.jpg",
+        "is_badged": false,
+        "brand_name": null,
+        "cannabinoids": {
+          "thc": "19.2"
+        },
+        "genetics": "hybrid",
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 0,
+          "price_gram": 6,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2023-09-20T20:10:28Z",
+        "updated_at": "2024-01-16T22:40:44Z",
+        "parent_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "sub_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "measurements": [
+          {
+            "id": 1440024472,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "%",
+            "value": "19.2"
+          }
+        ],
+        "variants": [
+          {
+            "name": "1 gram",
+            "label": "1 g",
+            "price": {
+              "amount": "6.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 1,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 1000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/cg-corrigan-3/menu/manzana-loco",
+        "order": "https://weedmaps.com/dispensaries/cg-corrigan-3/menu/manzana-loco"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 55748,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 2,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 158236902,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 139847757,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Purple Push Pop",
+        "slug": "purple-push-pop",
+        "category_name": "Flower",
+        "body": "<p>24.9%</p>",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": false,
+        "picture_url": "https://images.weedmaps.com/pictures/users/000/667/952/429917466_Resized_20240116_150952_1705443072799.jpeg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/users/000/667/952/429917466_Resized_20240116_150952_1705443072799.jpeg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/users/000/667/952/429917466_Resized_20240116_150952_1705443072799.jpeg",
+        "is_badged": false,
+        "brand_name": "Seed Junky",
+        "cannabinoids": {
+          "thc": "24.9"
+        },
+        "genetics": "hybrid",
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 35,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2023-09-20T20:12:58Z",
+        "updated_at": "2024-03-27T20:52:50Z",
+        "parent_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "sub_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "measurements": [
+          {
+            "id": 1440029504,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "%",
+            "value": "24.9"
+          }
+        ],
+        "variants": [
+          {
+            "name": "1/8 ounce",
+            "label": "1/8 oz",
+            "price": {
+              "amount": "35.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.125,
+              "unit": "oz"
+            },
+            "sku": null,
+            "compliance_net_mg": 3500,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/cg-corrigan-3/menu/purple-push-pop",
+        "order": "https://weedmaps.com/dispensaries/cg-corrigan-3/menu/purple-push-pop"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 55748,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 2,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 158236902,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 144698531,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Cake Batter",
+        "slug": "cake-batter",
+        "category_name": "Flower",
+        "body": "<p></p><p>28.4%</p>",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": false,
+        "picture_url": "https://images.weedmaps.com/categories/000/000/002/placeholder/1613661817-1613605719-flower_image_missing.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/categories/000/000/002/placeholder/1613661817-1613605719-flower_image_missing.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/categories/000/000/002/placeholder/1613661817-1613605719-flower_image_missing.jpg",
+        "is_badged": false,
+        "brand_name": "Seed Junky",
+        "cannabinoids": {
+          "thc": "28.4"
+        },
+        "genetics": "hybrid",
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 35,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2023-11-17T18:28:21Z",
+        "updated_at": "2024-04-07T20:44:49Z",
+        "parent_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "sub_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "measurements": [
+          {
+            "id": 1488103906,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "%",
+            "value": "28.4"
+          }
+        ],
+        "variants": [
+          {
+            "name": "1/8 ounce",
+            "label": "1/8 oz",
+            "price": {
+              "amount": "35.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.125,
+              "unit": "oz"
+            },
+            "sku": null,
+            "compliance_net_mg": 3500,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/cg-corrigan-3/menu/cake-batter",
+        "order": "https://weedmaps.com/dispensaries/cg-corrigan-3/menu/cake-batter"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 55748,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 2,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 158236902,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 144699976,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Enchanted Botanicals 3.5gs",
+        "slug": "all-sick-wolf-s-breath",
+        "category_name": "Flower",
+        "body": "",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": false,
+        "picture_url": "https://images.weedmaps.com/pictures/users/000/667/952/429917071_Screenshot_3.png",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/users/000/667/952/429917071_Screenshot_3.png",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/users/000/667/952/429917071_Screenshot_3.png",
+        "is_badged": false,
+        "brand_name": "Enchanted Botanicals",
+        "cannabinoids": {},
+        "genetics": "hybrid",
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 35,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2023-11-17T18:44:20Z",
+        "updated_at": "2024-04-04T00:11:41Z",
+        "parent_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "sub_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "measurements": [],
+        "variants": [
+          {
+            "name": "1/8 ounce",
+            "label": "1/8 oz",
+            "price": {
+              "amount": "35.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.125,
+              "unit": "oz"
+            },
+            "sku": null,
+            "compliance_net_mg": 3500,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/cg-corrigan-3/menu/all-sick-wolf-s-breath",
+        "order": "https://weedmaps.com/dispensaries/cg-corrigan-3/menu/all-sick-wolf-s-breath"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 55748,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 2,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 158236902,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 145799329,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Green Hornet - 100mg Gummies",
+        "slug": "green-hornet-100mg-gummies",
+        "category_name": "Edibles",
+        "body": "",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": false,
+        "picture_url": "https://images.weedmaps.com/pictures/users/000/667/952/429917097_Screenshot_2.png",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/users/000/667/952/429917097_Screenshot_2.png",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/users/000/667/952/429917097_Screenshot_2.png",
+        "is_badged": false,
+        "brand_name": "Green Hornet",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 16,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2023-12-03T22:48:33Z",
+        "updated_at": "2024-03-18T23:21:53Z",
+        "parent_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "sub_category": {
+          "id": 22,
+          "name": "Gummies",
+          "slug": "gummies"
+        },
+        "measurements": [
+          {
+            "id": 1489293378,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "mg",
+            "value": "100.0"
+          }
+        ],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/cg-corrigan-3/menu/green-hornet-100mg-gummies",
+        "order": "https://weedmaps.com/dispensaries/cg-corrigan-3/menu/green-hornet-100mg-gummies"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 55748,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 3
+          },
+          "data": [
+            {
+              "id": 219,
+              "type": "category"
+            },
+            {
+              "id": 22,
+              "type": "category"
+            },
+            {
+              "id": 5,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 158236902,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 145799348,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Coyote - 100mg Chocolates",
+        "slug": "coyote-100mg-chocolates",
+        "category_name": "Edibles",
+        "body": "",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": false,
+        "picture_url": "https://images.weedmaps.com/pictures/users/000/667/952/429917351_Resized_20240116_142047_1705441781151.jpeg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/users/000/667/952/429917351_Resized_20240116_142047_1705441781151.jpeg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/users/000/667/952/429917351_Resized_20240116_142047_1705441781151.jpeg",
+        "is_badged": false,
+        "brand_name": null,
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 14,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2023-12-03T22:49:23Z",
+        "updated_at": "2024-03-18T23:21:34Z",
+        "parent_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "sub_category": {
+          "id": 212,
+          "name": "Chocolates",
+          "slug": "chocolates"
+        },
+        "measurements": [
+          {
+            "id": 1489293387,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "mg",
+            "value": "100.0"
+          }
+        ],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/cg-corrigan-3/menu/coyote-100mg-chocolates",
+        "order": "https://weedmaps.com/dispensaries/cg-corrigan-3/menu/coyote-100mg-chocolates"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 55748,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 3
+          },
+          "data": [
+            {
+              "id": 212,
+              "type": "category"
+            },
+            {
+              "id": 219,
+              "type": "category"
+            },
+            {
+              "id": 5,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 158236902,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 149072762,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Wyld Gummies",
+        "slug": "wyld-gummies",
+        "category_name": "Edibles",
+        "body": "<p>Call for flavor availability. Available in Indica, Sativa, Hybrid</p>",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": false,
+        "picture_url": "https://images.weedmaps.com/pictures/users/000/667/952/429918020_20240116_155714.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/users/000/667/952/429918020_20240116_155714.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/users/000/667/952/429918020_20240116_155714.jpg",
+        "is_badged": false,
+        "brand_name": "WYLD",
+        "cannabinoids": {},
+        "genetics": "sativa",
+        "prices": {
+          "price_unit": 18,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2024-01-16T23:01:08Z",
+        "updated_at": "2024-03-19T15:02:13Z",
+        "parent_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "sub_category": {
+          "id": 22,
+          "name": "Gummies",
+          "slug": "gummies"
+        },
+        "measurements": [
+          {
+            "id": 1492961659,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "mg",
+            "value": "100.0"
+          }
+        ],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/cg-corrigan-3/menu/wyld-gummies",
+        "order": "https://weedmaps.com/dispensaries/cg-corrigan-3/menu/wyld-gummies"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 55748,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 3
+          },
+          "data": [
+            {
+              "id": 219,
+              "type": "category"
+            },
+            {
+              "id": 22,
+              "type": "category"
+            },
+            {
+              "id": 5,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 158236902,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 149075150,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Wyld Gummies",
+        "slug": "wyld-gummies-3c195bd9-a0d7-425e-91fa-8e6df2a4a27a",
+        "category_name": "Edibles",
+        "body": "<p>Enhanced (CBD, CBG, CBN, CBC)</p>",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": false,
+        "picture_url": "https://images.weedmaps.com/pictures/users/000/667/952/429918093_20240116_155844.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/users/000/667/952/429918093_20240116_155844.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/users/000/667/952/429918093_20240116_155844.jpg",
+        "is_badged": false,
+        "brand_name": "WYLD",
+        "cannabinoids": {},
+        "genetics": "hybrid",
+        "prices": {
+          "price_unit": 20,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2024-01-16T23:07:54Z",
+        "updated_at": "2024-03-19T15:05:06Z",
+        "parent_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "sub_category": {
+          "id": 22,
+          "name": "Gummies",
+          "slug": "gummies"
+        },
+        "measurements": [
+          {
+            "id": 1492963538,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "mg",
+            "value": "10.0"
+          },
+          {
+            "id": 1492963537,
+            "classification": "cannabinoid",
+            "full_name": "Cannabidiol",
+            "name": "CBD",
+            "unit": "mg",
+            "value": "20.0"
+          }
+        ],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/cg-corrigan-3/menu/wyld-gummies-3c195bd9-a0d7-425e-91fa-8e6df2a4a27a",
+        "order": "https://weedmaps.com/dispensaries/cg-corrigan-3/menu/wyld-gummies-3c195bd9-a0d7-425e-91fa-8e6df2a4a27a"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 55748,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 3
+          },
+          "data": [
+            {
+              "id": 219,
+              "type": "category"
+            },
+            {
+              "id": 22,
+              "type": "category"
+            },
+            {
+              "id": 5,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 158236902,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 149081887,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Ripple Powder",
+        "slug": "ripple-powder",
+        "category_name": "Edibles",
+        "body": "<p>Ask for flavor</p>",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": false,
+        "picture_url": "https://images.weedmaps.com/pictures/users/000/667/952/429919300_Screenshot_1.png",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/users/000/667/952/429919300_Screenshot_1.png",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/users/000/667/952/429919300_Screenshot_1.png",
+        "is_badged": false,
+        "brand_name": null,
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 16,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2024-01-17T01:07:26Z",
+        "updated_at": "2024-01-17T01:07:26Z",
+        "parent_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "sub_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "measurements": [],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/cg-corrigan-3/menu/ripple-powder",
+        "order": "https://weedmaps.com/dispensaries/cg-corrigan-3/menu/ripple-powder"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 55748,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 5,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 158236902,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 149081962,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Elevated Tinctures",
+        "slug": "elevated-tinctures",
+        "category_name": "Edibles",
+        "body": "",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": false,
+        "picture_url": "https://images.weedmaps.com/pictures/users/000/667/952/429919321_20240116_145926.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/users/000/667/952/429919321_20240116_145926.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/users/000/667/952/429919321_20240116_145926.jpg",
+        "is_badged": false,
+        "brand_name": null,
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 15,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2024-01-17T01:08:58Z",
+        "updated_at": "2024-04-14T17:14:50Z",
+        "parent_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "sub_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "measurements": [
+          {
+            "id": 1492969872,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "mg",
+            "value": "100.0"
+          }
+        ],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/cg-corrigan-3/menu/elevated-tinctures",
+        "order": "https://weedmaps.com/dispensaries/cg-corrigan-3/menu/elevated-tinctures"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 55748,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 5,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 158236902,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 153968975,
+      "type": "menu_item",
+      "attributes": {
+        "name": "La Llorona",
+        "slug": "la-llorona",
+        "category_name": "Flower",
+        "body": "<p>23.7%</p>",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": false,
+        "picture_url": "https://images.weedmaps.com/categories/000/000/002/placeholder/1613661817-1613605719-flower_image_missing.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/categories/000/000/002/placeholder/1613661817-1613605719-flower_image_missing.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/categories/000/000/002/placeholder/1613661817-1613605719-flower_image_missing.jpg",
+        "is_badged": false,
+        "brand_name": null,
+        "cannabinoids": {
+          "thc": "23.7"
+        },
+        "genetics": "hybrid",
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 0,
+          "price_gram": 6,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2024-03-27T20:51:12Z",
+        "updated_at": "2024-03-27T20:51:12Z",
+        "parent_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "sub_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "measurements": [
+          {
+            "id": 1498231394,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "%",
+            "value": "23.7"
+          }
+        ],
+        "variants": [
+          {
+            "name": "1 gram",
+            "label": "1 g",
+            "price": {
+              "amount": "6.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 1,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 1000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/cg-corrigan-3/menu/la-llorona",
+        "order": "https://weedmaps.com/dispensaries/cg-corrigan-3/menu/la-llorona"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 55748,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 2,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 158236902,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 154912623,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Seed Junky Strain Specific PreRolls",
+        "slug": "seed-junky-strain-specific-pre-rolls",
+        "category_name": "Flower",
+        "body": "<p></p><p>Call or come in for availability </p>",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": false,
+        "picture_url": "https://images.weedmaps.com/categories/000/000/002/placeholder/1613661817-1613605719-flower_image_missing.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/categories/000/000/002/placeholder/1613661817-1613605719-flower_image_missing.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/categories/000/000/002/placeholder/1613661817-1613605719-flower_image_missing.jpg",
+        "is_badged": false,
+        "brand_name": "Seed Junky",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 0,
+          "price_gram": 8,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2024-04-07T20:46:28Z",
+        "updated_at": "2024-04-07T20:53:53Z",
+        "parent_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "sub_category": {
+          "id": 185,
+          "name": "Pre Roll",
+          "slug": "pre-roll"
+        },
+        "measurements": [],
+        "variants": [
+          {
+            "name": "1 gram",
+            "label": "1 g",
+            "price": {
+              "amount": "8.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 1,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 1000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/cg-corrigan-3/menu/seed-junky-strain-specific-pre-rolls",
+        "order": "https://weedmaps.com/dispensaries/cg-corrigan-3/menu/seed-junky-strain-specific-pre-rolls"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 55748,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 2
+          },
+          "data": [
+            {
+              "id": 185,
+              "type": "category"
+            },
+            {
+              "id": 2,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 158236902,
+            "type": "listing"
+          }
+        }
+      }
+    }
+  ]
+}

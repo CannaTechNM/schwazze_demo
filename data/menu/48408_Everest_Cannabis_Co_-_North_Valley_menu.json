@@ -1,0 +1,4347 @@
+{
+  "meta": {
+    "page": 1,
+    "per_page": 100,
+    "total": 36
+  },
+  "data": [
+    {
+      "id": 8322913,
+      "type": "menu_item",
+      "attributes": {
+        "name": "B4",
+        "slug": "b4",
+        "category_name": "Flower",
+        "body": "",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": false,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/467/737/417/303196039_1641933459-1638474943-8308aa74-4db3-4d84-92e7-47d93b658a5a.png",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/467/737/417/303196039_1641933459-1638474943-8308aa74-4db3-4d84-92e7-47d93b658a5a.png",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/467/737/417/303196039_1641933459-1638474943-8308aa74-4db3-4d84-92e7-47d93b658a5a.png",
+        "is_badged": null,
+        "brand_name": "Everest Cannabis Co",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 35,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2016-12-23T14:18:07Z",
+        "updated_at": "2023-02-23T00:54:58Z",
+        "parent_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "sub_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "measurements": [],
+        "variants": [
+          {
+            "name": "1/8 ounce",
+            "label": "1/8 oz",
+            "price": {
+              "amount": "35.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.125,
+              "unit": "oz"
+            },
+            "sku": null,
+            "compliance_net_mg": 3500,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/everest-apothecary/menu/b4",
+        "order": "https://weedmaps.com/dispensaries/everest-apothecary/menu/b4"
+      },
+      "relationships": {
+        "brand": {
+          "data": {
+            "id": 18309,
+            "type": "brand"
+          }
+        },
+        "listing": {
+          "data": {
+            "id": 48408,
+            "type": "dispensary"
+          }
+        },
+        "product": {
+          "data": {
+            "id": 327715,
+            "type": "product"
+          }
+        },
+        "strain": {
+          "data": {
+            "id": 1449,
+            "type": "strain"
+          }
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 2,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 467737417,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 16600843,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Arise",
+        "slug": "arise",
+        "category_name": "Flower",
+        "body": "",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": false,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/467/737/417/15705028_IMG_20180717_174347.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/467/737/417/15705028_IMG_20180717_174347.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/467/737/417/15705028_IMG_20180717_174347.jpg",
+        "is_badged": null,
+        "brand_name": "Everest Cannabis Co",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 0,
+          "price_gram": 7,
+          "price_two_grams": 15,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2018-10-03T16:26:15Z",
+        "updated_at": "2023-02-23T01:07:00Z",
+        "parent_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "sub_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "measurements": [],
+        "variants": [
+          {
+            "name": "1 gram",
+            "label": "1 g",
+            "price": {
+              "amount": "7.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 1,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 1000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          },
+          {
+            "name": "2 grams",
+            "label": "2 g",
+            "price": {
+              "amount": "15.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 2,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 2000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/everest-apothecary/menu/arise",
+        "order": "https://weedmaps.com/dispensaries/everest-apothecary/menu/arise"
+      },
+      "relationships": {
+        "brand": {
+          "data": {
+            "id": 18309,
+            "type": "brand"
+          }
+        },
+        "listing": {
+          "data": {
+            "id": 48408,
+            "type": "dispensary"
+          }
+        },
+        "product": {
+          "data": {
+            "id": 327714,
+            "type": "product"
+          }
+        },
+        "strain": {
+          "data": {
+            "id": 4166,
+            "type": "strain"
+          }
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 2,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 467737417,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 86877815,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Amnesia",
+        "slug": "amnesia",
+        "category_name": "Flower",
+        "body": "",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": false,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/467/737/417/303192930_1641933452-1638474939-83657e86-8fbf-4d7d-bb89-106b63d7cacd.png",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/467/737/417/303192930_1641933452-1638474939-83657e86-8fbf-4d7d-bb89-106b63d7cacd.png",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/467/737/417/303192930_1641933452-1638474939-83657e86-8fbf-4d7d-bb89-106b63d7cacd.png",
+        "is_badged": null,
+        "brand_name": "Everest Cannabis Co",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 35,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2022-01-19T22:24:58Z",
+        "updated_at": "2023-02-23T01:25:46Z",
+        "parent_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "sub_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "measurements": [],
+        "variants": [
+          {
+            "name": "1/8 ounce",
+            "label": "1/8 oz",
+            "price": {
+              "amount": "35.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.125,
+              "unit": "oz"
+            },
+            "sku": null,
+            "compliance_net_mg": 3500,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/everest-apothecary/menu/amnesia",
+        "order": "https://weedmaps.com/dispensaries/everest-apothecary/menu/amnesia"
+      },
+      "relationships": {
+        "brand": {
+          "data": {
+            "id": 18309,
+            "type": "brand"
+          }
+        },
+        "listing": {
+          "data": {
+            "id": 48408,
+            "type": "dispensary"
+          }
+        },
+        "product": {
+          "data": {
+            "id": 327713,
+            "type": "product"
+          }
+        },
+        "strain": {
+          "data": {
+            "id": 15,
+            "type": "strain"
+          }
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 2,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 467737417,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 86878825,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Arise Preroll [.5g]",
+        "slug": "arise-preroll-5g",
+        "category_name": "Flower",
+        "body": "",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": false,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/467/737/417/303195024_1641933412-1638474979-af588b07-9863-4ca4-8db5-cbdf6ff6b859.png",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/467/737/417/303195024_1641933412-1638474979-af588b07-9863-4ca4-8db5-cbdf6ff6b859.png",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/467/737/417/303195024_1641933412-1638474979-af588b07-9863-4ca4-8db5-cbdf6ff6b859.png",
+        "is_badged": null,
+        "brand_name": "Everest Cannabis Co",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 7,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2022-01-19T22:31:04Z",
+        "updated_at": "2023-02-23T01:25:47Z",
+        "parent_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "sub_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "measurements": [],
+        "variants": [
+          {
+            "name": "1/2 gram",
+            "label": "1/2 g",
+            "price": {
+              "amount": "7.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.5,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 500,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/everest-apothecary/menu/arise-preroll-5g",
+        "order": "https://weedmaps.com/dispensaries/everest-apothecary/menu/arise-preroll-5g"
+      },
+      "relationships": {
+        "brand": {
+          "data": {
+            "id": 18309,
+            "type": "brand"
+          }
+        },
+        "listing": {
+          "data": {
+            "id": 48408,
+            "type": "dispensary"
+          }
+        },
+        "product": {
+          "data": {
+            "id": 327727,
+            "type": "product"
+          }
+        },
+        "strain": {
+          "data": {
+            "id": 4166,
+            "type": "strain"
+          }
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 2,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 467737417,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 86878855,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Azuca Lime Syrup",
+        "slug": "azuca-lime-syrup",
+        "category_name": "Edibles",
+        "body": "",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": false,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/467/737/417/303195081_1641933360-1638474928-7d4ce53a-5170-45a8-883a-d8de6e0a4b4d.png",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/467/737/417/303195081_1641933360-1638474928-7d4ce53a-5170-45a8-883a-d8de6e0a4b4d.png",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/467/737/417/303195081_1641933360-1638474928-7d4ce53a-5170-45a8-883a-d8de6e0a4b4d.png",
+        "is_badged": null,
+        "brand_name": "Everest Cannabis Co",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 25,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2022-01-19T22:31:51Z",
+        "updated_at": "2023-07-27T01:21:43Z",
+        "parent_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "sub_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "measurements": [],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/everest-apothecary/menu/azuca-lime-syrup",
+        "order": "https://weedmaps.com/dispensaries/everest-apothecary/menu/azuca-lime-syrup"
+      },
+      "relationships": {
+        "brand": {
+          "data": {
+            "id": 18309,
+            "type": "brand"
+          }
+        },
+        "listing": {
+          "data": {
+            "id": 48408,
+            "type": "dispensary"
+          }
+        },
+        "product": {
+          "data": {
+            "id": 327707,
+            "type": "product"
+          }
+        },
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 5,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 467737417,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 86878944,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Azuca Pomegranate",
+        "slug": "azuca-pomegranate",
+        "category_name": "Edibles",
+        "body": "",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": false,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/467/737/417/303195379_1641933409-1638474930-abed5406-8198-4d79-a3cf-fee6d63b348f.png",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/467/737/417/303195379_1641933409-1638474930-abed5406-8198-4d79-a3cf-fee6d63b348f.png",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/467/737/417/303195379_1641933409-1638474930-abed5406-8198-4d79-a3cf-fee6d63b348f.png",
+        "is_badged": null,
+        "brand_name": "Everest Cannabis Co",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 25,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2022-01-19T22:32:24Z",
+        "updated_at": "2023-07-27T01:21:43Z",
+        "parent_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "sub_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "measurements": [],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/everest-apothecary/menu/azuca-pomegranate",
+        "order": "https://weedmaps.com/dispensaries/everest-apothecary/menu/azuca-pomegranate"
+      },
+      "relationships": {
+        "brand": {
+          "data": {
+            "id": 18309,
+            "type": "brand"
+          }
+        },
+        "listing": {
+          "data": {
+            "id": 48408,
+            "type": "dispensary"
+          }
+        },
+        "product": {
+          "data": {
+            "id": 327708,
+            "type": "product"
+          }
+        },
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 5,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 467737417,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 86878980,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Azuca Simple Syrup",
+        "slug": "azuca-simple-syrup",
+        "category_name": "Edibles",
+        "body": "",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": false,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/467/737/417/303195460_1641933440-1638474932-f95eeb56-59b2-408b-8269-b523ba2199cc.png",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/467/737/417/303195460_1641933440-1638474932-f95eeb56-59b2-408b-8269-b523ba2199cc.png",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/467/737/417/303195460_1641933440-1638474932-f95eeb56-59b2-408b-8269-b523ba2199cc.png",
+        "is_badged": null,
+        "brand_name": "Everest Cannabis Co",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 25,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2022-01-19T22:32:53Z",
+        "updated_at": "2023-07-27T01:21:43Z",
+        "parent_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "sub_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "measurements": [],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/everest-apothecary/menu/azuca-simple-syrup",
+        "order": "https://weedmaps.com/dispensaries/everest-apothecary/menu/azuca-simple-syrup"
+      },
+      "relationships": {
+        "brand": {
+          "data": {
+            "id": 18309,
+            "type": "brand"
+          }
+        },
+        "listing": {
+          "data": {
+            "id": 48408,
+            "type": "dispensary"
+          }
+        },
+        "product": {
+          "data": {
+            "id": 327709,
+            "type": "product"
+          }
+        },
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 5,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 467737417,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 86879083,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Azuca Spiced Pear Syrup",
+        "slug": "azuca-spiced-pear-syrup",
+        "category_name": "Edibles",
+        "body": "",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": false,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/467/737/417/303195605_1641933444-1638474934-f4158ddf-0b1b-4f93-b9bd-3cf59e9b6751.png",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/467/737/417/303195605_1641933444-1638474934-f4158ddf-0b1b-4f93-b9bd-3cf59e9b6751.png",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/467/737/417/303195605_1641933444-1638474934-f4158ddf-0b1b-4f93-b9bd-3cf59e9b6751.png",
+        "is_badged": null,
+        "brand_name": "Everest Cannabis Co",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 25,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2022-01-19T22:33:25Z",
+        "updated_at": "2023-07-27T01:21:44Z",
+        "parent_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "sub_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "measurements": [],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/everest-apothecary/menu/azuca-spiced-pear-syrup",
+        "order": "https://weedmaps.com/dispensaries/everest-apothecary/menu/azuca-spiced-pear-syrup"
+      },
+      "relationships": {
+        "brand": {
+          "data": {
+            "id": 18309,
+            "type": "brand"
+          }
+        },
+        "listing": {
+          "data": {
+            "id": 48408,
+            "type": "dispensary"
+          }
+        },
+        "product": {
+          "data": {
+            "id": 327710,
+            "type": "product"
+          }
+        },
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 5,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 467737417,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 86879477,
+      "type": "menu_item",
+      "attributes": {
+        "name": "B4 Preroll [.5g]",
+        "slug": "b4-preroll-5g",
+        "category_name": "Flower",
+        "body": "",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": false,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/467/737/417/303196263_1641933416-1638474984-af588b07-9863-4ca4-8db5-cbdf6ff6b859.png",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/467/737/417/303196263_1641933416-1638474984-af588b07-9863-4ca4-8db5-cbdf6ff6b859.png",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/467/737/417/303196263_1641933416-1638474984-af588b07-9863-4ca4-8db5-cbdf6ff6b859.png",
+        "is_badged": null,
+        "brand_name": "Everest Cannabis Co",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 7.5,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2022-01-19T22:35:29Z",
+        "updated_at": "2023-02-23T01:25:48Z",
+        "parent_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "sub_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "measurements": [],
+        "variants": [
+          {
+            "name": "1/2 gram",
+            "label": "1/2 g",
+            "price": {
+              "amount": "7.50",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.5,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 500,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/everest-apothecary/menu/b4-preroll-5g",
+        "order": "https://weedmaps.com/dispensaries/everest-apothecary/menu/b4-preroll-5g"
+      },
+      "relationships": {
+        "brand": {
+          "data": {
+            "id": 18309,
+            "type": "brand"
+          }
+        },
+        "listing": {
+          "data": {
+            "id": 48408,
+            "type": "dispensary"
+          }
+        },
+        "product": {
+          "data": {
+            "id": 327728,
+            "type": "product"
+          }
+        },
+        "strain": {
+          "data": {
+            "id": 1449,
+            "type": "strain"
+          }
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 2,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 467737417,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 86879535,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Bubble Trouble",
+        "slug": "bubble-trouble",
+        "category_name": "Flower",
+        "body": "",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": false,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/467/737/417/303196555_1641933463-1638474945-7d240048-9548-4b62-bf0a-c47a002c7317.png",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/467/737/417/303196555_1641933463-1638474945-7d240048-9548-4b62-bf0a-c47a002c7317.png",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/467/737/417/303196555_1641933463-1638474945-7d240048-9548-4b62-bf0a-c47a002c7317.png",
+        "is_badged": null,
+        "brand_name": "Everest Cannabis Co",
+        "cannabinoids": {
+          "cbd": "0.1",
+          "thc": "25.9"
+        },
+        "genetics": null,
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 42,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2022-01-19T22:36:20Z",
+        "updated_at": "2023-02-23T01:25:48Z",
+        "parent_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "sub_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "measurements": [
+          {
+            "id": 140064395,
+            "classification": "cannabinoid",
+            "full_name": "Cannabidiol",
+            "name": "CBD",
+            "unit": "%",
+            "value": "0.1"
+          },
+          {
+            "id": 140064394,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "%",
+            "value": "25.9"
+          }
+        ],
+        "variants": [
+          {
+            "name": "1/8 ounce",
+            "label": "1/8 oz",
+            "price": {
+              "amount": "42.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.125,
+              "unit": "oz"
+            },
+            "sku": null,
+            "compliance_net_mg": 3500,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/everest-apothecary/menu/bubble-trouble",
+        "order": "https://weedmaps.com/dispensaries/everest-apothecary/menu/bubble-trouble"
+      },
+      "relationships": {
+        "brand": {
+          "data": {
+            "id": 18309,
+            "type": "brand"
+          }
+        },
+        "listing": {
+          "data": {
+            "id": 48408,
+            "type": "dispensary"
+          }
+        },
+        "product": {
+          "data": {
+            "id": 327716,
+            "type": "product"
+          }
+        },
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 2,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 467737417,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 86879957,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Critical Kush Preroll [.5g]",
+        "slug": "critical-kush-preroll-5g",
+        "category_name": "Flower",
+        "body": "",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": false,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/467/737/417/303197399_1641933419-1638474988-0d104a27-89a7-47b4-b8ff-df7fe29b306d.png",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/467/737/417/303197399_1641933419-1638474988-0d104a27-89a7-47b4-b8ff-df7fe29b306d.png",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/467/737/417/303197399_1641933419-1638474988-0d104a27-89a7-47b4-b8ff-df7fe29b306d.png",
+        "is_badged": null,
+        "brand_name": "Everest Cannabis Co",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 7.5,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2022-01-19T22:38:38Z",
+        "updated_at": "2023-02-23T01:25:49Z",
+        "parent_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "sub_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "measurements": [],
+        "variants": [
+          {
+            "name": "1/2 gram",
+            "label": "1/2 g",
+            "price": {
+              "amount": "7.50",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.5,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 500,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/everest-apothecary/menu/critical-kush-preroll-5g",
+        "order": "https://weedmaps.com/dispensaries/everest-apothecary/menu/critical-kush-preroll-5g"
+      },
+      "relationships": {
+        "brand": {
+          "data": {
+            "id": 18309,
+            "type": "brand"
+          }
+        },
+        "listing": {
+          "data": {
+            "id": 48408,
+            "type": "dispensary"
+          }
+        },
+        "product": {
+          "data": {
+            "id": 327729,
+            "type": "product"
+          }
+        },
+        "strain": {
+          "data": {
+            "id": 668,
+            "type": "strain"
+          }
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 2,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 467737417,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 86880044,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Everest 150mg Capsules",
+        "slug": "everest-150mg-capsules",
+        "category_name": "Edibles",
+        "body": "",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": false,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/467/737/417/303197594_1641933553-150mg_capsules.png",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/467/737/417/303197594_1641933553-150mg_capsules.png",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/467/737/417/303197594_1641933553-150mg_capsules.png",
+        "is_badged": null,
+        "brand_name": "Everest Cannabis Co",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 18,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2022-01-19T22:39:34Z",
+        "updated_at": "2023-07-27T01:31:20Z",
+        "parent_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "sub_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "measurements": [],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/everest-apothecary/menu/everest-150mg-capsules",
+        "order": "https://weedmaps.com/dispensaries/everest-apothecary/menu/everest-150mg-capsules"
+      },
+      "relationships": {
+        "brand": {
+          "data": {
+            "id": 18309,
+            "type": "brand"
+          }
+        },
+        "listing": {
+          "data": {
+            "id": 48408,
+            "type": "dispensary"
+          }
+        },
+        "product": {
+          "data": {
+            "id": 338692,
+            "type": "product"
+          }
+        },
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 5,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 467737417,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 86880061,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Everest 300mg Capsules",
+        "slug": "everest-300mg-capsules",
+        "category_name": "Edibles",
+        "body": "",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": false,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/467/737/417/303197651_1641933557-300mg_capsules.png",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/467/737/417/303197651_1641933557-300mg_capsules.png",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/467/737/417/303197651_1641933557-300mg_capsules.png",
+        "is_badged": null,
+        "brand_name": "Everest Cannabis Co",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 30,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2022-01-19T22:40:02Z",
+        "updated_at": "2023-07-27T01:31:20Z",
+        "parent_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "sub_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "measurements": [],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/everest-apothecary/menu/everest-300mg-capsules",
+        "order": "https://weedmaps.com/dispensaries/everest-apothecary/menu/everest-300mg-capsules"
+      },
+      "relationships": {
+        "brand": {
+          "data": {
+            "id": 18309,
+            "type": "brand"
+          }
+        },
+        "listing": {
+          "data": {
+            "id": 48408,
+            "type": "dispensary"
+          }
+        },
+        "product": {
+          "data": {
+            "id": 338693,
+            "type": "product"
+          }
+        },
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 5,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 467737417,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 86880121,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Everest 4:1 True Relief Capsules",
+        "slug": "everest-4-1-true-relief-capsules",
+        "category_name": "Edibles",
+        "body": "",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": false,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/467/737/417/303197929_1641933565-4-1_true_relief_capsules.png",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/467/737/417/303197929_1641933565-4-1_true_relief_capsules.png",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/467/737/417/303197929_1641933565-4-1_true_relief_capsules.png",
+        "is_badged": null,
+        "brand_name": "Everest Cannabis Co",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 18,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2022-01-19T22:40:32Z",
+        "updated_at": "2023-07-27T01:31:20Z",
+        "parent_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "sub_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "measurements": [],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/everest-apothecary/menu/everest-4-1-true-relief-capsules",
+        "order": "https://weedmaps.com/dispensaries/everest-apothecary/menu/everest-4-1-true-relief-capsules"
+      },
+      "relationships": {
+        "brand": {
+          "data": {
+            "id": 18309,
+            "type": "brand"
+          }
+        },
+        "listing": {
+          "data": {
+            "id": 48408,
+            "type": "dispensary"
+          }
+        },
+        "product": {
+          "data": {
+            "id": 338695,
+            "type": "product"
+          }
+        },
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 5,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 467737417,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 86880327,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Everest Chewy Ginger Cookie (50mg)",
+        "slug": "everest-chewy-ginger-cookie-50mg",
+        "category_name": "Edibles",
+        "body": "",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": false,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/467/737/417/303198301_1641933569-chewy_ginger_cookie.png",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/467/737/417/303198301_1641933569-chewy_ginger_cookie.png",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/467/737/417/303198301_1641933569-chewy_ginger_cookie.png",
+        "is_badged": null,
+        "brand_name": "Everest Cannabis Co",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 6,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2022-01-19T22:43:14Z",
+        "updated_at": "2023-02-23T01:25:50Z",
+        "parent_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "sub_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "measurements": [],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/everest-apothecary/menu/everest-chewy-ginger-cookie-50mg",
+        "order": "https://weedmaps.com/dispensaries/everest-apothecary/menu/everest-chewy-ginger-cookie-50mg"
+      },
+      "relationships": {
+        "brand": {
+          "data": {
+            "id": 18309,
+            "type": "brand"
+          }
+        },
+        "listing": {
+          "data": {
+            "id": 48408,
+            "type": "dispensary"
+          }
+        },
+        "product": {
+          "data": {
+            "id": 338696,
+            "type": "product"
+          }
+        },
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 5,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 467737417,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 86880631,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Everest Dream Tincture",
+        "slug": "everest-dream-tincture",
+        "category_name": "Edibles",
+        "body": "",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": false,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/467/737/417/303198945_1641933577-tincture_dream_menu.png",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/467/737/417/303198945_1641933577-tincture_dream_menu.png",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/467/737/417/303198945_1641933577-tincture_dream_menu.png",
+        "is_badged": null,
+        "brand_name": "Everest Cannabis Co",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 30,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2022-01-19T22:45:27Z",
+        "updated_at": "2023-07-27T01:31:20Z",
+        "parent_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "sub_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "measurements": [],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/everest-apothecary/menu/everest-dream-tincture",
+        "order": "https://weedmaps.com/dispensaries/everest-apothecary/menu/everest-dream-tincture"
+      },
+      "relationships": {
+        "brand": {
+          "data": {
+            "id": 18309,
+            "type": "brand"
+          }
+        },
+        "listing": {
+          "data": {
+            "id": 48408,
+            "type": "dispensary"
+          }
+        },
+        "product": {
+          "data": {
+            "id": 338697,
+            "type": "product"
+          }
+        },
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 5,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 467737417,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 86880723,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Everest Elevate Tincture",
+        "slug": "everest-elevate-tincture",
+        "category_name": "Edibles",
+        "body": "",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": false,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/467/737/417/303199184_1641933585-tincture_elevate_menu.png",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/467/737/417/303199184_1641933585-tincture_elevate_menu.png",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/467/737/417/303199184_1641933585-tincture_elevate_menu.png",
+        "is_badged": null,
+        "brand_name": "Everest Cannabis Co",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 30,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2022-01-19T22:46:34Z",
+        "updated_at": "2023-07-27T01:31:31Z",
+        "parent_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "sub_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "measurements": [],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/everest-apothecary/menu/everest-elevate-tincture",
+        "order": "https://weedmaps.com/dispensaries/everest-apothecary/menu/everest-elevate-tincture"
+      },
+      "relationships": {
+        "brand": {
+          "data": {
+            "id": 18309,
+            "type": "brand"
+          }
+        },
+        "listing": {
+          "data": {
+            "id": 48408,
+            "type": "dispensary"
+          }
+        },
+        "product": {
+          "data": {
+            "id": 338698,
+            "type": "product"
+          }
+        },
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 5,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 467737417,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 86880758,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Girl Scout Cookies Cured Resin",
+        "slug": "girl-scout-cookies-cured-resin",
+        "category_name": "Concentrates",
+        "body": "",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": false,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/467/737/417/303199250_1641933470-hoodoo_hybrid.png",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/467/737/417/303199250_1641933470-hoodoo_hybrid.png",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/467/737/417/303199250_1641933470-hoodoo_hybrid.png",
+        "is_badged": null,
+        "brand_name": "Everest Cannabis Co",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 37,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2022-01-19T22:47:13Z",
+        "updated_at": "2023-02-23T01:25:50Z",
+        "parent_category": {
+          "id": 3,
+          "name": "Concentrates",
+          "slug": "concentrates"
+        },
+        "sub_category": {
+          "id": 3,
+          "name": "Concentrates",
+          "slug": "concentrates"
+        },
+        "measurements": [],
+        "variants": [
+          {
+            "name": "1/2 gram",
+            "label": "1/2 g",
+            "price": {
+              "amount": "37.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.5,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 500,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/everest-apothecary/menu/girl-scout-cookies-cured-resin",
+        "order": "https://weedmaps.com/dispensaries/everest-apothecary/menu/girl-scout-cookies-cured-resin"
+      },
+      "relationships": {
+        "brand": {
+          "data": {
+            "id": 18309,
+            "type": "brand"
+          }
+        },
+        "listing": {
+          "data": {
+            "id": 48408,
+            "type": "dispensary"
+          }
+        },
+        "product": {
+          "data": {
+            "id": 338673,
+            "type": "product"
+          }
+        },
+        "strain": {
+          "data": {
+            "id": 102,
+            "type": "strain"
+          }
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 3,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 467737417,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 86880770,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Heyday Arise",
+        "slug": "heyday-arise",
+        "category_name": "Concentrates",
+        "body": "",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": false,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/467/737/417/303199268_1641933476-arise.png",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/467/737/417/303199268_1641933476-arise.png",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/467/737/417/303199268_1641933476-arise.png",
+        "is_badged": null,
+        "brand_name": "Everest Cannabis Co",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 40,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2022-01-19T22:47:49Z",
+        "updated_at": "2023-02-23T01:25:50Z",
+        "parent_category": {
+          "id": 3,
+          "name": "Concentrates",
+          "slug": "concentrates"
+        },
+        "sub_category": {
+          "id": 3,
+          "name": "Concentrates",
+          "slug": "concentrates"
+        },
+        "measurements": [],
+        "variants": [
+          {
+            "name": "1/2 gram",
+            "label": "1/2 g",
+            "price": {
+              "amount": "40.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.5,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 500,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/everest-apothecary/menu/heyday-arise",
+        "order": "https://weedmaps.com/dispensaries/everest-apothecary/menu/heyday-arise"
+      },
+      "relationships": {
+        "brand": {
+          "data": {
+            "id": 18309,
+            "type": "brand"
+          }
+        },
+        "listing": {
+          "data": {
+            "id": 48408,
+            "type": "dispensary"
+          }
+        },
+        "product": {
+          "data": {
+            "id": 338675,
+            "type": "product"
+          }
+        },
+        "strain": {
+          "data": {
+            "id": 4166,
+            "type": "strain"
+          }
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 3,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 467737417,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 86880930,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Heyday B4",
+        "slug": "heyday-b4",
+        "category_name": "Concentrates",
+        "body": "",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": false,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/467/737/417/303199547_1641933479-b4.png",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/467/737/417/303199547_1641933479-b4.png",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/467/737/417/303199547_1641933479-b4.png",
+        "is_badged": null,
+        "brand_name": "Everest Cannabis Co",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 40,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2022-01-19T22:49:03Z",
+        "updated_at": "2023-02-23T01:25:51Z",
+        "parent_category": {
+          "id": 3,
+          "name": "Concentrates",
+          "slug": "concentrates"
+        },
+        "sub_category": {
+          "id": 3,
+          "name": "Concentrates",
+          "slug": "concentrates"
+        },
+        "measurements": [],
+        "variants": [
+          {
+            "name": "1/2 gram",
+            "label": "1/2 g",
+            "price": {
+              "amount": "40.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.5,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 500,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/everest-apothecary/menu/heyday-b4",
+        "order": "https://weedmaps.com/dispensaries/everest-apothecary/menu/heyday-b4"
+      },
+      "relationships": {
+        "brand": {
+          "data": {
+            "id": 18309,
+            "type": "brand"
+          }
+        },
+        "listing": {
+          "data": {
+            "id": 48408,
+            "type": "dispensary"
+          }
+        },
+        "product": {
+          "data": {
+            "id": 338676,
+            "type": "product"
+          }
+        },
+        "strain": {
+          "data": {
+            "id": 1449,
+            "type": "strain"
+          }
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 3,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 467737417,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 86881112,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Heyday Candyland",
+        "slug": "heyday-candyland",
+        "category_name": "Concentrates",
+        "body": "",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": false,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/467/737/417/303199735_1641933486-candyland.png",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/467/737/417/303199735_1641933486-candyland.png",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/467/737/417/303199735_1641933486-candyland.png",
+        "is_badged": null,
+        "brand_name": "Everest Cannabis Co",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 40,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2022-01-19T22:50:05Z",
+        "updated_at": "2023-02-23T01:25:51Z",
+        "parent_category": {
+          "id": 3,
+          "name": "Concentrates",
+          "slug": "concentrates"
+        },
+        "sub_category": {
+          "id": 3,
+          "name": "Concentrates",
+          "slug": "concentrates"
+        },
+        "measurements": [],
+        "variants": [
+          {
+            "name": "1/2 gram",
+            "label": "1/2 g",
+            "price": {
+              "amount": "40.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.5,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 500,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/everest-apothecary/menu/heyday-candyland",
+        "order": "https://weedmaps.com/dispensaries/everest-apothecary/menu/heyday-candyland"
+      },
+      "relationships": {
+        "brand": {
+          "data": {
+            "id": 18309,
+            "type": "brand"
+          }
+        },
+        "listing": {
+          "data": {
+            "id": 48408,
+            "type": "dispensary"
+          }
+        },
+        "product": {
+          "data": {
+            "id": 338677,
+            "type": "product"
+          }
+        },
+        "strain": {
+          "data": {
+            "id": 41,
+            "type": "strain"
+          }
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 3,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 467737417,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 86881264,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Heyday Gorilla Glue",
+        "slug": "heyday-gorilla-glue",
+        "category_name": "Concentrates",
+        "body": "",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": false,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/467/737/417/303199935_1641933498-gorilla_glue__4.png",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/467/737/417/303199935_1641933498-gorilla_glue__4.png",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/467/737/417/303199935_1641933498-gorilla_glue__4.png",
+        "is_badged": null,
+        "brand_name": "Everest Cannabis Co",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 40,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2022-01-19T22:50:45Z",
+        "updated_at": "2023-02-23T01:25:51Z",
+        "parent_category": {
+          "id": 3,
+          "name": "Concentrates",
+          "slug": "concentrates"
+        },
+        "sub_category": {
+          "id": 3,
+          "name": "Concentrates",
+          "slug": "concentrates"
+        },
+        "measurements": [],
+        "variants": [
+          {
+            "name": "1/2 gram",
+            "label": "1/2 g",
+            "price": {
+              "amount": "40.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.5,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 500,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/everest-apothecary/menu/heyday-gorilla-glue",
+        "order": "https://weedmaps.com/dispensaries/everest-apothecary/menu/heyday-gorilla-glue"
+      },
+      "relationships": {
+        "brand": {
+          "data": {
+            "id": 18309,
+            "type": "brand"
+          }
+        },
+        "listing": {
+          "data": {
+            "id": 48408,
+            "type": "dispensary"
+          }
+        },
+        "product": {
+          "data": {
+            "id": 338679,
+            "type": "product"
+          }
+        },
+        "strain": {
+          "data": {
+            "id": 1098,
+            "type": "strain"
+          }
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 3,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 467737417,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 86881375,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Heyday Pineapple Express",
+        "slug": "heyday-pineapple-express",
+        "category_name": "Concentrates",
+        "body": "",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": false,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/467/737/417/303200107_1641933502-pineapple_express.png",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/467/737/417/303200107_1641933502-pineapple_express.png",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/467/737/417/303200107_1641933502-pineapple_express.png",
+        "is_badged": null,
+        "brand_name": "Everest Cannabis Co",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 40,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2022-01-19T22:51:31Z",
+        "updated_at": "2023-02-23T01:25:52Z",
+        "parent_category": {
+          "id": 3,
+          "name": "Concentrates",
+          "slug": "concentrates"
+        },
+        "sub_category": {
+          "id": 3,
+          "name": "Concentrates",
+          "slug": "concentrates"
+        },
+        "measurements": [],
+        "variants": [
+          {
+            "name": "1/2 gram",
+            "label": "1/2 g",
+            "price": {
+              "amount": "40.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.5,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 500,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/everest-apothecary/menu/heyday-pineapple-express",
+        "order": "https://weedmaps.com/dispensaries/everest-apothecary/menu/heyday-pineapple-express"
+      },
+      "relationships": {
+        "brand": {
+          "data": {
+            "id": 18309,
+            "type": "brand"
+          }
+        },
+        "listing": {
+          "data": {
+            "id": 48408,
+            "type": "dispensary"
+          }
+        },
+        "product": {
+          "data": {
+            "id": 338680,
+            "type": "product"
+          }
+        },
+        "strain": {
+          "data": {
+            "id": 176,
+            "type": "strain"
+          }
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 3,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 467737417,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 86881470,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Heyday Runtz",
+        "slug": "heyday-runtz",
+        "category_name": "Concentrates",
+        "body": "",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": false,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/467/737/417/303200288_1641933505-runtz.png",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/467/737/417/303200288_1641933505-runtz.png",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/467/737/417/303200288_1641933505-runtz.png",
+        "is_badged": null,
+        "brand_name": "Everest Cannabis Co",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 40,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2022-01-19T22:52:15Z",
+        "updated_at": "2023-02-23T01:25:52Z",
+        "parent_category": {
+          "id": 3,
+          "name": "Concentrates",
+          "slug": "concentrates"
+        },
+        "sub_category": {
+          "id": 3,
+          "name": "Concentrates",
+          "slug": "concentrates"
+        },
+        "measurements": [],
+        "variants": [
+          {
+            "name": "1/2 gram",
+            "label": "1/2 g",
+            "price": {
+              "amount": "40.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.5,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 500,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/everest-apothecary/menu/heyday-runtz",
+        "order": "https://weedmaps.com/dispensaries/everest-apothecary/menu/heyday-runtz"
+      },
+      "relationships": {
+        "brand": {
+          "data": {
+            "id": 18309,
+            "type": "brand"
+          }
+        },
+        "listing": {
+          "data": {
+            "id": 48408,
+            "type": "dispensary"
+          }
+        },
+        "product": {
+          "data": {
+            "id": 338681,
+            "type": "product"
+          }
+        },
+        "strain": {
+          "data": {
+            "id": 1090,
+            "type": "strain"
+          }
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 3,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 467737417,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 86881666,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Heyday Snoop's Dream",
+        "slug": "heyday-snoop-s-dream",
+        "category_name": "Concentrates",
+        "body": "",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": false,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/467/737/417/303200625_1641933509-snoop_s_dream.png",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/467/737/417/303200625_1641933509-snoop_s_dream.png",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/467/737/417/303200625_1641933509-snoop_s_dream.png",
+        "is_badged": null,
+        "brand_name": "Everest Cannabis Co",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 40,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2022-01-19T22:53:06Z",
+        "updated_at": "2023-02-23T01:25:52Z",
+        "parent_category": {
+          "id": 3,
+          "name": "Concentrates",
+          "slug": "concentrates"
+        },
+        "sub_category": {
+          "id": 3,
+          "name": "Concentrates",
+          "slug": "concentrates"
+        },
+        "measurements": [],
+        "variants": [
+          {
+            "name": "1/2 gram",
+            "label": "1/2 g",
+            "price": {
+              "amount": "40.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.5,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 500,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/everest-apothecary/menu/heyday-snoop-s-dream",
+        "order": "https://weedmaps.com/dispensaries/everest-apothecary/menu/heyday-snoop-s-dream"
+      },
+      "relationships": {
+        "brand": {
+          "data": {
+            "id": 18309,
+            "type": "brand"
+          }
+        },
+        "listing": {
+          "data": {
+            "id": 48408,
+            "type": "dispensary"
+          }
+        },
+        "product": {
+          "data": {
+            "id": 338682,
+            "type": "product"
+          }
+        },
+        "strain": {
+          "data": {
+            "id": 963,
+            "type": "strain"
+          }
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 3,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 467737417,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 86881887,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Lemonade OG",
+        "slug": "lemonade-og",
+        "category_name": "Flower",
+        "body": "",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": false,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/467/737/417/303200974_1641933369-1638474947-b31d67c0-406c-4915-b895-b6e33b045194.png",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/467/737/417/303200974_1641933369-1638474947-b31d67c0-406c-4915-b895-b6e33b045194.png",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/467/737/417/303200974_1641933369-1638474947-b31d67c0-406c-4915-b895-b6e33b045194.png",
+        "is_badged": null,
+        "brand_name": "Everest Cannabis Co",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 35,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2022-01-19T22:54:57Z",
+        "updated_at": "2023-02-23T01:25:52Z",
+        "parent_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "sub_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "measurements": [],
+        "variants": [
+          {
+            "name": "1/8 ounce",
+            "label": "1/8 oz",
+            "price": {
+              "amount": "35.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.125,
+              "unit": "oz"
+            },
+            "sku": null,
+            "compliance_net_mg": 3500,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/everest-apothecary/menu/lemonade-og",
+        "order": "https://weedmaps.com/dispensaries/everest-apothecary/menu/lemonade-og"
+      },
+      "relationships": {
+        "brand": {
+          "data": {
+            "id": 18309,
+            "type": "brand"
+          }
+        },
+        "listing": {
+          "data": {
+            "id": 48408,
+            "type": "dispensary"
+          }
+        },
+        "product": {
+          "data": {
+            "id": 327717,
+            "type": "product"
+          }
+        },
+        "strain": {
+          "data": {
+            "id": 1214,
+            "type": "strain"
+          }
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 2,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 467737417,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 86881933,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Nightmare Cookies 4 Pack [.5g]",
+        "slug": "nightmare-cookies-4-pack-5g",
+        "category_name": "Flower",
+        "body": "",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": false,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/467/737/417/303201007_1641933436-1638474994-2a178c41-53ca-4f32-8dac-2b8beacc1991.png",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/467/737/417/303201007_1641933436-1638474994-2a178c41-53ca-4f32-8dac-2b8beacc1991.png",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/467/737/417/303201007_1641933436-1638474994-2a178c41-53ca-4f32-8dac-2b8beacc1991.png",
+        "is_badged": null,
+        "brand_name": "Everest Cannabis Co",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 25,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2022-01-19T22:55:32Z",
+        "updated_at": "2023-02-23T01:25:52Z",
+        "parent_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "sub_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "measurements": [],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/everest-apothecary/menu/nightmare-cookies-4-pack-5g",
+        "order": "https://weedmaps.com/dispensaries/everest-apothecary/menu/nightmare-cookies-4-pack-5g"
+      },
+      "relationships": {
+        "brand": {
+          "data": {
+            "id": 18309,
+            "type": "brand"
+          }
+        },
+        "listing": {
+          "data": {
+            "id": 48408,
+            "type": "dispensary"
+          }
+        },
+        "product": {
+          "data": {
+            "id": 327732,
+            "type": "product"
+          }
+        },
+        "strain": {
+          "data": {
+            "id": 1185,
+            "type": "strain"
+          }
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 2,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 467737417,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 86881971,
+      "type": "menu_item",
+      "attributes": {
+        "name": "PAX Blue Dream",
+        "slug": "pax-blue-dream",
+        "category_name": "Concentrates",
+        "body": "",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": false,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/467/737/417/303201061_1641933525-pax_pod.png",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/467/737/417/303201061_1641933525-pax_pod.png",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/467/737/417/303201061_1641933525-pax_pod.png",
+        "is_badged": null,
+        "brand_name": "Everest Cannabis Co",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 45,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2022-01-19T22:56:07Z",
+        "updated_at": "2023-02-23T01:25:53Z",
+        "parent_category": {
+          "id": 3,
+          "name": "Concentrates",
+          "slug": "concentrates"
+        },
+        "sub_category": {
+          "id": 3,
+          "name": "Concentrates",
+          "slug": "concentrates"
+        },
+        "measurements": [],
+        "variants": [
+          {
+            "name": "1/2 gram",
+            "label": "1/2 g",
+            "price": {
+              "amount": "45.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.5,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 500,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/everest-apothecary/menu/pax-blue-dream",
+        "order": "https://weedmaps.com/dispensaries/everest-apothecary/menu/pax-blue-dream"
+      },
+      "relationships": {
+        "brand": {
+          "data": {
+            "id": 18309,
+            "type": "brand"
+          }
+        },
+        "listing": {
+          "data": {
+            "id": 48408,
+            "type": "dispensary"
+          }
+        },
+        "product": {
+          "data": {
+            "id": 338687,
+            "type": "product"
+          }
+        },
+        "strain": {
+          "data": {
+            "id": 29,
+            "type": "strain"
+          }
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 3,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 467737417,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 86882029,
+      "type": "menu_item",
+      "attributes": {
+        "name": "PAX OG Kush",
+        "slug": "pax-og-kush",
+        "category_name": "Concentrates",
+        "body": "",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": false,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/467/737/417/303201211_1641933515-pax_pod.png",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/467/737/417/303201211_1641933515-pax_pod.png",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/467/737/417/303201211_1641933515-pax_pod.png",
+        "is_badged": null,
+        "brand_name": "Everest Cannabis Co",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 45,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2022-01-19T22:56:47Z",
+        "updated_at": "2023-02-23T01:25:53Z",
+        "parent_category": {
+          "id": 3,
+          "name": "Concentrates",
+          "slug": "concentrates"
+        },
+        "sub_category": {
+          "id": 3,
+          "name": "Concentrates",
+          "slug": "concentrates"
+        },
+        "measurements": [],
+        "variants": [
+          {
+            "name": "1/2 gram",
+            "label": "1/2 g",
+            "price": {
+              "amount": "45.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.5,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 500,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/everest-apothecary/menu/pax-og-kush",
+        "order": "https://weedmaps.com/dispensaries/everest-apothecary/menu/pax-og-kush"
+      },
+      "relationships": {
+        "brand": {
+          "data": {
+            "id": 18309,
+            "type": "brand"
+          }
+        },
+        "listing": {
+          "data": {
+            "id": 48408,
+            "type": "dispensary"
+          }
+        },
+        "product": {
+          "data": {
+            "id": 338684,
+            "type": "product"
+          }
+        },
+        "strain": {
+          "data": {
+            "id": 165,
+            "type": "strain"
+          }
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 3,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 467737417,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 86882180,
+      "type": "menu_item",
+      "attributes": {
+        "name": "PAX Sky OG",
+        "slug": "pax-sky-og",
+        "category_name": "Concentrates",
+        "body": "",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": false,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/467/737/417/303201686_1641933522-pax_pod.png",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/467/737/417/303201686_1641933522-pax_pod.png",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/467/737/417/303201686_1641933522-pax_pod.png",
+        "is_badged": null,
+        "brand_name": "Everest Cannabis Co",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 45,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2022-01-19T22:58:53Z",
+        "updated_at": "2023-02-23T01:25:53Z",
+        "parent_category": {
+          "id": 3,
+          "name": "Concentrates",
+          "slug": "concentrates"
+        },
+        "sub_category": {
+          "id": 3,
+          "name": "Concentrates",
+          "slug": "concentrates"
+        },
+        "measurements": [],
+        "variants": [
+          {
+            "name": "1/2 gram",
+            "label": "1/2 g",
+            "price": {
+              "amount": "45.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.5,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 500,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/everest-apothecary/menu/pax-sky-og",
+        "order": "https://weedmaps.com/dispensaries/everest-apothecary/menu/pax-sky-og"
+      },
+      "relationships": {
+        "brand": {
+          "data": {
+            "id": 18309,
+            "type": "brand"
+          }
+        },
+        "listing": {
+          "data": {
+            "id": 48408,
+            "type": "dispensary"
+          }
+        },
+        "product": {
+          "data": {
+            "id": 338686,
+            "type": "product"
+          }
+        },
+        "strain": {
+          "data": {
+            "id": 8657,
+            "type": "strain"
+          }
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 3,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 467737417,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 86882221,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Pineapple Express",
+        "slug": "pineapple-express",
+        "category_name": "Flower",
+        "body": "",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": false,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/467/737/417/303201750_1641933378-1638474949-07234212-91a6-499e-9790-95eee8a60a27.png",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/467/737/417/303201750_1641933378-1638474949-07234212-91a6-499e-9790-95eee8a60a27.png",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/467/737/417/303201750_1641933378-1638474949-07234212-91a6-499e-9790-95eee8a60a27.png",
+        "is_badged": null,
+        "brand_name": "Everest Cannabis Co",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 0,
+          "price_gram": 8,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2022-01-19T22:59:41Z",
+        "updated_at": "2023-02-23T01:25:53Z",
+        "parent_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "sub_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "measurements": [],
+        "variants": [
+          {
+            "name": "1 gram",
+            "label": "1 g",
+            "price": {
+              "amount": "8.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 1,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 1000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/everest-apothecary/menu/pineapple-express",
+        "order": "https://weedmaps.com/dispensaries/everest-apothecary/menu/pineapple-express"
+      },
+      "relationships": {
+        "brand": {
+          "data": {
+            "id": 18309,
+            "type": "brand"
+          }
+        },
+        "listing": {
+          "data": {
+            "id": 48408,
+            "type": "dispensary"
+          }
+        },
+        "product": {
+          "data": {
+            "id": 327718,
+            "type": "product"
+          }
+        },
+        "strain": {
+          "data": {
+            "id": 176,
+            "type": "strain"
+          }
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 2,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 467737417,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 86882364,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Strawberry Star Dawg",
+        "slug": "strawberry-star-dawg",
+        "category_name": "Flower",
+        "body": "",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": false,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/467/737/417/303202140_1641933381-1638474952-cf325e15-d5b0-4a10-a697-26a7305230b7.png",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/467/737/417/303202140_1641933381-1638474952-cf325e15-d5b0-4a10-a697-26a7305230b7.png",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/467/737/417/303202140_1641933381-1638474952-cf325e15-d5b0-4a10-a697-26a7305230b7.png",
+        "is_badged": null,
+        "brand_name": "Everest Cannabis Co",
+        "cannabinoids": {
+          "cbd": "0.1",
+          "thc": "14.3"
+        },
+        "genetics": null,
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 35,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2022-01-19T23:01:18Z",
+        "updated_at": "2023-02-23T01:25:53Z",
+        "parent_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "sub_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "measurements": [
+          {
+            "id": 140078842,
+            "classification": "cannabinoid",
+            "full_name": "Cannabidiol",
+            "name": "CBD",
+            "unit": "%",
+            "value": "0.1"
+          },
+          {
+            "id": 140078841,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "%",
+            "value": "14.3"
+          }
+        ],
+        "variants": [
+          {
+            "name": "1/8 ounce",
+            "label": "1/8 oz",
+            "price": {
+              "amount": "35.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.125,
+              "unit": "oz"
+            },
+            "sku": null,
+            "compliance_net_mg": 3500,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/everest-apothecary/menu/strawberry-star-dawg",
+        "order": "https://weedmaps.com/dispensaries/everest-apothecary/menu/strawberry-star-dawg"
+      },
+      "relationships": {
+        "brand": {
+          "data": {
+            "id": 18309,
+            "type": "brand"
+          }
+        },
+        "listing": {
+          "data": {
+            "id": 48408,
+            "type": "dispensary"
+          }
+        },
+        "product": {
+          "data": {
+            "id": 327719,
+            "type": "product"
+          }
+        },
+        "strain": {
+          "data": {
+            "id": 1056,
+            "type": "strain"
+          }
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 2,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 467737417,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 87039462,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Everest 600mg Capsules",
+        "slug": "everest-600mg-capsules",
+        "category_name": "Edibles",
+        "body": "",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": false,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/467/737/417/303424829_1641933561-600mg_capsules.png",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/467/737/417/303424829_1641933561-600mg_capsules.png",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/467/737/417/303424829_1641933561-600mg_capsules.png",
+        "is_badged": null,
+        "brand_name": "Everest Cannabis Co",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 45,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2022-01-20T21:23:39Z",
+        "updated_at": "2023-07-27T01:31:20Z",
+        "parent_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "sub_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "measurements": [],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/everest-apothecary/menu/everest-600mg-capsules",
+        "order": "https://weedmaps.com/dispensaries/everest-apothecary/menu/everest-600mg-capsules"
+      },
+      "relationships": {
+        "brand": {
+          "data": {
+            "id": 18309,
+            "type": "brand"
+          }
+        },
+        "listing": {
+          "data": {
+            "id": 48408,
+            "type": "dispensary"
+          }
+        },
+        "product": {
+          "data": {
+            "id": 338694,
+            "type": "product"
+          }
+        },
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 5,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 467737417,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 87039689,
+      "type": "menu_item",
+      "attributes": {
+        "name": "PAX 3:1 CBD:THC",
+        "slug": "pax-3-1-cbd-thc",
+        "category_name": "Concentrates",
+        "body": "",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": false,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/467/737/417/303425341_1641933539-pax_pod.png",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/467/737/417/303425341_1641933539-pax_pod.png",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/467/737/417/303425341_1641933539-pax_pod.png",
+        "is_badged": null,
+        "brand_name": "Everest Cannabis Co",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 45,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2022-01-20T21:25:20Z",
+        "updated_at": "2023-02-23T01:25:56Z",
+        "parent_category": {
+          "id": 3,
+          "name": "Concentrates",
+          "slug": "concentrates"
+        },
+        "sub_category": {
+          "id": 3,
+          "name": "Concentrates",
+          "slug": "concentrates"
+        },
+        "measurements": [],
+        "variants": [
+          {
+            "name": "1/2 gram",
+            "label": "1/2 g",
+            "price": {
+              "amount": "45.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.5,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 500,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/everest-apothecary/menu/pax-3-1-cbd-thc",
+        "order": "https://weedmaps.com/dispensaries/everest-apothecary/menu/pax-3-1-cbd-thc"
+      },
+      "relationships": {
+        "brand": {
+          "data": {
+            "id": 18309,
+            "type": "brand"
+          }
+        },
+        "listing": {
+          "data": {
+            "id": 48408,
+            "type": "dispensary"
+          }
+        },
+        "product": {
+          "data": {
+            "id": 338690,
+            "type": "product"
+          }
+        },
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 3,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 467737417,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 87039805,
+      "type": "menu_item",
+      "attributes": {
+        "name": "PAX Diamond OG",
+        "slug": "pax-diamond-og",
+        "category_name": "Concentrates",
+        "body": "",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": false,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/467/737/417/303425492_1641933511-pax_pod.png",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/467/737/417/303425492_1641933511-pax_pod.png",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/467/737/417/303425492_1641933511-pax_pod.png",
+        "is_badged": null,
+        "brand_name": "Everest Cannabis Co",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 45,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2022-01-20T21:25:59Z",
+        "updated_at": "2023-02-23T01:25:56Z",
+        "parent_category": {
+          "id": 3,
+          "name": "Concentrates",
+          "slug": "concentrates"
+        },
+        "sub_category": {
+          "id": 3,
+          "name": "Concentrates",
+          "slug": "concentrates"
+        },
+        "measurements": [],
+        "variants": [
+          {
+            "name": "1/2 gram",
+            "label": "1/2 g",
+            "price": {
+              "amount": "45.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.5,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 500,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/everest-apothecary/menu/pax-diamond-og",
+        "order": "https://weedmaps.com/dispensaries/everest-apothecary/menu/pax-diamond-og"
+      },
+      "relationships": {
+        "brand": {
+          "data": {
+            "id": 18309,
+            "type": "brand"
+          }
+        },
+        "listing": {
+          "data": {
+            "id": 48408,
+            "type": "dispensary"
+          }
+        },
+        "product": {
+          "data": {
+            "id": 338683,
+            "type": "product"
+          }
+        },
+        "strain": {
+          "data": {
+            "id": 785,
+            "type": "strain"
+          }
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 3,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 467737417,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 87040019,
+      "type": "menu_item",
+      "attributes": {
+        "name": "PAX Jack Herer",
+        "slug": "pax-jack-herer",
+        "category_name": "Concentrates",
+        "body": "",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": false,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/467/737/417/303425701_1641933518-pax_pod.png",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/467/737/417/303425701_1641933518-pax_pod.png",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/467/737/417/303425701_1641933518-pax_pod.png",
+        "is_badged": null,
+        "brand_name": "Everest Cannabis Co",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 45,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2022-01-20T21:26:46Z",
+        "updated_at": "2023-02-23T01:25:56Z",
+        "parent_category": {
+          "id": 3,
+          "name": "Concentrates",
+          "slug": "concentrates"
+        },
+        "sub_category": {
+          "id": 3,
+          "name": "Concentrates",
+          "slug": "concentrates"
+        },
+        "measurements": [],
+        "variants": [
+          {
+            "name": "1/2 gram",
+            "label": "1/2 g",
+            "price": {
+              "amount": "45.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.5,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 500,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/everest-apothecary/menu/pax-jack-herer",
+        "order": "https://weedmaps.com/dispensaries/everest-apothecary/menu/pax-jack-herer"
+      },
+      "relationships": {
+        "brand": {
+          "data": {
+            "id": 18309,
+            "type": "brand"
+          }
+        },
+        "listing": {
+          "data": {
+            "id": 48408,
+            "type": "dispensary"
+          }
+        },
+        "product": {
+          "data": {
+            "id": 338685,
+            "type": "product"
+          }
+        },
+        "strain": {
+          "data": {
+            "id": 117,
+            "type": "strain"
+          }
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 3,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 467737417,
+            "type": "listing"
+          }
+        }
+      }
+    }
+  ]
+}

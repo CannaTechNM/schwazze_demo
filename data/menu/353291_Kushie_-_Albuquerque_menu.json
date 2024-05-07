@@ -1,0 +1,1135 @@
+{
+  "meta": {
+    "page": 1,
+    "per_page": 100,
+    "total": 10
+  },
+  "data": [
+    {
+      "id": 154148332,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Tangie (Sativa) - Kushie+ Gold 1G Vape Cartridge",
+        "slug": "tangie-sativa-kushie-gold-1g-vape-cartridge",
+        "category_name": "Vape Pens",
+        "body": "<p></p><p>Kushie Gold offers a clean and pure cannabis oil using only top-shelf quality flower and cannabis-derived terpenes. Each cartridge contains 1 gram of pure uncut gold goodness testing at 90% + THC. No PG/PEG/VG,MCT or Fillers. Perfect for on the go!</p>",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/products/000/470/598/avatar/1712640382-tangie.png",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/products/000/470/598/avatar/1712640382-tangie.png",
+        "avatar_image_url": "https://images.weedmaps.com/products/000/470/598/avatar/1712640382-tangie.png",
+        "is_badged": true,
+        "brand_name": "Kushie Brand",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 40.11,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2024-03-29T06:17:10Z",
+        "updated_at": "2024-05-01T01:16:35Z",
+        "parent_category": {
+          "id": 4,
+          "name": "Vape Pens",
+          "slug": "vape-pens"
+        },
+        "sub_category": {
+          "id": 193,
+          "name": "Cartridge",
+          "slug": "cartridge"
+        },
+        "measurements": [],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/kushie-albuquerque/menu/tangie-sativa-kushie-gold-1g-vape-cartridge",
+        "order": "https://weedmaps.com/dispensaries/kushie-albuquerque/menu/tangie-sativa-kushie-gold-1g-vape-cartridge"
+      },
+      "relationships": {
+        "brand": {
+          "data": {
+            "id": 1436,
+            "type": "brand"
+          }
+        },
+        "listing": {
+          "data": {
+            "id": 353291,
+            "type": "dispensary"
+          }
+        },
+        "product": {
+          "data": {
+            "id": 470598,
+            "type": "product"
+          }
+        },
+        "strain": {
+          "data": {
+            "id": 250,
+            "type": "strain"
+          }
+        },
+        "categories": {
+          "meta": {
+            "total": 2
+          },
+          "data": [
+            {
+              "id": 193,
+              "type": "category"
+            },
+            {
+              "id": 4,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 703331239,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 154148373,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Pineapple Express (Sativa) - Kushie+ Gold 1G Vape Cartridge",
+        "slug": "pineapple-express-sativa-kushie-gold-1g-vape-cartridge",
+        "category_name": "Vape Pens",
+        "body": "<p></p><p>Kushie Gold offers a clean and pure cannabis oil using only top-shelf quality flower and cannabis-derived terpenes. Each cartridge contains 1 gram of pure uncut gold goodness testing at 90% + THC. No PG/PEG/VG,MCT or Fillers. Perfect for on the go!</p>",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/products/000/470/597/avatar/1712640455-pineapple_express.png",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/products/000/470/597/avatar/1712640455-pineapple_express.png",
+        "avatar_image_url": "https://images.weedmaps.com/products/000/470/597/avatar/1712640455-pineapple_express.png",
+        "is_badged": true,
+        "brand_name": "Kushie Brand",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 40,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2024-03-29T06:17:33Z",
+        "updated_at": "2024-05-01T01:16:27Z",
+        "parent_category": {
+          "id": 4,
+          "name": "Vape Pens",
+          "slug": "vape-pens"
+        },
+        "sub_category": {
+          "id": 193,
+          "name": "Cartridge",
+          "slug": "cartridge"
+        },
+        "measurements": [],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/kushie-albuquerque/menu/pineapple-express-sativa-kushie-gold-1g-vape-cartridge",
+        "order": "https://weedmaps.com/dispensaries/kushie-albuquerque/menu/pineapple-express-sativa-kushie-gold-1g-vape-cartridge"
+      },
+      "relationships": {
+        "brand": {
+          "data": {
+            "id": 1436,
+            "type": "brand"
+          }
+        },
+        "listing": {
+          "data": {
+            "id": 353291,
+            "type": "dispensary"
+          }
+        },
+        "product": {
+          "data": {
+            "id": 470597,
+            "type": "product"
+          }
+        },
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 2
+          },
+          "data": [
+            {
+              "id": 193,
+              "type": "category"
+            },
+            {
+              "id": 4,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 703331239,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 154148444,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Strawberry Cough (Sativa) - Kushie+ Gold 1G Vape Cartridge",
+        "slug": "strawberry-cough-sativa-kushie-gold-1g-vape-cartridge",
+        "category_name": "Vape Pens",
+        "body": "<p></p><p>Kushie Gold offers a clean and pure cannabis oil using only top-shelf quality flower and cannabis-derived terpenes. Each cartridge contains 1 gram of pure uncut gold goodness testing at 90% + THC. No PG/PEG/VG,MCT or Fillers. Perfect for on the go!</p>",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/products/000/470/595/avatar/1676514925-kushie-gold-cartridge.jpg",
+        "position": 3,
+        "original_picture_url": "https://images.weedmaps.com/products/000/470/595/avatar/1676514925-kushie-gold-cartridge.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/products/000/470/595/avatar/1676514925-kushie-gold-cartridge.jpg",
+        "is_badged": true,
+        "brand_name": "Kushie Brand",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 40,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2024-03-29T06:17:54Z",
+        "updated_at": "2024-05-01T01:17:11Z",
+        "parent_category": {
+          "id": 4,
+          "name": "Vape Pens",
+          "slug": "vape-pens"
+        },
+        "sub_category": {
+          "id": 193,
+          "name": "Cartridge",
+          "slug": "cartridge"
+        },
+        "measurements": [],
+        "variants": [],
+        "external_id": null,
+        "sale": {
+          "amount": 30,
+          "type": "percentage"
+        },
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/kushie-albuquerque/menu/strawberry-cough-sativa-kushie-gold-1g-vape-cartridge",
+        "order": "https://weedmaps.com/dispensaries/kushie-albuquerque/menu/strawberry-cough-sativa-kushie-gold-1g-vape-cartridge"
+      },
+      "relationships": {
+        "brand": {
+          "data": {
+            "id": 1436,
+            "type": "brand"
+          }
+        },
+        "listing": {
+          "data": {
+            "id": 353291,
+            "type": "dispensary"
+          }
+        },
+        "product": {
+          "data": {
+            "id": 470595,
+            "type": "product"
+          }
+        },
+        "strain": {
+          "data": {
+            "id": 228,
+            "type": "strain"
+          }
+        },
+        "categories": {
+          "meta": {
+            "total": 2
+          },
+          "data": [
+            {
+              "id": 193,
+              "type": "category"
+            },
+            {
+              "id": 4,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 703331239,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 154148500,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Lychee Dream (Hybrid) - Kushie+ Gold 1G Vape Cartridge",
+        "slug": "lychee-dream-hybrid-kushie-gold-1g-vape-cartridge",
+        "category_name": "Vape Pens",
+        "body": "<p></p><p>Kushie Gold offers a clean and pure cannabis oil using only top-shelf quality flower and cannabis-derived terpenes. Each cartridge contains 1 gram of pure uncut gold goodness testing at 90% + THC. No PG/PEG/VG,MCT or Fillers. Perfect for on the go!</p>",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/products/000/393/649/avatar/1656396827-kushie_november_productshot-08.JPG",
+        "position": 2,
+        "original_picture_url": "https://images.weedmaps.com/products/000/393/649/avatar/1656396827-kushie_november_productshot-08.JPG",
+        "avatar_image_url": "https://images.weedmaps.com/products/000/393/649/avatar/1656396827-kushie_november_productshot-08.JPG",
+        "is_badged": true,
+        "brand_name": "Kushie Brand",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 40,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2024-03-29T06:18:13Z",
+        "updated_at": "2024-05-01T01:16:58Z",
+        "parent_category": {
+          "id": 4,
+          "name": "Vape Pens",
+          "slug": "vape-pens"
+        },
+        "sub_category": {
+          "id": 193,
+          "name": "Cartridge",
+          "slug": "cartridge"
+        },
+        "measurements": [],
+        "variants": [],
+        "external_id": null,
+        "sale": {
+          "amount": 30,
+          "type": "percentage"
+        },
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/kushie-albuquerque/menu/lychee-dream-hybrid-kushie-gold-1g-vape-cartridge",
+        "order": "https://weedmaps.com/dispensaries/kushie-albuquerque/menu/lychee-dream-hybrid-kushie-gold-1g-vape-cartridge"
+      },
+      "relationships": {
+        "brand": {
+          "data": {
+            "id": 1436,
+            "type": "brand"
+          }
+        },
+        "listing": {
+          "data": {
+            "id": 353291,
+            "type": "dispensary"
+          }
+        },
+        "product": {
+          "data": {
+            "id": 393649,
+            "type": "product"
+          }
+        },
+        "strain": {
+          "data": {
+            "id": 7509,
+            "type": "strain"
+          }
+        },
+        "categories": {
+          "meta": {
+            "total": 2
+          },
+          "data": [
+            {
+              "id": 193,
+              "type": "category"
+            },
+            {
+              "id": 4,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 703331239,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 154148501,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Blue Cookies (Hybrid) - Kushie+ Gold 1G Vape Cartridge",
+        "slug": "blue-cookies-hybrid-kushie-gold-1g-vape-cartridge",
+        "category_name": "Vape Pens",
+        "body": "<p></p><p>Kushie Gold offers a clean and pure cannabis oil using only top-shelf quality flower and cannabis-derived terpenes. Each cartridge contains 1 gram of pure uncut gold goodness testing at 90% + THC. No PG/PEG/VG,MCT or Fillers. Perfect for on the go!</p>",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/products/000/393/642/avatar/1656396703-kushie_november_productshot-08.JPG",
+        "position": 4,
+        "original_picture_url": "https://images.weedmaps.com/products/000/393/642/avatar/1656396703-kushie_november_productshot-08.JPG",
+        "avatar_image_url": "https://images.weedmaps.com/products/000/393/642/avatar/1656396703-kushie_november_productshot-08.JPG",
+        "is_badged": true,
+        "brand_name": "Kushie Brand",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 39.83,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2024-03-29T06:18:31Z",
+        "updated_at": "2024-05-01T01:22:34Z",
+        "parent_category": {
+          "id": 4,
+          "name": "Vape Pens",
+          "slug": "vape-pens"
+        },
+        "sub_category": {
+          "id": 193,
+          "name": "Cartridge",
+          "slug": "cartridge"
+        },
+        "measurements": [],
+        "variants": [],
+        "external_id": null,
+        "sale": {
+          "amount": 30,
+          "type": "percentage"
+        },
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/kushie-albuquerque/menu/blue-cookies-hybrid-kushie-gold-1g-vape-cartridge",
+        "order": "https://weedmaps.com/dispensaries/kushie-albuquerque/menu/blue-cookies-hybrid-kushie-gold-1g-vape-cartridge"
+      },
+      "relationships": {
+        "brand": {
+          "data": {
+            "id": 1436,
+            "type": "brand"
+          }
+        },
+        "listing": {
+          "data": {
+            "id": 353291,
+            "type": "dispensary"
+          }
+        },
+        "product": {
+          "data": {
+            "id": 393642,
+            "type": "product"
+          }
+        },
+        "strain": {
+          "data": {
+            "id": 1099,
+            "type": "strain"
+          }
+        },
+        "categories": {
+          "meta": {
+            "total": 2
+          },
+          "data": [
+            {
+              "id": 193,
+              "type": "category"
+            },
+            {
+              "id": 4,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 703331239,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 154148504,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Ice Cream Cake (Hybrid) - Kushie+ Gold 1G Vape Cartridge",
+        "slug": "ice-cream-cake-hybrid-kushie-gold-1g-vape-cartridge",
+        "category_name": "Vape Pens",
+        "body": "<p></p><p>Kushie Gold offers a clean and pure cannabis oil using only top-shelf quality flower and cannabis-derived terpenes. Each cartridge contains 1 gram of pure uncut gold goodness testing at 90% + THC. No PG/PEG/VG,MCT or Fillers. Perfect for on the go!</p>",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/products/000/470/591/avatar/1712640503-ice_cream_cake.png",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/products/000/470/591/avatar/1712640503-ice_cream_cake.png",
+        "avatar_image_url": "https://images.weedmaps.com/products/000/470/591/avatar/1712640503-ice_cream_cake.png",
+        "is_badged": true,
+        "brand_name": "Kushie Brand",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 39.82,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2024-03-29T06:18:50Z",
+        "updated_at": "2024-05-01T01:15:32Z",
+        "parent_category": {
+          "id": 4,
+          "name": "Vape Pens",
+          "slug": "vape-pens"
+        },
+        "sub_category": {
+          "id": 193,
+          "name": "Cartridge",
+          "slug": "cartridge"
+        },
+        "measurements": [],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/kushie-albuquerque/menu/ice-cream-cake-hybrid-kushie-gold-1g-vape-cartridge",
+        "order": "https://weedmaps.com/dispensaries/kushie-albuquerque/menu/ice-cream-cake-hybrid-kushie-gold-1g-vape-cartridge"
+      },
+      "relationships": {
+        "brand": {
+          "data": {
+            "id": 1436,
+            "type": "brand"
+          }
+        },
+        "listing": {
+          "data": {
+            "id": 353291,
+            "type": "dispensary"
+          }
+        },
+        "product": {
+          "data": {
+            "id": 470591,
+            "type": "product"
+          }
+        },
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 2
+          },
+          "data": [
+            {
+              "id": 193,
+              "type": "category"
+            },
+            {
+              "id": 4,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 703331239,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 154148505,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Godzilla Glue (Hybrid) - Kushie+ Gold 1G Vape Cartridge",
+        "slug": "godzilla-glue-hybrid-kushie-gold-1g-vape-cartridge",
+        "category_name": "Vape Pens",
+        "body": "<p></p><p>Kushie Gold offers a clean and pure cannabis oil using only top-shelf quality flower and cannabis-derived terpenes. Each cartridge contains 1 gram of pure uncut gold goodness testing at 90% + THC. No PG/PEG/VG,MCT or Fillers. Perfect for on the go!</p>",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/products/000/393/641/avatar/1712640521-godzilla_glue.png",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/products/000/393/641/avatar/1712640521-godzilla_glue.png",
+        "avatar_image_url": "https://images.weedmaps.com/products/000/393/641/avatar/1712640521-godzilla_glue.png",
+        "is_badged": true,
+        "brand_name": "Kushie Brand",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 40,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2024-03-29T06:19:05Z",
+        "updated_at": "2024-05-01T01:15:26Z",
+        "parent_category": {
+          "id": 4,
+          "name": "Vape Pens",
+          "slug": "vape-pens"
+        },
+        "sub_category": {
+          "id": 193,
+          "name": "Cartridge",
+          "slug": "cartridge"
+        },
+        "measurements": [],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/kushie-albuquerque/menu/godzilla-glue-hybrid-kushie-gold-1g-vape-cartridge",
+        "order": "https://weedmaps.com/dispensaries/kushie-albuquerque/menu/godzilla-glue-hybrid-kushie-gold-1g-vape-cartridge"
+      },
+      "relationships": {
+        "brand": {
+          "data": {
+            "id": 1436,
+            "type": "brand"
+          }
+        },
+        "listing": {
+          "data": {
+            "id": 353291,
+            "type": "dispensary"
+          }
+        },
+        "product": {
+          "data": {
+            "id": 393641,
+            "type": "product"
+          }
+        },
+        "strain": {
+          "data": {
+            "id": 1154,
+            "type": "strain"
+          }
+        },
+        "categories": {
+          "meta": {
+            "total": 2
+          },
+          "data": [
+            {
+              "id": 193,
+              "type": "category"
+            },
+            {
+              "id": 4,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 703331239,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 154148506,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Kush Mints (Indica) - Kushie+ Gold 1G Vape Cartridge",
+        "slug": "kush-mints-indica-kushie-gold-1g-vape-cartridge",
+        "category_name": "Vape Pens",
+        "body": "<p></p><p>Kushie Gold offers a clean and pure cannabis oil using only top-shelf quality flower and cannabis-derived terpenes. Each cartridge contains 1 gram of pure uncut gold goodness testing at 90% + THC. No PG/PEG/VG,MCT or Fillers. Perfect for on the go!</p>",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/products/000/393/651/avatar/1656397018-kushie_november_productshot-08.JPG",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/products/000/393/651/avatar/1656397018-kushie_november_productshot-08.JPG",
+        "avatar_image_url": "https://images.weedmaps.com/products/000/393/651/avatar/1656397018-kushie_november_productshot-08.JPG",
+        "is_badged": true,
+        "brand_name": "Kushie Brand",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 40,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2024-03-29T06:19:26Z",
+        "updated_at": "2024-05-01T01:22:27Z",
+        "parent_category": {
+          "id": 4,
+          "name": "Vape Pens",
+          "slug": "vape-pens"
+        },
+        "sub_category": {
+          "id": 193,
+          "name": "Cartridge",
+          "slug": "cartridge"
+        },
+        "measurements": [],
+        "variants": [],
+        "external_id": null,
+        "sale": {
+          "amount": 30,
+          "type": "percentage"
+        },
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/kushie-albuquerque/menu/kush-mints-indica-kushie-gold-1g-vape-cartridge",
+        "order": "https://weedmaps.com/dispensaries/kushie-albuquerque/menu/kush-mints-indica-kushie-gold-1g-vape-cartridge"
+      },
+      "relationships": {
+        "brand": {
+          "data": {
+            "id": 1436,
+            "type": "brand"
+          }
+        },
+        "listing": {
+          "data": {
+            "id": 353291,
+            "type": "dispensary"
+          }
+        },
+        "product": {
+          "data": {
+            "id": 393651,
+            "type": "product"
+          }
+        },
+        "strain": {
+          "data": {
+            "id": 130,
+            "type": "strain"
+          }
+        },
+        "categories": {
+          "meta": {
+            "total": 2
+          },
+          "data": [
+            {
+              "id": 193,
+              "type": "category"
+            },
+            {
+              "id": 4,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 703331239,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 154148507,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Do-Si-Dos (Indica) - Kushie+ Gold 1G Vape Cartridge",
+        "slug": "do-si-dos-indica-kushie-gold-1g-vape-cartridge",
+        "category_name": "Vape Pens",
+        "body": "<p></p><p>Kushie Gold offers a clean and pure cannabis oil using only top-shelf quality flower and cannabis-derived terpenes. Each cartridge contains 1 gram of pure uncut gold goodness testing at 90% + THC. No PG/PEG/VG,MCT or Fillers. Perfect for on the go!</p>",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/products/000/470/590/avatar/1712640285-do_si_dos.png",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/products/000/470/590/avatar/1712640285-do_si_dos.png",
+        "avatar_image_url": "https://images.weedmaps.com/products/000/470/590/avatar/1712640285-do_si_dos.png",
+        "is_badged": true,
+        "brand_name": "Kushie Brand",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 40,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2024-03-29T06:19:42Z",
+        "updated_at": "2024-05-01T01:15:11Z",
+        "parent_category": {
+          "id": 4,
+          "name": "Vape Pens",
+          "slug": "vape-pens"
+        },
+        "sub_category": {
+          "id": 193,
+          "name": "Cartridge",
+          "slug": "cartridge"
+        },
+        "measurements": [],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/kushie-albuquerque/menu/do-si-dos-indica-kushie-gold-1g-vape-cartridge",
+        "order": "https://weedmaps.com/dispensaries/kushie-albuquerque/menu/do-si-dos-indica-kushie-gold-1g-vape-cartridge"
+      },
+      "relationships": {
+        "brand": {
+          "data": {
+            "id": 1436,
+            "type": "brand"
+          }
+        },
+        "listing": {
+          "data": {
+            "id": 353291,
+            "type": "dispensary"
+          }
+        },
+        "product": {
+          "data": {
+            "id": 470590,
+            "type": "product"
+          }
+        },
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 2
+          },
+          "data": [
+            {
+              "id": 193,
+              "type": "category"
+            },
+            {
+              "id": 4,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 703331239,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 154148508,
+      "type": "menu_item",
+      "attributes": {
+        "name": "El Chapo (Indica) - Kushie+ Gold 1G Vape Cartridge",
+        "slug": "el-chapo-indica-kushie-gold-1g-vape-cartridge",
+        "category_name": "Vape Pens",
+        "body": "<p></p><p>Kushie Gold offers a clean and pure cannabis oil using only top-shelf quality flower and cannabis-derived terpenes. Each cartridge contains 1 gram of pure uncut gold goodness testing at 90% + THC. No PG/PEG/VG,MCT or Fillers. Perfect for on the go!</p>",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/products/000/393/652/avatar/1656397834-kushie_november_productshot-08.JPG",
+        "position": 1,
+        "original_picture_url": "https://images.weedmaps.com/products/000/393/652/avatar/1656397834-kushie_november_productshot-08.JPG",
+        "avatar_image_url": "https://images.weedmaps.com/products/000/393/652/avatar/1656397834-kushie_november_productshot-08.JPG",
+        "is_badged": true,
+        "brand_name": "Kushie Brand",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 39.73,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2024-03-29T06:19:58Z",
+        "updated_at": "2024-05-01T01:17:21Z",
+        "parent_category": {
+          "id": 4,
+          "name": "Vape Pens",
+          "slug": "vape-pens"
+        },
+        "sub_category": {
+          "id": 193,
+          "name": "Cartridge",
+          "slug": "cartridge"
+        },
+        "measurements": [],
+        "variants": [],
+        "external_id": null,
+        "sale": {
+          "amount": 30,
+          "type": "percentage"
+        },
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/kushie-albuquerque/menu/el-chapo-indica-kushie-gold-1g-vape-cartridge",
+        "order": "https://weedmaps.com/dispensaries/kushie-albuquerque/menu/el-chapo-indica-kushie-gold-1g-vape-cartridge"
+      },
+      "relationships": {
+        "brand": {
+          "data": {
+            "id": 1436,
+            "type": "brand"
+          }
+        },
+        "listing": {
+          "data": {
+            "id": 353291,
+            "type": "dispensary"
+          }
+        },
+        "product": {
+          "data": {
+            "id": 393652,
+            "type": "product"
+          }
+        },
+        "strain": {
+          "data": {
+            "id": 1831,
+            "type": "strain"
+          }
+        },
+        "categories": {
+          "meta": {
+            "total": 2
+          },
+          "data": [
+            {
+              "id": 193,
+              "type": "category"
+            },
+            {
+              "id": 4,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 703331239,
+            "type": "listing"
+          }
+        }
+      }
+    }
+  ]
+}

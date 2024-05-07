@@ -1,0 +1,2080 @@
+{
+  "meta": {
+    "page": 1,
+    "per_page": 100,
+    "total": 13
+  },
+  "data": [
+    {
+      "id": 89646926,
+      "type": "menu_item",
+      "attributes": {
+        "name": "AC1XSDB1XPermafrost #1",
+        "slug": "ac1xsdb1xpermafrost-1",
+        "category_name": "Flower",
+        "body": "Ultra Health house grown flower",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/products/000/348/868/avatar/1644887150-032a0012.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/products/000/348/868/avatar/1644887150-032a0012.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/products/000/348/868/avatar/1644887150-032a0012.jpg",
+        "is_badged": true,
+        "brand_name": "Ultra Health Brand",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 0,
+          "price_gram": 8.99,
+          "price_two_grams": 17.98,
+          "price_eighth": 31.46,
+          "price_quarter": 62.93,
+          "price_half_ounce": 125.86,
+          "price_ounce": 251.72,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2022-02-23T23:55:19Z",
+        "updated_at": "2023-11-28T21:41:57Z",
+        "parent_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "sub_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "measurements": [],
+        "variants": [
+          {
+            "name": "1 gram",
+            "label": "1 g",
+            "price": {
+              "amount": "8.99",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 1,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 1000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          },
+          {
+            "name": "2 grams",
+            "label": "2 g",
+            "price": {
+              "amount": "17.98",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 2,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 2000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          },
+          {
+            "name": "1/8 ounce",
+            "label": "1/8 oz",
+            "price": {
+              "amount": "31.46",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.125,
+              "unit": "oz"
+            },
+            "sku": null,
+            "compliance_net_mg": 3500,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          },
+          {
+            "name": "1/4 ounce",
+            "label": "1/4 oz",
+            "price": {
+              "amount": "62.93",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.25,
+              "unit": "oz"
+            },
+            "sku": null,
+            "compliance_net_mg": 7000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          },
+          {
+            "name": "1/2 ounce",
+            "label": "1/2 oz",
+            "price": {
+              "amount": "125.86",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.5,
+              "unit": "oz"
+            },
+            "sku": null,
+            "compliance_net_mg": 14000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          },
+          {
+            "name": "1 ounce",
+            "label": "1 oz",
+            "price": {
+              "amount": "251.72",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 1,
+              "unit": "oz"
+            },
+            "sku": null,
+            "compliance_net_mg": 28000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/ultra-health-los-lunas/menu/ac1xsdb1xpermafrost-1",
+        "order": "https://weedmaps.com/dispensaries/ultra-health-los-lunas/menu/ac1xsdb1xpermafrost-1"
+      },
+      "relationships": {
+        "brand": {
+          "data": {
+            "id": 18618,
+            "type": "brand"
+          }
+        },
+        "listing": {
+          "data": {
+            "id": 62165,
+            "type": "dispensary"
+          }
+        },
+        "product": {
+          "data": {
+            "id": 348868,
+            "type": "product"
+          }
+        },
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 2,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 335223266,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 89647025,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Purple Fat Pie",
+        "slug": "purple-fat-pie",
+        "category_name": "Flower",
+        "body": "Ultra Health house grown flower",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/products/000/348/889/avatar/1644887340-180425_lucidblue_flower_02.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/products/000/348/889/avatar/1644887340-180425_lucidblue_flower_02.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/products/000/348/889/avatar/1644887340-180425_lucidblue_flower_02.jpg",
+        "is_badged": true,
+        "brand_name": "Ultra Health Brand",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 0,
+          "price_gram": 8.99,
+          "price_two_grams": 17.98,
+          "price_eighth": 31.46,
+          "price_quarter": 62.93,
+          "price_half_ounce": 125.86,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2022-02-23T23:56:44Z",
+        "updated_at": "2023-11-28T21:41:57Z",
+        "parent_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "sub_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "measurements": [],
+        "variants": [
+          {
+            "name": "1 gram",
+            "label": "1 g",
+            "price": {
+              "amount": "8.99",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 1,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 1000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          },
+          {
+            "name": "2 grams",
+            "label": "2 g",
+            "price": {
+              "amount": "17.98",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 2,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 2000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          },
+          {
+            "name": "1/8 ounce",
+            "label": "1/8 oz",
+            "price": {
+              "amount": "31.46",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.125,
+              "unit": "oz"
+            },
+            "sku": null,
+            "compliance_net_mg": 3500,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          },
+          {
+            "name": "1/4 ounce",
+            "label": "1/4 oz",
+            "price": {
+              "amount": "62.93",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.25,
+              "unit": "oz"
+            },
+            "sku": null,
+            "compliance_net_mg": 7000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          },
+          {
+            "name": "1/2 ounce",
+            "label": "1/2 oz",
+            "price": {
+              "amount": "125.86",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.5,
+              "unit": "oz"
+            },
+            "sku": null,
+            "compliance_net_mg": 14000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/ultra-health-los-lunas/menu/purple-fat-pie",
+        "order": "https://weedmaps.com/dispensaries/ultra-health-los-lunas/menu/purple-fat-pie"
+      },
+      "relationships": {
+        "brand": {
+          "data": {
+            "id": 18618,
+            "type": "brand"
+          }
+        },
+        "listing": {
+          "data": {
+            "id": 62165,
+            "type": "dispensary"
+          }
+        },
+        "product": {
+          "data": {
+            "id": 348889,
+            "type": "product"
+          }
+        },
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 2,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 335223266,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 89647110,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Cactus OG",
+        "slug": "cactus-og",
+        "category_name": "Flower",
+        "body": "Ultra Health house grown flower",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/products/000/348/872/avatar/1644887198-180730_strainreview_enjoyablexj13_17.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/products/000/348/872/avatar/1644887198-180730_strainreview_enjoyablexj13_17.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/products/000/348/872/avatar/1644887198-180730_strainreview_enjoyablexj13_17.jpg",
+        "is_badged": true,
+        "brand_name": "Ultra Health Brand",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 0,
+          "price_gram": 8.99,
+          "price_two_grams": 17.98,
+          "price_eighth": 31.46,
+          "price_quarter": 62.93,
+          "price_half_ounce": 125.86,
+          "price_ounce": 251.72,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2022-02-23T23:58:17Z",
+        "updated_at": "2023-11-28T21:41:58Z",
+        "parent_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "sub_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "measurements": [],
+        "variants": [
+          {
+            "name": "1 gram",
+            "label": "1 g",
+            "price": {
+              "amount": "8.99",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 1,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 1000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          },
+          {
+            "name": "2 grams",
+            "label": "2 g",
+            "price": {
+              "amount": "17.98",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 2,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 2000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          },
+          {
+            "name": "1/8 ounce",
+            "label": "1/8 oz",
+            "price": {
+              "amount": "31.46",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.125,
+              "unit": "oz"
+            },
+            "sku": null,
+            "compliance_net_mg": 3500,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          },
+          {
+            "name": "1/4 ounce",
+            "label": "1/4 oz",
+            "price": {
+              "amount": "62.93",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.25,
+              "unit": "oz"
+            },
+            "sku": null,
+            "compliance_net_mg": 7000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          },
+          {
+            "name": "1/2 ounce",
+            "label": "1/2 oz",
+            "price": {
+              "amount": "125.86",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.5,
+              "unit": "oz"
+            },
+            "sku": null,
+            "compliance_net_mg": 14000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          },
+          {
+            "name": "1 ounce",
+            "label": "1 oz",
+            "price": {
+              "amount": "251.72",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 1,
+              "unit": "oz"
+            },
+            "sku": null,
+            "compliance_net_mg": 28000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/ultra-health-los-lunas/menu/cactus-og",
+        "order": "https://weedmaps.com/dispensaries/ultra-health-los-lunas/menu/cactus-og"
+      },
+      "relationships": {
+        "brand": {
+          "data": {
+            "id": 18618,
+            "type": "brand"
+          }
+        },
+        "listing": {
+          "data": {
+            "id": 62165,
+            "type": "dispensary"
+          }
+        },
+        "product": {
+          "data": {
+            "id": 348872,
+            "type": "product"
+          }
+        },
+        "strain": {
+          "data": {
+            "id": 1610,
+            "type": "strain"
+          }
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 2,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 335223266,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 89647162,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Divine Storm",
+        "slug": "divine-storm",
+        "category_name": "Flower",
+        "body": "Ultra Health house grown flower",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/products/000/348/875/avatar/1644887231-180730_strainreview_enjoyableog_07.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/products/000/348/875/avatar/1644887231-180730_strainreview_enjoyableog_07.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/products/000/348/875/avatar/1644887231-180730_strainreview_enjoyableog_07.jpg",
+        "is_badged": true,
+        "brand_name": "Ultra Health Brand",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 0,
+          "price_gram": 8.99,
+          "price_two_grams": 17.98,
+          "price_eighth": 31.46,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2022-02-23T23:59:36Z",
+        "updated_at": "2023-11-28T21:41:58Z",
+        "parent_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "sub_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "measurements": [],
+        "variants": [
+          {
+            "name": "1 gram",
+            "label": "1 g",
+            "price": {
+              "amount": "8.99",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 1,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 1000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          },
+          {
+            "name": "2 grams",
+            "label": "2 g",
+            "price": {
+              "amount": "17.98",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 2,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 2000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          },
+          {
+            "name": "1/8 ounce",
+            "label": "1/8 oz",
+            "price": {
+              "amount": "31.46",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.125,
+              "unit": "oz"
+            },
+            "sku": null,
+            "compliance_net_mg": 3500,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/ultra-health-los-lunas/menu/divine-storm",
+        "order": "https://weedmaps.com/dispensaries/ultra-health-los-lunas/menu/divine-storm"
+      },
+      "relationships": {
+        "brand": {
+          "data": {
+            "id": 18618,
+            "type": "brand"
+          }
+        },
+        "listing": {
+          "data": {
+            "id": 62165,
+            "type": "dispensary"
+          }
+        },
+        "product": {
+          "data": {
+            "id": 348875,
+            "type": "product"
+          }
+        },
+        "strain": {
+          "data": {
+            "id": 6319,
+            "type": "strain"
+          }
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 2,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 335223266,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 89647309,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Lemonade",
+        "slug": "lemonade",
+        "category_name": "Flower",
+        "body": "Ultra Health house grown flower",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/products/000/348/882/avatar/1644887286-180730_strainreview_enjoyablexj13_04.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/products/000/348/882/avatar/1644887286-180730_strainreview_enjoyablexj13_04.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/products/000/348/882/avatar/1644887286-180730_strainreview_enjoyablexj13_04.jpg",
+        "is_badged": true,
+        "brand_name": "Ultra Health Brand",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 0,
+          "price_gram": 8.99,
+          "price_two_grams": 17.98,
+          "price_eighth": 31.46,
+          "price_quarter": 62.93,
+          "price_half_ounce": 125.86,
+          "price_ounce": 251.72,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2022-02-24T00:01:12Z",
+        "updated_at": "2023-11-28T21:41:58Z",
+        "parent_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "sub_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "measurements": [],
+        "variants": [
+          {
+            "name": "1 gram",
+            "label": "1 g",
+            "price": {
+              "amount": "8.99",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 1,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 1000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          },
+          {
+            "name": "2 grams",
+            "label": "2 g",
+            "price": {
+              "amount": "17.98",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 2,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 2000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          },
+          {
+            "name": "1/8 ounce",
+            "label": "1/8 oz",
+            "price": {
+              "amount": "31.46",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.125,
+              "unit": "oz"
+            },
+            "sku": null,
+            "compliance_net_mg": 3500,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          },
+          {
+            "name": "1/4 ounce",
+            "label": "1/4 oz",
+            "price": {
+              "amount": "62.93",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.25,
+              "unit": "oz"
+            },
+            "sku": null,
+            "compliance_net_mg": 7000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          },
+          {
+            "name": "1/2 ounce",
+            "label": "1/2 oz",
+            "price": {
+              "amount": "125.86",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.5,
+              "unit": "oz"
+            },
+            "sku": null,
+            "compliance_net_mg": 14000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          },
+          {
+            "name": "1 ounce",
+            "label": "1 oz",
+            "price": {
+              "amount": "251.72",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 1,
+              "unit": "oz"
+            },
+            "sku": null,
+            "compliance_net_mg": 28000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/ultra-health-los-lunas/menu/lemonade",
+        "order": "https://weedmaps.com/dispensaries/ultra-health-los-lunas/menu/lemonade"
+      },
+      "relationships": {
+        "brand": {
+          "data": {
+            "id": 18618,
+            "type": "brand"
+          }
+        },
+        "listing": {
+          "data": {
+            "id": 62165,
+            "type": "dispensary"
+          }
+        },
+        "product": {
+          "data": {
+            "id": 348882,
+            "type": "product"
+          }
+        },
+        "strain": {
+          "data": {
+            "id": 1214,
+            "type": "strain"
+          }
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 2,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 335223266,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 89676014,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Nanitro",
+        "slug": "nanitro",
+        "category_name": "Flower",
+        "body": "Ultra Health house grown flower",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/products/000/348/884/avatar/1644887309-180730_strainreview_enjoyablexj13_17.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/products/000/348/884/avatar/1644887309-180730_strainreview_enjoyablexj13_17.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/products/000/348/884/avatar/1644887309-180730_strainreview_enjoyablexj13_17.jpg",
+        "is_badged": true,
+        "brand_name": "Ultra Health Brand",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 0,
+          "price_gram": 8.99,
+          "price_two_grams": 17.98,
+          "price_eighth": 31.46,
+          "price_quarter": 62.93,
+          "price_half_ounce": 125.86,
+          "price_ounce": 251.72,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2022-02-24T16:02:06Z",
+        "updated_at": "2023-11-28T21:42:01Z",
+        "parent_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "sub_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "measurements": [],
+        "variants": [
+          {
+            "name": "1 gram",
+            "label": "1 g",
+            "price": {
+              "amount": "8.99",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 1,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 1000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          },
+          {
+            "name": "2 grams",
+            "label": "2 g",
+            "price": {
+              "amount": "17.98",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 2,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 2000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          },
+          {
+            "name": "1/8 ounce",
+            "label": "1/8 oz",
+            "price": {
+              "amount": "31.46",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.125,
+              "unit": "oz"
+            },
+            "sku": null,
+            "compliance_net_mg": 3500,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          },
+          {
+            "name": "1/4 ounce",
+            "label": "1/4 oz",
+            "price": {
+              "amount": "62.93",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.25,
+              "unit": "oz"
+            },
+            "sku": null,
+            "compliance_net_mg": 7000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          },
+          {
+            "name": "1/2 ounce",
+            "label": "1/2 oz",
+            "price": {
+              "amount": "125.86",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.5,
+              "unit": "oz"
+            },
+            "sku": null,
+            "compliance_net_mg": 14000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          },
+          {
+            "name": "1 ounce",
+            "label": "1 oz",
+            "price": {
+              "amount": "251.72",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 1,
+              "unit": "oz"
+            },
+            "sku": null,
+            "compliance_net_mg": 28000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/ultra-health-los-lunas/menu/nanitro",
+        "order": "https://weedmaps.com/dispensaries/ultra-health-los-lunas/menu/nanitro"
+      },
+      "relationships": {
+        "brand": {
+          "data": {
+            "id": 18618,
+            "type": "brand"
+          }
+        },
+        "listing": {
+          "data": {
+            "id": 62165,
+            "type": "dispensary"
+          }
+        },
+        "product": {
+          "data": {
+            "id": 348884,
+            "type": "product"
+          }
+        },
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 2,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 335223266,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 89676108,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Vape Cartridge-Ekto Cooler .5g",
+        "slug": "vape-cartridge-ekto-cooler-5g",
+        "category_name": "Concentrates",
+        "body": "Strain: Hybrid<br><br>Fragrance: Orange, lemon, lemongrass<br><br>Effects: Uplifting, euphoric<br><br>Ekto Kooler is a blast from the past, sent to the future to haunt your taste<br> buds. Layers of citrus ooze from this flavor, while light pineapple and<br> fruit notes add depth. It’ll scare you into a good mood.",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/products/000/348/801/avatar/1644886903-0e70ce89-ee97-4750-ad7a-cb3f90febdc9.jpeg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/products/000/348/801/avatar/1644886903-0e70ce89-ee97-4750-ad7a-cb3f90febdc9.jpeg",
+        "avatar_image_url": "https://images.weedmaps.com/products/000/348/801/avatar/1644886903-0e70ce89-ee97-4750-ad7a-cb3f90febdc9.jpeg",
+        "is_badged": true,
+        "brand_name": "Ultra Health Brand",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 35,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2022-02-24T16:04:29Z",
+        "updated_at": "2023-11-28T21:42:01Z",
+        "parent_category": {
+          "id": 3,
+          "name": "Concentrates",
+          "slug": "concentrates"
+        },
+        "sub_category": {
+          "id": 3,
+          "name": "Concentrates",
+          "slug": "concentrates"
+        },
+        "measurements": [],
+        "variants": [
+          {
+            "name": "1/2 gram",
+            "label": "1/2 g",
+            "price": {
+              "amount": "35.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.5,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 500,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/ultra-health-los-lunas/menu/vape-cartridge-ekto-cooler-5g",
+        "order": "https://weedmaps.com/dispensaries/ultra-health-los-lunas/menu/vape-cartridge-ekto-cooler-5g"
+      },
+      "relationships": {
+        "brand": {
+          "data": {
+            "id": 18618,
+            "type": "brand"
+          }
+        },
+        "listing": {
+          "data": {
+            "id": 62165,
+            "type": "dispensary"
+          }
+        },
+        "product": {
+          "data": {
+            "id": 348801,
+            "type": "product"
+          }
+        },
+        "strain": {
+          "data": {
+            "id": 5207,
+            "type": "strain"
+          }
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 3,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 335223266,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 89676121,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Vape Cartridge-Wedding Cake .5g",
+        "slug": "vape-cartridge-wedding-cake-5g",
+        "category_name": "Concentrates",
+        "body": "Strain: Hybrid<br><br>Fragrance: Cherry Pie and Girl Scout Cookies blend to form a tasty flavor with lemon and mango highlights <br>along with creamy lavender notes. A complex variety; the exhale holds <br>the citrus cream flavor. <br><br>Effects: Great for unwinding at the end of the day or just removing the discomfort of the day. Great for lifting your spirits.",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/products/000/348/813/avatar/1644886942-0e70ce89-ee97-4750-ad7a-cb3f90febdc9.jpeg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/products/000/348/813/avatar/1644886942-0e70ce89-ee97-4750-ad7a-cb3f90febdc9.jpeg",
+        "avatar_image_url": "https://images.weedmaps.com/products/000/348/813/avatar/1644886942-0e70ce89-ee97-4750-ad7a-cb3f90febdc9.jpeg",
+        "is_badged": true,
+        "brand_name": "Ultra Health Brand",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 35,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2022-02-24T16:04:53Z",
+        "updated_at": "2023-11-28T21:42:02Z",
+        "parent_category": {
+          "id": 3,
+          "name": "Concentrates",
+          "slug": "concentrates"
+        },
+        "sub_category": {
+          "id": 3,
+          "name": "Concentrates",
+          "slug": "concentrates"
+        },
+        "measurements": [],
+        "variants": [
+          {
+            "name": "1/2 gram",
+            "label": "1/2 g",
+            "price": {
+              "amount": "35.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.5,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 500,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/ultra-health-los-lunas/menu/vape-cartridge-wedding-cake-5g",
+        "order": "https://weedmaps.com/dispensaries/ultra-health-los-lunas/menu/vape-cartridge-wedding-cake-5g"
+      },
+      "relationships": {
+        "brand": {
+          "data": {
+            "id": 18618,
+            "type": "brand"
+          }
+        },
+        "listing": {
+          "data": {
+            "id": 62165,
+            "type": "dispensary"
+          }
+        },
+        "product": {
+          "data": {
+            "id": 348813,
+            "type": "product"
+          }
+        },
+        "strain": {
+          "data": {
+            "id": 178,
+            "type": "strain"
+          }
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 3,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 335223266,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 89676265,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Wax-Cherry Kush .5g",
+        "slug": "wax-cherry-kush-5g",
+        "category_name": "Concentrates",
+        "body": "Ultra Health Premium Concentrate",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/products/000/348/828/avatar/1644886981-180330_25374_white_tower_og_fts_001.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/products/000/348/828/avatar/1644886981-180330_25374_white_tower_og_fts_001.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/products/000/348/828/avatar/1644886981-180330_25374_white_tower_og_fts_001.jpg",
+        "is_badged": true,
+        "brand_name": "Ultra Health Brand",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 20,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2022-02-24T16:09:46Z",
+        "updated_at": "2023-11-28T21:42:02Z",
+        "parent_category": {
+          "id": 3,
+          "name": "Concentrates",
+          "slug": "concentrates"
+        },
+        "sub_category": {
+          "id": 3,
+          "name": "Concentrates",
+          "slug": "concentrates"
+        },
+        "measurements": [],
+        "variants": [
+          {
+            "name": "1/2 gram",
+            "label": "1/2 g",
+            "price": {
+              "amount": "20.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.5,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 500,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/ultra-health-los-lunas/menu/wax-cherry-kush-5g",
+        "order": "https://weedmaps.com/dispensaries/ultra-health-los-lunas/menu/wax-cherry-kush-5g"
+      },
+      "relationships": {
+        "brand": {
+          "data": {
+            "id": 18618,
+            "type": "brand"
+          }
+        },
+        "listing": {
+          "data": {
+            "id": 62165,
+            "type": "dispensary"
+          }
+        },
+        "product": {
+          "data": {
+            "id": 348828,
+            "type": "product"
+          }
+        },
+        "strain": {
+          "data": {
+            "id": 52,
+            "type": "strain"
+          }
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 3,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 335223266,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 89676290,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Wax-Citrus Twang .5g",
+        "slug": "wax-citrus-twang-5g",
+        "category_name": "Concentrates",
+        "body": "<p>Ultra Health Premium Concentrate</p>",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/products/000/348/837/avatar/1644887874-180326_13306_apc_gorillagripsauce.jpeg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/products/000/348/837/avatar/1644887874-180326_13306_apc_gorillagripsauce.jpeg",
+        "avatar_image_url": "https://images.weedmaps.com/products/000/348/837/avatar/1644887874-180326_13306_apc_gorillagripsauce.jpeg",
+        "is_badged": true,
+        "brand_name": "Ultra Health Brand",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 20,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2022-02-24T16:10:15Z",
+        "updated_at": "2023-11-28T21:42:02Z",
+        "parent_category": {
+          "id": 3,
+          "name": "Concentrates",
+          "slug": "concentrates"
+        },
+        "sub_category": {
+          "id": 3,
+          "name": "Concentrates",
+          "slug": "concentrates"
+        },
+        "measurements": [],
+        "variants": [
+          {
+            "name": "1/2 gram",
+            "label": "1/2 g",
+            "price": {
+              "amount": "20.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.5,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 500,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/ultra-health-los-lunas/menu/wax-citrus-twang-5g",
+        "order": "https://weedmaps.com/dispensaries/ultra-health-los-lunas/menu/wax-citrus-twang-5g"
+      },
+      "relationships": {
+        "brand": {
+          "data": {
+            "id": 18618,
+            "type": "brand"
+          }
+        },
+        "listing": {
+          "data": {
+            "id": 62165,
+            "type": "dispensary"
+          }
+        },
+        "product": {
+          "data": {
+            "id": 348837,
+            "type": "product"
+          }
+        },
+        "strain": {
+          "data": {
+            "id": 9371,
+            "type": "strain"
+          }
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 3,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 335223266,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 89676303,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Wax-Kush Cakes .5g",
+        "slug": "wax-kush-cakes-5g",
+        "category_name": "Concentrates",
+        "body": "Ultra Health Premium Concentrate",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/products/000/348/842/avatar/1644887021-180322_47731_threekings_calio.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/products/000/348/842/avatar/1644887021-180322_47731_threekings_calio.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/products/000/348/842/avatar/1644887021-180322_47731_threekings_calio.jpg",
+        "is_badged": true,
+        "brand_name": "Ultra Health Brand",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 20,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2022-02-24T16:10:35Z",
+        "updated_at": "2023-11-28T21:42:02Z",
+        "parent_category": {
+          "id": 3,
+          "name": "Concentrates",
+          "slug": "concentrates"
+        },
+        "sub_category": {
+          "id": 3,
+          "name": "Concentrates",
+          "slug": "concentrates"
+        },
+        "measurements": [],
+        "variants": [
+          {
+            "name": "1/2 gram",
+            "label": "1/2 g",
+            "price": {
+              "amount": "20.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.5,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 500,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/ultra-health-los-lunas/menu/wax-kush-cakes-5g",
+        "order": "https://weedmaps.com/dispensaries/ultra-health-los-lunas/menu/wax-kush-cakes-5g"
+      },
+      "relationships": {
+        "brand": {
+          "data": {
+            "id": 18618,
+            "type": "brand"
+          }
+        },
+        "listing": {
+          "data": {
+            "id": 62165,
+            "type": "dispensary"
+          }
+        },
+        "product": {
+          "data": {
+            "id": 348842,
+            "type": "product"
+          }
+        },
+        "strain": {
+          "data": {
+            "id": 7299,
+            "type": "strain"
+          }
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 3,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 335223266,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 89676308,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Wax-Orange Tangie .5g",
+        "slug": "wax-orange-tangie-5g",
+        "category_name": "Concentrates",
+        "body": "Ultra Health Premium Concentrate",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/products/000/348/856/avatar/1644887061-180313_premiummeds_sunsetsherbetcrumble_1.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/products/000/348/856/avatar/1644887061-180313_premiummeds_sunsetsherbetcrumble_1.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/products/000/348/856/avatar/1644887061-180313_premiummeds_sunsetsherbetcrumble_1.jpg",
+        "is_badged": true,
+        "brand_name": "Ultra Health Brand",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 20,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2022-02-24T16:10:57Z",
+        "updated_at": "2023-11-28T21:42:02Z",
+        "parent_category": {
+          "id": 3,
+          "name": "Concentrates",
+          "slug": "concentrates"
+        },
+        "sub_category": {
+          "id": 3,
+          "name": "Concentrates",
+          "slug": "concentrates"
+        },
+        "measurements": [],
+        "variants": [
+          {
+            "name": "1/2 gram",
+            "label": "1/2 g",
+            "price": {
+              "amount": "20.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.5,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 500,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/ultra-health-los-lunas/menu/wax-orange-tangie-5g",
+        "order": "https://weedmaps.com/dispensaries/ultra-health-los-lunas/menu/wax-orange-tangie-5g"
+      },
+      "relationships": {
+        "brand": {
+          "data": {
+            "id": 18618,
+            "type": "brand"
+          }
+        },
+        "listing": {
+          "data": {
+            "id": 62165,
+            "type": "dispensary"
+          }
+        },
+        "product": {
+          "data": {
+            "id": 348856,
+            "type": "product"
+          }
+        },
+        "strain": {
+          "data": {
+            "id": 7956,
+            "type": "strain"
+          }
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 3,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 335223266,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 89676313,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Wax-Pie Face .5g",
+        "slug": "wax-pie-face-5g",
+        "category_name": "Concentrates",
+        "body": "Ultra Health Premium Concentrate",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/products/000/348/858/avatar/1644887066-180313c_46104_santiago_dunbar_sugarwax_skunk_1_tmr.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/products/000/348/858/avatar/1644887066-180313c_46104_santiago_dunbar_sugarwax_skunk_1_tmr.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/products/000/348/858/avatar/1644887066-180313c_46104_santiago_dunbar_sugarwax_skunk_1_tmr.jpg",
+        "is_badged": true,
+        "brand_name": "Ultra Health Brand",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 20,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2022-02-24T16:11:16Z",
+        "updated_at": "2023-11-28T21:42:02Z",
+        "parent_category": {
+          "id": 3,
+          "name": "Concentrates",
+          "slug": "concentrates"
+        },
+        "sub_category": {
+          "id": 3,
+          "name": "Concentrates",
+          "slug": "concentrates"
+        },
+        "measurements": [],
+        "variants": [
+          {
+            "name": "1/2 gram",
+            "label": "1/2 g",
+            "price": {
+              "amount": "20.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.5,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 500,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/ultra-health-los-lunas/menu/wax-pie-face-5g",
+        "order": "https://weedmaps.com/dispensaries/ultra-health-los-lunas/menu/wax-pie-face-5g"
+      },
+      "relationships": {
+        "brand": {
+          "data": {
+            "id": 18618,
+            "type": "brand"
+          }
+        },
+        "listing": {
+          "data": {
+            "id": 62165,
+            "type": "dispensary"
+          }
+        },
+        "product": {
+          "data": {
+            "id": 348858,
+            "type": "product"
+          }
+        },
+        "strain": {
+          "data": {
+            "id": 535,
+            "type": "strain"
+          }
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 3,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 335223266,
+            "type": "listing"
+          }
+        }
+      }
+    }
+  ]
+}

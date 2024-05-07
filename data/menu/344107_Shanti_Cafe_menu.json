@@ -1,0 +1,4242 @@
+{
+  "meta": {
+    "page": 1,
+    "per_page": 100,
+    "total": 29
+  },
+  "data": [
+    {
+      "id": 138384926,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Growers Reserve Animal Mints 1g Pre Roll",
+        "slug": "growers-reserve-animal-mints-1g-pre-roll",
+        "category_name": "Flower",
+        "body": "",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/902/034/074/428754690_420default-Preroll.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/902/034/074/428754690_420default-Preroll.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/902/034/074/428754690_420default-Preroll.jpg",
+        "is_badged": false,
+        "brand_name": null,
+        "cannabinoids": {
+          "thc": "40.56",
+          "cbd": "0.05"
+        },
+        "genetics": "indica",
+        "prices": {
+          "price_unit": 5,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2023-09-01T16:47:50Z",
+        "updated_at": "2023-11-09T21:59:49Z",
+        "parent_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "sub_category": {
+          "id": 185,
+          "name": "Pre Roll",
+          "slug": "pre-roll"
+        },
+        "measurements": [
+          {
+            "id": 1408979335,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "%",
+            "value": "40.56"
+          },
+          {
+            "id": 1408979334,
+            "classification": "cannabinoid",
+            "full_name": "Cannabidiol",
+            "name": "CBD",
+            "unit": "%",
+            "value": "0.05"
+          }
+        ],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": 1,
+        "inventory_quantity": 20,
+        "shared_inventory": true
+      },
+      "links": {
+        "self": "/dispensaries/shanti-cafe/menu/growers-reserve-animal-mints-1g-pre-roll",
+        "order": "https://weedmaps.com/dispensaries/shanti-cafe/menu/growers-reserve-animal-mints-1g-pre-roll"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 344107,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 2
+          },
+          "data": [
+            {
+              "id": 185,
+              "type": "category"
+            },
+            {
+              "id": 2,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 902034074,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 138384930,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Tafoya Farms Sunday Driver Badder 1GM",
+        "slug": "tafoya-farms-sunday-driver-badder-1gm",
+        "category_name": "Concentrates",
+        "body": "",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/902/034/074/428754694_420default-Wax.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/902/034/074/428754694_420default-Wax.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/902/034/074/428754694_420default-Wax.jpg",
+        "is_badged": false,
+        "brand_name": "Tafoya Farms",
+        "cannabinoids": {
+          "cbd": "0.15",
+          "thc": "81.71"
+        },
+        "genetics": "hybrid",
+        "prices": {
+          "price_unit": 22,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2023-09-01T16:47:50Z",
+        "updated_at": "2024-03-06T13:30:44Z",
+        "parent_category": {
+          "id": 3,
+          "name": "Concentrates",
+          "slug": "concentrates"
+        },
+        "sub_category": {
+          "id": 48,
+          "name": "Budder",
+          "slug": "budder"
+        },
+        "measurements": [
+          {
+            "id": 1408979348,
+            "classification": "cannabinoid",
+            "full_name": "Cannabidiol",
+            "name": "CBD",
+            "unit": "%",
+            "value": "0.15"
+          },
+          {
+            "id": 1408979349,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "%",
+            "value": "81.71"
+          }
+        ],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": 1,
+        "inventory_quantity": 2,
+        "shared_inventory": true
+      },
+      "links": {
+        "self": "/dispensaries/shanti-cafe/menu/tafoya-farms-sunday-driver-badder-1gm",
+        "order": "https://weedmaps.com/dispensaries/shanti-cafe/menu/tafoya-farms-sunday-driver-badder-1gm"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 344107,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 2
+          },
+          "data": [
+            {
+              "id": 48,
+              "type": "category"
+            },
+            {
+              "id": 3,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 902034074,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 138384933,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Tafoya Farms GG4 Diamonds 1G",
+        "slug": "tafoya-farms-gg4-diamonds-1g",
+        "category_name": "Concentrates",
+        "body": "",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/902/034/074/428754695_420default-Wax.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/902/034/074/428754695_420default-Wax.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/902/034/074/428754695_420default-Wax.jpg",
+        "is_badged": false,
+        "brand_name": "Tafoya Farms",
+        "cannabinoids": {
+          "cbd": "0.01",
+          "thc": "86.56"
+        },
+        "genetics": "indica",
+        "prices": {
+          "price_unit": 32,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2023-09-01T16:47:50Z",
+        "updated_at": "2024-03-06T13:31:19Z",
+        "parent_category": {
+          "id": 3,
+          "name": "Concentrates",
+          "slug": "concentrates"
+        },
+        "sub_category": {
+          "id": 37,
+          "name": "Crystalline",
+          "slug": "crystalline"
+        },
+        "measurements": [
+          {
+            "id": 1408979353,
+            "classification": "cannabinoid",
+            "full_name": "Cannabidiol",
+            "name": "CBD",
+            "unit": "%",
+            "value": "0.01"
+          },
+          {
+            "id": 1408979354,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "%",
+            "value": "86.56"
+          }
+        ],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": 1,
+        "inventory_quantity": 2,
+        "shared_inventory": true
+      },
+      "links": {
+        "self": "/dispensaries/shanti-cafe/menu/tafoya-farms-gg4-diamonds-1g",
+        "order": "https://weedmaps.com/dispensaries/shanti-cafe/menu/tafoya-farms-gg4-diamonds-1g"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 344107,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 2
+          },
+          "data": [
+            {
+              "id": 37,
+              "type": "category"
+            },
+            {
+              "id": 3,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 902034074,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 138384934,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Tafoya Farms Kenny Powers OG Diamonds 1GM",
+        "slug": "tafoya-farms-kenny-powers-og-diamonds-1gm",
+        "category_name": "Concentrates",
+        "body": "",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/902/034/074/428754691_420default-Wax.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/902/034/074/428754691_420default-Wax.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/902/034/074/428754691_420default-Wax.jpg",
+        "is_badged": false,
+        "brand_name": "Tafoya Farms",
+        "cannabinoids": {
+          "thc": "80.86",
+          "cbd": "0.2"
+        },
+        "genetics": "hybrid",
+        "prices": {
+          "price_unit": 32,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2023-09-01T16:47:50Z",
+        "updated_at": "2024-03-06T13:31:20Z",
+        "parent_category": {
+          "id": 3,
+          "name": "Concentrates",
+          "slug": "concentrates"
+        },
+        "sub_category": {
+          "id": 37,
+          "name": "Crystalline",
+          "slug": "crystalline"
+        },
+        "measurements": [
+          {
+            "id": 1408979360,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "%",
+            "value": "80.86"
+          },
+          {
+            "id": 1408979359,
+            "classification": "cannabinoid",
+            "full_name": "Cannabidiol",
+            "name": "CBD",
+            "unit": "%",
+            "value": "0.2"
+          }
+        ],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": 1,
+        "inventory_quantity": 2,
+        "shared_inventory": true
+      },
+      "links": {
+        "self": "/dispensaries/shanti-cafe/menu/tafoya-farms-kenny-powers-og-diamonds-1gm",
+        "order": "https://weedmaps.com/dispensaries/shanti-cafe/menu/tafoya-farms-kenny-powers-og-diamonds-1gm"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 344107,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 2
+          },
+          "data": [
+            {
+              "id": 37,
+              "type": "category"
+            },
+            {
+              "id": 3,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 902034074,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 138384936,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Tafoya Farms GG4 Sugar 1GM",
+        "slug": "tafoya-farms-gg4-sugar-1gm",
+        "category_name": "Concentrates",
+        "body": "",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/902/034/074/428754701_420default-Wax.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/902/034/074/428754701_420default-Wax.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/902/034/074/428754701_420default-Wax.jpg",
+        "is_badged": false,
+        "brand_name": "Tafoya Farms",
+        "cannabinoids": {
+          "thc": "86.56",
+          "cbd": "0.01"
+        },
+        "genetics": "indica",
+        "prices": {
+          "price_unit": 22,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2023-09-01T16:47:50Z",
+        "updated_at": "2023-11-09T21:58:23Z",
+        "parent_category": {
+          "id": 3,
+          "name": "Concentrates",
+          "slug": "concentrates"
+        },
+        "sub_category": {
+          "id": 3,
+          "name": "Concentrates",
+          "slug": "concentrates"
+        },
+        "measurements": [
+          {
+            "id": 1408979365,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "%",
+            "value": "86.56"
+          },
+          {
+            "id": 1408979362,
+            "classification": "cannabinoid",
+            "full_name": "Cannabidiol",
+            "name": "CBD",
+            "unit": "%",
+            "value": "0.01"
+          }
+        ],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": 1,
+        "inventory_quantity": 2,
+        "shared_inventory": true
+      },
+      "links": {
+        "self": "/dispensaries/shanti-cafe/menu/tafoya-farms-gg4-sugar-1gm",
+        "order": "https://weedmaps.com/dispensaries/shanti-cafe/menu/tafoya-farms-gg4-sugar-1gm"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 344107,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 3,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 902034074,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 138384937,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Tafoya Farms Sunday Driver Sugar 1GM",
+        "slug": "tafoya-farms-sunday-driver-sugar-1gm",
+        "category_name": "Concentrates",
+        "body": "",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/902/034/074/428754697_420default-Wax.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/902/034/074/428754697_420default-Wax.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/902/034/074/428754697_420default-Wax.jpg",
+        "is_badged": false,
+        "brand_name": "Tafoya Farms",
+        "cannabinoids": {
+          "thc": "81.92",
+          "cbd": "0.01"
+        },
+        "genetics": "hybrid",
+        "prices": {
+          "price_unit": 22,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2023-09-01T16:47:50Z",
+        "updated_at": "2023-11-09T21:58:12Z",
+        "parent_category": {
+          "id": 3,
+          "name": "Concentrates",
+          "slug": "concentrates"
+        },
+        "sub_category": {
+          "id": 3,
+          "name": "Concentrates",
+          "slug": "concentrates"
+        },
+        "measurements": [
+          {
+            "id": 1408979368,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "%",
+            "value": "81.92"
+          },
+          {
+            "id": 1408979367,
+            "classification": "cannabinoid",
+            "full_name": "Cannabidiol",
+            "name": "CBD",
+            "unit": "%",
+            "value": "0.01"
+          }
+        ],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": 1,
+        "inventory_quantity": 2,
+        "shared_inventory": true
+      },
+      "links": {
+        "self": "/dispensaries/shanti-cafe/menu/tafoya-farms-sunday-driver-sugar-1gm",
+        "order": "https://weedmaps.com/dispensaries/shanti-cafe/menu/tafoya-farms-sunday-driver-sugar-1gm"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 344107,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 3,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 902034074,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 138384939,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Tafoya Farms T-Mac Sugar 1GM",
+        "slug": "tafoya-farms-t-mac-sugar-1gm",
+        "category_name": "Concentrates",
+        "body": "",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/902/034/074/428754692_420default-Wax.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/902/034/074/428754692_420default-Wax.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/902/034/074/428754692_420default-Wax.jpg",
+        "is_badged": false,
+        "brand_name": "Tafoya Farms",
+        "cannabinoids": {
+          "cbd": "0.14",
+          "thc": "71.09"
+        },
+        "genetics": "indica",
+        "prices": {
+          "price_unit": 22,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2023-09-01T16:47:50Z",
+        "updated_at": "2023-11-09T21:58:03Z",
+        "parent_category": {
+          "id": 3,
+          "name": "Concentrates",
+          "slug": "concentrates"
+        },
+        "sub_category": {
+          "id": 3,
+          "name": "Concentrates",
+          "slug": "concentrates"
+        },
+        "measurements": [
+          {
+            "id": 1408979369,
+            "classification": "cannabinoid",
+            "full_name": "Cannabidiol",
+            "name": "CBD",
+            "unit": "%",
+            "value": "0.14"
+          },
+          {
+            "id": 1408979370,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "%",
+            "value": "71.09"
+          }
+        ],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": 1,
+        "inventory_quantity": 2,
+        "shared_inventory": true
+      },
+      "links": {
+        "self": "/dispensaries/shanti-cafe/menu/tafoya-farms-t-mac-sugar-1gm",
+        "order": "https://weedmaps.com/dispensaries/shanti-cafe/menu/tafoya-farms-t-mac-sugar-1gm"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 344107,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 3,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 902034074,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 138384941,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Burque Budz Apple Fritter",
+        "slug": "burque-budz-apple-fritter",
+        "category_name": "Flower",
+        "body": "<p>Apple Fritter, a true hybrid weed strain, is known for its powerful and relaxing high. Put out by Lumpy’s Flowers, the Apple Fritter marijuana strain is a reported cross of Sour Apple and Animal Cookies. It's a great hybrid, combining the stone of GSC with the energy of a diesel. Apple Fritter cannabis has a flavor and aroma that come off as sweet and earthy, with a light, cheesy, apple pastry influence.</p>",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/902/034/074/428754711_420default-Flower.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/902/034/074/428754711_420default-Flower.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/902/034/074/428754711_420default-Flower.jpg",
+        "is_badged": false,
+        "brand_name": null,
+        "cannabinoids": {
+          "thc": "47.24",
+          "cbd": "0.07"
+        },
+        "genetics": "hybrid",
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 5,
+          "price_gram": 8,
+          "price_two_grams": 15,
+          "price_eighth": 25,
+          "price_quarter": 45,
+          "price_half_ounce": 65,
+          "price_ounce": 150,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2023-09-01T16:47:51Z",
+        "updated_at": "2023-11-09T21:56:44Z",
+        "parent_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "sub_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "measurements": [
+          {
+            "id": 1408979372,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "%",
+            "value": "47.24"
+          },
+          {
+            "id": 1408979371,
+            "classification": "cannabinoid",
+            "full_name": "Cannabidiol",
+            "name": "CBD",
+            "unit": "%",
+            "value": "0.07"
+          }
+        ],
+        "variants": [
+          {
+            "name": "1/2 gram",
+            "label": "1/2 g",
+            "price": {
+              "amount": "5.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.5,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 500,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          },
+          {
+            "name": "1 gram",
+            "label": "1 g",
+            "price": {
+              "amount": "8.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 1,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 1000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          },
+          {
+            "name": "2 grams",
+            "label": "2 g",
+            "price": {
+              "amount": "15.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 2,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 2000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          },
+          {
+            "name": "1/8 ounce",
+            "label": "1/8 oz",
+            "price": {
+              "amount": "25.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.125,
+              "unit": "oz"
+            },
+            "sku": null,
+            "compliance_net_mg": 3500,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          },
+          {
+            "name": "1/4 ounce",
+            "label": "1/4 oz",
+            "price": {
+              "amount": "45.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.25,
+              "unit": "oz"
+            },
+            "sku": null,
+            "compliance_net_mg": 7000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          },
+          {
+            "name": "1/2 ounce",
+            "label": "1/2 oz",
+            "price": {
+              "amount": "65.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.5,
+              "unit": "oz"
+            },
+            "sku": null,
+            "compliance_net_mg": 14000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          },
+          {
+            "name": "1 ounce",
+            "label": "1 oz",
+            "price": {
+              "amount": "150.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 1,
+              "unit": "oz"
+            },
+            "sku": null,
+            "compliance_net_mg": 28000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": 1,
+        "inventory_quantity": 70,
+        "shared_inventory": true
+      },
+      "links": {
+        "self": "/dispensaries/shanti-cafe/menu/burque-budz-apple-fritter",
+        "order": "https://weedmaps.com/dispensaries/shanti-cafe/menu/burque-budz-apple-fritter"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 344107,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 2,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 902034074,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 138384942,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Burque Budz Baby Yoda",
+        "slug": "burque-budz-baby-yoda",
+        "category_name": "Flower",
+        "body": "<p>Baby Yoda, also known as \"Grogu\", is an adorable hybrid weed strain made by crossing Khalifa Kush and The Menthol. Its buds are the bright, swampy green of Yoda himself or a green lightsaber, with orange hairs and abundant golden trichomes. The effects of Baby Yoda are believed to be sedating and tingly. Reviewers on Leafly say this weed strain makes them feel aroused, uplifted, and focused, but it won’t team you up with a Mandalorian. Baby Yoda has 24% THC. The dominant terpenes are myrcene and caryophyllene, which give off a diesel, tobacco-laced nose with sweet notes. Medical marijuana patients say they buy Baby Yoda for help with stress. The original breeder of Baby Yoda is Compound Genetics.</p>",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/902/034/074/428754700_420default-Flower.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/902/034/074/428754700_420default-Flower.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/902/034/074/428754700_420default-Flower.jpg",
+        "is_badged": false,
+        "brand_name": "Burque",
+        "cannabinoids": {
+          "cbd": "0.11",
+          "thc": "41.45"
+        },
+        "genetics": "hybrid",
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 5,
+          "price_gram": 8,
+          "price_two_grams": 15,
+          "price_eighth": 25,
+          "price_quarter": 45,
+          "price_half_ounce": 65,
+          "price_ounce": 150,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2023-09-01T16:47:51Z",
+        "updated_at": "2023-11-09T21:56:23Z",
+        "parent_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "sub_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "measurements": [
+          {
+            "id": 1408979375,
+            "classification": "cannabinoid",
+            "full_name": "Cannabidiol",
+            "name": "CBD",
+            "unit": "%",
+            "value": "0.11"
+          },
+          {
+            "id": 1408979376,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "%",
+            "value": "41.45"
+          }
+        ],
+        "variants": [
+          {
+            "name": "1/2 gram",
+            "label": "1/2 g",
+            "price": {
+              "amount": "5.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.5,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 500,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          },
+          {
+            "name": "1 gram",
+            "label": "1 g",
+            "price": {
+              "amount": "8.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 1,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 1000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          },
+          {
+            "name": "2 grams",
+            "label": "2 g",
+            "price": {
+              "amount": "15.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 2,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 2000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          },
+          {
+            "name": "1/8 ounce",
+            "label": "1/8 oz",
+            "price": {
+              "amount": "25.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.125,
+              "unit": "oz"
+            },
+            "sku": null,
+            "compliance_net_mg": 3500,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          },
+          {
+            "name": "1/4 ounce",
+            "label": "1/4 oz",
+            "price": {
+              "amount": "45.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.25,
+              "unit": "oz"
+            },
+            "sku": null,
+            "compliance_net_mg": 7000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          },
+          {
+            "name": "1/2 ounce",
+            "label": "1/2 oz",
+            "price": {
+              "amount": "65.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.5,
+              "unit": "oz"
+            },
+            "sku": null,
+            "compliance_net_mg": 14000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          },
+          {
+            "name": "1 ounce",
+            "label": "1 oz",
+            "price": {
+              "amount": "150.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 1,
+              "unit": "oz"
+            },
+            "sku": null,
+            "compliance_net_mg": 28000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": 1,
+        "inventory_quantity": 50,
+        "shared_inventory": true
+      },
+      "links": {
+        "self": "/dispensaries/shanti-cafe/menu/burque-budz-baby-yoda",
+        "order": "https://weedmaps.com/dispensaries/shanti-cafe/menu/burque-budz-baby-yoda"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 344107,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 2,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 902034074,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 138384943,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Burque Budz Cheetah Piss",
+        "slug": "burque-budz-cheetah-piss",
+        "category_name": "Flower",
+        "body": "<p>A trifecta of quality strains from Growing Passion and Cookies Fam, Cheetah Piss crosses Lemonnade, Gelato 42, and London Poundcake 97. While the name is an homage to famous old school strain Cat Piss, there isn’t much in common when it comes to the highs. As far as its terpene profile, Cheetah Piss is funky just like Cat Piss, reminding consumers of those strains with weird, uncommon qualities.</p>",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/902/034/074/428754699_420default-Flower.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/902/034/074/428754699_420default-Flower.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/902/034/074/428754699_420default-Flower.jpg",
+        "is_badged": false,
+        "brand_name": "Burque",
+        "cannabinoids": {
+          "thc": "45.01",
+          "cbd": "0.07"
+        },
+        "genetics": "hybrid",
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 5,
+          "price_gram": 8,
+          "price_two_grams": 15,
+          "price_eighth": 25,
+          "price_quarter": 45,
+          "price_half_ounce": 65,
+          "price_ounce": 150,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2023-09-01T16:47:51Z",
+        "updated_at": "2023-11-09T21:55:58Z",
+        "parent_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "sub_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "measurements": [
+          {
+            "id": 1408979380,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "%",
+            "value": "45.01"
+          },
+          {
+            "id": 1408979379,
+            "classification": "cannabinoid",
+            "full_name": "Cannabidiol",
+            "name": "CBD",
+            "unit": "%",
+            "value": "0.07"
+          }
+        ],
+        "variants": [
+          {
+            "name": "1/2 gram",
+            "label": "1/2 g",
+            "price": {
+              "amount": "5.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.5,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 500,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          },
+          {
+            "name": "1 gram",
+            "label": "1 g",
+            "price": {
+              "amount": "8.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 1,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 1000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          },
+          {
+            "name": "2 grams",
+            "label": "2 g",
+            "price": {
+              "amount": "15.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 2,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 2000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          },
+          {
+            "name": "1/8 ounce",
+            "label": "1/8 oz",
+            "price": {
+              "amount": "25.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.125,
+              "unit": "oz"
+            },
+            "sku": null,
+            "compliance_net_mg": 3500,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          },
+          {
+            "name": "1/4 ounce",
+            "label": "1/4 oz",
+            "price": {
+              "amount": "45.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.25,
+              "unit": "oz"
+            },
+            "sku": null,
+            "compliance_net_mg": 7000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          },
+          {
+            "name": "1/2 ounce",
+            "label": "1/2 oz",
+            "price": {
+              "amount": "65.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.5,
+              "unit": "oz"
+            },
+            "sku": null,
+            "compliance_net_mg": 14000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          },
+          {
+            "name": "1 ounce",
+            "label": "1 oz",
+            "price": {
+              "amount": "150.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 1,
+              "unit": "oz"
+            },
+            "sku": null,
+            "compliance_net_mg": 28000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": 1,
+        "inventory_quantity": 67,
+        "shared_inventory": true
+      },
+      "links": {
+        "self": "/dispensaries/shanti-cafe/menu/burque-budz-cheetah-piss",
+        "order": "https://weedmaps.com/dispensaries/shanti-cafe/menu/burque-budz-cheetah-piss"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 344107,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 2,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 902034074,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 138384946,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Burque Budz Grandi Guava",
+        "slug": "burque-budz-grandi-guava",
+        "category_name": "Flower",
+        "body": "<p></p><p>Grandi Guava is a hybrid weed strain made from a genetic cross between Guava and Gelato. This indica-leaning hybrid is a Grandiflora creation that offers a fruity and cheesy aroma and flavor, with hints of tropical guava and creamy blue cheese. Grandi Guava is 19% THC, making this strain an ideal choice for experienced cannabis consumers. Leafly customers tell us Grandi Guava effects include uplifted, hungry, and energetic. Medical marijuana patients often choose Grandi Guava when dealing with symptoms associated with anxiety, stress, and depression. Bred by Grandiflora, Grandi Guava features flavors like tropical, pepper, and tree fruit. The dominant terpene of this strain is b-caryophyllene. The average price of Grandi Guava typically ranges from $40-$60 per 3.5g. Grandi Guava buds are dark purple with flecks of green and are covered in glittering trichomes that sparkle like the sun reflecting off the river water. This strain is a tasty mood booster that leaves users relaxed and ready to rest.</p>",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/902/034/074/428754698_420default-Flower.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/902/034/074/428754698_420default-Flower.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/902/034/074/428754698_420default-Flower.jpg",
+        "is_badged": false,
+        "brand_name": "Burque",
+        "cannabinoids": {
+          "cbd": "0.09",
+          "thc": "46.46"
+        },
+        "genetics": "hybrid",
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 5,
+          "price_gram": 8,
+          "price_two_grams": 15,
+          "price_eighth": 25,
+          "price_quarter": 45,
+          "price_half_ounce": 65,
+          "price_ounce": 150,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2023-09-01T16:47:51Z",
+        "updated_at": "2023-11-09T21:55:33Z",
+        "parent_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "sub_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "measurements": [
+          {
+            "id": 1408979387,
+            "classification": "cannabinoid",
+            "full_name": "Cannabidiol",
+            "name": "CBD",
+            "unit": "%",
+            "value": "0.09"
+          },
+          {
+            "id": 1408979388,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "%",
+            "value": "46.46"
+          }
+        ],
+        "variants": [
+          {
+            "name": "1/2 gram",
+            "label": "1/2 g",
+            "price": {
+              "amount": "5.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.5,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 500,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          },
+          {
+            "name": "1 gram",
+            "label": "1 g",
+            "price": {
+              "amount": "8.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 1,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 1000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          },
+          {
+            "name": "2 grams",
+            "label": "2 g",
+            "price": {
+              "amount": "15.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 2,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 2000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          },
+          {
+            "name": "1/8 ounce",
+            "label": "1/8 oz",
+            "price": {
+              "amount": "25.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.125,
+              "unit": "oz"
+            },
+            "sku": null,
+            "compliance_net_mg": 3500,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          },
+          {
+            "name": "1/4 ounce",
+            "label": "1/4 oz",
+            "price": {
+              "amount": "45.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.25,
+              "unit": "oz"
+            },
+            "sku": null,
+            "compliance_net_mg": 7000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          },
+          {
+            "name": "1/2 ounce",
+            "label": "1/2 oz",
+            "price": {
+              "amount": "65.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.5,
+              "unit": "oz"
+            },
+            "sku": null,
+            "compliance_net_mg": 14000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          },
+          {
+            "name": "1 ounce",
+            "label": "1 oz",
+            "price": {
+              "amount": "150.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 1,
+              "unit": "oz"
+            },
+            "sku": null,
+            "compliance_net_mg": 28000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": 1,
+        "inventory_quantity": 46,
+        "shared_inventory": true
+      },
+      "links": {
+        "self": "/dispensaries/shanti-cafe/menu/burque-budz-grandi-guava",
+        "order": "https://weedmaps.com/dispensaries/shanti-cafe/menu/burque-budz-grandi-guava"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 344107,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 2,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 902034074,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 138384947,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Burque Budz Ooh La La",
+        "slug": "burque-budz-ooh-la-la",
+        "category_name": "Flower",
+        "body": "<p></p><p>Ooh La La is a hybrid weed strain made from a genetic cross between Wedding Cake and London Poundcake. Bred by The Real Lemonnade, Ooh La La is 20% THC, making this strain an ideal choice for beginner and experienced cannabis consumers. Customers tell us Ooh La La effects make them feel relaxed, talkative, and aroused. Medical marijuana patients often choose Ooh La La when dealing with symptoms associated with anxiety, depression, and bipolar disorder. The dominant terpene of this cannabis strain is caryophyllene. Ooh La La features an aroma and flavor profile of cheese, apricot, and slightly chemical.</p>",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/902/034/074/428754710_420default-Flower.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/902/034/074/428754710_420default-Flower.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/902/034/074/428754710_420default-Flower.jpg",
+        "is_badged": false,
+        "brand_name": "Burque",
+        "cannabinoids": {
+          "thc": "47.49",
+          "cbd": "0.11"
+        },
+        "genetics": "hybrid",
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 5,
+          "price_gram": 8,
+          "price_two_grams": 15,
+          "price_eighth": 25,
+          "price_quarter": 45,
+          "price_half_ounce": 65,
+          "price_ounce": 150,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2023-09-01T16:47:51Z",
+        "updated_at": "2023-11-09T21:55:08Z",
+        "parent_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "sub_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "measurements": [
+          {
+            "id": 1408979394,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "%",
+            "value": "47.49"
+          },
+          {
+            "id": 1408979393,
+            "classification": "cannabinoid",
+            "full_name": "Cannabidiol",
+            "name": "CBD",
+            "unit": "%",
+            "value": "0.11"
+          }
+        ],
+        "variants": [
+          {
+            "name": "1/2 gram",
+            "label": "1/2 g",
+            "price": {
+              "amount": "5.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.5,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 500,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          },
+          {
+            "name": "1 gram",
+            "label": "1 g",
+            "price": {
+              "amount": "8.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 1,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 1000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          },
+          {
+            "name": "2 grams",
+            "label": "2 g",
+            "price": {
+              "amount": "15.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 2,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 2000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          },
+          {
+            "name": "1/8 ounce",
+            "label": "1/8 oz",
+            "price": {
+              "amount": "25.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.125,
+              "unit": "oz"
+            },
+            "sku": null,
+            "compliance_net_mg": 3500,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          },
+          {
+            "name": "1/4 ounce",
+            "label": "1/4 oz",
+            "price": {
+              "amount": "45.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.25,
+              "unit": "oz"
+            },
+            "sku": null,
+            "compliance_net_mg": 7000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          },
+          {
+            "name": "1/2 ounce",
+            "label": "1/2 oz",
+            "price": {
+              "amount": "65.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.5,
+              "unit": "oz"
+            },
+            "sku": null,
+            "compliance_net_mg": 14000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          },
+          {
+            "name": "1 ounce",
+            "label": "1 oz",
+            "price": {
+              "amount": "150.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 1,
+              "unit": "oz"
+            },
+            "sku": null,
+            "compliance_net_mg": 28000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": 1,
+        "inventory_quantity": 41,
+        "shared_inventory": true
+      },
+      "links": {
+        "self": "/dispensaries/shanti-cafe/menu/burque-budz-ooh-la-la",
+        "order": "https://weedmaps.com/dispensaries/shanti-cafe/menu/burque-budz-ooh-la-la"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 344107,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 2,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 902034074,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 138384949,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Burque Budz Oreo Cake",
+        "slug": "burque-budz-oreo-cake",
+        "category_name": "Flower",
+        "body": "<p></p><p>Oreo Cake is a hybrid weed strain. Reviewers on Leafly say this strain makes them feel relaxed, giggly, and aroused.</p>",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/902/034/074/428754708_420default-Flower.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/902/034/074/428754708_420default-Flower.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/902/034/074/428754708_420default-Flower.jpg",
+        "is_badged": false,
+        "brand_name": null,
+        "cannabinoids": {
+          "thc": "40.09",
+          "cbd": "0.05"
+        },
+        "genetics": "hybrid",
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 5,
+          "price_gram": 8,
+          "price_two_grams": 15,
+          "price_eighth": 25,
+          "price_quarter": 45,
+          "price_half_ounce": 65,
+          "price_ounce": 150,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2023-09-01T16:47:51Z",
+        "updated_at": "2023-11-09T21:54:38Z",
+        "parent_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "sub_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "measurements": [
+          {
+            "id": 1408979400,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "%",
+            "value": "40.09"
+          },
+          {
+            "id": 1408979399,
+            "classification": "cannabinoid",
+            "full_name": "Cannabidiol",
+            "name": "CBD",
+            "unit": "%",
+            "value": "0.05"
+          }
+        ],
+        "variants": [
+          {
+            "name": "1/2 gram",
+            "label": "1/2 g",
+            "price": {
+              "amount": "5.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.5,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 500,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          },
+          {
+            "name": "1 gram",
+            "label": "1 g",
+            "price": {
+              "amount": "8.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 1,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 1000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          },
+          {
+            "name": "2 grams",
+            "label": "2 g",
+            "price": {
+              "amount": "15.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 2,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 2000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          },
+          {
+            "name": "1/8 ounce",
+            "label": "1/8 oz",
+            "price": {
+              "amount": "25.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.125,
+              "unit": "oz"
+            },
+            "sku": null,
+            "compliance_net_mg": 3500,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          },
+          {
+            "name": "1/4 ounce",
+            "label": "1/4 oz",
+            "price": {
+              "amount": "45.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.25,
+              "unit": "oz"
+            },
+            "sku": null,
+            "compliance_net_mg": 7000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          },
+          {
+            "name": "1/2 ounce",
+            "label": "1/2 oz",
+            "price": {
+              "amount": "65.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.5,
+              "unit": "oz"
+            },
+            "sku": null,
+            "compliance_net_mg": 14000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          },
+          {
+            "name": "1 ounce",
+            "label": "1 oz",
+            "price": {
+              "amount": "150.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 1,
+              "unit": "oz"
+            },
+            "sku": null,
+            "compliance_net_mg": 28000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": 1,
+        "inventory_quantity": 55,
+        "shared_inventory": true
+      },
+      "links": {
+        "self": "/dispensaries/shanti-cafe/menu/burque-budz-oreo-cake",
+        "order": "https://weedmaps.com/dispensaries/shanti-cafe/menu/burque-budz-oreo-cake"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 344107,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 2,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 902034074,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 138384951,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Burque Budz Wedding Cake",
+        "slug": "burque-budz-wedding-cake",
+        "category_name": "Flower",
+        "body": "<p>Wedding Cake, also known as \"Triangle Mints #23,\" is a potent type of indica-hybrid marijuana strain made by crossing Triangle Kush with Animal Mints. Fun fact: In Canada, this strain is known as Pink Cookies. The Wedding Cake strain provides relaxing and euphoric effects that calm the body and mind. This strain yields a rich and tangy flavor profile with undertones of earthy pepper. Medical marijuana patients choose Wedding Cake to help relieve symptoms associated with pain, insomnia and appetite loss. Consumers with a low THC tolerance should enjoy this strain with an extra slice of care due to its high THC content. Wedding Cake has soared in popularity over the years and was named Leafly Strain of the Year in 2019.</p>",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/902/034/074/428754696_420default-Flower.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/902/034/074/428754696_420default-Flower.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/902/034/074/428754696_420default-Flower.jpg",
+        "is_badged": false,
+        "brand_name": "Burque",
+        "cannabinoids": {
+          "thc": "54.04",
+          "cbd": "0.09"
+        },
+        "genetics": "indica",
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 5,
+          "price_gram": 8,
+          "price_two_grams": 15,
+          "price_eighth": 25,
+          "price_quarter": 45,
+          "price_half_ounce": 65,
+          "price_ounce": 150,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2023-09-01T16:47:51Z",
+        "updated_at": "2023-11-09T21:54:07Z",
+        "parent_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "sub_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "measurements": [
+          {
+            "id": 1408979410,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "%",
+            "value": "54.04"
+          },
+          {
+            "id": 1408979409,
+            "classification": "cannabinoid",
+            "full_name": "Cannabidiol",
+            "name": "CBD",
+            "unit": "%",
+            "value": "0.09"
+          }
+        ],
+        "variants": [
+          {
+            "name": "1/2 gram",
+            "label": "1/2 g",
+            "price": {
+              "amount": "5.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.5,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 500,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          },
+          {
+            "name": "1 gram",
+            "label": "1 g",
+            "price": {
+              "amount": "8.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 1,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 1000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          },
+          {
+            "name": "2 grams",
+            "label": "2 g",
+            "price": {
+              "amount": "15.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 2,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 2000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          },
+          {
+            "name": "1/8 ounce",
+            "label": "1/8 oz",
+            "price": {
+              "amount": "25.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.125,
+              "unit": "oz"
+            },
+            "sku": null,
+            "compliance_net_mg": 3500,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          },
+          {
+            "name": "1/4 ounce",
+            "label": "1/4 oz",
+            "price": {
+              "amount": "45.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.25,
+              "unit": "oz"
+            },
+            "sku": null,
+            "compliance_net_mg": 7000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          },
+          {
+            "name": "1/2 ounce",
+            "label": "1/2 oz",
+            "price": {
+              "amount": "65.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.5,
+              "unit": "oz"
+            },
+            "sku": null,
+            "compliance_net_mg": 14000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          },
+          {
+            "name": "1 ounce",
+            "label": "1 oz",
+            "price": {
+              "amount": "150.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 1,
+              "unit": "oz"
+            },
+            "sku": null,
+            "compliance_net_mg": 28000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": 1,
+        "inventory_quantity": 48,
+        "shared_inventory": true
+      },
+      "links": {
+        "self": "/dispensaries/shanti-cafe/menu/burque-budz-wedding-cake",
+        "order": "https://weedmaps.com/dispensaries/shanti-cafe/menu/burque-budz-wedding-cake"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 344107,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 2,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 902034074,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 138384953,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Tafoya Farms Cured Resin Cart GG4 1GM",
+        "slug": "tafoya-farms-cured-resin-cart-gg4-1gm",
+        "category_name": "Vape Pens",
+        "body": "",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/902/034/074/428754702_420default-VapePen.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/902/034/074/428754702_420default-VapePen.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/902/034/074/428754702_420default-VapePen.jpg",
+        "is_badged": false,
+        "brand_name": "Tafoya Farms",
+        "cannabinoids": {
+          "thc": "99.99",
+          "cbd": "2.0"
+        },
+        "genetics": "indica",
+        "prices": {
+          "price_unit": 26,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2023-09-01T16:47:51Z",
+        "updated_at": "2023-11-09T22:00:40Z",
+        "parent_category": {
+          "id": 4,
+          "name": "Vape Pens",
+          "slug": "vape-pens"
+        },
+        "sub_category": {
+          "id": 4,
+          "name": "Vape Pens",
+          "slug": "vape-pens"
+        },
+        "measurements": [
+          {
+            "id": 1408979414,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "%",
+            "value": "99.99"
+          },
+          {
+            "id": 1408979413,
+            "classification": "cannabinoid",
+            "full_name": "Cannabidiol",
+            "name": "CBD",
+            "unit": "%",
+            "value": "2.0"
+          }
+        ],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": 1,
+        "inventory_quantity": 10,
+        "shared_inventory": true
+      },
+      "links": {
+        "self": "/dispensaries/shanti-cafe/menu/tafoya-farms-cured-resin-cart-gg4-1gm",
+        "order": "https://weedmaps.com/dispensaries/shanti-cafe/menu/tafoya-farms-cured-resin-cart-gg4-1gm"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 344107,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 4,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 902034074,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 138384954,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Tafoya Farms Cured Resin Cart Kenny Powers OG 1G",
+        "slug": "tafoya-farms-cured-resin-cart-kenny-powers-og-1g",
+        "category_name": "Vape Pens",
+        "body": "",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/902/034/074/428754705_420default-VapePen.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/902/034/074/428754705_420default-VapePen.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/902/034/074/428754705_420default-VapePen.jpg",
+        "is_badged": false,
+        "brand_name": "Tafoya Farms",
+        "cannabinoids": {
+          "thc": "96.2",
+          "cbd": "0.26"
+        },
+        "genetics": "hybrid",
+        "prices": {
+          "price_unit": 26,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2023-09-01T16:47:52Z",
+        "updated_at": "2023-11-09T22:00:28Z",
+        "parent_category": {
+          "id": 4,
+          "name": "Vape Pens",
+          "slug": "vape-pens"
+        },
+        "sub_category": {
+          "id": 4,
+          "name": "Vape Pens",
+          "slug": "vape-pens"
+        },
+        "measurements": [
+          {
+            "id": 1408979416,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "%",
+            "value": "96.2"
+          },
+          {
+            "id": 1408979415,
+            "classification": "cannabinoid",
+            "full_name": "Cannabidiol",
+            "name": "CBD",
+            "unit": "%",
+            "value": "0.26"
+          }
+        ],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": 1,
+        "inventory_quantity": 10,
+        "shared_inventory": true
+      },
+      "links": {
+        "self": "/dispensaries/shanti-cafe/menu/tafoya-farms-cured-resin-cart-kenny-powers-og-1g",
+        "order": "https://weedmaps.com/dispensaries/shanti-cafe/menu/tafoya-farms-cured-resin-cart-kenny-powers-og-1g"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 344107,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 4,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 902034074,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 138384957,
+      "type": "menu_item",
+      "attributes": {
+        "name": "505 Budz Hypothermia Cart 1G",
+        "slug": "505-budz-hypothermia-cart-1g",
+        "category_name": "Vape Pens",
+        "body": "<p>Dominant Terps Limonene Humulene Myrcene Caryophyllene</p>",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/902/034/074/428754704_420default-VapePen.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/902/034/074/428754704_420default-VapePen.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/902/034/074/428754704_420default-VapePen.jpg",
+        "is_badged": false,
+        "brand_name": null,
+        "cannabinoids": {
+          "thc": "56.98",
+          "cbd": "0.01"
+        },
+        "genetics": "hybrid",
+        "prices": {
+          "price_unit": 26,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2023-09-01T16:47:52Z",
+        "updated_at": "2023-11-09T22:00:15Z",
+        "parent_category": {
+          "id": 4,
+          "name": "Vape Pens",
+          "slug": "vape-pens"
+        },
+        "sub_category": {
+          "id": 4,
+          "name": "Vape Pens",
+          "slug": "vape-pens"
+        },
+        "measurements": [
+          {
+            "id": 1408979422,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "%",
+            "value": "56.98"
+          },
+          {
+            "id": 1408979421,
+            "classification": "cannabinoid",
+            "full_name": "Cannabidiol",
+            "name": "CBD",
+            "unit": "%",
+            "value": "0.01"
+          }
+        ],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": 1,
+        "inventory_quantity": 10,
+        "shared_inventory": true
+      },
+      "links": {
+        "self": "/dispensaries/shanti-cafe/menu/505-budz-hypothermia-cart-1g",
+        "order": "https://weedmaps.com/dispensaries/shanti-cafe/menu/505-budz-hypothermia-cart-1g"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 344107,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 4,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 902034074,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 144228333,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Nero Hash of Gods Golden Crisps Cold Cure Badder .5g",
+        "slug": "nero-hash-of-gods-golden-crisps-cold-cure-badder-5g",
+        "category_name": "Concentrates",
+        "body": "<p>Top Shelf Badder</p>",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/categories/000/000/003/placeholder/1613661821-1613605716-concentrates_image_missing.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/categories/000/000/003/placeholder/1613661821-1613605716-concentrates_image_missing.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/categories/000/000/003/placeholder/1613661821-1613605716-concentrates_image_missing.jpg",
+        "is_badged": false,
+        "brand_name": "Pharmers Quality Concentrates",
+        "cannabinoids": {
+          "cbd": "0.1",
+          "thc": "73.4"
+        },
+        "genetics": "hybrid",
+        "prices": {
+          "price_unit": 45,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2023-11-09T22:05:18Z",
+        "updated_at": "2023-11-09T22:05:18Z",
+        "parent_category": {
+          "id": 3,
+          "name": "Concentrates",
+          "slug": "concentrates"
+        },
+        "sub_category": {
+          "id": 48,
+          "name": "Budder",
+          "slug": "budder"
+        },
+        "measurements": [
+          {
+            "id": 1487625372,
+            "classification": "cannabinoid",
+            "full_name": "Cannabidiol",
+            "name": "CBD",
+            "unit": "mg",
+            "value": "0.1"
+          },
+          {
+            "id": 1487625371,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "mg",
+            "value": "3.67"
+          },
+          {
+            "id": 1487625370,
+            "classification": "cannabinoid",
+            "full_name": "Cannabidiol",
+            "name": "CBD",
+            "unit": "%",
+            "value": "0.1"
+          },
+          {
+            "id": 1487625369,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "%",
+            "value": "73.4"
+          }
+        ],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/shanti-cafe/menu/nero-hash-of-gods-golden-crisps-cold-cure-badder-5g",
+        "order": "https://weedmaps.com/dispensaries/shanti-cafe/menu/nero-hash-of-gods-golden-crisps-cold-cure-badder-5g"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 344107,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 2
+          },
+          "data": [
+            {
+              "id": 48,
+              "type": "category"
+            },
+            {
+              "id": 3,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 902034074,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 144228661,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Pharmers Quality 1G Cali Dream Dispo Pen",
+        "slug": "pharmers-quality-1g-cali-dream-dispo-pen",
+        "category_name": "Vape Pens",
+        "body": "",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/categories/000/000/004/placeholder/1613661827-1613605721-vape-pens_image_missing.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/categories/000/000/004/placeholder/1613661827-1613605721-vape-pens_image_missing.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/categories/000/000/004/placeholder/1613661827-1613605721-vape-pens_image_missing.jpg",
+        "is_badged": false,
+        "brand_name": "Pharmers Quality Concentrates",
+        "cannabinoids": {
+          "cbd": "0.1",
+          "thc": "70.7"
+        },
+        "genetics": "hybrid",
+        "prices": {
+          "price_unit": 50,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2023-11-09T22:08:28Z",
+        "updated_at": "2023-11-09T22:08:28Z",
+        "parent_category": {
+          "id": 4,
+          "name": "Vape Pens",
+          "slug": "vape-pens"
+        },
+        "sub_category": {
+          "id": 40,
+          "name": "Disposable",
+          "slug": "disposable"
+        },
+        "measurements": [
+          {
+            "id": 1487625828,
+            "classification": "cannabinoid",
+            "full_name": "Cannabidiol",
+            "name": "CBD",
+            "unit": "mg",
+            "value": "0.1"
+          },
+          {
+            "id": 1487625827,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "mg",
+            "value": "707.0"
+          },
+          {
+            "id": 1487625826,
+            "classification": "cannabinoid",
+            "full_name": "Cannabidiol",
+            "name": "CBD",
+            "unit": "%",
+            "value": "0.1"
+          },
+          {
+            "id": 1487625825,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "%",
+            "value": "70.7"
+          }
+        ],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/shanti-cafe/menu/pharmers-quality-1g-cali-dream-dispo-pen",
+        "order": "https://weedmaps.com/dispensaries/shanti-cafe/menu/pharmers-quality-1g-cali-dream-dispo-pen"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 344107,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": {
+            "id": 3773,
+            "type": "strain"
+          }
+        },
+        "categories": {
+          "meta": {
+            "total": 2
+          },
+          "data": [
+            {
+              "id": 40,
+              "type": "category"
+            },
+            {
+              "id": 4,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 902034074,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 144228886,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Pharmers Quality 1G Girl Scout Cookies Dispo Pen",
+        "slug": "pharmers-quality-1g-girl-scout-cookies-dispo-pen",
+        "category_name": "Vape Pens",
+        "body": "",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/categories/000/000/004/placeholder/1613661827-1613605721-vape-pens_image_missing.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/categories/000/000/004/placeholder/1613661827-1613605721-vape-pens_image_missing.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/categories/000/000/004/placeholder/1613661827-1613605721-vape-pens_image_missing.jpg",
+        "is_badged": false,
+        "brand_name": "Pharmers Quality Concentrates",
+        "cannabinoids": {
+          "cbd": "0.1",
+          "thc": "88.5"
+        },
+        "genetics": "indica",
+        "prices": {
+          "price_unit": 50,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2023-11-09T22:10:58Z",
+        "updated_at": "2023-11-09T22:10:58Z",
+        "parent_category": {
+          "id": 4,
+          "name": "Vape Pens",
+          "slug": "vape-pens"
+        },
+        "sub_category": {
+          "id": 40,
+          "name": "Disposable",
+          "slug": "disposable"
+        },
+        "measurements": [
+          {
+            "id": 1487626309,
+            "classification": "cannabinoid",
+            "full_name": "Cannabidiol",
+            "name": "CBD",
+            "unit": "mg",
+            "value": "0.1"
+          },
+          {
+            "id": 1487626308,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "mg",
+            "value": "885.0"
+          },
+          {
+            "id": 1487626307,
+            "classification": "cannabinoid",
+            "full_name": "Cannabidiol",
+            "name": "CBD",
+            "unit": "%",
+            "value": "0.1"
+          },
+          {
+            "id": 1487626306,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "%",
+            "value": "88.5"
+          }
+        ],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/shanti-cafe/menu/pharmers-quality-1g-girl-scout-cookies-dispo-pen",
+        "order": "https://weedmaps.com/dispensaries/shanti-cafe/menu/pharmers-quality-1g-girl-scout-cookies-dispo-pen"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 344107,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": {
+            "id": 1174,
+            "type": "strain"
+          }
+        },
+        "categories": {
+          "meta": {
+            "total": 2
+          },
+          "data": [
+            {
+              "id": 40,
+              "type": "category"
+            },
+            {
+              "id": 4,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 902034074,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 144229081,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Phactory Chocolate Original Crunch Milk Choc 80MG",
+        "slug": "phactory-chocolate-original-crunch-milk-choc-80mg",
+        "category_name": "Edibles",
+        "body": "<p>Strain OG Crunch</p>",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/categories/000/000/005/placeholder/1613661822-1613605717-edibles_image_missing.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/categories/000/000/005/placeholder/1613661822-1613605717-edibles_image_missing.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/categories/000/000/005/placeholder/1613661822-1613605717-edibles_image_missing.jpg",
+        "is_badged": false,
+        "brand_name": "Phactory Chocolate",
+        "cannabinoids": {},
+        "genetics": "hybrid",
+        "prices": {
+          "price_unit": 17,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2023-11-09T22:13:28Z",
+        "updated_at": "2023-11-09T22:13:28Z",
+        "parent_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "sub_category": {
+          "id": 212,
+          "name": "Chocolates",
+          "slug": "chocolates"
+        },
+        "measurements": [
+          {
+            "id": 1487626701,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "mg",
+            "value": "80.0"
+          }
+        ],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/shanti-cafe/menu/phactory-chocolate-original-crunch-milk-choc-80mg",
+        "order": "https://weedmaps.com/dispensaries/shanti-cafe/menu/phactory-chocolate-original-crunch-milk-choc-80mg"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 344107,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 3
+          },
+          "data": [
+            {
+              "id": 212,
+              "type": "category"
+            },
+            {
+              "id": 219,
+              "type": "category"
+            },
+            {
+              "id": 5,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 902034074,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 144229244,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Peanut Butter and Jealous White Chocolate 200mg",
+        "slug": "peanut-butter-and-jealous-white-chocolate-200mg",
+        "category_name": "Edibles",
+        "body": "<p>Strain PB & Jealous</p>",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/categories/000/000/005/placeholder/1613661822-1613605717-edibles_image_missing.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/categories/000/000/005/placeholder/1613661822-1613605717-edibles_image_missing.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/categories/000/000/005/placeholder/1613661822-1613605717-edibles_image_missing.jpg",
+        "is_badged": false,
+        "brand_name": "Phactory Chocolate",
+        "cannabinoids": {},
+        "genetics": "hybrid",
+        "prices": {
+          "price_unit": 21,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2023-11-09T22:15:39Z",
+        "updated_at": "2023-11-09T22:15:39Z",
+        "parent_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "sub_category": {
+          "id": 212,
+          "name": "Chocolates",
+          "slug": "chocolates"
+        },
+        "measurements": [
+          {
+            "id": 1487626843,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "mg",
+            "value": "200.0"
+          }
+        ],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/shanti-cafe/menu/peanut-butter-and-jealous-white-chocolate-200mg",
+        "order": "https://weedmaps.com/dispensaries/shanti-cafe/menu/peanut-butter-and-jealous-white-chocolate-200mg"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 344107,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": {
+            "id": 8042,
+            "type": "strain"
+          }
+        },
+        "categories": {
+          "meta": {
+            "total": 3
+          },
+          "data": [
+            {
+              "id": 212,
+              "type": "category"
+            },
+            {
+              "id": 219,
+              "type": "category"
+            },
+            {
+              "id": 5,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 902034074,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 144229969,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Peanut Butter and Jealous White Choc 80MG",
+        "slug": "peanut-butter-and-jealous-white-choc-80mg",
+        "category_name": "Edibles",
+        "body": "",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/categories/000/000/005/placeholder/1613661822-1613605717-edibles_image_missing.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/categories/000/000/005/placeholder/1613661822-1613605717-edibles_image_missing.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/categories/000/000/005/placeholder/1613661822-1613605717-edibles_image_missing.jpg",
+        "is_badged": false,
+        "brand_name": "Phactory Chocolate",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 17,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2023-11-09T22:24:04Z",
+        "updated_at": "2023-11-09T22:24:04Z",
+        "parent_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "sub_category": {
+          "id": 212,
+          "name": "Chocolates",
+          "slug": "chocolates"
+        },
+        "measurements": [
+          {
+            "id": 1487627621,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "mg",
+            "value": "80.0"
+          }
+        ],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/shanti-cafe/menu/peanut-butter-and-jealous-white-choc-80mg",
+        "order": "https://weedmaps.com/dispensaries/shanti-cafe/menu/peanut-butter-and-jealous-white-choc-80mg"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 344107,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 3
+          },
+          "data": [
+            {
+              "id": 212,
+              "type": "category"
+            },
+            {
+              "id": 219,
+              "type": "category"
+            },
+            {
+              "id": 5,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 902034074,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 144230051,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Phluffer Nutter Dark Choc 80MG",
+        "slug": "phluffer-nutter-dark-choc-80mg",
+        "category_name": "Edibles",
+        "body": "<p>Strain Phluffer Nutter</p><p><br></p>",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/categories/000/000/005/placeholder/1613661822-1613605717-edibles_image_missing.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/categories/000/000/005/placeholder/1613661822-1613605717-edibles_image_missing.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/categories/000/000/005/placeholder/1613661822-1613605717-edibles_image_missing.jpg",
+        "is_badged": false,
+        "brand_name": "Phactory Chocolate",
+        "cannabinoids": {},
+        "genetics": "hybrid",
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2023-11-09T22:25:49Z",
+        "updated_at": "2023-11-09T22:25:49Z",
+        "parent_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "sub_category": {
+          "id": 212,
+          "name": "Chocolates",
+          "slug": "chocolates"
+        },
+        "measurements": [
+          {
+            "id": 1487627696,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "mg",
+            "value": "80.0"
+          }
+        ],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/shanti-cafe/menu/phluffer-nutter-dark-choc-80mg",
+        "order": "https://weedmaps.com/dispensaries/shanti-cafe/menu/phluffer-nutter-dark-choc-80mg"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 344107,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 3
+          },
+          "data": [
+            {
+              "id": 212,
+              "type": "category"
+            },
+            {
+              "id": 219,
+              "type": "category"
+            },
+            {
+              "id": 5,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 902034074,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 144230171,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Sun Butter Ruby Chocolate 200MG",
+        "slug": "sun-butter-ruby-chocolate-200mg",
+        "category_name": "Edibles",
+        "body": "<p>Strain Sun Butter</p>",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/categories/000/000/005/placeholder/1613661822-1613605717-edibles_image_missing.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/categories/000/000/005/placeholder/1613661822-1613605717-edibles_image_missing.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/categories/000/000/005/placeholder/1613661822-1613605717-edibles_image_missing.jpg",
+        "is_badged": false,
+        "brand_name": "Phactory Chocolate",
+        "cannabinoids": {},
+        "genetics": "hybrid",
+        "prices": {
+          "price_unit": 21,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2023-11-09T22:27:08Z",
+        "updated_at": "2023-11-09T22:27:08Z",
+        "parent_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "sub_category": {
+          "id": 212,
+          "name": "Chocolates",
+          "slug": "chocolates"
+        },
+        "measurements": [
+          {
+            "id": 1487627814,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "mg",
+            "value": "200.0"
+          }
+        ],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/shanti-cafe/menu/sun-butter-ruby-chocolate-200mg",
+        "order": "https://weedmaps.com/dispensaries/shanti-cafe/menu/sun-butter-ruby-chocolate-200mg"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 344107,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 3
+          },
+          "data": [
+            {
+              "id": 212,
+              "type": "category"
+            },
+            {
+              "id": 219,
+              "type": "category"
+            },
+            {
+              "id": 5,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 902034074,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 144230355,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Rude Girl Cookies Chocolate Chip 100mg",
+        "slug": "rude-girl-cookies-chocolate-chip-100mg",
+        "category_name": "Edibles",
+        "body": "",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/categories/000/000/005/placeholder/1613661822-1613605717-edibles_image_missing.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/categories/000/000/005/placeholder/1613661822-1613605717-edibles_image_missing.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/categories/000/000/005/placeholder/1613661822-1613605717-edibles_image_missing.jpg",
+        "is_badged": false,
+        "brand_name": "Rude Girl Cookies",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 22,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2023-11-09T22:29:21Z",
+        "updated_at": "2023-11-09T22:30:21Z",
+        "parent_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "sub_category": {
+          "id": 203,
+          "name": "Cookies",
+          "slug": "cookies"
+        },
+        "measurements": [
+          {
+            "id": 1487628044,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "mg",
+            "value": "100.0"
+          }
+        ],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/shanti-cafe/menu/rude-girl-cookies-chocolate-chip-100mg",
+        "order": "https://weedmaps.com/dispensaries/shanti-cafe/menu/rude-girl-cookies-chocolate-chip-100mg"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 344107,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 3
+          },
+          "data": [
+            {
+              "id": 203,
+              "type": "category"
+            },
+            {
+              "id": 24,
+              "type": "category"
+            },
+            {
+              "id": 5,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 902034074,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 144230399,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Rude Girl Cookies Oatmeal Toffee 100mg",
+        "slug": "rude-girl-cookies-oatmeal-toffee-100mg",
+        "category_name": "Edibles",
+        "body": "",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/categories/000/000/005/placeholder/1613661822-1613605717-edibles_image_missing.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/categories/000/000/005/placeholder/1613661822-1613605717-edibles_image_missing.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/categories/000/000/005/placeholder/1613661822-1613605717-edibles_image_missing.jpg",
+        "is_badged": false,
+        "brand_name": "Rude Girl Cookies",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 22,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2023-11-09T22:30:12Z",
+        "updated_at": "2023-11-09T22:30:12Z",
+        "parent_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "sub_category": {
+          "id": 203,
+          "name": "Cookies",
+          "slug": "cookies"
+        },
+        "measurements": [
+          {
+            "id": 1487628029,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "mg",
+            "value": "100.0"
+          }
+        ],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/shanti-cafe/menu/rude-girl-cookies-oatmeal-toffee-100mg",
+        "order": "https://weedmaps.com/dispensaries/shanti-cafe/menu/rude-girl-cookies-oatmeal-toffee-100mg"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 344107,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 3
+          },
+          "data": [
+            {
+              "id": 203,
+              "type": "category"
+            },
+            {
+              "id": 24,
+              "type": "category"
+            },
+            {
+              "id": 5,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 902034074,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 144230489,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Rude Girl Cookies Peanut Butter 100mg",
+        "slug": "rude-girl-cookies-peanut-butter-100mg",
+        "category_name": "Edibles",
+        "body": "",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/categories/000/000/005/placeholder/1613661822-1613605717-edibles_image_missing.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/categories/000/000/005/placeholder/1613661822-1613605717-edibles_image_missing.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/categories/000/000/005/placeholder/1613661822-1613605717-edibles_image_missing.jpg",
+        "is_badged": false,
+        "brand_name": "Rude Girl Cookies",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 22,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2023-11-09T22:31:08Z",
+        "updated_at": "2023-11-09T22:31:08Z",
+        "parent_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "sub_category": {
+          "id": 203,
+          "name": "Cookies",
+          "slug": "cookies"
+        },
+        "measurements": [
+          {
+            "id": 1487628125,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "mg",
+            "value": "100.0"
+          }
+        ],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/shanti-cafe/menu/rude-girl-cookies-peanut-butter-100mg",
+        "order": "https://weedmaps.com/dispensaries/shanti-cafe/menu/rude-girl-cookies-peanut-butter-100mg"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 344107,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 3
+          },
+          "data": [
+            {
+              "id": 203,
+              "type": "category"
+            },
+            {
+              "id": 24,
+              "type": "category"
+            },
+            {
+              "id": 5,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 902034074,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 144230549,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Rude Girl Cookies Sugar Cookie 100mg",
+        "slug": "rude-girl-cookies-sugar-cookie-100mg",
+        "category_name": "Edibles",
+        "body": "",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/categories/000/000/005/placeholder/1613661822-1613605717-edibles_image_missing.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/categories/000/000/005/placeholder/1613661822-1613605717-edibles_image_missing.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/categories/000/000/005/placeholder/1613661822-1613605717-edibles_image_missing.jpg",
+        "is_badged": false,
+        "brand_name": "Rude Girl Cookies",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 22,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2023-11-09T22:31:45Z",
+        "updated_at": "2023-11-09T22:31:45Z",
+        "parent_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "sub_category": {
+          "id": 203,
+          "name": "Cookies",
+          "slug": "cookies"
+        },
+        "measurements": [
+          {
+            "id": 1487628172,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "mg",
+            "value": "100.0"
+          }
+        ],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/shanti-cafe/menu/rude-girl-cookies-sugar-cookie-100mg",
+        "order": "https://weedmaps.com/dispensaries/shanti-cafe/menu/rude-girl-cookies-sugar-cookie-100mg"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 344107,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 3
+          },
+          "data": [
+            {
+              "id": 203,
+              "type": "category"
+            },
+            {
+              "id": 24,
+              "type": "category"
+            },
+            {
+              "id": 5,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 902034074,
+            "type": "listing"
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,2879 @@
+{
+  "meta": {
+    "page": 1,
+    "per_page": 100,
+    "total": 28
+  },
+  "data": [
+    {
+      "id": 157388583,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Funktional - Energy - 100mg - 20g",
+        "slug": "funktional-energy-100mg-20g",
+        "category_name": "Edibles",
+        "body": "",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/624/168/614/431528121_f5150f07-0568-444d-8b39-b6cbcc555c04.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/624/168/614/431528121_f5150f07-0568-444d-8b39-b6cbcc555c04.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/624/168/614/431528121_f5150f07-0568-444d-8b39-b6cbcc555c04.jpg",
+        "is_badged": false,
+        "brand_name": "Funktional",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 10,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2024-04-24T19:41:35Z",
+        "updated_at": "2024-05-02T21:11:53Z",
+        "parent_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "sub_category": {
+          "id": 22,
+          "name": "Gummies",
+          "slug": "gummies"
+        },
+        "measurements": [
+          {
+            "id": 1501917019,
+            "classification": "cannabinoid",
+            "full_name": "Cannabidiol",
+            "name": "CBD",
+            "unit": "mg",
+            "value": "10.0"
+          },
+          {
+            "id": 1501916233,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "mg",
+            "value": "100.0"
+          }
+        ],
+        "variants": [],
+        "external_id": "8d0b2795-d279-454c-b831-010b795d2da6",
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": 100,
+        "compliance_net_precalc": true,
+        "cart_quantity_multiplier": 1,
+        "inventory_quantity": 25,
+        "shared_inventory": true
+      },
+      "links": {
+        "self": "/dispensaries/duke-city-organix/menu/funktional-energy-100mg-20g",
+        "order": "https://weedmaps.com/dispensaries/duke-city-organix/menu/funktional-energy-100mg-20g"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 357422,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 3
+          },
+          "data": [
+            {
+              "id": 219,
+              "type": "category"
+            },
+            {
+              "id": 22,
+              "type": "category"
+            },
+            {
+              "id": 5,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 624168614,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 157388584,
+      "type": "menu_item",
+      "attributes": {
+        "name": "killa crumbs",
+        "slug": "killa-crumbs",
+        "category_name": "Flower",
+        "body": "30% thc",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/624/168/614/431528118_1f9d48df-6f25-4eb7-9ccf-a3ec17c775c7.jpeg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/624/168/614/431528118_1f9d48df-6f25-4eb7-9ccf-a3ec17c775c7.jpeg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/624/168/614/431528118_1f9d48df-6f25-4eb7-9ccf-a3ec17c775c7.jpeg",
+        "is_badged": false,
+        "brand_name": "Happy",
+        "cannabinoids": {
+          "thc": "30.0"
+        },
+        "genetics": null,
+        "prices": {
+          "price_unit": 5,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2024-04-24T19:41:36Z",
+        "updated_at": "2024-04-24T19:41:41Z",
+        "parent_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "sub_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "measurements": [
+          {
+            "id": 1501917016,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "%",
+            "value": "30.0"
+          }
+        ],
+        "variants": [],
+        "external_id": "0b19c9e2-ea36-4856-8154-15ad1322cdcf",
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": 1000,
+        "compliance_net_precalc": true,
+        "cart_quantity_multiplier": 1,
+        "inventory_quantity": 9999,
+        "shared_inventory": true
+      },
+      "links": {
+        "self": "/dispensaries/duke-city-organix/menu/killa-crumbs",
+        "order": "https://weedmaps.com/dispensaries/duke-city-organix/menu/killa-crumbs"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 357422,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 2,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 624168614,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 157388585,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Cheetah Piss x Donkey Booty SUGAR DONUT 1.25g",
+        "slug": "cheetah-piss-x-donkey-booty-sugar-donut-1-25g",
+        "category_name": "Flower",
+        "body": "",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/624/168/614/431588067_1b91d758-b0f2-4d73-912d-0a3cd29a3992.jpeg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/624/168/614/431588067_1b91d758-b0f2-4d73-912d-0a3cd29a3992.jpeg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/624/168/614/431588067_1b91d758-b0f2-4d73-912d-0a3cd29a3992.jpeg",
+        "is_badged": false,
+        "brand_name": "happy",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 20,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2024-04-24T19:41:36Z",
+        "updated_at": "2024-04-27T18:13:45Z",
+        "parent_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "sub_category": {
+          "id": 39,
+          "name": "Infused Flower",
+          "slug": "infused-flower"
+        },
+        "measurements": [],
+        "variants": [],
+        "external_id": "891789a0-971c-4576-905a-3b916516caf2",
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": 1000,
+        "compliance_net_precalc": true,
+        "cart_quantity_multiplier": 1,
+        "inventory_quantity": 10,
+        "shared_inventory": true
+      },
+      "links": {
+        "self": "/dispensaries/duke-city-organix/menu/cheetah-piss-x-donkey-booty-sugar-donut-1-25g",
+        "order": "https://weedmaps.com/dispensaries/duke-city-organix/menu/cheetah-piss-x-donkey-booty-sugar-donut-1-25g"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 357422,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 2
+          },
+          "data": [
+            {
+              "id": 39,
+              "type": "category"
+            },
+            {
+              "id": 2,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 624168614,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 157388586,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Disposable 1g - GMO cookies",
+        "slug": "disposable-1g-gmo-cookies",
+        "category_name": "Concentrates",
+        "body": "",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/624/168/614/431528124_edd74013-9dbf-4eb7-9b22-aae59f93767f.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/624/168/614/431528124_edd74013-9dbf-4eb7-9b22-aae59f93767f.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/624/168/614/431528124_edd74013-9dbf-4eb7-9b22-aae59f93767f.jpg",
+        "is_badged": false,
+        "brand_name": "Happy",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 25,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2024-04-24T19:41:36Z",
+        "updated_at": "2024-04-24T19:41:43Z",
+        "parent_category": {
+          "id": 3,
+          "name": "Concentrates",
+          "slug": "concentrates"
+        },
+        "sub_category": {
+          "id": 3,
+          "name": "Concentrates",
+          "slug": "concentrates"
+        },
+        "measurements": [],
+        "variants": [],
+        "external_id": "530cb4c0-09c0-4b42-b39b-45ac56d148ef",
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": 5000,
+        "compliance_net_precalc": true,
+        "cart_quantity_multiplier": 1,
+        "inventory_quantity": 10,
+        "shared_inventory": true
+      },
+      "links": {
+        "self": "/dispensaries/duke-city-organix/menu/disposable-1g-gmo-cookies",
+        "order": "https://weedmaps.com/dispensaries/duke-city-organix/menu/disposable-1g-gmo-cookies"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 357422,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 3,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 624168614,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 157388587,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Live Rosin Disposable - Mac1",
+        "slug": "live-rosin-disposable-mac1",
+        "category_name": "Concentrates",
+        "body": "",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/624/168/614/431528122_9a985d82-1872-4aeb-900e-baaaba1de102.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/624/168/614/431528122_9a985d82-1872-4aeb-900e-baaaba1de102.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/624/168/614/431528122_9a985d82-1872-4aeb-900e-baaaba1de102.jpg",
+        "is_badged": false,
+        "brand_name": "Happy",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 25,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2024-04-24T19:41:36Z",
+        "updated_at": "2024-05-04T01:42:01Z",
+        "parent_category": {
+          "id": 3,
+          "name": "Concentrates",
+          "slug": "concentrates"
+        },
+        "sub_category": {
+          "id": 3,
+          "name": "Concentrates",
+          "slug": "concentrates"
+        },
+        "measurements": [],
+        "variants": [],
+        "external_id": "20e30788-3053-4e54-aa80-46764d57cc3f",
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": 5000,
+        "compliance_net_precalc": true,
+        "cart_quantity_multiplier": 1,
+        "inventory_quantity": 7,
+        "shared_inventory": true
+      },
+      "links": {
+        "self": "/dispensaries/duke-city-organix/menu/live-rosin-disposable-mac1",
+        "order": "https://weedmaps.com/dispensaries/duke-city-organix/menu/live-rosin-disposable-mac1"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 357422,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 3,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 624168614,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 157388588,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Cartridge 1g - GMO COOKIES",
+        "slug": "cartridge-1g-gmo-cookies",
+        "category_name": "Concentrates",
+        "body": "",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/624/168/614/431528127_70efcfb4-6312-48a2-9965-991a9789357b.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/624/168/614/431528127_70efcfb4-6312-48a2-9965-991a9789357b.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/624/168/614/431528127_70efcfb4-6312-48a2-9965-991a9789357b.jpg",
+        "is_badged": false,
+        "brand_name": "Greenlightmultifactor",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 20,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2024-04-24T19:41:36Z",
+        "updated_at": "2024-04-24T19:41:44Z",
+        "parent_category": {
+          "id": 3,
+          "name": "Concentrates",
+          "slug": "concentrates"
+        },
+        "sub_category": {
+          "id": 3,
+          "name": "Concentrates",
+          "slug": "concentrates"
+        },
+        "measurements": [],
+        "variants": [],
+        "external_id": "b92c70b3-27bb-4d77-81bf-47ee627b7c81",
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": 5000,
+        "compliance_net_precalc": true,
+        "cart_quantity_multiplier": 1,
+        "inventory_quantity": 9,
+        "shared_inventory": true
+      },
+      "links": {
+        "self": "/dispensaries/duke-city-organix/menu/cartridge-1g-gmo-cookies",
+        "order": "https://weedmaps.com/dispensaries/duke-city-organix/menu/cartridge-1g-gmo-cookies"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 357422,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 3,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 624168614,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 157388589,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Live Rosin Disposable - Apple Fritter",
+        "slug": "live-rosin-disposable-apple-fritter",
+        "category_name": "Concentrates",
+        "body": "",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/624/168/614/431528123_3ed9efdc-5468-48ab-835d-708f666c9337.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/624/168/614/431528123_3ed9efdc-5468-48ab-835d-708f666c9337.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/624/168/614/431528123_3ed9efdc-5468-48ab-835d-708f666c9337.jpg",
+        "is_badged": false,
+        "brand_name": "Happy",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 25,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2024-04-24T19:41:36Z",
+        "updated_at": "2024-05-01T19:40:02Z",
+        "parent_category": {
+          "id": 3,
+          "name": "Concentrates",
+          "slug": "concentrates"
+        },
+        "sub_category": {
+          "id": 3,
+          "name": "Concentrates",
+          "slug": "concentrates"
+        },
+        "measurements": [],
+        "variants": [],
+        "external_id": "72ad74f0-fc1e-46aa-a177-638e684dccbc",
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": 5000,
+        "compliance_net_precalc": true,
+        "cart_quantity_multiplier": 1,
+        "inventory_quantity": 7,
+        "shared_inventory": true
+      },
+      "links": {
+        "self": "/dispensaries/duke-city-organix/menu/live-rosin-disposable-apple-fritter",
+        "order": "https://weedmaps.com/dispensaries/duke-city-organix/menu/live-rosin-disposable-apple-fritter"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 357422,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 3,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 624168614,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 157388590,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Preroll- Rat Poison 1g *",
+        "slug": "preroll-rat-poison-1g",
+        "category_name": "Flower",
+        "body": "29% thc",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/624/168/614/431528116_7de7b319-8b19-4bf8-a70b-872e52a3131b.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/624/168/614/431528116_7de7b319-8b19-4bf8-a70b-872e52a3131b.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/624/168/614/431528116_7de7b319-8b19-4bf8-a70b-872e52a3131b.jpg",
+        "is_badged": false,
+        "brand_name": "Happy",
+        "cannabinoids": {
+          "thc": "29.0"
+        },
+        "genetics": null,
+        "prices": {
+          "price_unit": 5,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2024-04-24T19:41:36Z",
+        "updated_at": "2024-05-04T20:44:00Z",
+        "parent_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "sub_category": {
+          "id": 185,
+          "name": "Pre Roll",
+          "slug": "pre-roll"
+        },
+        "measurements": [
+          {
+            "id": 1501917014,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "%",
+            "value": "29.0"
+          }
+        ],
+        "variants": [],
+        "external_id": "2a117436-c9aa-4812-93b5-671c8ba693b8",
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": 1000,
+        "compliance_net_precalc": true,
+        "cart_quantity_multiplier": 1,
+        "inventory_quantity": 85,
+        "shared_inventory": true
+      },
+      "links": {
+        "self": "/dispensaries/duke-city-organix/menu/preroll-rat-poison-1g",
+        "order": "https://weedmaps.com/dispensaries/duke-city-organix/menu/preroll-rat-poison-1g"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 357422,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 2
+          },
+          "data": [
+            {
+              "id": 185,
+              "type": "category"
+            },
+            {
+              "id": 2,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 624168614,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 157388591,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Gusher Maitai x Donkey Booty SUGAR DONUT 1.25g",
+        "slug": "gusher-maitai-x-donkey-booty-sugar-donut-1-25g",
+        "category_name": "Flower",
+        "body": "",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/624/168/614/431588066_7bc916f0-0b4b-4953-b145-ad13462bb140.jpeg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/624/168/614/431588066_7bc916f0-0b4b-4953-b145-ad13462bb140.jpeg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/624/168/614/431588066_7bc916f0-0b4b-4953-b145-ad13462bb140.jpeg",
+        "is_badged": false,
+        "brand_name": "happy",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 20,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2024-04-24T19:41:36Z",
+        "updated_at": "2024-05-04T18:38:03Z",
+        "parent_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "sub_category": {
+          "id": 39,
+          "name": "Infused Flower",
+          "slug": "infused-flower"
+        },
+        "measurements": [],
+        "variants": [],
+        "external_id": "2fbdec02-4054-4a72-9f33-69fec5b80966",
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": 1000,
+        "compliance_net_precalc": true,
+        "cart_quantity_multiplier": 1,
+        "inventory_quantity": 9,
+        "shared_inventory": true
+      },
+      "links": {
+        "self": "/dispensaries/duke-city-organix/menu/gusher-maitai-x-donkey-booty-sugar-donut-1-25g",
+        "order": "https://weedmaps.com/dispensaries/duke-city-organix/menu/gusher-maitai-x-donkey-booty-sugar-donut-1-25g"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 357422,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 2
+          },
+          "data": [
+            {
+              "id": 39,
+              "type": "category"
+            },
+            {
+              "id": 2,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 624168614,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 157388592,
+      "type": "menu_item",
+      "attributes": {
+        "name": "505 Gummies - 100mg Gummy - Sangria - 20g",
+        "slug": "505-gummies-100mg-gummy-sangria-20g",
+        "category_name": "Edibles",
+        "body": "",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/624/168/614/431601422_8d572f74-0a0f-49e8-8b5b-fa35c6da9ab7.jpeg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/624/168/614/431601422_8d572f74-0a0f-49e8-8b5b-fa35c6da9ab7.jpeg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/624/168/614/431601422_8d572f74-0a0f-49e8-8b5b-fa35c6da9ab7.jpeg",
+        "is_badged": false,
+        "brand_name": "happy",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 10,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2024-04-24T19:41:36Z",
+        "updated_at": "2024-04-27T18:11:40Z",
+        "parent_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "sub_category": {
+          "id": 22,
+          "name": "Gummies",
+          "slug": "gummies"
+        },
+        "measurements": [
+          {
+            "id": 1501916234,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "mg",
+            "value": "100.0"
+          }
+        ],
+        "variants": [],
+        "external_id": "3af221ba-f3be-433a-90ef-7905fef318b2",
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": 500,
+        "compliance_net_precalc": true,
+        "cart_quantity_multiplier": 1,
+        "inventory_quantity": 3,
+        "shared_inventory": true
+      },
+      "links": {
+        "self": "/dispensaries/duke-city-organix/menu/505-gummies-100mg-gummy-sangria-20g",
+        "order": "https://weedmaps.com/dispensaries/duke-city-organix/menu/505-gummies-100mg-gummy-sangria-20g"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 357422,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 3
+          },
+          "data": [
+            {
+              "id": 219,
+              "type": "category"
+            },
+            {
+              "id": 22,
+              "type": "category"
+            },
+            {
+              "id": 5,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 624168614,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 157388593,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Cartridge 1g - Lemon Berry",
+        "slug": "cartridge-1g-lemon-berry",
+        "category_name": "Concentrates",
+        "body": "",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/624/168/614/431528130_c1c0d098-c946-479d-86ff-b229ad4090ec.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/624/168/614/431528130_c1c0d098-c946-479d-86ff-b229ad4090ec.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/624/168/614/431528130_c1c0d098-c946-479d-86ff-b229ad4090ec.jpg",
+        "is_badged": false,
+        "brand_name": "Greenlightmultifactor",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 20,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2024-04-24T19:41:37Z",
+        "updated_at": "2024-04-24T19:41:45Z",
+        "parent_category": {
+          "id": 3,
+          "name": "Concentrates",
+          "slug": "concentrates"
+        },
+        "sub_category": {
+          "id": 3,
+          "name": "Concentrates",
+          "slug": "concentrates"
+        },
+        "measurements": [],
+        "variants": [],
+        "external_id": "9176151f-587c-4f82-9bb2-79f67583a598",
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": 5000,
+        "compliance_net_precalc": true,
+        "cart_quantity_multiplier": 1,
+        "inventory_quantity": 10,
+        "shared_inventory": true
+      },
+      "links": {
+        "self": "/dispensaries/duke-city-organix/menu/cartridge-1g-lemon-berry",
+        "order": "https://weedmaps.com/dispensaries/duke-city-organix/menu/cartridge-1g-lemon-berry"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 357422,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 3,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 624168614,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 157388595,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Cartridge 1g - Do Si Dos",
+        "slug": "cartridge-1g-do-si-dos",
+        "category_name": "Concentrates",
+        "body": "",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/624/168/614/431528129_2dc15113-733d-4ac3-8bb5-5d97317e7045.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/624/168/614/431528129_2dc15113-733d-4ac3-8bb5-5d97317e7045.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/624/168/614/431528129_2dc15113-733d-4ac3-8bb5-5d97317e7045.jpg",
+        "is_badged": false,
+        "brand_name": "Greenlightmultifactor",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 20,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2024-04-24T19:41:37Z",
+        "updated_at": "2024-04-24T19:41:45Z",
+        "parent_category": {
+          "id": 3,
+          "name": "Concentrates",
+          "slug": "concentrates"
+        },
+        "sub_category": {
+          "id": 3,
+          "name": "Concentrates",
+          "slug": "concentrates"
+        },
+        "measurements": [],
+        "variants": [],
+        "external_id": "6e8c1629-62fc-4a18-90bc-873ac9f68eb4",
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": 5000,
+        "compliance_net_precalc": true,
+        "cart_quantity_multiplier": 1,
+        "inventory_quantity": 8,
+        "shared_inventory": true
+      },
+      "links": {
+        "self": "/dispensaries/duke-city-organix/menu/cartridge-1g-do-si-dos",
+        "order": "https://weedmaps.com/dispensaries/duke-city-organix/menu/cartridge-1g-do-si-dos"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 357422,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 3,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 624168614,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 157388596,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Preroll- GMO 1g",
+        "slug": "preroll-gmo-1g",
+        "category_name": "Flower",
+        "body": "26% thc",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/624/168/614/431528119_7d7994ac-7099-41b9-b2ea-6d149fa9705a.png",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/624/168/614/431528119_7d7994ac-7099-41b9-b2ea-6d149fa9705a.png",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/624/168/614/431528119_7d7994ac-7099-41b9-b2ea-6d149fa9705a.png",
+        "is_badged": false,
+        "brand_name": "Happy",
+        "cannabinoids": {
+          "thc": "26.0"
+        },
+        "genetics": null,
+        "prices": {
+          "price_unit": 5,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2024-04-24T19:41:37Z",
+        "updated_at": "2024-05-02T20:07:53Z",
+        "parent_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "sub_category": {
+          "id": 185,
+          "name": "Pre Roll",
+          "slug": "pre-roll"
+        },
+        "measurements": [
+          {
+            "id": 1501917013,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "%",
+            "value": "26.0"
+          }
+        ],
+        "variants": [],
+        "external_id": "ab4d8e43-bb63-49b0-85e7-8e5a96d1757a",
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": 1000,
+        "compliance_net_precalc": true,
+        "cart_quantity_multiplier": 1,
+        "inventory_quantity": 88,
+        "shared_inventory": true
+      },
+      "links": {
+        "self": "/dispensaries/duke-city-organix/menu/preroll-gmo-1g",
+        "order": "https://weedmaps.com/dispensaries/duke-city-organix/menu/preroll-gmo-1g"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 357422,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 2
+          },
+          "data": [
+            {
+              "id": 185,
+              "type": "category"
+            },
+            {
+              "id": 2,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 624168614,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 157388597,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Preroll- Sour Diesel 1g",
+        "slug": "preroll-sour-diesel-1g",
+        "category_name": "Flower",
+        "body": "22% thc",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/624/168/614/431528119_7d7994ac-7099-41b9-b2ea-6d149fa9705a.png",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/624/168/614/431528119_7d7994ac-7099-41b9-b2ea-6d149fa9705a.png",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/624/168/614/431528119_7d7994ac-7099-41b9-b2ea-6d149fa9705a.png",
+        "is_badged": false,
+        "brand_name": "Happy",
+        "cannabinoids": {
+          "thc": "22.0"
+        },
+        "genetics": null,
+        "prices": {
+          "price_unit": 5,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2024-04-24T19:41:37Z",
+        "updated_at": "2024-05-04T01:42:01Z",
+        "parent_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "sub_category": {
+          "id": 185,
+          "name": "Pre Roll",
+          "slug": "pre-roll"
+        },
+        "measurements": [
+          {
+            "id": 1501917012,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "%",
+            "value": "22.0"
+          }
+        ],
+        "variants": [],
+        "external_id": "03f6549d-4672-4e39-a50c-94f6e08ff125",
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": 1000,
+        "compliance_net_precalc": true,
+        "cart_quantity_multiplier": 1,
+        "inventory_quantity": 72,
+        "shared_inventory": true
+      },
+      "links": {
+        "self": "/dispensaries/duke-city-organix/menu/preroll-sour-diesel-1g",
+        "order": "https://weedmaps.com/dispensaries/duke-city-organix/menu/preroll-sour-diesel-1g"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 357422,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 2
+          },
+          "data": [
+            {
+              "id": 185,
+              "type": "category"
+            },
+            {
+              "id": 2,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 624168614,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 157388598,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Funktional - 50mg Gummies - Calm - 10g",
+        "slug": "funktional-50mg-gummies-calm-10g",
+        "category_name": "Edibles",
+        "body": "",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/624/168/614/431528125_f6692bb5-447f-4bcb-9566-9c3b3db0a7e0.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/624/168/614/431528125_f6692bb5-447f-4bcb-9566-9c3b3db0a7e0.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/624/168/614/431528125_f6692bb5-447f-4bcb-9566-9c3b3db0a7e0.jpg",
+        "is_badged": false,
+        "brand_name": "Funktional",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 10,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2024-04-24T19:41:37Z",
+        "updated_at": "2024-04-24T19:50:03Z",
+        "parent_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "sub_category": {
+          "id": 22,
+          "name": "Gummies",
+          "slug": "gummies"
+        },
+        "measurements": [
+          {
+            "id": 1501916235,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "mg",
+            "value": "50.0"
+          }
+        ],
+        "variants": [],
+        "external_id": "5627c686-ae96-4686-9061-9ca972c93342",
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": 250,
+        "compliance_net_precalc": true,
+        "cart_quantity_multiplier": 1,
+        "inventory_quantity": 27,
+        "shared_inventory": true
+      },
+      "links": {
+        "self": "/dispensaries/duke-city-organix/menu/funktional-50mg-gummies-calm-10g",
+        "order": "https://weedmaps.com/dispensaries/duke-city-organix/menu/funktional-50mg-gummies-calm-10g"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 357422,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 3
+          },
+          "data": [
+            {
+              "id": 219,
+              "type": "category"
+            },
+            {
+              "id": 22,
+              "type": "category"
+            },
+            {
+              "id": 5,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 624168614,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 157388599,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Disposable 1g - Lemon Berry",
+        "slug": "disposable-1g-lemon-berry",
+        "category_name": "Concentrates",
+        "body": "",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/624/168/614/431528128_62cdc7aa-1c4e-47f0-8f36-d2825f9e79cf.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/624/168/614/431528128_62cdc7aa-1c4e-47f0-8f36-d2825f9e79cf.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/624/168/614/431528128_62cdc7aa-1c4e-47f0-8f36-d2825f9e79cf.jpg",
+        "is_badged": false,
+        "brand_name": "Happy",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 25,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2024-04-24T19:41:37Z",
+        "updated_at": "2024-04-24T19:41:44Z",
+        "parent_category": {
+          "id": 3,
+          "name": "Concentrates",
+          "slug": "concentrates"
+        },
+        "sub_category": {
+          "id": 3,
+          "name": "Concentrates",
+          "slug": "concentrates"
+        },
+        "measurements": [],
+        "variants": [],
+        "external_id": "3507a2d0-7aa0-4011-ac2a-b4799eda45a5",
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": 5000,
+        "compliance_net_precalc": true,
+        "cart_quantity_multiplier": 1,
+        "inventory_quantity": 8,
+        "shared_inventory": true
+      },
+      "links": {
+        "self": "/dispensaries/duke-city-organix/menu/disposable-1g-lemon-berry",
+        "order": "https://weedmaps.com/dispensaries/duke-city-organix/menu/disposable-1g-lemon-berry"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 357422,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 3,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 624168614,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 157388600,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Preroll- Purple Pipe 1g *",
+        "slug": "preroll-purple-pipe-1g",
+        "category_name": "Flower",
+        "body": "26.9% thc",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/624/168/614/431528116_7de7b319-8b19-4bf8-a70b-872e52a3131b.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/624/168/614/431528116_7de7b319-8b19-4bf8-a70b-872e52a3131b.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/624/168/614/431528116_7de7b319-8b19-4bf8-a70b-872e52a3131b.jpg",
+        "is_badged": false,
+        "brand_name": "Happy",
+        "cannabinoids": {
+          "thc": "26.9"
+        },
+        "genetics": null,
+        "prices": {
+          "price_unit": 5,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2024-04-24T19:41:37Z",
+        "updated_at": "2024-05-04T20:44:01Z",
+        "parent_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "sub_category": {
+          "id": 185,
+          "name": "Pre Roll",
+          "slug": "pre-roll"
+        },
+        "measurements": [
+          {
+            "id": 1501917003,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "%",
+            "value": "26.9"
+          }
+        ],
+        "variants": [],
+        "external_id": "5d12dcc4-ce26-4d8c-ba01-b4d8ba85f571",
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": 1000,
+        "compliance_net_precalc": true,
+        "cart_quantity_multiplier": 1,
+        "inventory_quantity": 87,
+        "shared_inventory": true
+      },
+      "links": {
+        "self": "/dispensaries/duke-city-organix/menu/preroll-purple-pipe-1g",
+        "order": "https://weedmaps.com/dispensaries/duke-city-organix/menu/preroll-purple-pipe-1g"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 357422,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 2
+          },
+          "data": [
+            {
+              "id": 185,
+              "type": "category"
+            },
+            {
+              "id": 2,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 624168614,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 157388601,
+      "type": "menu_item",
+      "attributes": {
+        "name": "GG#4",
+        "slug": "gg-4",
+        "category_name": "Flower",
+        "body": "21% thc",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/624/168/614/431528120_830e7934-3c2c-4e6e-b7b0-9a274d5c65cd.jpeg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/624/168/614/431528120_830e7934-3c2c-4e6e-b7b0-9a274d5c65cd.jpeg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/624/168/614/431528120_830e7934-3c2c-4e6e-b7b0-9a274d5c65cd.jpeg",
+        "is_badged": false,
+        "brand_name": null,
+        "cannabinoids": {
+          "thc": "21.0"
+        },
+        "genetics": null,
+        "prices": {
+          "price_unit": 7,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2024-04-24T19:41:37Z",
+        "updated_at": "2024-04-24T19:41:41Z",
+        "parent_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "sub_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "measurements": [
+          {
+            "id": 1501917015,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "%",
+            "value": "21.0"
+          }
+        ],
+        "variants": [],
+        "external_id": "a7cff606-d520-4b54-8627-ba4c1c28d699",
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": 1000,
+        "compliance_net_precalc": true,
+        "cart_quantity_multiplier": 1,
+        "inventory_quantity": 9999,
+        "shared_inventory": true
+      },
+      "links": {
+        "self": "/dispensaries/duke-city-organix/menu/gg-4",
+        "order": "https://weedmaps.com/dispensaries/duke-city-organix/menu/gg-4"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 357422,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 2,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 624168614,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 157388602,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Cartridge 1g - Sour D",
+        "slug": "cartridge-1g-sour-d",
+        "category_name": "Concentrates",
+        "body": "",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/624/168/614/431528133_53dc343c-7ee9-4926-a7e4-156ebaf0f4d4.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/624/168/614/431528133_53dc343c-7ee9-4926-a7e4-156ebaf0f4d4.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/624/168/614/431528133_53dc343c-7ee9-4926-a7e4-156ebaf0f4d4.jpg",
+        "is_badged": false,
+        "brand_name": "Greenlightmultifactor",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 20,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2024-04-24T19:41:37Z",
+        "updated_at": "2024-04-24T19:41:45Z",
+        "parent_category": {
+          "id": 3,
+          "name": "Concentrates",
+          "slug": "concentrates"
+        },
+        "sub_category": {
+          "id": 3,
+          "name": "Concentrates",
+          "slug": "concentrates"
+        },
+        "measurements": [],
+        "variants": [],
+        "external_id": "da998ad0-bde7-472b-a3ef-c1e0a8caa1ae",
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": 5000,
+        "compliance_net_precalc": true,
+        "cart_quantity_multiplier": 1,
+        "inventory_quantity": 6,
+        "shared_inventory": true
+      },
+      "links": {
+        "self": "/dispensaries/duke-city-organix/menu/cartridge-1g-sour-d",
+        "order": "https://weedmaps.com/dispensaries/duke-city-organix/menu/cartridge-1g-sour-d"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 357422,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 3,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 624168614,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 157388603,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Happy Tea/Lemonade 20mg",
+        "slug": "happy-tea-lemonade-20mg",
+        "category_name": "Edibles",
+        "body": "",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/624/168/614/431528126_49d682cd-56b7-43bf-9fef-e29316addc47.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/624/168/614/431528126_49d682cd-56b7-43bf-9fef-e29316addc47.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/624/168/614/431528126_49d682cd-56b7-43bf-9fef-e29316addc47.jpg",
+        "is_badged": false,
+        "brand_name": "Happy Tea",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 10,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2024-04-24T19:41:38Z",
+        "updated_at": "2024-05-02T21:11:53Z",
+        "parent_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "sub_category": {
+          "id": 188,
+          "name": "Drinks",
+          "slug": "drinks"
+        },
+        "measurements": [
+          {
+            "id": 1501916236,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "mg",
+            "value": "20.0"
+          }
+        ],
+        "variants": [],
+        "external_id": "75b08319-0091-45f0-a211-cb649b283c87",
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": 100,
+        "compliance_net_precalc": true,
+        "cart_quantity_multiplier": 1,
+        "inventory_quantity": 38,
+        "shared_inventory": true
+      },
+      "links": {
+        "self": "/dispensaries/duke-city-organix/menu/happy-tea-lemonade-20mg",
+        "order": "https://weedmaps.com/dispensaries/duke-city-organix/menu/happy-tea-lemonade-20mg"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 357422,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 3
+          },
+          "data": [
+            {
+              "id": 188,
+              "type": "category"
+            },
+            {
+              "id": 33,
+              "type": "category"
+            },
+            {
+              "id": 5,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 624168614,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 157388604,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Preroll- Oroku Saki 1g",
+        "slug": "preroll-oroku-saki-1g",
+        "category_name": "Flower",
+        "body": "<p>24.9%</p>",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/624/168/614/431528119_7d7994ac-7099-41b9-b2ea-6d149fa9705a.png",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/624/168/614/431528119_7d7994ac-7099-41b9-b2ea-6d149fa9705a.png",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/624/168/614/431528119_7d7994ac-7099-41b9-b2ea-6d149fa9705a.png",
+        "is_badged": false,
+        "brand_name": "Happy",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 5,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2024-04-24T19:41:38Z",
+        "updated_at": "2024-04-27T22:52:01Z",
+        "parent_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "sub_category": {
+          "id": 185,
+          "name": "Pre Roll",
+          "slug": "pre-roll"
+        },
+        "measurements": [],
+        "variants": [],
+        "external_id": "174780cd-10b1-44b9-9b5a-d1744ba15a75",
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": 1000,
+        "compliance_net_precalc": true,
+        "cart_quantity_multiplier": 1,
+        "inventory_quantity": 88,
+        "shared_inventory": true
+      },
+      "links": {
+        "self": "/dispensaries/duke-city-organix/menu/preroll-oroku-saki-1g",
+        "order": "https://weedmaps.com/dispensaries/duke-city-organix/menu/preroll-oroku-saki-1g"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 357422,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 2
+          },
+          "data": [
+            {
+              "id": 185,
+              "type": "category"
+            },
+            {
+              "id": 2,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 624168614,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 157388605,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Preroll- Banana Jealousy 1g",
+        "slug": "preroll-banana-jealousy-1g",
+        "category_name": "Flower",
+        "body": "23.9%",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/624/168/614/431528119_7d7994ac-7099-41b9-b2ea-6d149fa9705a.png",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/624/168/614/431528119_7d7994ac-7099-41b9-b2ea-6d149fa9705a.png",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/624/168/614/431528119_7d7994ac-7099-41b9-b2ea-6d149fa9705a.png",
+        "is_badged": false,
+        "brand_name": "Happy",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 5,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2024-04-24T19:41:38Z",
+        "updated_at": "2024-04-27T22:52:01Z",
+        "parent_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "sub_category": {
+          "id": 185,
+          "name": "Pre Roll",
+          "slug": "pre-roll"
+        },
+        "measurements": [],
+        "variants": [],
+        "external_id": "a2ef006d-74b4-406e-9778-d32fa3e22512",
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": 1000,
+        "compliance_net_precalc": true,
+        "cart_quantity_multiplier": 1,
+        "inventory_quantity": 87,
+        "shared_inventory": true
+      },
+      "links": {
+        "self": "/dispensaries/duke-city-organix/menu/preroll-banana-jealousy-1g",
+        "order": "https://weedmaps.com/dispensaries/duke-city-organix/menu/preroll-banana-jealousy-1g"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 357422,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 2
+          },
+          "data": [
+            {
+              "id": 185,
+              "type": "category"
+            },
+            {
+              "id": 2,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 624168614,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 157388606,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Disposable 1g - Mango Kush",
+        "slug": "disposable-1g-mango-kush",
+        "category_name": "Concentrates",
+        "body": "",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/624/168/614/431528131_a26a1e08-78fe-447c-b579-7f4b82d8e47a.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/624/168/614/431528131_a26a1e08-78fe-447c-b579-7f4b82d8e47a.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/624/168/614/431528131_a26a1e08-78fe-447c-b579-7f4b82d8e47a.jpg",
+        "is_badged": false,
+        "brand_name": "Happy",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 25,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2024-04-24T19:41:38Z",
+        "updated_at": "2024-04-24T19:41:45Z",
+        "parent_category": {
+          "id": 3,
+          "name": "Concentrates",
+          "slug": "concentrates"
+        },
+        "sub_category": {
+          "id": 3,
+          "name": "Concentrates",
+          "slug": "concentrates"
+        },
+        "measurements": [],
+        "variants": [],
+        "external_id": "eb813e4f-c355-4201-8b05-e198992fffa7",
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": 5000,
+        "compliance_net_precalc": true,
+        "cart_quantity_multiplier": 1,
+        "inventory_quantity": 10,
+        "shared_inventory": true
+      },
+      "links": {
+        "self": "/dispensaries/duke-city-organix/menu/disposable-1g-mango-kush",
+        "order": "https://weedmaps.com/dispensaries/duke-city-organix/menu/disposable-1g-mango-kush"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 357422,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 3,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 624168614,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 157388607,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Lemon Cherry Gelato x Donkey Booty SUGAR DONUT 1.25g",
+        "slug": "lemon-cherry-gelato-x-donkey-booty-sugar-donut-1-25g",
+        "category_name": "Flower",
+        "body": "",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/624/168/614/431588065_50f97028-4120-49f9-b7e8-bb840de6eed3.jpeg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/624/168/614/431588065_50f97028-4120-49f9-b7e8-bb840de6eed3.jpeg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/624/168/614/431588065_50f97028-4120-49f9-b7e8-bb840de6eed3.jpeg",
+        "is_badged": false,
+        "brand_name": "happy",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 20,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2024-04-24T19:41:38Z",
+        "updated_at": "2024-04-27T18:13:19Z",
+        "parent_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "sub_category": {
+          "id": 39,
+          "name": "Infused Flower",
+          "slug": "infused-flower"
+        },
+        "measurements": [],
+        "variants": [],
+        "external_id": "02568386-9b54-4de6-8d36-e9dd50470323",
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": 1000,
+        "compliance_net_precalc": true,
+        "cart_quantity_multiplier": 1,
+        "inventory_quantity": 10,
+        "shared_inventory": true
+      },
+      "links": {
+        "self": "/dispensaries/duke-city-organix/menu/lemon-cherry-gelato-x-donkey-booty-sugar-donut-1-25g",
+        "order": "https://weedmaps.com/dispensaries/duke-city-organix/menu/lemon-cherry-gelato-x-donkey-booty-sugar-donut-1-25g"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 357422,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 2
+          },
+          "data": [
+            {
+              "id": 39,
+              "type": "category"
+            },
+            {
+              "id": 2,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 624168614,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 157388608,
+      "type": "menu_item",
+      "attributes": {
+        "name": "505 Gummies - 100mg Gummy - Horchata - 20g",
+        "slug": "505-gummies-100mg-gummy-horchata-20g",
+        "category_name": "Edibles",
+        "body": "",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/624/168/614/431601424_6401b48d-9b65-48bd-9050-41095ec7e8e5.jpeg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/624/168/614/431601424_6401b48d-9b65-48bd-9050-41095ec7e8e5.jpeg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/624/168/614/431601424_6401b48d-9b65-48bd-9050-41095ec7e8e5.jpeg",
+        "is_badged": false,
+        "brand_name": "505",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 10,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2024-04-24T19:41:38Z",
+        "updated_at": "2024-04-27T18:11:41Z",
+        "parent_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "sub_category": {
+          "id": 22,
+          "name": "Gummies",
+          "slug": "gummies"
+        },
+        "measurements": [
+          {
+            "id": 1501916237,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "mg",
+            "value": "100.0"
+          }
+        ],
+        "variants": [],
+        "external_id": "1911a99a-a3b9-4e9a-808f-efb2279f264d",
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": 500,
+        "compliance_net_precalc": true,
+        "cart_quantity_multiplier": 1,
+        "inventory_quantity": 2,
+        "shared_inventory": true
+      },
+      "links": {
+        "self": "/dispensaries/duke-city-organix/menu/505-gummies-100mg-gummy-horchata-20g",
+        "order": "https://weedmaps.com/dispensaries/duke-city-organix/menu/505-gummies-100mg-gummy-horchata-20g"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 357422,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 3
+          },
+          "data": [
+            {
+              "id": 219,
+              "type": "category"
+            },
+            {
+              "id": 22,
+              "type": "category"
+            },
+            {
+              "id": 5,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 624168614,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 157388609,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Live Rosin Disposable - Lemon Lava",
+        "slug": "live-rosin-disposable-lemon-lava",
+        "category_name": "Concentrates",
+        "body": "",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/624/168/614/431528132_5f6d8384-b134-4908-83be-789e1c7b64c4.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/624/168/614/431528132_5f6d8384-b134-4908-83be-789e1c7b64c4.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/624/168/614/431528132_5f6d8384-b134-4908-83be-789e1c7b64c4.jpg",
+        "is_badged": false,
+        "brand_name": "Happy",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 25,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2024-04-24T19:41:38Z",
+        "updated_at": "2024-05-04T01:42:01Z",
+        "parent_category": {
+          "id": 3,
+          "name": "Concentrates",
+          "slug": "concentrates"
+        },
+        "sub_category": {
+          "id": 3,
+          "name": "Concentrates",
+          "slug": "concentrates"
+        },
+        "measurements": [],
+        "variants": [],
+        "external_id": "cff763fa-6e5a-4e6c-83a9-f4b4da90bbcc",
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": 5000,
+        "compliance_net_precalc": true,
+        "cart_quantity_multiplier": 1,
+        "inventory_quantity": 9,
+        "shared_inventory": true
+      },
+      "links": {
+        "self": "/dispensaries/duke-city-organix/menu/live-rosin-disposable-lemon-lava",
+        "order": "https://weedmaps.com/dispensaries/duke-city-organix/menu/live-rosin-disposable-lemon-lava"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 357422,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 3,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 624168614,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 157388610,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Runtz- Gushers x Gelato 41",
+        "slug": "runtz-gushers-x-gelato-41",
+        "category_name": "Flower",
+        "body": "",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/624/168/614/431601423_94a9f721-9563-4f21-ac9f-e3e3a695e924.jpeg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/624/168/614/431601423_94a9f721-9563-4f21-ac9f-e3e3a695e924.jpeg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/624/168/614/431601423_94a9f721-9563-4f21-ac9f-e3e3a695e924.jpeg",
+        "is_badged": false,
+        "brand_name": "happy",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 10,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2024-04-24T19:41:38Z",
+        "updated_at": "2024-04-27T18:11:41Z",
+        "parent_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "sub_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "measurements": [],
+        "variants": [],
+        "external_id": "6520a5dc-ba79-4567-ae87-f6b39bf8913a",
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": 1000,
+        "compliance_net_precalc": true,
+        "cart_quantity_multiplier": 1,
+        "inventory_quantity": 9999,
+        "shared_inventory": true
+      },
+      "links": {
+        "self": "/dispensaries/duke-city-organix/menu/runtz-gushers-x-gelato-41",
+        "order": "https://weedmaps.com/dispensaries/duke-city-organix/menu/runtz-gushers-x-gelato-41"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 357422,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 2,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 624168614,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 157388611,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Preroll- Cheetah Piss 1g",
+        "slug": "preroll-cheetah-piss-1g",
+        "category_name": "Flower",
+        "body": "20.6% thc",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/624/168/614/431528119_7d7994ac-7099-41b9-b2ea-6d149fa9705a.png",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/624/168/614/431528119_7d7994ac-7099-41b9-b2ea-6d149fa9705a.png",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/624/168/614/431528119_7d7994ac-7099-41b9-b2ea-6d149fa9705a.png",
+        "is_badged": false,
+        "brand_name": "Happy",
+        "cannabinoids": {
+          "thc": "20.6"
+        },
+        "genetics": null,
+        "prices": {
+          "price_unit": 5,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2024-04-24T19:41:38Z",
+        "updated_at": "2024-05-04T01:42:02Z",
+        "parent_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "sub_category": {
+          "id": 185,
+          "name": "Pre Roll",
+          "slug": "pre-roll"
+        },
+        "measurements": [
+          {
+            "id": 1501917006,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "%",
+            "value": "20.6"
+          }
+        ],
+        "variants": [],
+        "external_id": "3f031eef-fe4e-40ab-a93c-f9d8124d4775",
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": 1000,
+        "compliance_net_precalc": true,
+        "cart_quantity_multiplier": 1,
+        "inventory_quantity": 78,
+        "shared_inventory": true
+      },
+      "links": {
+        "self": "/dispensaries/duke-city-organix/menu/preroll-cheetah-piss-1g",
+        "order": "https://weedmaps.com/dispensaries/duke-city-organix/menu/preroll-cheetah-piss-1g"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 357422,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 2
+          },
+          "data": [
+            {
+              "id": 185,
+              "type": "category"
+            },
+            {
+              "id": 2,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 624168614,
+            "type": "listing"
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,6243 @@
+{
+  "meta": {
+    "page": 1,
+    "per_page": 100,
+    "total": 48
+  },
+  "data": [
+    {
+      "id": 111250263,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Carica Crumbz- Wax",
+        "slug": "carica-crumbz",
+        "category_name": "Concentrates",
+        "body": "",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/pictures/users/013/880/906/408229159_180302_46694_Indiana-Bubblegum-Wax.jpg?txt64=UHJvZHVjdCBleGFtcGxl&txt-fit=max&txt-color=666&txt-lead=0&txt-size=24&txt-font=Avenir+Next+Medium&txt-align=center,bottom",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/users/013/880/906/408229159_180302_46694_Indiana-Bubblegum-Wax.jpg?txt64=UHJvZHVjdCBleGFtcGxl&txt-fit=max&txt-color=666&txt-lead=0&txt-size=24&txt-font=Avenir+Next+Medium&txt-align=center,bottom",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/users/013/880/906/408229159_180302_46694_Indiana-Bubblegum-Wax.jpg?txt64=UHJvZHVjdCBleGFtcGxl&txt-fit=max&txt-color=666&txt-lead=0&txt-size=24&txt-font=Avenir+Next+Medium&txt-align=center,bottom",
+        "is_badged": false,
+        "brand_name": "",
+        "cannabinoids": {
+          "thc": "74.54",
+          "cbd": "0.1"
+        },
+        "genetics": null,
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 15,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2022-10-10T18:27:57Z",
+        "updated_at": "2023-02-23T03:54:00Z",
+        "parent_category": {
+          "id": 3,
+          "name": "Concentrates",
+          "slug": "concentrates"
+        },
+        "sub_category": {
+          "id": 20,
+          "name": "Crumble",
+          "slug": "crumble"
+        },
+        "measurements": [
+          {
+            "id": 712315433,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "%",
+            "value": "74.54"
+          },
+          {
+            "id": 712315431,
+            "classification": "cannabinoid",
+            "full_name": "Cannabidiol",
+            "name": "CBD",
+            "unit": "%",
+            "value": "0.1"
+          }
+        ],
+        "variants": [
+          {
+            "name": "1/2 gram",
+            "label": "1/2 g",
+            "price": {
+              "amount": "15.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.5,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 500,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/ultra-health-tucumcari/menu/carica-crumbz",
+        "order": "https://weedmaps.com/dispensaries/ultra-health-tucumcari/menu/carica-crumbz"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 322437,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": {
+            "id": 9371,
+            "type": "strain"
+          }
+        },
+        "categories": {
+          "meta": {
+            "total": 2
+          },
+          "data": [
+            {
+              "id": 20,
+              "type": "category"
+            },
+            {
+              "id": 3,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "type": "tag",
+              "id": "701cdc92-50a1-4f3c-afda-0e1b31775804"
+            }
+          ]
+        },
+        "menu_parent": {
+          "data": {
+            "id": 239129621,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 111251239,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Vape Cartridge-Ekto Cooler .5g",
+        "slug": "vape-cartridge-ekto-cooler-5g",
+        "category_name": "Concentrates",
+        "body": "Strain: Hybrid<br><br>Fragrance: Orange, lemon, lemongrass<br><br>Effects: Uplifting, euphoric<br><br>Ekto Kooler is a blast from the past, sent to the future to haunt your taste<br> buds. Layers of citrus ooze from this flavor, while light pineapple and<br> fruit notes add depth. It’ll scare you into a good mood.",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/products/000/348/801/avatar/1644886903-0e70ce89-ee97-4750-ad7a-cb3f90febdc9.jpeg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/products/000/348/801/avatar/1644886903-0e70ce89-ee97-4750-ad7a-cb3f90febdc9.jpeg",
+        "avatar_image_url": "https://images.weedmaps.com/products/000/348/801/avatar/1644886903-0e70ce89-ee97-4750-ad7a-cb3f90febdc9.jpeg",
+        "is_badged": true,
+        "brand_name": "Ultra Health Brand",
+        "cannabinoids": {
+          "thc": "95.0",
+          "cbd": "0.0"
+        },
+        "genetics": null,
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 30,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2022-10-10T18:45:12Z",
+        "updated_at": "2023-11-28T21:42:03Z",
+        "parent_category": {
+          "id": 3,
+          "name": "Concentrates",
+          "slug": "concentrates"
+        },
+        "sub_category": {
+          "id": 3,
+          "name": "Concentrates",
+          "slug": "concentrates"
+        },
+        "measurements": [
+          {
+            "id": 712352071,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "%",
+            "value": "95.0"
+          },
+          {
+            "id": 712352070,
+            "classification": "cannabinoid",
+            "full_name": "Cannabidiol",
+            "name": "CBD",
+            "unit": "%",
+            "value": "0.0"
+          }
+        ],
+        "variants": [
+          {
+            "name": "1/2 gram",
+            "label": "1/2 g",
+            "price": {
+              "amount": "30.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.5,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 500,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/ultra-health-tucumcari/menu/vape-cartridge-ekto-cooler-5g",
+        "order": "https://weedmaps.com/dispensaries/ultra-health-tucumcari/menu/vape-cartridge-ekto-cooler-5g"
+      },
+      "relationships": {
+        "brand": {
+          "data": {
+            "id": 18618,
+            "type": "brand"
+          }
+        },
+        "listing": {
+          "data": {
+            "id": 322437,
+            "type": "dispensary"
+          }
+        },
+        "product": {
+          "data": {
+            "id": 348801,
+            "type": "product"
+          }
+        },
+        "strain": {
+          "data": {
+            "id": 5207,
+            "type": "strain"
+          }
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 3,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 239129621,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 111251345,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Vape cartridge- Twisted Citrus",
+        "slug": "twisted-citrus-cartridge",
+        "category_name": "Vape Pens",
+        "body": "",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/pictures/users/013/880/906/408237529_170929_EelRiverOrganics_AncientLime-4.jpg?txt64=UHJvZHVjdCBleGFtcGxl&txt-fit=max&txt-color=666&txt-lead=0&txt-size=24&txt-font=Avenir+Next+Medium&txt-align=center,bottom",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/users/013/880/906/408237529_170929_EelRiverOrganics_AncientLime-4.jpg?txt64=UHJvZHVjdCBleGFtcGxl&txt-fit=max&txt-color=666&txt-lead=0&txt-size=24&txt-font=Avenir+Next+Medium&txt-align=center,bottom",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/users/013/880/906/408237529_170929_EelRiverOrganics_AncientLime-4.jpg?txt64=UHJvZHVjdCBleGFtcGxl&txt-fit=max&txt-color=666&txt-lead=0&txt-size=24&txt-font=Avenir+Next+Medium&txt-align=center,bottom",
+        "is_badged": false,
+        "brand_name": "",
+        "cannabinoids": {
+          "thc": "95.1"
+        },
+        "genetics": null,
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 30,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2022-10-10T18:48:10Z",
+        "updated_at": "2023-02-23T03:54:10Z",
+        "parent_category": {
+          "id": 4,
+          "name": "Vape Pens",
+          "slug": "vape-pens"
+        },
+        "sub_category": {
+          "id": 193,
+          "name": "Cartridge",
+          "slug": "cartridge"
+        },
+        "measurements": [
+          {
+            "id": 712353487,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "%",
+            "value": "95.1"
+          }
+        ],
+        "variants": [
+          {
+            "name": "1/2 gram",
+            "label": "1/2 g",
+            "price": {
+              "amount": "30.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.5,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 500,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/ultra-health-tucumcari/menu/twisted-citrus-cartridge",
+        "order": "https://weedmaps.com/dispensaries/ultra-health-tucumcari/menu/twisted-citrus-cartridge"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 322437,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": {
+            "id": 2862,
+            "type": "strain"
+          }
+        },
+        "categories": {
+          "meta": {
+            "total": 2
+          },
+          "data": [
+            {
+              "id": 193,
+              "type": "category"
+            },
+            {
+              "id": 4,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "type": "tag",
+              "id": "edcefa08-584a-41d5-9cd0-11e7f24a5176"
+            }
+          ]
+        },
+        "menu_parent": {
+          "data": {
+            "id": 239129621,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 111251496,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Vape Cartridge- Green Dream",
+        "slug": "vape-cartridge-green-dream",
+        "category_name": "Vape Pens",
+        "body": "",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/pictures/users/013/880/906/408239194_170929_EelRiverOrganics_GreenDream-4.jpg?txt64=UHJvZHVjdCBleGFtcGxl&txt-fit=max&txt-color=666&txt-lead=0&txt-size=24&txt-font=Avenir+Next+Medium&txt-align=center,bottom",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/users/013/880/906/408239194_170929_EelRiverOrganics_GreenDream-4.jpg?txt64=UHJvZHVjdCBleGFtcGxl&txt-fit=max&txt-color=666&txt-lead=0&txt-size=24&txt-font=Avenir+Next+Medium&txt-align=center,bottom",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/users/013/880/906/408239194_170929_EelRiverOrganics_GreenDream-4.jpg?txt64=UHJvZHVjdCBleGFtcGxl&txt-fit=max&txt-color=666&txt-lead=0&txt-size=24&txt-font=Avenir+Next+Medium&txt-align=center,bottom",
+        "is_badged": false,
+        "brand_name": "",
+        "cannabinoids": {
+          "thc": "94.64"
+        },
+        "genetics": null,
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 30,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2022-10-10T18:50:12Z",
+        "updated_at": "2023-02-23T03:54:11Z",
+        "parent_category": {
+          "id": 4,
+          "name": "Vape Pens",
+          "slug": "vape-pens"
+        },
+        "sub_category": {
+          "id": 193,
+          "name": "Cartridge",
+          "slug": "cartridge"
+        },
+        "measurements": [
+          {
+            "id": 712352783,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "%",
+            "value": "94.64"
+          }
+        ],
+        "variants": [
+          {
+            "name": "1/2 gram",
+            "label": "1/2 g",
+            "price": {
+              "amount": "30.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.5,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 500,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/ultra-health-tucumcari/menu/vape-cartridge-green-dream",
+        "order": "https://weedmaps.com/dispensaries/ultra-health-tucumcari/menu/vape-cartridge-green-dream"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 322437,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": {
+            "id": 6935,
+            "type": "strain"
+          }
+        },
+        "categories": {
+          "meta": {
+            "total": 2
+          },
+          "data": [
+            {
+              "id": 193,
+              "type": "category"
+            },
+            {
+              "id": 4,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "type": "tag",
+              "id": "edcefa08-584a-41d5-9cd0-11e7f24a5176"
+            }
+          ]
+        },
+        "menu_parent": {
+          "data": {
+            "id": 239129621,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 111251776,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Mini Slim Battery",
+        "slug": "mini-slim-battery",
+        "category_name": "Vape Pens",
+        "body": "",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/pictures/users/013/880/906/408241470_171003_49264_Kushkraft_battery_1.jpg?txt64=UHJvZHVjdCBleGFtcGxl&txt-fit=max&txt-color=666&txt-lead=0&txt-size=24&txt-font=Avenir+Next+Medium&txt-align=center,bottom",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/users/013/880/906/408241470_171003_49264_Kushkraft_battery_1.jpg?txt64=UHJvZHVjdCBleGFtcGxl&txt-fit=max&txt-color=666&txt-lead=0&txt-size=24&txt-font=Avenir+Next+Medium&txt-align=center,bottom",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/users/013/880/906/408241470_171003_49264_Kushkraft_battery_1.jpg?txt64=UHJvZHVjdCBleGFtcGxl&txt-fit=max&txt-color=666&txt-lead=0&txt-size=24&txt-font=Avenir+Next+Medium&txt-align=center,bottom",
+        "is_badged": false,
+        "brand_name": "",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 15,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2022-10-10T18:54:55Z",
+        "updated_at": "2023-02-23T03:54:13Z",
+        "parent_category": {
+          "id": 4,
+          "name": "Vape Pens",
+          "slug": "vape-pens"
+        },
+        "sub_category": {
+          "id": 218,
+          "name": "Pull",
+          "slug": "pull"
+        },
+        "measurements": [],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/ultra-health-tucumcari/menu/mini-slim-battery",
+        "order": "https://weedmaps.com/dispensaries/ultra-health-tucumcari/menu/mini-slim-battery"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 322437,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 3
+          },
+          "data": [
+            {
+              "id": 218,
+              "type": "category"
+            },
+            {
+              "id": 7,
+              "type": "category"
+            },
+            {
+              "id": 4,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 239129621,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 125539228,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Watermelon Zkittles",
+        "slug": "watermelon-zkittles",
+        "category_name": "Vape Pens",
+        "body": "<p></p><p>Indica cart </p>",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/pictures/users/013/880/906/427127726_CartridgeDetail_01.jpg?txt64=UHJvZHVjdCBleGFtcGxl&txt-fit=max&txt-color=666&txt-lead=0&txt-size=24&txt-font=Avenir+Next+Medium&txt-align=center,bottom",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/users/013/880/906/427127726_CartridgeDetail_01.jpg?txt64=UHJvZHVjdCBleGFtcGxl&txt-fit=max&txt-color=666&txt-lead=0&txt-size=24&txt-font=Avenir+Next+Medium&txt-align=center,bottom",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/users/013/880/906/427127726_CartridgeDetail_01.jpg?txt64=UHJvZHVjdCBleGFtcGxl&txt-fit=max&txt-color=666&txt-lead=0&txt-size=24&txt-font=Avenir+Next+Medium&txt-align=center,bottom",
+        "is_badged": false,
+        "brand_name": "UH",
+        "cannabinoids": {
+          "thc": "91.0"
+        },
+        "genetics": "indica",
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 30,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2023-03-21T16:13:35Z",
+        "updated_at": "2023-07-21T02:21:04Z",
+        "parent_category": {
+          "id": 4,
+          "name": "Vape Pens",
+          "slug": "vape-pens"
+        },
+        "sub_category": {
+          "id": 193,
+          "name": "Cartridge",
+          "slug": "cartridge"
+        },
+        "measurements": [
+          {
+            "id": 1284061682,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "%",
+            "value": "91.0"
+          }
+        ],
+        "variants": [
+          {
+            "name": "1/2 gram",
+            "label": "1/2 g",
+            "price": {
+              "amount": "30.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.5,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 500,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/ultra-health-tucumcari/menu/watermelon-zkittles",
+        "order": "https://weedmaps.com/dispensaries/ultra-health-tucumcari/menu/watermelon-zkittles"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 322437,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 2
+          },
+          "data": [
+            {
+              "id": 193,
+              "type": "category"
+            },
+            {
+              "id": 4,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "type": "tag",
+              "id": "701cdc92-50a1-4f3c-afda-0e1b31775804"
+            }
+          ]
+        },
+        "menu_parent": {
+          "data": {
+            "id": 239129621,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 125539396,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Banana Cake",
+        "slug": "banana-cake",
+        "category_name": "Concentrates",
+        "body": "<p></p><p>Indica Budder wax </p>",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/pictures/users/013/880/906/427127770_180326_13306_Element_AppleJack.jpg?txt64=UHJvZHVjdCBleGFtcGxl&txt-fit=max&txt-color=666&txt-lead=0&txt-size=24&txt-font=Avenir+Next+Medium&txt-align=center,bottom",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/users/013/880/906/427127770_180326_13306_Element_AppleJack.jpg?txt64=UHJvZHVjdCBleGFtcGxl&txt-fit=max&txt-color=666&txt-lead=0&txt-size=24&txt-font=Avenir+Next+Medium&txt-align=center,bottom",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/users/013/880/906/427127770_180326_13306_Element_AppleJack.jpg?txt64=UHJvZHVjdCBleGFtcGxl&txt-fit=max&txt-color=666&txt-lead=0&txt-size=24&txt-font=Avenir+Next+Medium&txt-align=center,bottom",
+        "is_badged": false,
+        "brand_name": "UH",
+        "cannabinoids": {
+          "thc": "75.3"
+        },
+        "genetics": "indica",
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 15,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2023-03-21T16:16:21Z",
+        "updated_at": "2023-07-21T02:21:04Z",
+        "parent_category": {
+          "id": 3,
+          "name": "Concentrates",
+          "slug": "concentrates"
+        },
+        "sub_category": {
+          "id": 48,
+          "name": "Budder",
+          "slug": "budder"
+        },
+        "measurements": [
+          {
+            "id": 1284061388,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "%",
+            "value": "75.3"
+          }
+        ],
+        "variants": [
+          {
+            "name": "1/2 gram",
+            "label": "1/2 g",
+            "price": {
+              "amount": "15.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.5,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 500,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/ultra-health-tucumcari/menu/banana-cake",
+        "order": "https://weedmaps.com/dispensaries/ultra-health-tucumcari/menu/banana-cake"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 322437,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 2
+          },
+          "data": [
+            {
+              "id": 48,
+              "type": "category"
+            },
+            {
+              "id": 3,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "type": "tag",
+              "id": "701cdc92-50a1-4f3c-afda-0e1b31775804"
+            }
+          ]
+        },
+        "menu_parent": {
+          "data": {
+            "id": 239129621,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 125547082,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Hazy Daze",
+        "slug": "hazy-daze",
+        "category_name": "Flower",
+        "body": "",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/pictures/users/013/880/906/427128686_171207_46673_Hazy_OG_1.jpg?txt64=UHJvZHVjdCBleGFtcGxl&txt-fit=max&txt-color=666&txt-lead=0&txt-size=24&txt-font=Avenir+Next+Medium&txt-align=center,bottom",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/users/013/880/906/427128686_171207_46673_Hazy_OG_1.jpg?txt64=UHJvZHVjdCBleGFtcGxl&txt-fit=max&txt-color=666&txt-lead=0&txt-size=24&txt-font=Avenir+Next+Medium&txt-align=center,bottom",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/users/013/880/906/427128686_171207_46673_Hazy_OG_1.jpg?txt64=UHJvZHVjdCBleGFtcGxl&txt-fit=max&txt-color=666&txt-lead=0&txt-size=24&txt-font=Avenir+Next+Medium&txt-align=center,bottom",
+        "is_badged": false,
+        "brand_name": "",
+        "cannabinoids": {
+          "thc": "22.4"
+        },
+        "genetics": null,
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 0,
+          "price_gram": 8.99,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2023-03-21T17:22:54Z",
+        "updated_at": "2023-04-18T16:38:19Z",
+        "parent_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "sub_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "measurements": [
+          {
+            "id": 1154567964,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "%",
+            "value": "22.4"
+          }
+        ],
+        "variants": [
+          {
+            "name": "1 gram",
+            "label": "1 g",
+            "price": {
+              "amount": "8.99",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 1,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 1000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/ultra-health-tucumcari/menu/hazy-daze",
+        "order": "https://weedmaps.com/dispensaries/ultra-health-tucumcari/menu/hazy-daze"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 322437,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 2,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "type": "tag",
+              "id": "edcefa08-584a-41d5-9cd0-11e7f24a5176"
+            }
+          ]
+        },
+        "menu_parent": {
+          "data": {
+            "id": 239129621,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 125547491,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Garlatti",
+        "slug": "garlatti",
+        "category_name": "Flower",
+        "body": "",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/pictures/users/013/880/906/427128777_180730_StrainReview_EnjoyableOG_12.jpg?txt64=UHJvZHVjdCBleGFtcGxl&txt-fit=max&txt-color=666&txt-lead=0&txt-size=24&txt-font=Avenir+Next+Medium&txt-align=center,bottom",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/users/013/880/906/427128777_180730_StrainReview_EnjoyableOG_12.jpg?txt64=UHJvZHVjdCBleGFtcGxl&txt-fit=max&txt-color=666&txt-lead=0&txt-size=24&txt-font=Avenir+Next+Medium&txt-align=center,bottom",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/users/013/880/906/427128777_180730_StrainReview_EnjoyableOG_12.jpg?txt64=UHJvZHVjdCBleGFtcGxl&txt-fit=max&txt-color=666&txt-lead=0&txt-size=24&txt-font=Avenir+Next+Medium&txt-align=center,bottom",
+        "is_badged": false,
+        "brand_name": "",
+        "cannabinoids": {
+          "thc": "22.99"
+        },
+        "genetics": null,
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 0,
+          "price_gram": 8.99,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2023-03-21T17:29:43Z",
+        "updated_at": "2023-04-18T16:38:08Z",
+        "parent_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "sub_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "measurements": [
+          {
+            "id": 1154576641,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "%",
+            "value": "22.99"
+          }
+        ],
+        "variants": [
+          {
+            "name": "1 gram",
+            "label": "1 g",
+            "price": {
+              "amount": "8.99",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 1,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 1000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/ultra-health-tucumcari/menu/garlatti",
+        "order": "https://weedmaps.com/dispensaries/ultra-health-tucumcari/menu/garlatti"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 322437,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 2,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "type": "tag",
+              "id": "701cdc92-50a1-4f3c-afda-0e1b31775804"
+            }
+          ]
+        },
+        "menu_parent": {
+          "data": {
+            "id": 239129621,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 125548158,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Mariposa",
+        "slug": "mariposa",
+        "category_name": "Flower",
+        "body": "",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/pictures/users/013/880/906/427129141_180103F_43094_ElectricDogshit_1.jpg?txt64=UHJvZHVjdCBleGFtcGxl&txt-fit=max&txt-color=666&txt-lead=0&txt-size=24&txt-font=Avenir+Next+Medium&txt-align=center,bottom",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/users/013/880/906/427129141_180103F_43094_ElectricDogshit_1.jpg?txt64=UHJvZHVjdCBleGFtcGxl&txt-fit=max&txt-color=666&txt-lead=0&txt-size=24&txt-font=Avenir+Next+Medium&txt-align=center,bottom",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/users/013/880/906/427129141_180103F_43094_ElectricDogshit_1.jpg?txt64=UHJvZHVjdCBleGFtcGxl&txt-fit=max&txt-color=666&txt-lead=0&txt-size=24&txt-font=Avenir+Next+Medium&txt-align=center,bottom",
+        "is_badged": false,
+        "brand_name": "",
+        "cannabinoids": {
+          "thc": "20.0"
+        },
+        "genetics": null,
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 0,
+          "price_gram": 8.99,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2023-03-21T17:31:54Z",
+        "updated_at": "2023-04-18T16:38:07Z",
+        "parent_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "sub_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "measurements": [
+          {
+            "id": 1154584834,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "%",
+            "value": "20.0"
+          }
+        ],
+        "variants": [
+          {
+            "name": "1 gram",
+            "label": "1 g",
+            "price": {
+              "amount": "8.99",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 1,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 1000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/ultra-health-tucumcari/menu/mariposa",
+        "order": "https://weedmaps.com/dispensaries/ultra-health-tucumcari/menu/mariposa"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 322437,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 2,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "type": "tag",
+              "id": "edcefa08-584a-41d5-9cd0-11e7f24a5176"
+            }
+          ]
+        },
+        "menu_parent": {
+          "data": {
+            "id": 239129621,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 125548254,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Bosque Queen",
+        "slug": "bosque-queen",
+        "category_name": "Flower",
+        "body": "",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/pictures/users/013/880/906/427129197_011118_34888_GreenQueen_1.jpg?txt64=UHJvZHVjdCBleGFtcGxl&txt-fit=max&txt-color=666&txt-lead=0&txt-size=24&txt-font=Avenir+Next+Medium&txt-align=center,bottom",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/users/013/880/906/427129197_011118_34888_GreenQueen_1.jpg?txt64=UHJvZHVjdCBleGFtcGxl&txt-fit=max&txt-color=666&txt-lead=0&txt-size=24&txt-font=Avenir+Next+Medium&txt-align=center,bottom",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/users/013/880/906/427129197_011118_34888_GreenQueen_1.jpg?txt64=UHJvZHVjdCBleGFtcGxl&txt-fit=max&txt-color=666&txt-lead=0&txt-size=24&txt-font=Avenir+Next+Medium&txt-align=center,bottom",
+        "is_badged": false,
+        "brand_name": "",
+        "cannabinoids": {
+          "thc": "19.5"
+        },
+        "genetics": null,
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 0,
+          "price_gram": 8.99,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2023-03-21T17:33:59Z",
+        "updated_at": "2023-03-21T17:33:59Z",
+        "parent_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "sub_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "measurements": [
+          {
+            "id": 1154587962,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "%",
+            "value": "19.5"
+          }
+        ],
+        "variants": [
+          {
+            "name": "1 gram",
+            "label": "1 g",
+            "price": {
+              "amount": "8.99",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 1,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 1000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/ultra-health-tucumcari/menu/bosque-queen",
+        "order": "https://weedmaps.com/dispensaries/ultra-health-tucumcari/menu/bosque-queen"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 322437,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 2,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "type": "tag",
+              "id": "2c8f22c2-357a-4219-99f9-f0e2fd0e0571"
+            }
+          ]
+        },
+        "menu_parent": {
+          "data": {
+            "id": 239129621,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 126334245,
+      "type": "menu_item",
+      "attributes": {
+        "name": "FLO",
+        "slug": "flo",
+        "category_name": "Flower",
+        "body": "",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/pictures/users/013/880/906/427250447_171122_CaliGreenGold_BananaOrangeSherberetFlower-1.jpg?txt64=UHJvZHVjdCBleGFtcGxl&txt-fit=max&txt-color=666&txt-lead=0&txt-size=24&txt-font=Avenir+Next+Medium&txt-align=center,bottom",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/users/013/880/906/427250447_171122_CaliGreenGold_BananaOrangeSherberetFlower-1.jpg?txt64=UHJvZHVjdCBleGFtcGxl&txt-fit=max&txt-color=666&txt-lead=0&txt-size=24&txt-font=Avenir+Next+Medium&txt-align=center,bottom",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/users/013/880/906/427250447_171122_CaliGreenGold_BananaOrangeSherberetFlower-1.jpg?txt64=UHJvZHVjdCBleGFtcGxl&txt-fit=max&txt-color=666&txt-lead=0&txt-size=24&txt-font=Avenir+Next+Medium&txt-align=center,bottom",
+        "is_badged": false,
+        "brand_name": "",
+        "cannabinoids": {
+          "thc": "17.3"
+        },
+        "genetics": null,
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 0,
+          "price_gram": 8.99,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2023-03-31T21:06:14Z",
+        "updated_at": "2023-04-18T16:38:01Z",
+        "parent_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "sub_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "measurements": [
+          {
+            "id": 1178329468,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "%",
+            "value": "17.3"
+          }
+        ],
+        "variants": [
+          {
+            "name": "1 gram",
+            "label": "1 g",
+            "price": {
+              "amount": "8.99",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 1,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 1000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/ultra-health-tucumcari/menu/flo",
+        "order": "https://weedmaps.com/dispensaries/ultra-health-tucumcari/menu/flo"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 322437,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 2,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "type": "tag",
+              "id": "2c8f22c2-357a-4219-99f9-f0e2fd0e0571"
+            }
+          ]
+        },
+        "menu_parent": {
+          "data": {
+            "id": 239129621,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 126334702,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Glue Cake",
+        "slug": "glue-cake",
+        "category_name": "Flower",
+        "body": "",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/pictures/users/013/880/906/427250586_180125F_33033_Gorilla_Glue_Outlaw_1.jpg?txt64=UHJvZHVjdCBleGFtcGxl&txt-fit=max&txt-color=666&txt-lead=0&txt-size=24&txt-font=Avenir+Next+Medium&txt-align=center,bottom",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/users/013/880/906/427250586_180125F_33033_Gorilla_Glue_Outlaw_1.jpg?txt64=UHJvZHVjdCBleGFtcGxl&txt-fit=max&txt-color=666&txt-lead=0&txt-size=24&txt-font=Avenir+Next+Medium&txt-align=center,bottom",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/users/013/880/906/427250586_180125F_33033_Gorilla_Glue_Outlaw_1.jpg?txt64=UHJvZHVjdCBleGFtcGxl&txt-fit=max&txt-color=666&txt-lead=0&txt-size=24&txt-font=Avenir+Next+Medium&txt-align=center,bottom",
+        "is_badged": false,
+        "brand_name": "",
+        "cannabinoids": {
+          "thc": "19.4"
+        },
+        "genetics": null,
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 0,
+          "price_gram": 8.99,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2023-03-31T21:11:59Z",
+        "updated_at": "2023-04-18T16:37:59Z",
+        "parent_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "sub_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "measurements": [
+          {
+            "id": 1178353390,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "%",
+            "value": "19.4"
+          }
+        ],
+        "variants": [
+          {
+            "name": "1 gram",
+            "label": "1 g",
+            "price": {
+              "amount": "8.99",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 1,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 1000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/ultra-health-tucumcari/menu/glue-cake",
+        "order": "https://weedmaps.com/dispensaries/ultra-health-tucumcari/menu/glue-cake"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 322437,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 2,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "type": "tag",
+              "id": "701cdc92-50a1-4f3c-afda-0e1b31775804"
+            }
+          ]
+        },
+        "menu_parent": {
+          "data": {
+            "id": 239129621,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 127161642,
+      "type": "menu_item",
+      "attributes": {
+        "name": "mixed lemon",
+        "slug": "mixed-lemon",
+        "category_name": "Concentrates",
+        "body": "",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/pictures/users/013/880/906/427370469_180309_35891_ShinySurpriseSugar.jpg?txt64=UHJvZHVjdCBleGFtcGxl&txt-fit=max&txt-color=666&txt-lead=0&txt-size=24&txt-font=Avenir+Next+Medium&txt-align=center,bottom",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/users/013/880/906/427370469_180309_35891_ShinySurpriseSugar.jpg?txt64=UHJvZHVjdCBleGFtcGxl&txt-fit=max&txt-color=666&txt-lead=0&txt-size=24&txt-font=Avenir+Next+Medium&txt-align=center,bottom",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/users/013/880/906/427370469_180309_35891_ShinySurpriseSugar.jpg?txt64=UHJvZHVjdCBleGFtcGxl&txt-fit=max&txt-color=666&txt-lead=0&txt-size=24&txt-font=Avenir+Next+Medium&txt-align=center,bottom",
+        "is_badged": false,
+        "brand_name": "UH",
+        "cannabinoids": {
+          "thc": "75.0"
+        },
+        "genetics": null,
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 15,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2023-04-11T19:46:08Z",
+        "updated_at": "2023-06-01T21:25:03Z",
+        "parent_category": {
+          "id": 3,
+          "name": "Concentrates",
+          "slug": "concentrates"
+        },
+        "sub_category": {
+          "id": 50,
+          "name": "Sauce",
+          "slug": "sauce"
+        },
+        "measurements": [
+          {
+            "id": 1284061143,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "%",
+            "value": "75.0"
+          }
+        ],
+        "variants": [
+          {
+            "name": "1/2 gram",
+            "label": "1/2 g",
+            "price": {
+              "amount": "15.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.5,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 500,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/ultra-health-tucumcari/menu/mixed-lemon",
+        "order": "https://weedmaps.com/dispensaries/ultra-health-tucumcari/menu/mixed-lemon"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 322437,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 2
+          },
+          "data": [
+            {
+              "id": 50,
+              "type": "category"
+            },
+            {
+              "id": 3,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "type": "tag",
+              "id": "edcefa08-584a-41d5-9cd0-11e7f24a5176"
+            }
+          ]
+        },
+        "menu_parent": {
+          "data": {
+            "id": 239129621,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 131503346,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Sour mango",
+        "slug": "sour-mango",
+        "category_name": "Vape Pens",
+        "body": "",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/pictures/users/013/880/906/427868162_CartridgeDetail_03.jpg?txt64=UHJvZHVjdCBleGFtcGxl&txt-fit=max&txt-color=666&txt-lead=0&txt-size=24&txt-font=Avenir+Next+Medium&txt-align=center,bottom",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/users/013/880/906/427868162_CartridgeDetail_03.jpg?txt64=UHJvZHVjdCBleGFtcGxl&txt-fit=max&txt-color=666&txt-lead=0&txt-size=24&txt-font=Avenir+Next+Medium&txt-align=center,bottom",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/users/013/880/906/427868162_CartridgeDetail_03.jpg?txt64=UHJvZHVjdCBleGFtcGxl&txt-fit=max&txt-color=666&txt-lead=0&txt-size=24&txt-font=Avenir+Next+Medium&txt-align=center,bottom",
+        "is_badged": false,
+        "brand_name": "UH",
+        "cannabinoids": {
+          "thc": "95.2"
+        },
+        "genetics": null,
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 30,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2023-06-01T21:15:23Z",
+        "updated_at": "2023-06-01T21:24:42Z",
+        "parent_category": {
+          "id": 4,
+          "name": "Vape Pens",
+          "slug": "vape-pens"
+        },
+        "sub_category": {
+          "id": 193,
+          "name": "Cartridge",
+          "slug": "cartridge"
+        },
+        "measurements": [
+          {
+            "id": 1284060742,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "%",
+            "value": "95.2"
+          }
+        ],
+        "variants": [
+          {
+            "name": "1/2 gram",
+            "label": "1/2 g",
+            "price": {
+              "amount": "30.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.5,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 500,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/ultra-health-tucumcari/menu/sour-mango",
+        "order": "https://weedmaps.com/dispensaries/ultra-health-tucumcari/menu/sour-mango"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 322437,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 2
+          },
+          "data": [
+            {
+              "id": 193,
+              "type": "category"
+            },
+            {
+              "id": 4,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "type": "tag",
+              "id": "edcefa08-584a-41d5-9cd0-11e7f24a5176"
+            }
+          ]
+        },
+        "menu_parent": {
+          "data": {
+            "id": 239129621,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 131503734,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Lime Sherbet",
+        "slug": "lime-sherbet",
+        "category_name": "Vape Pens",
+        "body": "",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/pictures/users/013/880/906/427127726_CartridgeDetail_01.jpg?txt64=UHJvZHVjdCBleGFtcGxl&txt-fit=max&txt-color=666&txt-lead=0&txt-size=24&txt-font=Avenir+Next+Medium&txt-align=center,bottom",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/users/013/880/906/427127726_CartridgeDetail_01.jpg?txt64=UHJvZHVjdCBleGFtcGxl&txt-fit=max&txt-color=666&txt-lead=0&txt-size=24&txt-font=Avenir+Next+Medium&txt-align=center,bottom",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/users/013/880/906/427127726_CartridgeDetail_01.jpg?txt64=UHJvZHVjdCBleGFtcGxl&txt-fit=max&txt-color=666&txt-lead=0&txt-size=24&txt-font=Avenir+Next+Medium&txt-align=center,bottom",
+        "is_badged": false,
+        "brand_name": "UH",
+        "cannabinoids": {
+          "thc": "95.2"
+        },
+        "genetics": null,
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 30,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2023-06-01T21:19:01Z",
+        "updated_at": "2023-06-01T21:24:27Z",
+        "parent_category": {
+          "id": 4,
+          "name": "Vape Pens",
+          "slug": "vape-pens"
+        },
+        "sub_category": {
+          "id": 193,
+          "name": "Cartridge",
+          "slug": "cartridge"
+        },
+        "measurements": [
+          {
+            "id": 1284060329,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "%",
+            "value": "95.2"
+          }
+        ],
+        "variants": [
+          {
+            "name": "1/2 gram",
+            "label": "1/2 g",
+            "price": {
+              "amount": "30.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.5,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 500,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/ultra-health-tucumcari/menu/lime-sherbet",
+        "order": "https://weedmaps.com/dispensaries/ultra-health-tucumcari/menu/lime-sherbet"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 322437,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 2
+          },
+          "data": [
+            {
+              "id": 193,
+              "type": "category"
+            },
+            {
+              "id": 4,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "type": "tag",
+              "id": "edcefa08-584a-41d5-9cd0-11e7f24a5176"
+            }
+          ]
+        },
+        "menu_parent": {
+          "data": {
+            "id": 239129621,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 131503942,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Twisted citrus",
+        "slug": "twisted-citrus",
+        "category_name": "Vape Pens",
+        "body": "",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/pictures/users/013/880/906/427868272_180214_FirstClassCanna_GorillaGlueWhiteCart-3.jpg?txt64=UHJvZHVjdCBleGFtcGxl&txt-fit=max&txt-color=666&txt-lead=0&txt-size=24&txt-font=Avenir+Next+Medium&txt-align=center,bottom",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/users/013/880/906/427868272_180214_FirstClassCanna_GorillaGlueWhiteCart-3.jpg?txt64=UHJvZHVjdCBleGFtcGxl&txt-fit=max&txt-color=666&txt-lead=0&txt-size=24&txt-font=Avenir+Next+Medium&txt-align=center,bottom",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/users/013/880/906/427868272_180214_FirstClassCanna_GorillaGlueWhiteCart-3.jpg?txt64=UHJvZHVjdCBleGFtcGxl&txt-fit=max&txt-color=666&txt-lead=0&txt-size=24&txt-font=Avenir+Next+Medium&txt-align=center,bottom",
+        "is_badged": false,
+        "brand_name": "UH ",
+        "cannabinoids": {
+          "thc": "92.0"
+        },
+        "genetics": null,
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 30,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2023-06-01T21:21:22Z",
+        "updated_at": "2023-06-01T21:21:24Z",
+        "parent_category": {
+          "id": 4,
+          "name": "Vape Pens",
+          "slug": "vape-pens"
+        },
+        "sub_category": {
+          "id": 193,
+          "name": "Cartridge",
+          "slug": "cartridge"
+        },
+        "measurements": [
+          {
+            "id": 1284056424,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "%",
+            "value": "92.0"
+          }
+        ],
+        "variants": [
+          {
+            "name": "1/2 gram",
+            "label": "1/2 g",
+            "price": {
+              "amount": "30.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.5,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 500,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/ultra-health-tucumcari/menu/twisted-citrus",
+        "order": "https://weedmaps.com/dispensaries/ultra-health-tucumcari/menu/twisted-citrus"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 322437,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 2
+          },
+          "data": [
+            {
+              "id": 193,
+              "type": "category"
+            },
+            {
+              "id": 4,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "type": "tag",
+              "id": "edcefa08-584a-41d5-9cd0-11e7f24a5176"
+            }
+          ]
+        },
+        "menu_parent": {
+          "data": {
+            "id": 239129621,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 131504022,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Green Dream",
+        "slug": "green-dream",
+        "category_name": "Vape Pens",
+        "body": "",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/pictures/users/013/880/906/408239194_170929_EelRiverOrganics_GreenDream-4.jpg?txt64=UHJvZHVjdCBleGFtcGxl&txt-fit=max&txt-color=666&txt-lead=0&txt-size=24&txt-font=Avenir+Next+Medium&txt-align=center,bottom",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/users/013/880/906/408239194_170929_EelRiverOrganics_GreenDream-4.jpg?txt64=UHJvZHVjdCBleGFtcGxl&txt-fit=max&txt-color=666&txt-lead=0&txt-size=24&txt-font=Avenir+Next+Medium&txt-align=center,bottom",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/users/013/880/906/408239194_170929_EelRiverOrganics_GreenDream-4.jpg?txt64=UHJvZHVjdCBleGFtcGxl&txt-fit=max&txt-color=666&txt-lead=0&txt-size=24&txt-font=Avenir+Next+Medium&txt-align=center,bottom",
+        "is_badged": false,
+        "brand_name": "UH",
+        "cannabinoids": {
+          "thc": "94.6"
+        },
+        "genetics": null,
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 30,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2023-06-01T21:22:23Z",
+        "updated_at": "2023-06-01T21:24:16Z",
+        "parent_category": {
+          "id": 4,
+          "name": "Vape Pens",
+          "slug": "vape-pens"
+        },
+        "sub_category": {
+          "id": 193,
+          "name": "Cartridge",
+          "slug": "cartridge"
+        },
+        "measurements": [
+          {
+            "id": 1284059978,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "%",
+            "value": "94.6"
+          }
+        ],
+        "variants": [
+          {
+            "name": "1/2 gram",
+            "label": "1/2 g",
+            "price": {
+              "amount": "30.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.5,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 500,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/ultra-health-tucumcari/menu/green-dream",
+        "order": "https://weedmaps.com/dispensaries/ultra-health-tucumcari/menu/green-dream"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 322437,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 2
+          },
+          "data": [
+            {
+              "id": 193,
+              "type": "category"
+            },
+            {
+              "id": 4,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "type": "tag",
+              "id": "2c8f22c2-357a-4219-99f9-f0e2fd0e0571"
+            }
+          ]
+        },
+        "menu_parent": {
+          "data": {
+            "id": 239129621,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 131504192,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Peach Rings",
+        "slug": "peach-rings",
+        "category_name": "Vape Pens",
+        "body": "",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/pictures/users/013/880/906/427868322_180214_FirstClassCanna_GelatoWhiteCart-4.jpg?txt64=UHJvZHVjdCBleGFtcGxl&txt-fit=max&txt-color=666&txt-lead=0&txt-size=24&txt-font=Avenir+Next+Medium&txt-align=center,bottom",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/users/013/880/906/427868322_180214_FirstClassCanna_GelatoWhiteCart-4.jpg?txt64=UHJvZHVjdCBleGFtcGxl&txt-fit=max&txt-color=666&txt-lead=0&txt-size=24&txt-font=Avenir+Next+Medium&txt-align=center,bottom",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/users/013/880/906/427868322_180214_FirstClassCanna_GelatoWhiteCart-4.jpg?txt64=UHJvZHVjdCBleGFtcGxl&txt-fit=max&txt-color=666&txt-lead=0&txt-size=24&txt-font=Avenir+Next+Medium&txt-align=center,bottom",
+        "is_badged": false,
+        "brand_name": "UH",
+        "cannabinoids": {
+          "thc": "95.2"
+        },
+        "genetics": null,
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 30,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2023-06-01T21:24:02Z",
+        "updated_at": "2023-06-01T21:24:04Z",
+        "parent_category": {
+          "id": 4,
+          "name": "Vape Pens",
+          "slug": "vape-pens"
+        },
+        "sub_category": {
+          "id": 193,
+          "name": "Cartridge",
+          "slug": "cartridge"
+        },
+        "measurements": [
+          {
+            "id": 1284059738,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "%",
+            "value": "95.2"
+          }
+        ],
+        "variants": [
+          {
+            "name": "1/2 gram",
+            "label": "1/2 g",
+            "price": {
+              "amount": "30.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.5,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 500,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/ultra-health-tucumcari/menu/peach-rings",
+        "order": "https://weedmaps.com/dispensaries/ultra-health-tucumcari/menu/peach-rings"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 322437,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 2
+          },
+          "data": [
+            {
+              "id": 193,
+              "type": "category"
+            },
+            {
+              "id": 4,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "type": "tag",
+              "id": "2c8f22c2-357a-4219-99f9-f0e2fd0e0571"
+            }
+          ]
+        },
+        "menu_parent": {
+          "data": {
+            "id": 239129621,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 131504784,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Durban Lemons",
+        "slug": "durban-lemons",
+        "category_name": "Concentrates",
+        "body": "",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/pictures/users/013/880/906/427868488_180326_13306_Element_TangieXJackHerer.jpg?txt64=UHJvZHVjdCBleGFtcGxl&txt-fit=max&txt-color=666&txt-lead=0&txt-size=24&txt-font=Avenir+Next+Medium&txt-align=center,bottom",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/users/013/880/906/427868488_180326_13306_Element_TangieXJackHerer.jpg?txt64=UHJvZHVjdCBleGFtcGxl&txt-fit=max&txt-color=666&txt-lead=0&txt-size=24&txt-font=Avenir+Next+Medium&txt-align=center,bottom",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/users/013/880/906/427868488_180326_13306_Element_TangieXJackHerer.jpg?txt64=UHJvZHVjdCBleGFtcGxl&txt-fit=max&txt-color=666&txt-lead=0&txt-size=24&txt-font=Avenir+Next+Medium&txt-align=center,bottom",
+        "is_badged": false,
+        "brand_name": "UH",
+        "cannabinoids": {
+          "thc": "73.4"
+        },
+        "genetics": null,
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 15,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2023-06-01T21:28:44Z",
+        "updated_at": "2023-06-01T21:28:46Z",
+        "parent_category": {
+          "id": 3,
+          "name": "Concentrates",
+          "slug": "concentrates"
+        },
+        "sub_category": {
+          "id": 20,
+          "name": "Crumble",
+          "slug": "crumble"
+        },
+        "measurements": [
+          {
+            "id": 1284064774,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "%",
+            "value": "73.4"
+          }
+        ],
+        "variants": [
+          {
+            "name": "1/2 gram",
+            "label": "1/2 g",
+            "price": {
+              "amount": "15.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.5,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 500,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/ultra-health-tucumcari/menu/durban-lemons",
+        "order": "https://weedmaps.com/dispensaries/ultra-health-tucumcari/menu/durban-lemons"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 322437,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 2
+          },
+          "data": [
+            {
+              "id": 20,
+              "type": "category"
+            },
+            {
+              "id": 3,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "type": "tag",
+              "id": "edcefa08-584a-41d5-9cd0-11e7f24a5176"
+            }
+          ]
+        },
+        "menu_parent": {
+          "data": {
+            "id": 239129621,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 131505096,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Emerald OG",
+        "slug": "emerald-og",
+        "category_name": "Concentrates",
+        "body": "",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/pictures/users/013/880/906/427868526_180326_13306_Element_StrawberryOG.jpg?txt64=UHJvZHVjdCBleGFtcGxl&txt-fit=max&txt-color=666&txt-lead=0&txt-size=24&txt-font=Avenir+Next+Medium&txt-align=center,bottom",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/users/013/880/906/427868526_180326_13306_Element_StrawberryOG.jpg?txt64=UHJvZHVjdCBleGFtcGxl&txt-fit=max&txt-color=666&txt-lead=0&txt-size=24&txt-font=Avenir+Next+Medium&txt-align=center,bottom",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/users/013/880/906/427868526_180326_13306_Element_StrawberryOG.jpg?txt64=UHJvZHVjdCBleGFtcGxl&txt-fit=max&txt-color=666&txt-lead=0&txt-size=24&txt-font=Avenir+Next+Medium&txt-align=center,bottom",
+        "is_badged": false,
+        "brand_name": "UH",
+        "cannabinoids": {
+          "thc": "65.4"
+        },
+        "genetics": null,
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 15,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2023-06-01T21:31:24Z",
+        "updated_at": "2023-06-01T21:31:26Z",
+        "parent_category": {
+          "id": 3,
+          "name": "Concentrates",
+          "slug": "concentrates"
+        },
+        "sub_category": {
+          "id": 20,
+          "name": "Crumble",
+          "slug": "crumble"
+        },
+        "measurements": [
+          {
+            "id": 1284067267,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "%",
+            "value": "65.4"
+          }
+        ],
+        "variants": [
+          {
+            "name": "1/2 gram",
+            "label": "1/2 g",
+            "price": {
+              "amount": "15.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.5,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 500,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/ultra-health-tucumcari/menu/emerald-og",
+        "order": "https://weedmaps.com/dispensaries/ultra-health-tucumcari/menu/emerald-og"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 322437,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 2
+          },
+          "data": [
+            {
+              "id": 20,
+              "type": "category"
+            },
+            {
+              "id": 3,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "type": "tag",
+              "id": "2c8f22c2-357a-4219-99f9-f0e2fd0e0571"
+            }
+          ]
+        },
+        "menu_parent": {
+          "data": {
+            "id": 239129621,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 131505217,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Mixed Lemons",
+        "slug": "mixed-lemons",
+        "category_name": "Concentrates",
+        "body": "",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/pictures/users/013/880/906/427868550_180203_47731_Redav_LiveResin_LemonSkunk.jpg?txt64=UHJvZHVjdCBleGFtcGxl&txt-fit=max&txt-color=666&txt-lead=0&txt-size=24&txt-font=Avenir+Next+Medium&txt-align=center,bottom",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/users/013/880/906/427868550_180203_47731_Redav_LiveResin_LemonSkunk.jpg?txt64=UHJvZHVjdCBleGFtcGxl&txt-fit=max&txt-color=666&txt-lead=0&txt-size=24&txt-font=Avenir+Next+Medium&txt-align=center,bottom",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/users/013/880/906/427868550_180203_47731_Redav_LiveResin_LemonSkunk.jpg?txt64=UHJvZHVjdCBleGFtcGxl&txt-fit=max&txt-color=666&txt-lead=0&txt-size=24&txt-font=Avenir+Next+Medium&txt-align=center,bottom",
+        "is_badged": false,
+        "brand_name": "UH",
+        "cannabinoids": {
+          "thc": "65.4"
+        },
+        "genetics": null,
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 15,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2023-06-01T21:33:01Z",
+        "updated_at": "2023-06-01T21:33:03Z",
+        "parent_category": {
+          "id": 3,
+          "name": "Concentrates",
+          "slug": "concentrates"
+        },
+        "sub_category": {
+          "id": 20,
+          "name": "Crumble",
+          "slug": "crumble"
+        },
+        "measurements": [
+          {
+            "id": 1284070654,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "%",
+            "value": "65.4"
+          }
+        ],
+        "variants": [
+          {
+            "name": "1/2 gram",
+            "label": "1/2 g",
+            "price": {
+              "amount": "15.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.5,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 500,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/ultra-health-tucumcari/menu/mixed-lemons",
+        "order": "https://weedmaps.com/dispensaries/ultra-health-tucumcari/menu/mixed-lemons"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 322437,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 2
+          },
+          "data": [
+            {
+              "id": 20,
+              "type": "category"
+            },
+            {
+              "id": 3,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "type": "tag",
+              "id": "2c8f22c2-357a-4219-99f9-f0e2fd0e0571"
+            }
+          ]
+        },
+        "menu_parent": {
+          "data": {
+            "id": 239129621,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 131505354,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Watermelon Mojito",
+        "slug": "watermelon-mojito",
+        "category_name": "Vape Pens",
+        "body": "",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/pictures/users/013/880/906/427868572_170929_EelRiverOrganics_BlueWaterOG-5.jpg?txt64=UHJvZHVjdCBleGFtcGxl&txt-fit=max&txt-color=666&txt-lead=0&txt-size=24&txt-font=Avenir+Next+Medium&txt-align=center,bottom",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/users/013/880/906/427868572_170929_EelRiverOrganics_BlueWaterOG-5.jpg?txt64=UHJvZHVjdCBleGFtcGxl&txt-fit=max&txt-color=666&txt-lead=0&txt-size=24&txt-font=Avenir+Next+Medium&txt-align=center,bottom",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/users/013/880/906/427868572_170929_EelRiverOrganics_BlueWaterOG-5.jpg?txt64=UHJvZHVjdCBleGFtcGxl&txt-fit=max&txt-color=666&txt-lead=0&txt-size=24&txt-font=Avenir+Next+Medium&txt-align=center,bottom",
+        "is_badged": false,
+        "brand_name": "UH",
+        "cannabinoids": {
+          "thc": "95.2"
+        },
+        "genetics": null,
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 30,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2023-06-01T21:34:48Z",
+        "updated_at": "2023-06-01T21:34:50Z",
+        "parent_category": {
+          "id": 4,
+          "name": "Vape Pens",
+          "slug": "vape-pens"
+        },
+        "sub_category": {
+          "id": 193,
+          "name": "Cartridge",
+          "slug": "cartridge"
+        },
+        "measurements": [
+          {
+            "id": 1284074162,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "%",
+            "value": "95.2"
+          }
+        ],
+        "variants": [
+          {
+            "name": "1/2 gram",
+            "label": "1/2 g",
+            "price": {
+              "amount": "30.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.5,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 500,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/ultra-health-tucumcari/menu/watermelon-mojito",
+        "order": "https://weedmaps.com/dispensaries/ultra-health-tucumcari/menu/watermelon-mojito"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 322437,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 2
+          },
+          "data": [
+            {
+              "id": 193,
+              "type": "category"
+            },
+            {
+              "id": 4,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "type": "tag",
+              "id": "701cdc92-50a1-4f3c-afda-0e1b31775804"
+            }
+          ]
+        },
+        "menu_parent": {
+          "data": {
+            "id": 239129621,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 131505546,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Hybrid Caramel Chews | 100mg",
+        "slug": "hybrid-caramel-chews-100mg",
+        "category_name": "Edibles",
+        "body": "<p><strong>A balanced blend.</strong> Buttery smooth, low calorie, creamy caramel with 10mg of fast acting THC in each bite sized chew. 100mg of high grade THC in each package.</p> <p>Each batch of high grade cannabis oil used to make Cheeba Chews™ is tested at three critical stages…The Flower, The Oil, The Edible…to ensure each individual chew is consistently infused.</p> <p><strong>Gluten, Peanut Free</strong>.</p>",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/products/000/150/321/avatar/1581455482-CC_CO_REC_100mg_FlowWrap_Hybrid.png",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/products/000/150/321/avatar/1581455482-CC_CO_REC_100mg_FlowWrap_Hybrid.png",
+        "avatar_image_url": "https://images.weedmaps.com/products/000/150/321/avatar/1581455482-CC_CO_REC_100mg_FlowWrap_Hybrid.png",
+        "is_badged": true,
+        "brand_name": "Cheeba Chews",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 20,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2023-06-01T21:37:57Z",
+        "updated_at": "2023-07-26T22:54:17Z",
+        "parent_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "sub_category": {
+          "id": 224,
+          "name": "Gluten Free",
+          "slug": "gluten-free"
+        },
+        "measurements": [
+          {
+            "id": 1284077281,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "mg",
+            "value": "100.0"
+          }
+        ],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/ultra-health-tucumcari/menu/hybrid-caramel-chews-100mg",
+        "order": "https://weedmaps.com/dispensaries/ultra-health-tucumcari/menu/hybrid-caramel-chews-100mg"
+      },
+      "relationships": {
+        "brand": {
+          "data": {
+            "id": 9144,
+            "type": "brand"
+          }
+        },
+        "listing": {
+          "data": {
+            "id": 322437,
+            "type": "dispensary"
+          }
+        },
+        "product": {
+          "data": {
+            "id": 150321,
+            "type": "product"
+          }
+        },
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 3
+          },
+          "data": [
+            {
+              "id": 5,
+              "type": "category"
+            },
+            {
+              "id": 219,
+              "type": "category"
+            },
+            {
+              "id": 224,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "type": "tag",
+              "id": "2c8f22c2-357a-4219-99f9-f0e2fd0e0571"
+            }
+          ]
+        },
+        "menu_parent": {
+          "data": {
+            "id": 239129621,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 131506260,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Hybrid Lemon Meringue",
+        "slug": "hybrid-lemon-meringue",
+        "category_name": "Edibles",
+        "body": "",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/pictures/users/013/880/906/427868789_100122E_47616_LKfusions_Whitechocolatedice_1.jpg?txt64=UHJvZHVjdCBleGFtcGxl&txt-fit=max&txt-color=666&txt-lead=0&txt-size=24&txt-font=Avenir+Next+Medium&txt-align=center,bottom",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/users/013/880/906/427868789_100122E_47616_LKfusions_Whitechocolatedice_1.jpg?txt64=UHJvZHVjdCBleGFtcGxl&txt-fit=max&txt-color=666&txt-lead=0&txt-size=24&txt-font=Avenir+Next+Medium&txt-align=center,bottom",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/users/013/880/906/427868789_100122E_47616_LKfusions_Whitechocolatedice_1.jpg?txt64=UHJvZHVjdCBleGFtcGxl&txt-fit=max&txt-color=666&txt-lead=0&txt-size=24&txt-font=Avenir+Next+Medium&txt-align=center,bottom",
+        "is_badged": false,
+        "brand_name": "Cheeba chews ",
+        "cannabinoids": {},
+        "genetics": "hybrid",
+        "prices": {
+          "price_unit": 20,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2023-06-01T21:47:21Z",
+        "updated_at": "2024-03-16T16:44:24Z",
+        "parent_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "sub_category": {
+          "id": 22,
+          "name": "Gummies",
+          "slug": "gummies"
+        },
+        "measurements": [
+          {
+            "id": 1284088804,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "mg",
+            "value": "100.0"
+          }
+        ],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/ultra-health-tucumcari/menu/hybrid-lemon-meringue",
+        "order": "https://weedmaps.com/dispensaries/ultra-health-tucumcari/menu/hybrid-lemon-meringue"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 322437,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 3
+          },
+          "data": [
+            {
+              "id": 22,
+              "type": "category"
+            },
+            {
+              "id": 219,
+              "type": "category"
+            },
+            {
+              "id": 5,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "type": "tag",
+              "id": "2c8f22c2-357a-4219-99f9-f0e2fd0e0571"
+            }
+          ]
+        },
+        "menu_parent": {
+          "data": {
+            "id": 239129621,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 131506291,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Indica Chocolate Taffy Chews | 100mg",
+        "slug": "indica-chocolate-taffy-chews-100mg",
+        "category_name": "Edibles",
+        "body": "<p>\"<em><strong>Indica chews and chill</strong></em>\" is the ideal way to describe the effects of these deliciously rich chocolate taffy chews. Each low calorie piece contains 10mg of THC, with ten chews in each package.</p> <p>Known to provide a relaxing \"body buzz\", an indica chew is great to consume when you would like to unwind and decompress.</p> <p>Each batch of high grade cannabis oil used to make Cheeba Chews™ is tested at three critical stages…The Flower, The Oil, The Edible…to ensure each individual chew is consistently infused.</p> <p><strong>Gluten, Peanut Free.</strong></p>",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/products/000/150/320/avatar/1581455536-CC_CO_REC_100mg_FlowWrap_Indica.png",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/products/000/150/320/avatar/1581455536-CC_CO_REC_100mg_FlowWrap_Indica.png",
+        "avatar_image_url": "https://images.weedmaps.com/products/000/150/320/avatar/1581455536-CC_CO_REC_100mg_FlowWrap_Indica.png",
+        "is_badged": true,
+        "brand_name": "Cheeba Chews",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 20,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2023-06-01T21:48:03Z",
+        "updated_at": "2023-07-26T22:54:00Z",
+        "parent_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "sub_category": {
+          "id": 224,
+          "name": "Gluten Free",
+          "slug": "gluten-free"
+        },
+        "measurements": [
+          {
+            "id": 1284089340,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "mg",
+            "value": "100.0"
+          }
+        ],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/ultra-health-tucumcari/menu/indica-chocolate-taffy-chews-100mg",
+        "order": "https://weedmaps.com/dispensaries/ultra-health-tucumcari/menu/indica-chocolate-taffy-chews-100mg"
+      },
+      "relationships": {
+        "brand": {
+          "data": {
+            "id": 9144,
+            "type": "brand"
+          }
+        },
+        "listing": {
+          "data": {
+            "id": 322437,
+            "type": "dispensary"
+          }
+        },
+        "product": {
+          "data": {
+            "id": 150320,
+            "type": "product"
+          }
+        },
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 4
+          },
+          "data": [
+            {
+              "id": 5,
+              "type": "category"
+            },
+            {
+              "id": 219,
+              "type": "category"
+            },
+            {
+              "id": 212,
+              "type": "category"
+            },
+            {
+              "id": 224,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "type": "tag",
+              "id": "701cdc92-50a1-4f3c-afda-0e1b31775804"
+            }
+          ]
+        },
+        "menu_parent": {
+          "data": {
+            "id": 239129621,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 131506362,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Indica Strawberry Fruit Chews | 100mg",
+        "slug": "indica-strawberry-fruit-chews-100mg",
+        "category_name": "Edibles",
+        "body": "<p>As one of the cannabis industry’s <strong>best tasting edibles</strong>, each award winning sweet strawberry flavored fruit taffy chew is infused with 10mg of high-grade indica dominant THC oil. Each package we produce is tested at three levels: The flower, the oil, and the edible, to ensure consistency.</p> <p><strong>Dairy, Gluten, Peanut Free.</strong></p>",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/products/000/150/323/avatar/1581457771-CC_CO_REC_100mg_FlowWrap_Strawberry_Indica.png",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/products/000/150/323/avatar/1581457771-CC_CO_REC_100mg_FlowWrap_Strawberry_Indica.png",
+        "avatar_image_url": "https://images.weedmaps.com/products/000/150/323/avatar/1581457771-CC_CO_REC_100mg_FlowWrap_Strawberry_Indica.png",
+        "is_badged": true,
+        "brand_name": "Cheeba Chews",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 20,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2023-06-01T21:48:30Z",
+        "updated_at": "2023-07-26T22:53:54Z",
+        "parent_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "sub_category": {
+          "id": 225,
+          "name": "Dairy Free",
+          "slug": "dairy-free"
+        },
+        "measurements": [
+          {
+            "id": 1284089809,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "mg",
+            "value": "100.0"
+          }
+        ],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/ultra-health-tucumcari/menu/indica-strawberry-fruit-chews-100mg",
+        "order": "https://weedmaps.com/dispensaries/ultra-health-tucumcari/menu/indica-strawberry-fruit-chews-100mg"
+      },
+      "relationships": {
+        "brand": {
+          "data": {
+            "id": 9144,
+            "type": "brand"
+          }
+        },
+        "listing": {
+          "data": {
+            "id": 322437,
+            "type": "dispensary"
+          }
+        },
+        "product": {
+          "data": {
+            "id": 150323,
+            "type": "product"
+          }
+        },
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 4
+          },
+          "data": [
+            {
+              "id": 5,
+              "type": "category"
+            },
+            {
+              "id": 219,
+              "type": "category"
+            },
+            {
+              "id": 22,
+              "type": "category"
+            },
+            {
+              "id": 225,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "type": "tag",
+              "id": "701cdc92-50a1-4f3c-afda-0e1b31775804"
+            }
+          ]
+        },
+        "menu_parent": {
+          "data": {
+            "id": 239129621,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 131506383,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Sativa Chocolate Taffy Chews | 100mg",
+        "slug": "sativa-chocolate-taffy-chews-100mg",
+        "category_name": "Edibles",
+        "body": "<p><strong>Uplifting and inspired.</strong> These sativa dominant THC infused, deliciously rich chocolate taffy chews contain 10mg in each piece with ten pieces per package. Multi-award winning flavor and effect.</p> <p>Each batch of high grade cannabis oil used to make Cheeba Chews™ is tested at three critical stages…The Flower, The Oil, The Edible…to ensure each individual chew is consistently infused.</p> <p><strong>Gluten, Peanut Free.</strong></p>",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/products/000/150/048/avatar/1581455363-CC_CO_REC_100mg_FlowWrap_Sativa.png",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/products/000/150/048/avatar/1581455363-CC_CO_REC_100mg_FlowWrap_Sativa.png",
+        "avatar_image_url": "https://images.weedmaps.com/products/000/150/048/avatar/1581455363-CC_CO_REC_100mg_FlowWrap_Sativa.png",
+        "is_badged": true,
+        "brand_name": "Cheeba Chews",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 20,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2023-06-01T21:48:56Z",
+        "updated_at": "2023-07-26T22:53:51Z",
+        "parent_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "sub_category": {
+          "id": 224,
+          "name": "Gluten Free",
+          "slug": "gluten-free"
+        },
+        "measurements": [
+          {
+            "id": 1284090222,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "mg",
+            "value": "100.0"
+          }
+        ],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/ultra-health-tucumcari/menu/sativa-chocolate-taffy-chews-100mg",
+        "order": "https://weedmaps.com/dispensaries/ultra-health-tucumcari/menu/sativa-chocolate-taffy-chews-100mg"
+      },
+      "relationships": {
+        "brand": {
+          "data": {
+            "id": 9144,
+            "type": "brand"
+          }
+        },
+        "listing": {
+          "data": {
+            "id": 322437,
+            "type": "dispensary"
+          }
+        },
+        "product": {
+          "data": {
+            "id": 150048,
+            "type": "product"
+          }
+        },
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 4
+          },
+          "data": [
+            {
+              "id": 5,
+              "type": "category"
+            },
+            {
+              "id": 219,
+              "type": "category"
+            },
+            {
+              "id": 212,
+              "type": "category"
+            },
+            {
+              "id": 224,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "type": "tag",
+              "id": "edcefa08-584a-41d5-9cd0-11e7f24a5176"
+            }
+          ]
+        },
+        "menu_parent": {
+          "data": {
+            "id": 239129621,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 131506412,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Indica Strawberry Fruit Chews | 100mg",
+        "slug": "indica-strawberry-fruit-chews-100mg-c08ea28a-b859-4217-9dc8-be8e15a4a7bb",
+        "category_name": "Edibles",
+        "body": "<p>As one of the cannabis industry’s <strong>best tasting edibles</strong>, each award winning sweet strawberry flavored fruit taffy chew is infused with 10mg of high-grade indica dominant THC oil. Each package we produce is tested at three levels: The flower, the oil, and the edible, to ensure consistency.</p> <p><strong>Dairy, Gluten, Peanut Free.</strong></p>",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/products/000/150/323/avatar/1581457771-CC_CO_REC_100mg_FlowWrap_Strawberry_Indica.png",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/products/000/150/323/avatar/1581457771-CC_CO_REC_100mg_FlowWrap_Strawberry_Indica.png",
+        "avatar_image_url": "https://images.weedmaps.com/products/000/150/323/avatar/1581457771-CC_CO_REC_100mg_FlowWrap_Strawberry_Indica.png",
+        "is_badged": true,
+        "brand_name": "Cheeba Chews",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 20,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2023-06-01T21:49:25Z",
+        "updated_at": "2023-07-26T22:53:54Z",
+        "parent_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "sub_category": {
+          "id": 225,
+          "name": "Dairy Free",
+          "slug": "dairy-free"
+        },
+        "measurements": [
+          {
+            "id": 1284090672,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "mg",
+            "value": "100.0"
+          }
+        ],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/ultra-health-tucumcari/menu/indica-strawberry-fruit-chews-100mg-c08ea28a-b859-4217-9dc8-be8e15a4a7bb",
+        "order": "https://weedmaps.com/dispensaries/ultra-health-tucumcari/menu/indica-strawberry-fruit-chews-100mg-c08ea28a-b859-4217-9dc8-be8e15a4a7bb"
+      },
+      "relationships": {
+        "brand": {
+          "data": {
+            "id": 9144,
+            "type": "brand"
+          }
+        },
+        "listing": {
+          "data": {
+            "id": 322437,
+            "type": "dispensary"
+          }
+        },
+        "product": {
+          "data": {
+            "id": 150323,
+            "type": "product"
+          }
+        },
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 4
+          },
+          "data": [
+            {
+              "id": 5,
+              "type": "category"
+            },
+            {
+              "id": 219,
+              "type": "category"
+            },
+            {
+              "id": 22,
+              "type": "category"
+            },
+            {
+              "id": 225,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "type": "tag",
+              "id": "701cdc92-50a1-4f3c-afda-0e1b31775804"
+            }
+          ]
+        },
+        "menu_parent": {
+          "data": {
+            "id": 239129621,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 131506481,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Sleepy Chews Taffy [CBN + THC Ratio]",
+        "slug": "sleepy-chews-taffy-cbn-thc-ratio",
+        "category_name": "Edibles",
+        "body": "<p></p><p><strong>20 chews to help you snooze.</strong> Enjoy our 2:1 blend of THC and CBN, with a touch of melatonin, to help you rest easy. Each package contains 20 individual chocolate taffy chews. With just enough THC to help enhance the effects of CBN (naturally occurring cannabinoid known to act as a sleep-aid), enjoy one deliciously rich chocolate taffy just before bedtime. <em>Sweet dreams are made of these!</em></p><p>Available in California, Colorado, Massachusetts, and Oklahoma currently.</p>",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/products/000/168/992/avatar/1635166626-sleepy-wm.png",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/products/000/168/992/avatar/1635166626-sleepy-wm.png",
+        "avatar_image_url": "https://images.weedmaps.com/products/000/168/992/avatar/1635166626-sleepy-wm.png",
+        "is_badged": true,
+        "brand_name": "Cheeba Chews",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 20,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2023-06-01T21:50:40Z",
+        "updated_at": "2023-06-01T21:50:40Z",
+        "parent_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "sub_category": {
+          "id": 224,
+          "name": "Gluten Free",
+          "slug": "gluten-free"
+        },
+        "measurements": [
+          {
+            "id": 1284091374,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "mg",
+            "value": "100.0"
+          }
+        ],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/ultra-health-tucumcari/menu/sleepy-chews-taffy-cbn-thc-ratio",
+        "order": "https://weedmaps.com/dispensaries/ultra-health-tucumcari/menu/sleepy-chews-taffy-cbn-thc-ratio"
+      },
+      "relationships": {
+        "brand": {
+          "data": {
+            "id": 9144,
+            "type": "brand"
+          }
+        },
+        "listing": {
+          "data": {
+            "id": 322437,
+            "type": "dispensary"
+          }
+        },
+        "product": {
+          "data": {
+            "id": 168992,
+            "type": "product"
+          }
+        },
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 5
+          },
+          "data": [
+            {
+              "id": 5,
+              "type": "category"
+            },
+            {
+              "id": 219,
+              "type": "category"
+            },
+            {
+              "id": 212,
+              "type": "category"
+            },
+            {
+              "id": 1,
+              "type": "category"
+            },
+            {
+              "id": 224,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 239129621,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 131506548,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Trifecta, Be Happy Caramel Taffy [CBG+CBD+THC]",
+        "slug": "trifecta-be-happy-caramel-taffy-cbg-cbd-thc",
+        "category_name": "Edibles",
+        "body": "<p></p><p>With your wellness in mind, enjoy a 1:1:1 ratio of CBG, CBD, and THC. Each 20-pack of caramels contains 300 total milligrams of feel-good cannabinoids.</p>",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/products/000/218/966/avatar/1610571615-CC_Trifecta-wm.png",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/products/000/218/966/avatar/1610571615-CC_Trifecta-wm.png",
+        "avatar_image_url": "https://images.weedmaps.com/products/000/218/966/avatar/1610571615-CC_Trifecta-wm.png",
+        "is_badged": true,
+        "brand_name": "Cheeba Chews",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 20,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2023-06-01T21:51:15Z",
+        "updated_at": "2023-06-01T21:51:15Z",
+        "parent_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "sub_category": {
+          "id": 212,
+          "name": "Chocolates",
+          "slug": "chocolates"
+        },
+        "measurements": [
+          {
+            "id": 1284091629,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "mg",
+            "value": "100.0"
+          }
+        ],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/ultra-health-tucumcari/menu/trifecta-be-happy-caramel-taffy-cbg-cbd-thc",
+        "order": "https://weedmaps.com/dispensaries/ultra-health-tucumcari/menu/trifecta-be-happy-caramel-taffy-cbg-cbd-thc"
+      },
+      "relationships": {
+        "brand": {
+          "data": {
+            "id": 9144,
+            "type": "brand"
+          }
+        },
+        "listing": {
+          "data": {
+            "id": 322437,
+            "type": "dispensary"
+          }
+        },
+        "product": {
+          "data": {
+            "id": 218966,
+            "type": "product"
+          }
+        },
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 4
+          },
+          "data": [
+            {
+              "id": 5,
+              "type": "category"
+            },
+            {
+              "id": 219,
+              "type": "category"
+            },
+            {
+              "id": 1,
+              "type": "category"
+            },
+            {
+              "id": 212,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 239129621,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 131506861,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Fruity Snack Bar",
+        "slug": "fruity-snack-bar",
+        "category_name": "Edibles",
+        "body": "<p></p><p>Cereal/marshmallow/chocolate infused with THC snack bar</p>",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/products/000/363/222/avatar/1648503990-1648491596-qt_q_62.png",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/products/000/363/222/avatar/1648503990-1648491596-qt_q_62.png",
+        "avatar_image_url": "https://images.weedmaps.com/products/000/363/222/avatar/1648503990-1648491596-qt_q_62.png",
+        "is_badged": true,
+        "brand_name": "Elevated RX",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 15,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2023-06-01T21:54:50Z",
+        "updated_at": "2023-06-01T21:54:50Z",
+        "parent_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "sub_category": {
+          "id": 204,
+          "name": "Treats",
+          "slug": "treats"
+        },
+        "measurements": [
+          {
+            "id": 1284096397,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "mg",
+            "value": "100.0"
+          }
+        ],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/ultra-health-tucumcari/menu/fruity-snack-bar",
+        "order": "https://weedmaps.com/dispensaries/ultra-health-tucumcari/menu/fruity-snack-bar"
+      },
+      "relationships": {
+        "brand": {
+          "data": {
+            "id": 20885,
+            "type": "brand"
+          }
+        },
+        "listing": {
+          "data": {
+            "id": 322437,
+            "type": "dispensary"
+          }
+        },
+        "product": {
+          "data": {
+            "id": 363222,
+            "type": "product"
+          }
+        },
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 3
+          },
+          "data": [
+            {
+              "id": 204,
+              "type": "category"
+            },
+            {
+              "id": 24,
+              "type": "category"
+            },
+            {
+              "id": 5,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 2
+          },
+          "data": [
+            {
+              "type": "tag",
+              "id": "0777c485-a69d-41fe-bf47-ad91ff185525"
+            },
+            {
+              "type": "tag",
+              "id": "9f52b69a-8a25-4501-8dc9-2cdfa6b078a0"
+            }
+          ]
+        },
+        "menu_parent": {
+          "data": {
+            "id": 239129621,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 131506894,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Blue Raspberry Cannaquil | 120ml",
+        "slug": "blue-raspberry-cannaquil-120ml",
+        "category_name": "Edibles",
+        "body": "<p></p><p>Liquid THC infused agave by Elevated RX</p>",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/products/000/363/190/avatar/1648503911-1648491396-cannaquill.png",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/products/000/363/190/avatar/1648503911-1648491396-cannaquill.png",
+        "avatar_image_url": "https://images.weedmaps.com/products/000/363/190/avatar/1648503911-1648491396-cannaquill.png",
+        "is_badged": true,
+        "brand_name": "Elevated RX",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 15,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2023-06-01T21:55:41Z",
+        "updated_at": "2023-06-01T21:55:41Z",
+        "parent_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "sub_category": {
+          "id": 194,
+          "name": "Syrup",
+          "slug": "syrup"
+        },
+        "measurements": [
+          {
+            "id": 1284097119,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "mg",
+            "value": "100.0"
+          }
+        ],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/ultra-health-tucumcari/menu/blue-raspberry-cannaquil-120ml",
+        "order": "https://weedmaps.com/dispensaries/ultra-health-tucumcari/menu/blue-raspberry-cannaquil-120ml"
+      },
+      "relationships": {
+        "brand": {
+          "data": {
+            "id": 20885,
+            "type": "brand"
+          }
+        },
+        "listing": {
+          "data": {
+            "id": 322437,
+            "type": "dispensary"
+          }
+        },
+        "product": {
+          "data": {
+            "id": 363190,
+            "type": "product"
+          }
+        },
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 3
+          },
+          "data": [
+            {
+              "id": 194,
+              "type": "category"
+            },
+            {
+              "id": 33,
+              "type": "category"
+            },
+            {
+              "id": 5,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 3
+          },
+          "data": [
+            {
+              "type": "tag",
+              "id": "0777c485-a69d-41fe-bf47-ad91ff185525"
+            },
+            {
+              "type": "tag",
+              "id": "725787f5-ef95-4a71-9c39-cb5a345ff318"
+            },
+            {
+              "type": "tag",
+              "id": "9f52b69a-8a25-4501-8dc9-2cdfa6b078a0"
+            }
+          ]
+        },
+        "menu_parent": {
+          "data": {
+            "id": 239129621,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 131506970,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Dark Chocolate",
+        "slug": "dark-chocolate",
+        "category_name": "Edibles",
+        "body": "<p></p><p>Milk, Dark, White chocolate with optional toffee</p>",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/products/000/363/184/avatar/1648503892-1648491458-choco.png",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/products/000/363/184/avatar/1648503892-1648491458-choco.png",
+        "avatar_image_url": "https://images.weedmaps.com/products/000/363/184/avatar/1648503892-1648491458-choco.png",
+        "is_badged": true,
+        "brand_name": "Elevated RX",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 15,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2023-06-01T21:56:43Z",
+        "updated_at": "2023-06-01T21:56:43Z",
+        "parent_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "sub_category": {
+          "id": 212,
+          "name": "Chocolates",
+          "slug": "chocolates"
+        },
+        "measurements": [
+          {
+            "id": 1284098016,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "mg",
+            "value": "100.0"
+          }
+        ],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/ultra-health-tucumcari/menu/dark-chocolate",
+        "order": "https://weedmaps.com/dispensaries/ultra-health-tucumcari/menu/dark-chocolate"
+      },
+      "relationships": {
+        "brand": {
+          "data": {
+            "id": 20885,
+            "type": "brand"
+          }
+        },
+        "listing": {
+          "data": {
+            "id": 322437,
+            "type": "dispensary"
+          }
+        },
+        "product": {
+          "data": {
+            "id": 363184,
+            "type": "product"
+          }
+        },
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 3
+          },
+          "data": [
+            {
+              "id": 212,
+              "type": "category"
+            },
+            {
+              "id": 219,
+              "type": "category"
+            },
+            {
+              "id": 5,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 2
+          },
+          "data": [
+            {
+              "type": "tag",
+              "id": "0777c485-a69d-41fe-bf47-ad91ff185525"
+            },
+            {
+              "type": "tag",
+              "id": "9f52b69a-8a25-4501-8dc9-2cdfa6b078a0"
+            }
+          ]
+        },
+        "menu_parent": {
+          "data": {
+            "id": 239129621,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 131507152,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Grape Gummy",
+        "slug": "grape-gummy",
+        "category_name": "Edibles",
+        "body": "<p></p><p>Gummy Fruit flavor drops - new!</p>",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/products/000/363/216/avatar/1714436531-image_45.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/products/000/363/216/avatar/1714436531-image_45.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/products/000/363/216/avatar/1714436531-image_45.jpg",
+        "is_badged": true,
+        "brand_name": "Elevated RX",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 18,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2023-06-01T21:59:25Z",
+        "updated_at": "2024-04-30T00:22:22Z",
+        "parent_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "sub_category": {
+          "id": 22,
+          "name": "Gummies",
+          "slug": "gummies"
+        },
+        "measurements": [
+          {
+            "id": 1284100962,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "mg",
+            "value": "100.0"
+          }
+        ],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/ultra-health-tucumcari/menu/grape-gummy",
+        "order": "https://weedmaps.com/dispensaries/ultra-health-tucumcari/menu/grape-gummy"
+      },
+      "relationships": {
+        "brand": {
+          "data": {
+            "id": 20885,
+            "type": "brand"
+          }
+        },
+        "listing": {
+          "data": {
+            "id": 322437,
+            "type": "dispensary"
+          }
+        },
+        "product": {
+          "data": {
+            "id": 363216,
+            "type": "product"
+          }
+        },
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 3
+          },
+          "data": [
+            {
+              "id": 22,
+              "type": "category"
+            },
+            {
+              "id": 219,
+              "type": "category"
+            },
+            {
+              "id": 5,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 3
+          },
+          "data": [
+            {
+              "type": "tag",
+              "id": "0777c485-a69d-41fe-bf47-ad91ff185525"
+            },
+            {
+              "type": "tag",
+              "id": "5b49a6d9-5389-4c59-ad6e-2ec0d22ead00"
+            },
+            {
+              "type": "tag",
+              "id": "9f52b69a-8a25-4501-8dc9-2cdfa6b078a0"
+            }
+          ]
+        },
+        "menu_parent": {
+          "data": {
+            "id": 239129621,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 131507278,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Sleep Chocolate",
+        "slug": "sleep-chocolate",
+        "category_name": "Edibles",
+        "body": "<p>Milk, Dark, White chocolate with optional toffee</p>",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/products/000/363/186/avatar/1648503898-1648491458-choco.png",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/products/000/363/186/avatar/1648503898-1648491458-choco.png",
+        "avatar_image_url": "https://images.weedmaps.com/products/000/363/186/avatar/1648503898-1648491458-choco.png",
+        "is_badged": true,
+        "brand_name": "Elevated RX",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 15,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2023-06-01T22:01:11Z",
+        "updated_at": "2023-06-01T22:01:11Z",
+        "parent_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "sub_category": {
+          "id": 212,
+          "name": "Chocolates",
+          "slug": "chocolates"
+        },
+        "measurements": [
+          {
+            "id": 1284103662,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "mg",
+            "value": "100.0"
+          }
+        ],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/ultra-health-tucumcari/menu/sleep-chocolate",
+        "order": "https://weedmaps.com/dispensaries/ultra-health-tucumcari/menu/sleep-chocolate"
+      },
+      "relationships": {
+        "brand": {
+          "data": {
+            "id": 20885,
+            "type": "brand"
+          }
+        },
+        "listing": {
+          "data": {
+            "id": 322437,
+            "type": "dispensary"
+          }
+        },
+        "product": {
+          "data": {
+            "id": 363186,
+            "type": "product"
+          }
+        },
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 3
+          },
+          "data": [
+            {
+              "id": 212,
+              "type": "category"
+            },
+            {
+              "id": 219,
+              "type": "category"
+            },
+            {
+              "id": 5,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 2
+          },
+          "data": [
+            {
+              "type": "tag",
+              "id": "0777c485-a69d-41fe-bf47-ad91ff185525"
+            },
+            {
+              "type": "tag",
+              "id": "9f52b69a-8a25-4501-8dc9-2cdfa6b078a0"
+            }
+          ]
+        },
+        "menu_parent": {
+          "data": {
+            "id": 239129621,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 131507341,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Sleep Honey Cap",
+        "slug": "sleep-honey-cap",
+        "category_name": "Edibles",
+        "body": "<p></p><p>Local New Mexico Honey gel cap</p>",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/products/000/363/225/avatar/1714442446-acs_17487.JPG",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/products/000/363/225/avatar/1714442446-acs_17487.JPG",
+        "avatar_image_url": "https://images.weedmaps.com/products/000/363/225/avatar/1714442446-acs_17487.JPG",
+        "is_badged": true,
+        "brand_name": "Elevated RX",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 15,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2023-06-01T22:02:06Z",
+        "updated_at": "2024-04-30T02:00:54Z",
+        "parent_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "sub_category": {
+          "id": 32,
+          "name": "Capsules",
+          "slug": "capsules"
+        },
+        "measurements": [
+          {
+            "id": 1284104885,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "mg",
+            "value": "100.0"
+          }
+        ],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/ultra-health-tucumcari/menu/sleep-honey-cap",
+        "order": "https://weedmaps.com/dispensaries/ultra-health-tucumcari/menu/sleep-honey-cap"
+      },
+      "relationships": {
+        "brand": {
+          "data": {
+            "id": 20885,
+            "type": "brand"
+          }
+        },
+        "listing": {
+          "data": {
+            "id": 322437,
+            "type": "dispensary"
+          }
+        },
+        "product": {
+          "data": {
+            "id": 363225,
+            "type": "product"
+          }
+        },
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 2
+          },
+          "data": [
+            {
+              "id": 32,
+              "type": "category"
+            },
+            {
+              "id": 5,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 2
+          },
+          "data": [
+            {
+              "type": "tag",
+              "id": "0777c485-a69d-41fe-bf47-ad91ff185525"
+            },
+            {
+              "type": "tag",
+              "id": "4111e944-1514-4698-a9fa-924e55289ac3"
+            }
+          ]
+        },
+        "menu_parent": {
+          "data": {
+            "id": 239129621,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 131507462,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Cherry Sucker",
+        "slug": "cherry-sucker",
+        "category_name": "Edibles",
+        "body": "<p></p><p>Hard Candy sucker available sugar free</p>",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/products/000/363/192/avatar/1648503917-1648491634-qt_q_62.png",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/products/000/363/192/avatar/1648503917-1648491634-qt_q_62.png",
+        "avatar_image_url": "https://images.weedmaps.com/products/000/363/192/avatar/1648503917-1648491634-qt_q_62.png",
+        "is_badged": true,
+        "brand_name": "Elevated RX",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 6.5,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2023-06-01T22:03:00Z",
+        "updated_at": "2023-06-01T22:03:00Z",
+        "parent_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "sub_category": {
+          "id": 224,
+          "name": "Gluten Free",
+          "slug": "gluten-free"
+        },
+        "measurements": [
+          {
+            "id": 1284106248,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "mg",
+            "value": "10.0"
+          }
+        ],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/ultra-health-tucumcari/menu/cherry-sucker",
+        "order": "https://weedmaps.com/dispensaries/ultra-health-tucumcari/menu/cherry-sucker"
+      },
+      "relationships": {
+        "brand": {
+          "data": {
+            "id": 20885,
+            "type": "brand"
+          }
+        },
+        "listing": {
+          "data": {
+            "id": 322437,
+            "type": "dispensary"
+          }
+        },
+        "product": {
+          "data": {
+            "id": 363192,
+            "type": "product"
+          }
+        },
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 4
+          },
+          "data": [
+            {
+              "id": 224,
+              "type": "category"
+            },
+            {
+              "id": 219,
+              "type": "category"
+            },
+            {
+              "id": 1,
+              "type": "category"
+            },
+            {
+              "id": 5,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 2
+          },
+          "data": [
+            {
+              "type": "tag",
+              "id": "0777c485-a69d-41fe-bf47-ad91ff185525"
+            },
+            {
+              "type": "tag",
+              "id": "9f52b69a-8a25-4501-8dc9-2cdfa6b078a0"
+            }
+          ]
+        },
+        "menu_parent": {
+          "data": {
+            "id": 239129621,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 131507864,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Fruit Snack bar",
+        "slug": "fruit-snack-bar",
+        "category_name": "Edibles",
+        "body": "",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/pictures/users/013/880/906/427869090_Detroit-Fudge-Co_Fruity-Rice-Krispy-Treat_3.jpg?txt64=UHJvZHVjdCBleGFtcGxl&txt-fit=max&txt-color=666&txt-lead=0&txt-size=24&txt-font=Avenir+Next+Medium&txt-align=center,bottom",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/users/013/880/906/427869090_Detroit-Fudge-Co_Fruity-Rice-Krispy-Treat_3.jpg?txt64=UHJvZHVjdCBleGFtcGxl&txt-fit=max&txt-color=666&txt-lead=0&txt-size=24&txt-font=Avenir+Next+Medium&txt-align=center,bottom",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/users/013/880/906/427869090_Detroit-Fudge-Co_Fruity-Rice-Krispy-Treat_3.jpg?txt64=UHJvZHVjdCBleGFtcGxl&txt-fit=max&txt-color=666&txt-lead=0&txt-size=24&txt-font=Avenir+Next+Medium&txt-align=center,bottom",
+        "is_badged": false,
+        "brand_name": "Elevated RX  ",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 15,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2023-06-01T22:06:00Z",
+        "updated_at": "2024-04-26T23:35:15Z",
+        "parent_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "sub_category": {
+          "id": 222,
+          "name": "Cereal",
+          "slug": "cereal"
+        },
+        "measurements": [
+          {
+            "id": 1284112428,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "mg",
+            "value": "100.0"
+          }
+        ],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/ultra-health-tucumcari/menu/fruit-snack-bar",
+        "order": "https://weedmaps.com/dispensaries/ultra-health-tucumcari/menu/fruit-snack-bar"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 322437,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 3
+          },
+          "data": [
+            {
+              "id": 204,
+              "type": "category"
+            },
+            {
+              "id": 24,
+              "type": "category"
+            },
+            {
+              "id": 5,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 2
+          },
+          "data": [
+            {
+              "type": "tag",
+              "id": "0777c485-a69d-41fe-bf47-ad91ff185525"
+            },
+            {
+              "type": "tag",
+              "id": "9f52b69a-8a25-4501-8dc9-2cdfa6b078a0"
+            }
+          ]
+        },
+        "menu_parent": {
+          "data": {
+            "id": 239129621,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 131508600,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Sky walker OG",
+        "slug": "sky-walker-og",
+        "category_name": "Vape Pens",
+        "body": "",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/pictures/users/013/880/906/427869179_SkywalkerOG500-768x960.png",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/users/013/880/906/427869179_SkywalkerOG500-768x960.png",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/users/013/880/906/427869179_SkywalkerOG500-768x960.png",
+        "is_badged": false,
+        "brand_name": "Bonanza  ",
+        "cannabinoids": {
+          "thc": "87.0"
+        },
+        "genetics": "indica",
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 30,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2023-06-01T22:11:46Z",
+        "updated_at": "2023-07-21T13:43:49Z",
+        "parent_category": {
+          "id": 4,
+          "name": "Vape Pens",
+          "slug": "vape-pens"
+        },
+        "sub_category": {
+          "id": 193,
+          "name": "Cartridge",
+          "slug": "cartridge"
+        },
+        "measurements": [
+          {
+            "id": 1284120119,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "%",
+            "value": "87.0"
+          }
+        ],
+        "variants": [
+          {
+            "name": "1/2 gram",
+            "label": "1/2 g",
+            "price": {
+              "amount": "30.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.5,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 500,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/ultra-health-tucumcari/menu/sky-walker-og",
+        "order": "https://weedmaps.com/dispensaries/ultra-health-tucumcari/menu/sky-walker-og"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 322437,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 2
+          },
+          "data": [
+            {
+              "id": 193,
+              "type": "category"
+            },
+            {
+              "id": 4,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 239129621,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 131510301,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Tincture | 30ml",
+        "slug": "tincture-30ml",
+        "category_name": "Edibles",
+        "body": "<p></p><p class=\"ql-align-center\">Made with MCT and distilalte oil.</p><p class=\"ql-align-center\"><br></p><p><br></p>",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/products/000/363/226/avatar/1648503999-rs_w_600_h_451_cg_true.jpeg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/products/000/363/226/avatar/1648503999-rs_w_600_h_451_cg_true.jpeg",
+        "avatar_image_url": "https://images.weedmaps.com/products/000/363/226/avatar/1648503999-rs_w_600_h_451_cg_true.jpeg",
+        "is_badged": true,
+        "brand_name": "Elevated RX",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 20,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2023-06-01T22:30:33Z",
+        "updated_at": "2023-06-01T22:30:33Z",
+        "parent_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "sub_category": {
+          "id": 189,
+          "name": "Tincture",
+          "slug": "tincture"
+        },
+        "measurements": [
+          {
+            "id": 1284141692,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "mg",
+            "value": "100.0"
+          }
+        ],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/ultra-health-tucumcari/menu/tincture-30ml",
+        "order": "https://weedmaps.com/dispensaries/ultra-health-tucumcari/menu/tincture-30ml"
+      },
+      "relationships": {
+        "brand": {
+          "data": {
+            "id": 20885,
+            "type": "brand"
+          }
+        },
+        "listing": {
+          "data": {
+            "id": 322437,
+            "type": "dispensary"
+          }
+        },
+        "product": {
+          "data": {
+            "id": 363226,
+            "type": "product"
+          }
+        },
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 3
+          },
+          "data": [
+            {
+              "id": 189,
+              "type": "category"
+            },
+            {
+              "id": 254,
+              "type": "category"
+            },
+            {
+              "id": 5,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "type": "tag",
+              "id": "0777c485-a69d-41fe-bf47-ad91ff185525"
+            }
+          ]
+        },
+        "menu_parent": {
+          "data": {
+            "id": 239129621,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 131510750,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Vino Magnifico",
+        "slug": "vino-magnifico",
+        "category_name": "Flower",
+        "body": "",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/pictures/users/013/880/906/427128561_032A0023.jpg?txt64=UHJvZHVjdCBleGFtcGxl&txt-fit=max&txt-color=666&txt-lead=0&txt-size=24&txt-font=Avenir+Next+Medium&txt-align=center,bottom",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/users/013/880/906/427128561_032A0023.jpg?txt64=UHJvZHVjdCBleGFtcGxl&txt-fit=max&txt-color=666&txt-lead=0&txt-size=24&txt-font=Avenir+Next+Medium&txt-align=center,bottom",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/users/013/880/906/427128561_032A0023.jpg?txt64=UHJvZHVjdCBleGFtcGxl&txt-fit=max&txt-color=666&txt-lead=0&txt-size=24&txt-font=Avenir+Next+Medium&txt-align=center,bottom",
+        "is_badged": false,
+        "brand_name": "UH ",
+        "cannabinoids": {
+          "thc": "18.0"
+        },
+        "genetics": null,
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 8.99,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2023-06-01T22:35:05Z",
+        "updated_at": "2023-06-01T22:35:05Z",
+        "parent_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "sub_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "measurements": [
+          {
+            "id": 1284149878,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "%",
+            "value": "18.0"
+          }
+        ],
+        "variants": [
+          {
+            "name": "1/2 gram",
+            "label": "1/2 g",
+            "price": {
+              "amount": "8.99",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.5,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 500,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/ultra-health-tucumcari/menu/vino-magnifico",
+        "order": "https://weedmaps.com/dispensaries/ultra-health-tucumcari/menu/vino-magnifico"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 322437,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 2,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "type": "tag",
+              "id": "701cdc92-50a1-4f3c-afda-0e1b31775804"
+            }
+          ]
+        },
+        "menu_parent": {
+          "data": {
+            "id": 239129621,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 131511115,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Battery",
+        "slug": "battery",
+        "category_name": "Gear",
+        "body": "",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/pictures/users/013/880/906/427869537_battery.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/users/013/880/906/427869537_battery.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/users/013/880/906/427869537_battery.jpg",
+        "is_badged": false,
+        "brand_name": "Bonanza  ",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 12.99,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2023-06-01T22:40:31Z",
+        "updated_at": "2023-06-01T22:40:33Z",
+        "parent_category": {
+          "id": 234,
+          "name": "Gear",
+          "slug": "gear"
+        },
+        "sub_category": {
+          "id": 239,
+          "name": "Vaporizer",
+          "slug": "vaporizer"
+        },
+        "measurements": [],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/ultra-health-tucumcari/menu/battery",
+        "order": "https://weedmaps.com/dispensaries/ultra-health-tucumcari/menu/battery"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 322437,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 2
+          },
+          "data": [
+            {
+              "id": 239,
+              "type": "category"
+            },
+            {
+              "id": 234,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 239129621,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 136332980,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Jack Here",
+        "slug": "jack-here",
+        "category_name": "Flower",
+        "body": "",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/pictures/users/013/880/906/428497275_180301_45639_LemonJack_1.jpg?txt64=UHJvZHVjdCBleGFtcGxl&txt-fit=max&txt-color=666&txt-lead=0&txt-size=24&txt-font=Avenir+Next+Medium&txt-align=center,bottom",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/users/013/880/906/428497275_180301_45639_LemonJack_1.jpg?txt64=UHJvZHVjdCBleGFtcGxl&txt-fit=max&txt-color=666&txt-lead=0&txt-size=24&txt-font=Avenir+Next+Medium&txt-align=center,bottom",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/users/013/880/906/428497275_180301_45639_LemonJack_1.jpg?txt64=UHJvZHVjdCBleGFtcGxl&txt-fit=max&txt-color=666&txt-lead=0&txt-size=24&txt-font=Avenir+Next+Medium&txt-align=center,bottom",
+        "is_badged": false,
+        "brand_name": "UH ",
+        "cannabinoids": {
+          "thc": "18.5"
+        },
+        "genetics": null,
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 0,
+          "price_gram": 8.99,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2023-08-07T22:04:07Z",
+        "updated_at": "2023-08-07T22:04:11Z",
+        "parent_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "sub_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "measurements": [
+          {
+            "id": 1372227639,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "%",
+            "value": "18.5"
+          }
+        ],
+        "variants": [
+          {
+            "name": "1 gram",
+            "label": "1 g",
+            "price": {
+              "amount": "8.99",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 1,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 1000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/ultra-health-tucumcari/menu/jack-here",
+        "order": "https://weedmaps.com/dispensaries/ultra-health-tucumcari/menu/jack-here"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 322437,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 2,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "type": "tag",
+              "id": "701cdc92-50a1-4f3c-afda-0e1b31775804"
+            }
+          ]
+        },
+        "menu_parent": {
+          "data": {
+            "id": 239129621,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 136333091,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Runaway Bride",
+        "slug": "runaway-bride",
+        "category_name": "Flower",
+        "body": "",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/pictures/users/013/880/906/428497291_180221F_55852_Trunk_Funk__4_1.jpg?txt64=UHJvZHVjdCBleGFtcGxl&txt-fit=max&txt-color=666&txt-lead=0&txt-size=24&txt-font=Avenir+Next+Medium&txt-align=center,bottom",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/users/013/880/906/428497291_180221F_55852_Trunk_Funk__4_1.jpg?txt64=UHJvZHVjdCBleGFtcGxl&txt-fit=max&txt-color=666&txt-lead=0&txt-size=24&txt-font=Avenir+Next+Medium&txt-align=center,bottom",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/users/013/880/906/428497291_180221F_55852_Trunk_Funk__4_1.jpg?txt64=UHJvZHVjdCBleGFtcGxl&txt-fit=max&txt-color=666&txt-lead=0&txt-size=24&txt-font=Avenir+Next+Medium&txt-align=center,bottom",
+        "is_badged": false,
+        "brand_name": "UH",
+        "cannabinoids": {
+          "thc": "20.1"
+        },
+        "genetics": null,
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 0,
+          "price_gram": 8.99,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2023-08-07T22:05:29Z",
+        "updated_at": "2023-08-07T22:05:32Z",
+        "parent_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "sub_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "measurements": [
+          {
+            "id": 1372230834,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "%",
+            "value": "20.1"
+          }
+        ],
+        "variants": [
+          {
+            "name": "1 gram",
+            "label": "1 g",
+            "price": {
+              "amount": "8.99",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 1,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 1000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/ultra-health-tucumcari/menu/runaway-bride",
+        "order": "https://weedmaps.com/dispensaries/ultra-health-tucumcari/menu/runaway-bride"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 322437,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 2,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "type": "tag",
+              "id": "701cdc92-50a1-4f3c-afda-0e1b31775804"
+            }
+          ]
+        },
+        "menu_parent": {
+          "data": {
+            "id": 239129621,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 136333334,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Holy Grail",
+        "slug": "holy-grail",
+        "category_name": "Flower",
+        "body": "",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/pictures/users/013/880/906/428497317_180120F_47794_HolyGrail_1.jpg?txt64=UHJvZHVjdCBleGFtcGxl&txt-fit=max&txt-color=666&txt-lead=0&txt-size=24&txt-font=Avenir+Next+Medium&txt-align=center,bottom",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/users/013/880/906/428497317_180120F_47794_HolyGrail_1.jpg?txt64=UHJvZHVjdCBleGFtcGxl&txt-fit=max&txt-color=666&txt-lead=0&txt-size=24&txt-font=Avenir+Next+Medium&txt-align=center,bottom",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/users/013/880/906/428497317_180120F_47794_HolyGrail_1.jpg?txt64=UHJvZHVjdCBleGFtcGxl&txt-fit=max&txt-color=666&txt-lead=0&txt-size=24&txt-font=Avenir+Next+Medium&txt-align=center,bottom",
+        "is_badged": false,
+        "brand_name": "UH",
+        "cannabinoids": {
+          "thc": "23.6"
+        },
+        "genetics": null,
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 0,
+          "price_gram": 8.99,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2023-08-07T22:06:52Z",
+        "updated_at": "2023-08-07T22:06:55Z",
+        "parent_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "sub_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "measurements": [
+          {
+            "id": 1372234122,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "%",
+            "value": "23.6"
+          }
+        ],
+        "variants": [
+          {
+            "name": "1 gram",
+            "label": "1 g",
+            "price": {
+              "amount": "8.99",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 1,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 1000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/ultra-health-tucumcari/menu/holy-grail",
+        "order": "https://weedmaps.com/dispensaries/ultra-health-tucumcari/menu/holy-grail"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 322437,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 2,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "type": "tag",
+              "id": "2c8f22c2-357a-4219-99f9-f0e2fd0e0571"
+            }
+          ]
+        },
+        "menu_parent": {
+          "data": {
+            "id": 239129621,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 136343108,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Carica Kush",
+        "slug": "carica-kush-eccdb2e5-b389-48c3-9fe0-69d0dcba1a6c",
+        "category_name": "Flower",
+        "body": "",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/pictures/users/013/880/906/428498408_170311F_44924_Kush7_1_TF.jpg?txt64=UHJvZHVjdCBleGFtcGxl&txt-fit=max&txt-color=666&txt-lead=0&txt-size=24&txt-font=Avenir+Next+Medium&txt-align=center,bottom",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/users/013/880/906/428498408_170311F_44924_Kush7_1_TF.jpg?txt64=UHJvZHVjdCBleGFtcGxl&txt-fit=max&txt-color=666&txt-lead=0&txt-size=24&txt-font=Avenir+Next+Medium&txt-align=center,bottom",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/users/013/880/906/428498408_170311F_44924_Kush7_1_TF.jpg?txt64=UHJvZHVjdCBleGFtcGxl&txt-fit=max&txt-color=666&txt-lead=0&txt-size=24&txt-font=Avenir+Next+Medium&txt-align=center,bottom",
+        "is_badged": false,
+        "brand_name": "UH",
+        "cannabinoids": {
+          "thc": "23.0"
+        },
+        "genetics": null,
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 0,
+          "price_gram": 8.99,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2023-08-07T23:57:49Z",
+        "updated_at": "2023-08-07T23:57:53Z",
+        "parent_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "sub_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "measurements": [
+          {
+            "id": 1372359480,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "%",
+            "value": "23.0"
+          }
+        ],
+        "variants": [
+          {
+            "name": "1 gram",
+            "label": "1 g",
+            "price": {
+              "amount": "8.99",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 1,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 1000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/ultra-health-tucumcari/menu/carica-kush-eccdb2e5-b389-48c3-9fe0-69d0dcba1a6c",
+        "order": "https://weedmaps.com/dispensaries/ultra-health-tucumcari/menu/carica-kush-eccdb2e5-b389-48c3-9fe0-69d0dcba1a6c"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 322437,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 2,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "type": "tag",
+              "id": "701cdc92-50a1-4f3c-afda-0e1b31775804"
+            }
+          ]
+        },
+        "menu_parent": {
+          "data": {
+            "id": 239129621,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 136687235,
+      "type": "menu_item",
+      "attributes": {
+        "name": "True OG",
+        "slug": "true-og-da5f2d08-4e0c-4748-9078-805726a154db",
+        "category_name": "Flower",
+        "body": "",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/pictures/users/013/880/906/428539783_180226F_36564_TrueBlue_1.jpg?txt64=UHJvZHVjdCBleGFtcGxl&txt-fit=max&txt-color=666&txt-lead=0&txt-size=24&txt-font=Avenir+Next+Medium&txt-align=center,bottom",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/users/013/880/906/428539783_180226F_36564_TrueBlue_1.jpg?txt64=UHJvZHVjdCBleGFtcGxl&txt-fit=max&txt-color=666&txt-lead=0&txt-size=24&txt-font=Avenir+Next+Medium&txt-align=center,bottom",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/users/013/880/906/428539783_180226F_36564_TrueBlue_1.jpg?txt64=UHJvZHVjdCBleGFtcGxl&txt-fit=max&txt-color=666&txt-lead=0&txt-size=24&txt-font=Avenir+Next+Medium&txt-align=center,bottom",
+        "is_badged": false,
+        "brand_name": "UH",
+        "cannabinoids": {
+          "thc": "25.0"
+        },
+        "genetics": null,
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 0,
+          "price_gram": 8.99,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2023-08-11T20:20:59Z",
+        "updated_at": "2023-08-11T20:21:04Z",
+        "parent_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "sub_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "measurements": [
+          {
+            "id": 1377869756,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "%",
+            "value": "25.0"
+          }
+        ],
+        "variants": [
+          {
+            "name": "1 gram",
+            "label": "1 g",
+            "price": {
+              "amount": "8.99",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 1,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 1000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/ultra-health-tucumcari/menu/true-og-da5f2d08-4e0c-4748-9078-805726a154db",
+        "order": "https://weedmaps.com/dispensaries/ultra-health-tucumcari/menu/true-og-da5f2d08-4e0c-4748-9078-805726a154db"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 322437,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 2,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "type": "tag",
+              "id": "701cdc92-50a1-4f3c-afda-0e1b31775804"
+            }
+          ]
+        },
+        "menu_parent": {
+          "data": {
+            "id": 239129621,
+            "type": "listing"
+          }
+        }
+      }
+    }
+  ]
+}

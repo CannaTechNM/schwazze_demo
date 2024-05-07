@@ -1,0 +1,1171 @@
+{
+  "meta": {
+    "page": 1,
+    "per_page": 100,
+    "total": 8
+  },
+  "data": [
+    {
+      "id": 143491842,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Blood Orange 1:1 CBC Sativa Enhanced Gummies",
+        "slug": "blood-orange-1-1-cbc-sativa-enhanced-gummies",
+        "category_name": "Edibles",
+        "body": "<p></p><p>Our Blood Orange CBC gummies are made with real fruit and a Sativa enhanced botanical terpene blend, making them a great addition to a day out and about. Whether eaten for a creative boost, or prepping for a dance party, these gummies are great for carefree adventures.</p><p><br></p><p><em>It's a little like a hot air balloon for your mood. Enjoy!</em></p><p><br></p><p>100mg THC:100mg CBC per container, 10mg THC:10mg CBC per gummy.</p><p><br></p><p><strong>Ingredients</strong>: Sugar, Tapioca Syrup, Water, Blood Orange Juice Concentrate, Gelatin, Natural Flavoring, Coconut Oil, Citric Acid, Malic Acid, Pectin (Pectin,Sodium Citrate), Cannabis Extract, Hemp Extract, Sunflower Lecithin</p><p><br></p><p>Contains: Coconut</p>",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/products/000/469/826/avatar/1676323638-blood_orange_-_vanity.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/products/000/469/826/avatar/1676323638-blood_orange_-_vanity.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/products/000/469/826/avatar/1676323638-blood_orange_-_vanity.jpg",
+        "is_badged": true,
+        "brand_name": "WYLD",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 20,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2023-10-28T20:50:29Z",
+        "updated_at": "2023-10-28T20:50:29Z",
+        "parent_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "sub_category": {
+          "id": 22,
+          "name": "Gummies",
+          "slug": "gummies"
+        },
+        "measurements": [
+          {
+            "id": 1486800865,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "mg",
+            "value": "100.0"
+          }
+        ],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/nm-cannabis-cowboy/menu/blood-orange-1-1-cbc-sativa-enhanced-gummies",
+        "order": "https://weedmaps.com/dispensaries/nm-cannabis-cowboy/menu/blood-orange-1-1-cbc-sativa-enhanced-gummies"
+      },
+      "relationships": {
+        "brand": {
+          "data": {
+            "id": 898,
+            "type": "brand"
+          }
+        },
+        "listing": {
+          "data": {
+            "id": 333594,
+            "type": "dispensary"
+          }
+        },
+        "product": {
+          "data": {
+            "id": 469826,
+            "type": "product"
+          }
+        },
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 4
+          },
+          "data": [
+            {
+              "id": 1,
+              "type": "category"
+            },
+            {
+              "id": 22,
+              "type": "category"
+            },
+            {
+              "id": 219,
+              "type": "category"
+            },
+            {
+              "id": 5,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 9
+          },
+          "data": [
+            {
+              "type": "tag",
+              "id": "bff9f507-2c28-4c2e-857e-08ac1f855fb7"
+            },
+            {
+              "type": "tag",
+              "id": "19f7ac7b-ffb0-4009-b2d0-a493efaa7dd5"
+            },
+            {
+              "type": "tag",
+              "id": "134d74f7-944e-4bd6-9108-e8f87d03ec90"
+            },
+            {
+              "type": "tag",
+              "id": "7be809dd-648e-4f9c-af7f-ffc70a079066"
+            },
+            {
+              "type": "tag",
+              "id": "59421d5b-91e7-45ac-843a-551975f0ac6f"
+            },
+            {
+              "type": "tag",
+              "id": "736aad9c-4728-437d-b599-24d8a6c3fb9d"
+            },
+            {
+              "type": "tag",
+              "id": "5a360f3b-c4df-44a7-a34e-fd7b7f69253b"
+            },
+            {
+              "type": "tag",
+              "id": "bfe49e20-5799-440b-a0b8-818baedd7d48"
+            },
+            {
+              "type": "tag",
+              "id": "6765e1b5-e63b-4560-bcf2-ce3df5ad4ea7"
+            }
+          ]
+        },
+        "menu_parent": {
+          "data": {
+            "id": 253323312,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 143491901,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Elderberry 2:1 CBN + Indica Enhanced Gummies | 100mg:50mg",
+        "slug": "elderberry-2-1-cbn-indica-enhanced-gummies-100mg-50mg",
+        "category_name": "Edibles",
+        "body": "<p></p><p>The sedating effects of CBN in combination with THC alongside terpenes found in Indica strains may provide greater sedation than THC alone. This combination may be particularly useful when preparing for sleep.</p><p><br></p><p><em>It’s a little like watching sheep count you. Enjoy!</em></p><p><br></p><p>100mg THC:50mg CBN per container, 10mg THC:5mg CBN per gummy.</p><p><br></p><p>Contains: Coconut</p>",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/products/000/445/920/avatar/1669766729-elderberry_-_vanity.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/products/000/445/920/avatar/1669766729-elderberry_-_vanity.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/products/000/445/920/avatar/1669766729-elderberry_-_vanity.jpg",
+        "is_badged": true,
+        "brand_name": "WYLD",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 20,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2023-10-28T20:51:46Z",
+        "updated_at": "2023-10-28T20:51:46Z",
+        "parent_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "sub_category": {
+          "id": 22,
+          "name": "Gummies",
+          "slug": "gummies"
+        },
+        "measurements": [
+          {
+            "id": 1486800957,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "mg",
+            "value": "100.0"
+          }
+        ],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/nm-cannabis-cowboy/menu/elderberry-2-1-cbn-indica-enhanced-gummies-100mg-50mg",
+        "order": "https://weedmaps.com/dispensaries/nm-cannabis-cowboy/menu/elderberry-2-1-cbn-indica-enhanced-gummies-100mg-50mg"
+      },
+      "relationships": {
+        "brand": {
+          "data": {
+            "id": 898,
+            "type": "brand"
+          }
+        },
+        "listing": {
+          "data": {
+            "id": 333594,
+            "type": "dispensary"
+          }
+        },
+        "product": {
+          "data": {
+            "id": 445920,
+            "type": "product"
+          }
+        },
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 3
+          },
+          "data": [
+            {
+              "id": 22,
+              "type": "category"
+            },
+            {
+              "id": 219,
+              "type": "category"
+            },
+            {
+              "id": 5,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 7
+          },
+          "data": [
+            {
+              "type": "tag",
+              "id": "d7ed0cd2-58e3-4470-871e-37126d82bf40"
+            },
+            {
+              "type": "tag",
+              "id": "5f181dad-c604-4649-ab2c-bc4b316e3462"
+            },
+            {
+              "type": "tag",
+              "id": "6c9c48cf-e028-4af9-8aec-830bda19ee8d"
+            },
+            {
+              "type": "tag",
+              "id": "7cb8e0ed-af2c-4ed5-ad85-c081bad02f7e"
+            },
+            {
+              "type": "tag",
+              "id": "69b03eea-8b05-4d77-83b3-d796b7b0525e"
+            },
+            {
+              "type": "tag",
+              "id": "79b2d842-1197-448e-b74a-41fd13c2cb27"
+            },
+            {
+              "type": "tag",
+              "id": "7e62abed-94c6-4f9f-a66e-c6350618b5c5"
+            }
+          ]
+        },
+        "menu_parent": {
+          "data": {
+            "id": 253323312,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 143491931,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Pear 1:1 CBG + Hybrid Enhanced Gummies | 100:100mg",
+        "slug": "pear-1-1-cbg-hybrid-enhanced-gummies-100-100mg",
+        "category_name": "Edibles",
+        "body": "<p></p><p>The restorative effects of CBG in combination with THC, alongside the terpenes found in Hybrid strains may provide greater rejuvenation than THC alone. This combination may be particularly useful when looking for balance.</p><p><br></p><p><em>It's a little like a bubble bath for your brain. Enjoy!</em></p><p><br></p><p>100mg THC:100mg CBG per container, 10mg THC:10mg CBG per gummy.</p><p><br></p><p>Contains: Coconut</p>",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/products/000/445/918/avatar/1669766873-pear_-_vanity.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/products/000/445/918/avatar/1669766873-pear_-_vanity.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/products/000/445/918/avatar/1669766873-pear_-_vanity.jpg",
+        "is_badged": true,
+        "brand_name": "WYLD",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 20,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2023-10-28T20:52:40Z",
+        "updated_at": "2023-10-28T20:52:40Z",
+        "parent_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "sub_category": {
+          "id": 22,
+          "name": "Gummies",
+          "slug": "gummies"
+        },
+        "measurements": [
+          {
+            "id": 1486801021,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "mg",
+            "value": "100.0"
+          }
+        ],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/nm-cannabis-cowboy/menu/pear-1-1-cbg-hybrid-enhanced-gummies-100-100mg",
+        "order": "https://weedmaps.com/dispensaries/nm-cannabis-cowboy/menu/pear-1-1-cbg-hybrid-enhanced-gummies-100-100mg"
+      },
+      "relationships": {
+        "brand": {
+          "data": {
+            "id": 898,
+            "type": "brand"
+          }
+        },
+        "listing": {
+          "data": {
+            "id": 333594,
+            "type": "dispensary"
+          }
+        },
+        "product": {
+          "data": {
+            "id": 445918,
+            "type": "product"
+          }
+        },
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 3
+          },
+          "data": [
+            {
+              "id": 22,
+              "type": "category"
+            },
+            {
+              "id": 219,
+              "type": "category"
+            },
+            {
+              "id": 5,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 10
+          },
+          "data": [
+            {
+              "type": "tag",
+              "id": "0777c485-a69d-41fe-bf47-ad91ff185525"
+            },
+            {
+              "type": "tag",
+              "id": "e8a5ba23-c460-45ca-a784-1f4c185b0f3e"
+            },
+            {
+              "type": "tag",
+              "id": "f1842b13-25d7-4777-bb58-206c0476489a"
+            },
+            {
+              "type": "tag",
+              "id": "208b112f-5c7a-4c1a-8423-1e3eae660ca9"
+            },
+            {
+              "type": "tag",
+              "id": "7be809dd-648e-4f9c-af7f-ffc70a079066"
+            },
+            {
+              "type": "tag",
+              "id": "19823980-34c1-4689-92e3-5ef7866c1b76"
+            },
+            {
+              "type": "tag",
+              "id": "69b03eea-8b05-4d77-83b3-d796b7b0525e"
+            },
+            {
+              "type": "tag",
+              "id": "59421d5b-91e7-45ac-843a-551975f0ac6f"
+            },
+            {
+              "type": "tag",
+              "id": "3959d19c-0a8f-49ec-9f21-ebcab865a35a"
+            },
+            {
+              "type": "tag",
+              "id": "59140ce9-ff81-40c8-a973-c98552b3e479"
+            }
+          ]
+        },
+        "menu_parent": {
+          "data": {
+            "id": 253323312,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 143491955,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Strawberry 20:1 CBD + Hybrid Enhanced Gummies 200:10mg",
+        "slug": "strawberry-20-1-cbd-hybrid-enhanced-gummies-200-10mg",
+        "category_name": "Edibles",
+        "body": "<p></p><p>Our Strawberry 20:1 CBD:THC gummies are made with real fruit, a Hybrid terpene blend, and enhanced with cannabis-derived CBD oil. Perfect for relaxing your body while keeping your mind sharp and alert. They are the go-to gummy if you are looking to decompress or take the edge off.</p><p><br></p><p><em>It’s a little like a spa treatment for your body and soul. Enjoy!</em></p><p><br></p><p>200mg CBD:10mg THC per package, 20mg CBD:1mg THC per gummy.</p><p><br></p><p>Contains: Coconut</p>",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/products/000/038/842/avatar/1637791216-wyld_strawberry_gummies_az-reflct.png",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/products/000/038/842/avatar/1637791216-wyld_strawberry_gummies_az-reflct.png",
+        "avatar_image_url": "https://images.weedmaps.com/products/000/038/842/avatar/1637791216-wyld_strawberry_gummies_az-reflct.png",
+        "is_badged": true,
+        "brand_name": "WYLD",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 20,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2023-10-28T20:53:27Z",
+        "updated_at": "2023-10-28T20:53:27Z",
+        "parent_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "sub_category": {
+          "id": 22,
+          "name": "Gummies",
+          "slug": "gummies"
+        },
+        "measurements": [],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/nm-cannabis-cowboy/menu/strawberry-20-1-cbd-hybrid-enhanced-gummies-200-10mg",
+        "order": "https://weedmaps.com/dispensaries/nm-cannabis-cowboy/menu/strawberry-20-1-cbd-hybrid-enhanced-gummies-200-10mg"
+      },
+      "relationships": {
+        "brand": {
+          "data": {
+            "id": 898,
+            "type": "brand"
+          }
+        },
+        "listing": {
+          "data": {
+            "id": 333594,
+            "type": "dispensary"
+          }
+        },
+        "product": {
+          "data": {
+            "id": 38842,
+            "type": "product"
+          }
+        },
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 3
+          },
+          "data": [
+            {
+              "id": 219,
+              "type": "category"
+            },
+            {
+              "id": 22,
+              "type": "category"
+            },
+            {
+              "id": 5,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 5
+          },
+          "data": [
+            {
+              "type": "tag",
+              "id": "69b03eea-8b05-4d77-83b3-d796b7b0525e"
+            },
+            {
+              "type": "tag",
+              "id": "ff3a794b-6074-40a3-9153-4265e19ce740"
+            },
+            {
+              "type": "tag",
+              "id": "59140ce9-ff81-40c8-a973-c98552b3e479"
+            },
+            {
+              "type": "tag",
+              "id": "727bd616-2e29-4c8a-9fd8-9db906add6af"
+            },
+            {
+              "type": "tag",
+              "id": "06a33055-6209-492c-ad15-f9703e43cfa9"
+            }
+          ]
+        },
+        "menu_parent": {
+          "data": {
+            "id": 253323312,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 143491961,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Sour Tangerine Hybrid Enhanced Gummies",
+        "slug": "sour-tangerine-hybrid-enhanced-gummies",
+        "category_name": "Edibles",
+        "body": "<p>Wyld's Sour Tangerine Hybrid Enhanced gummies are made with real fruit and enhanced with botanical terpenes that assist in creating both euphoric and playful experiences, with a tart, punchy twist.</p><p><br></p><p>100mg THC per package, 10mg THC per gummy.</p><p><br></p><p>Energetic & Playful | Made with Limonene, Alpha-Pinene, Beta-Pinene + Linalool. </p>",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/products/000/526/066/avatar/1694116386-sour_tangie_-_fruitless.png",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/products/000/526/066/avatar/1694116386-sour_tangie_-_fruitless.png",
+        "avatar_image_url": "https://images.weedmaps.com/products/000/526/066/avatar/1694116386-sour_tangie_-_fruitless.png",
+        "is_badged": true,
+        "brand_name": "WYLD",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 20,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2023-10-28T20:53:55Z",
+        "updated_at": "2023-10-28T20:53:55Z",
+        "parent_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "sub_category": {
+          "id": 22,
+          "name": "Gummies",
+          "slug": "gummies"
+        },
+        "measurements": [],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/nm-cannabis-cowboy/menu/sour-tangerine-hybrid-enhanced-gummies",
+        "order": "https://weedmaps.com/dispensaries/nm-cannabis-cowboy/menu/sour-tangerine-hybrid-enhanced-gummies"
+      },
+      "relationships": {
+        "brand": {
+          "data": {
+            "id": 898,
+            "type": "brand"
+          }
+        },
+        "listing": {
+          "data": {
+            "id": 333594,
+            "type": "dispensary"
+          }
+        },
+        "product": {
+          "data": {
+            "id": 526066,
+            "type": "product"
+          }
+        },
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 3
+          },
+          "data": [
+            {
+              "id": 22,
+              "type": "category"
+            },
+            {
+              "id": 219,
+              "type": "category"
+            },
+            {
+              "id": 5,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 253323312,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 143491999,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Marionberry Indica Enhanced Gummies 100mg",
+        "slug": "marionberry-indica-enhanced-gummies-100mg",
+        "category_name": "Edibles",
+        "body": "<p></p><p>Our Marionberry gummies are made with real fruit and an Indica enhanced botanical terpene blend, making them a great addition to the end of any long day. Whether eaten around a campfire, or in the comfort of your own home, these gummies are great for unwinding.</p><p><br></p><p><em>It’s a little like the soft furry slippers for your mind. Enjoy!</em></p><p><br></p><p>100mg THC per package, 10mg THC per gummy.</p><p><br></p><p>Contains: Coconut</p>",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/products/000/132/352/avatar/1637790586-wyld_marionberry_gummies_az-reflct.png",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/products/000/132/352/avatar/1637790586-wyld_marionberry_gummies_az-reflct.png",
+        "avatar_image_url": "https://images.weedmaps.com/products/000/132/352/avatar/1637790586-wyld_marionberry_gummies_az-reflct.png",
+        "is_badged": true,
+        "brand_name": "WYLD",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 20,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2023-10-28T20:54:36Z",
+        "updated_at": "2023-10-28T20:54:36Z",
+        "parent_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "sub_category": {
+          "id": 22,
+          "name": "Gummies",
+          "slug": "gummies"
+        },
+        "measurements": [],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/nm-cannabis-cowboy/menu/marionberry-indica-enhanced-gummies-100mg",
+        "order": "https://weedmaps.com/dispensaries/nm-cannabis-cowboy/menu/marionberry-indica-enhanced-gummies-100mg"
+      },
+      "relationships": {
+        "brand": {
+          "data": {
+            "id": 898,
+            "type": "brand"
+          }
+        },
+        "listing": {
+          "data": {
+            "id": 333594,
+            "type": "dispensary"
+          }
+        },
+        "product": {
+          "data": {
+            "id": 132352,
+            "type": "product"
+          }
+        },
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 3
+          },
+          "data": [
+            {
+              "id": 22,
+              "type": "category"
+            },
+            {
+              "id": 5,
+              "type": "category"
+            },
+            {
+              "id": 219,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 6
+          },
+          "data": [
+            {
+              "type": "tag",
+              "id": "0777c485-a69d-41fe-bf47-ad91ff185525"
+            },
+            {
+              "type": "tag",
+              "id": "6c9c48cf-e028-4af9-8aec-830bda19ee8d"
+            },
+            {
+              "type": "tag",
+              "id": "7cb8e0ed-af2c-4ed5-ad85-c081bad02f7e"
+            },
+            {
+              "type": "tag",
+              "id": "69b03eea-8b05-4d77-83b3-d796b7b0525e"
+            },
+            {
+              "type": "tag",
+              "id": "725787f5-ef95-4a71-9c39-cb5a345ff318"
+            },
+            {
+              "type": "tag",
+              "id": "59140ce9-ff81-40c8-a973-c98552b3e479"
+            }
+          ]
+        },
+        "menu_parent": {
+          "data": {
+            "id": 253323312,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 143492016,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Sour Apple Sativa Enhanced Gummies | 100mg",
+        "slug": "sour-apple-sativa-enhanced-gummies-100mg",
+        "category_name": "Edibles",
+        "body": "<p></p><p>Wyld Sours are a new adventure on the Wyld journey. Whether enjoyed with a group of your favorite people or at the peak of your expedition, our new line of flavors offer a burst of refreshment and relief with every serving. Not too sweet, and not too tart, Wyld Sours offer an experience for everyone.</p><p><br></p><p>Our new Sour Apple gummies help to create a bright + adventurous experience with zing.</p><p><br></p><p><em>It's a little like sparklers on a summer night. Enjoy!</em></p><p><br></p><p>100mg THC per container, 10mg per gummy</p><p><br></p><p>Contains: Coconut</p>",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/products/000/445/921/avatar/1669766951-sour_apple_-_vanity.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/products/000/445/921/avatar/1669766951-sour_apple_-_vanity.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/products/000/445/921/avatar/1669766951-sour_apple_-_vanity.jpg",
+        "is_badged": true,
+        "brand_name": "WYLD",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 20,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2023-10-28T20:55:10Z",
+        "updated_at": "2023-10-28T20:55:10Z",
+        "parent_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "sub_category": {
+          "id": 22,
+          "name": "Gummies",
+          "slug": "gummies"
+        },
+        "measurements": [],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/nm-cannabis-cowboy/menu/sour-apple-sativa-enhanced-gummies-100mg",
+        "order": "https://weedmaps.com/dispensaries/nm-cannabis-cowboy/menu/sour-apple-sativa-enhanced-gummies-100mg"
+      },
+      "relationships": {
+        "brand": {
+          "data": {
+            "id": 898,
+            "type": "brand"
+          }
+        },
+        "listing": {
+          "data": {
+            "id": 333594,
+            "type": "dispensary"
+          }
+        },
+        "product": {
+          "data": {
+            "id": 445921,
+            "type": "product"
+          }
+        },
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 3
+          },
+          "data": [
+            {
+              "id": 22,
+              "type": "category"
+            },
+            {
+              "id": 219,
+              "type": "category"
+            },
+            {
+              "id": 5,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 9
+          },
+          "data": [
+            {
+              "type": "tag",
+              "id": "0777c485-a69d-41fe-bf47-ad91ff185525"
+            },
+            {
+              "type": "tag",
+              "id": "5f181dad-c604-4649-ab2c-bc4b316e3462"
+            },
+            {
+              "type": "tag",
+              "id": "6c9c48cf-e028-4af9-8aec-830bda19ee8d"
+            },
+            {
+              "type": "tag",
+              "id": "7cb8e0ed-af2c-4ed5-ad85-c081bad02f7e"
+            },
+            {
+              "type": "tag",
+              "id": "134d74f7-944e-4bd6-9108-e8f87d03ec90"
+            },
+            {
+              "type": "tag",
+              "id": "7be809dd-648e-4f9c-af7f-ffc70a079066"
+            },
+            {
+              "type": "tag",
+              "id": "59421d5b-91e7-45ac-843a-551975f0ac6f"
+            },
+            {
+              "type": "tag",
+              "id": "15eaa9a0-5b9d-485a-bea3-c55b0705e693"
+            },
+            {
+              "type": "tag",
+              "id": "59140ce9-ff81-40c8-a973-c98552b3e479"
+            }
+          ]
+        },
+        "menu_parent": {
+          "data": {
+            "id": 253323312,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 143492018,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Sour Cherry Indica Enhanced Gummies | 100mg",
+        "slug": "sour-cherry-indica-enhanced-gummies-100mg",
+        "category_name": "Edibles",
+        "body": "<p></p><p>Wyld Sours are a new adventure on the Wyld journey. Whether enjoyed with a group of your favorite people or at the peak ofyour expedition, our new line of flavors offer a burst of refreshment and relief with every serving. Not too sweet, and not too tart, Wyld Sours offer an experience for everyone.</p><p><br></p><p>Our Sour Cherry gummies offer a mellow + carefree experience that packs a tart punch.</p><p><br></p><p><em>It's a little like a hammock for your inner thoughts. Enjoy!</em></p><p><br></p><p>100mg THC per container, 10mg THC per gummy.</p><p><br></p><p>Contains: Coconut</p>",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/products/000/445/922/avatar/1669766970-sour_cherry_-_vanity.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/products/000/445/922/avatar/1669766970-sour_cherry_-_vanity.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/products/000/445/922/avatar/1669766970-sour_cherry_-_vanity.jpg",
+        "is_badged": true,
+        "brand_name": "WYLD",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 20,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2023-10-28T20:55:32Z",
+        "updated_at": "2023-10-28T20:55:32Z",
+        "parent_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "sub_category": {
+          "id": 22,
+          "name": "Gummies",
+          "slug": "gummies"
+        },
+        "measurements": [],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/nm-cannabis-cowboy/menu/sour-cherry-indica-enhanced-gummies-100mg",
+        "order": "https://weedmaps.com/dispensaries/nm-cannabis-cowboy/menu/sour-cherry-indica-enhanced-gummies-100mg"
+      },
+      "relationships": {
+        "brand": {
+          "data": {
+            "id": 898,
+            "type": "brand"
+          }
+        },
+        "listing": {
+          "data": {
+            "id": 333594,
+            "type": "dispensary"
+          }
+        },
+        "product": {
+          "data": {
+            "id": 445922,
+            "type": "product"
+          }
+        },
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 3
+          },
+          "data": [
+            {
+              "id": 22,
+              "type": "category"
+            },
+            {
+              "id": 219,
+              "type": "category"
+            },
+            {
+              "id": 5,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 9
+          },
+          "data": [
+            {
+              "type": "tag",
+              "id": "0777c485-a69d-41fe-bf47-ad91ff185525"
+            },
+            {
+              "type": "tag",
+              "id": "5f181dad-c604-4649-ab2c-bc4b316e3462"
+            },
+            {
+              "type": "tag",
+              "id": "6c9c48cf-e028-4af9-8aec-830bda19ee8d"
+            },
+            {
+              "type": "tag",
+              "id": "7cb8e0ed-af2c-4ed5-ad85-c081bad02f7e"
+            },
+            {
+              "type": "tag",
+              "id": "19f7ac7b-ffb0-4009-b2d0-a493efaa7dd5"
+            },
+            {
+              "type": "tag",
+              "id": "69b03eea-8b05-4d77-83b3-d796b7b0525e"
+            },
+            {
+              "type": "tag",
+              "id": "79b2d842-1197-448e-b74a-41fd13c2cb27"
+            },
+            {
+              "type": "tag",
+              "id": "eb483acb-b21d-49bb-9bb8-112be8e282c9"
+            },
+            {
+              "type": "tag",
+              "id": "bfe49e20-5799-440b-a0b8-818baedd7d48"
+            }
+          ]
+        },
+        "menu_parent": {
+          "data": {
+            "id": 253323312,
+            "type": "listing"
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,1198 @@
+{
+  "meta": {
+    "page": 1,
+    "per_page": 100,
+    "total": 7
+  },
+  "data": [
+    {
+      "id": 142707131,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Cherry Canary",
+        "slug": "cherry-canary",
+        "category_name": "Flower",
+        "body": "",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/pictures/users/010/618/911/429203612_47ae290b-871d-499b-9e4b-b3f28f78f35f.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/users/010/618/911/429203612_47ae290b-871d-499b-9e4b-b3f28f78f35f.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/users/010/618/911/429203612_47ae290b-871d-499b-9e4b-b3f28f78f35f.jpg",
+        "is_badged": false,
+        "brand_name": "Urban Wellness",
+        "cannabinoids": {
+          "thc": "24.45",
+          "cbd": "0.0"
+        },
+        "genetics": "hybrid",
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 0,
+          "price_gram": 12,
+          "price_two_grams": 0,
+          "price_eighth": 35,
+          "price_quarter": 65,
+          "price_half_ounce": 129.99,
+          "price_ounce": 250,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2023-10-19T17:25:19Z",
+        "updated_at": "2023-10-19T20:30:58Z",
+        "parent_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "sub_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "measurements": [
+          {
+            "id": 1480764938,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "%",
+            "value": "24.45"
+          },
+          {
+            "id": 1480764939,
+            "classification": "cannabinoid",
+            "full_name": "Cannabidiol",
+            "name": "CBD",
+            "unit": "%",
+            "value": "0.0"
+          }
+        ],
+        "variants": [
+          {
+            "name": "1 gram",
+            "label": "1 g",
+            "price": {
+              "amount": "12.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 1,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 1000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          },
+          {
+            "name": "1/8 ounce",
+            "label": "1/8 oz",
+            "price": {
+              "amount": "35.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.125,
+              "unit": "oz"
+            },
+            "sku": null,
+            "compliance_net_mg": 3500,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          },
+          {
+            "name": "1/4 ounce",
+            "label": "1/4 oz",
+            "price": {
+              "amount": "65.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.25,
+              "unit": "oz"
+            },
+            "sku": null,
+            "compliance_net_mg": 7000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          },
+          {
+            "name": "1/2 ounce",
+            "label": "1/2 oz",
+            "price": {
+              "amount": "129.99",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.5,
+              "unit": "oz"
+            },
+            "sku": null,
+            "compliance_net_mg": 14000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          },
+          {
+            "name": "1 ounce",
+            "label": "1 oz",
+            "price": {
+              "amount": "250.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 1,
+              "unit": "oz"
+            },
+            "sku": null,
+            "compliance_net_mg": 28000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/rocky-mountain-cannabis-12/menu/cherry-canary",
+        "order": "https://weedmaps.com/dispensaries/rocky-mountain-cannabis-12/menu/cherry-canary"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 346339,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 2,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 809011243,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 142713894,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Elderberry 2:1 CBN + Indica Enhanced Gummies 100mg:50mg",
+        "slug": "elderberry-2-1-cbn-indica-enhanced-gummies-100mg-50mg",
+        "category_name": "Edibles",
+        "body": "<p></p><p>The sedating effects of CBN in combination with THC alongside terpenes found in Indica strains may provide greater sedation than THC alone. This combination may be particularly useful when preparing for sleep.</p><p><br></p><p><em>It’s a little like watching sheep count you. Enjoy!</em></p><p><br></p><p>100mg THC:50mg CBN per container, 10mg THC:5mg CBN per gummy.</p><p><br></p><p>Contains: Coconut</p>",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/products/000/223/977/avatar/1637790264-wyld_elderberry_gummies_az-reflct.png",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/products/000/223/977/avatar/1637790264-wyld_elderberry_gummies_az-reflct.png",
+        "avatar_image_url": "https://images.weedmaps.com/products/000/223/977/avatar/1637790264-wyld_elderberry_gummies_az-reflct.png",
+        "is_badged": true,
+        "brand_name": "WYLD",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 10,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2023-10-19T18:19:05Z",
+        "updated_at": "2023-10-19T20:30:57Z",
+        "parent_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "sub_category": {
+          "id": 22,
+          "name": "Gummies",
+          "slug": "gummies"
+        },
+        "measurements": [
+          {
+            "id": 1480898544,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "mg",
+            "value": "50.0"
+          }
+        ],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/rocky-mountain-cannabis-12/menu/elderberry-2-1-cbn-indica-enhanced-gummies-100mg-50mg",
+        "order": "https://weedmaps.com/dispensaries/rocky-mountain-cannabis-12/menu/elderberry-2-1-cbn-indica-enhanced-gummies-100mg-50mg"
+      },
+      "relationships": {
+        "brand": {
+          "data": {
+            "id": 898,
+            "type": "brand"
+          }
+        },
+        "listing": {
+          "data": {
+            "id": 346339,
+            "type": "dispensary"
+          }
+        },
+        "product": {
+          "data": {
+            "id": 223977,
+            "type": "product"
+          }
+        },
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 3
+          },
+          "data": [
+            {
+              "id": 22,
+              "type": "category"
+            },
+            {
+              "id": 219,
+              "type": "category"
+            },
+            {
+              "id": 5,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 6
+          },
+          "data": [
+            {
+              "type": "tag",
+              "id": "d7ed0cd2-58e3-4470-871e-37126d82bf40"
+            },
+            {
+              "type": "tag",
+              "id": "6c9c48cf-e028-4af9-8aec-830bda19ee8d"
+            },
+            {
+              "type": "tag",
+              "id": "7cb8e0ed-af2c-4ed5-ad85-c081bad02f7e"
+            },
+            {
+              "type": "tag",
+              "id": "69b03eea-8b05-4d77-83b3-d796b7b0525e"
+            },
+            {
+              "type": "tag",
+              "id": "79b2d842-1197-448e-b74a-41fd13c2cb27"
+            },
+            {
+              "type": "tag",
+              "id": "7e62abed-94c6-4f9f-a66e-c6350618b5c5"
+            }
+          ]
+        },
+        "menu_parent": {
+          "data": {
+            "id": 809011243,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 142726145,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Berlatti",
+        "slug": "berlatti",
+        "category_name": "Flower",
+        "body": "<p></p><p>Berlatti is created through crossing “Gelatti x Burnt Toast' strains and is a pungent smelling hybrid bred by “Raw Genetics”. Berlatti favors the Gelatti strain with a sweet and sour aroma with hints of menthol. Berlatti regularly tests in the Mid 20’s for THC with terpenes reaching over 4%. Breaking open the nuggets releases a citrus blueberry aroma, and the taste is a combination of nutty and coffee flavor with a dash of blue cheese.</p>",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/pictures/users/010/618/911/429206218_Berlatti.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/users/010/618/911/429206218_Berlatti.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/users/010/618/911/429206218_Berlatti.jpg",
+        "is_badged": false,
+        "brand_name": "Urban Wellness",
+        "cannabinoids": {
+          "thc": "25.11",
+          "cbd": "0.11"
+        },
+        "genetics": null,
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 0,
+          "price_gram": 12,
+          "price_two_grams": 0,
+          "price_eighth": 35,
+          "price_quarter": 65,
+          "price_half_ounce": 130,
+          "price_ounce": 250,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2023-10-19T20:00:12Z",
+        "updated_at": "2023-10-19T20:30:54Z",
+        "parent_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "sub_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "measurements": [
+          {
+            "id": 1480987054,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "%",
+            "value": "25.11"
+          },
+          {
+            "id": 1480987055,
+            "classification": "cannabinoid",
+            "full_name": "Cannabidiol",
+            "name": "CBD",
+            "unit": "%",
+            "value": "0.11"
+          }
+        ],
+        "variants": [
+          {
+            "name": "1 gram",
+            "label": "1 g",
+            "price": {
+              "amount": "12.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 1,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 1000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          },
+          {
+            "name": "1/8 ounce",
+            "label": "1/8 oz",
+            "price": {
+              "amount": "35.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.125,
+              "unit": "oz"
+            },
+            "sku": null,
+            "compliance_net_mg": 3500,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          },
+          {
+            "name": "1/4 ounce",
+            "label": "1/4 oz",
+            "price": {
+              "amount": "65.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.25,
+              "unit": "oz"
+            },
+            "sku": null,
+            "compliance_net_mg": 7000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          },
+          {
+            "name": "1/2 ounce",
+            "label": "1/2 oz",
+            "price": {
+              "amount": "130.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.5,
+              "unit": "oz"
+            },
+            "sku": null,
+            "compliance_net_mg": 14000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          },
+          {
+            "name": "1 ounce",
+            "label": "1 oz",
+            "price": {
+              "amount": "250.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 1,
+              "unit": "oz"
+            },
+            "sku": null,
+            "compliance_net_mg": 28000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/rocky-mountain-cannabis-12/menu/berlatti",
+        "order": "https://weedmaps.com/dispensaries/rocky-mountain-cannabis-12/menu/berlatti"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 346339,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 2,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 809011243,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 142727560,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Ghost Town",
+        "slug": "ghost-town",
+        "category_name": "Flower",
+        "body": "<p><br></p><p>Ghost Town Strain is a hybrid cross between Ghost OG Kush and Stardawg with sweet pine and pungent diesel aromas. It is an indica dominant strain as well as a classic Urban Wellness strain that gives the pungent chem smell its parents are known for. Ghost Town may help relieve stress after a hard day or make an excellent accompaniment to a game or movie night.</p>",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/pictures/users/010/618/911/429206392_Ghost_Town.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/users/010/618/911/429206392_Ghost_Town.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/users/010/618/911/429206392_Ghost_Town.jpg",
+        "is_badged": false,
+        "brand_name": "Urban Wellness",
+        "cannabinoids": {
+          "cbd": "0.04",
+          "thc": "23.69"
+        },
+        "genetics": "hybrid",
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 0,
+          "price_gram": 8,
+          "price_two_grams": 0,
+          "price_eighth": 25,
+          "price_quarter": 45,
+          "price_half_ounce": 90,
+          "price_ounce": 150,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2023-10-19T20:14:07Z",
+        "updated_at": "2023-10-19T20:30:53Z",
+        "parent_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "sub_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "measurements": [
+          {
+            "id": 1481011829,
+            "classification": "cannabinoid",
+            "full_name": "Cannabidiol",
+            "name": "CBD",
+            "unit": "%",
+            "value": "0.04"
+          },
+          {
+            "id": 1481011828,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "%",
+            "value": "23.69"
+          }
+        ],
+        "variants": [
+          {
+            "name": "1 gram",
+            "label": "1 g",
+            "price": {
+              "amount": "8.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 1,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 1000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          },
+          {
+            "name": "1/8 ounce",
+            "label": "1/8 oz",
+            "price": {
+              "amount": "25.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.125,
+              "unit": "oz"
+            },
+            "sku": null,
+            "compliance_net_mg": 3500,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          },
+          {
+            "name": "1/4 ounce",
+            "label": "1/4 oz",
+            "price": {
+              "amount": "45.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.25,
+              "unit": "oz"
+            },
+            "sku": null,
+            "compliance_net_mg": 7000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          },
+          {
+            "name": "1/2 ounce",
+            "label": "1/2 oz",
+            "price": {
+              "amount": "90.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.5,
+              "unit": "oz"
+            },
+            "sku": null,
+            "compliance_net_mg": 14000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          },
+          {
+            "name": "1 ounce",
+            "label": "1 oz",
+            "price": {
+              "amount": "150.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 1,
+              "unit": "oz"
+            },
+            "sku": null,
+            "compliance_net_mg": 28000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/rocky-mountain-cannabis-12/menu/ghost-town",
+        "order": "https://weedmaps.com/dispensaries/rocky-mountain-cannabis-12/menu/ghost-town"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 346339,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 2,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 809011243,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 142728338,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Weddingband",
+        "slug": "weddingband",
+        "category_name": "Flower",
+        "body": "",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/pictures/users/010/618/911/429206479_6468de46-2c67-4b25-a856-1f41cff65420.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/users/010/618/911/429206479_6468de46-2c67-4b25-a856-1f41cff65420.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/users/010/618/911/429206479_6468de46-2c67-4b25-a856-1f41cff65420.jpg",
+        "is_badged": false,
+        "brand_name": "Seven Clover",
+        "cannabinoids": {
+          "cbd": "0.1",
+          "thc": "18.2"
+        },
+        "genetics": null,
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 0,
+          "price_gram": 10,
+          "price_two_grams": 0,
+          "price_eighth": 35,
+          "price_quarter": 55,
+          "price_half_ounce": 110,
+          "price_ounce": 205,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2023-10-19T20:20:09Z",
+        "updated_at": "2023-10-19T20:30:51Z",
+        "parent_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "sub_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "measurements": [
+          {
+            "id": 1481018812,
+            "classification": "cannabinoid",
+            "full_name": "Cannabidiol",
+            "name": "CBD",
+            "unit": "%",
+            "value": "0.1"
+          },
+          {
+            "id": 1481018811,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "%",
+            "value": "18.2"
+          }
+        ],
+        "variants": [
+          {
+            "name": "1 gram",
+            "label": "1 g",
+            "price": {
+              "amount": "10.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 1,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 1000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          },
+          {
+            "name": "1/8 ounce",
+            "label": "1/8 oz",
+            "price": {
+              "amount": "35.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.125,
+              "unit": "oz"
+            },
+            "sku": null,
+            "compliance_net_mg": 3500,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          },
+          {
+            "name": "1/4 ounce",
+            "label": "1/4 oz",
+            "price": {
+              "amount": "55.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.25,
+              "unit": "oz"
+            },
+            "sku": null,
+            "compliance_net_mg": 7000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          },
+          {
+            "name": "1/2 ounce",
+            "label": "1/2 oz",
+            "price": {
+              "amount": "110.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.5,
+              "unit": "oz"
+            },
+            "sku": null,
+            "compliance_net_mg": 14000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          },
+          {
+            "name": "1 ounce",
+            "label": "1 oz",
+            "price": {
+              "amount": "205.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 1,
+              "unit": "oz"
+            },
+            "sku": null,
+            "compliance_net_mg": 28000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/rocky-mountain-cannabis-12/menu/weddingband",
+        "order": "https://weedmaps.com/dispensaries/rocky-mountain-cannabis-12/menu/weddingband"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 346339,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 2,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 809011243,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 142728784,
+      "type": "menu_item",
+      "attributes": {
+        "name": ".5 Cartridge- GMO Punch",
+        "slug": "5-cartridge-gmo-punch",
+        "category_name": "Vape Pens",
+        "body": "",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/pictures/users/010/618/911/429206555_9c784b83-e8f6-48cd-bc9f-1ac477403409.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/users/010/618/911/429206555_9c784b83-e8f6-48cd-bc9f-1ac477403409.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/users/010/618/911/429206555_9c784b83-e8f6-48cd-bc9f-1ac477403409.jpg",
+        "is_badged": false,
+        "brand_name": "Mountaintop Extracts",
+        "cannabinoids": {
+          "cbd": "0.11",
+          "thc": "91.2"
+        },
+        "genetics": "sativa",
+        "prices": {
+          "price_unit": 25,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2023-10-19T20:25:34Z",
+        "updated_at": "2023-10-19T20:30:48Z",
+        "parent_category": {
+          "id": 4,
+          "name": "Vape Pens",
+          "slug": "vape-pens"
+        },
+        "sub_category": {
+          "id": 193,
+          "name": "Cartridge",
+          "slug": "cartridge"
+        },
+        "measurements": [
+          {
+            "id": 1481024427,
+            "classification": "cannabinoid",
+            "full_name": "Cannabidiol",
+            "name": "CBD",
+            "unit": "%",
+            "value": "0.11"
+          },
+          {
+            "id": 1481024426,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "%",
+            "value": "91.2"
+          }
+        ],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/rocky-mountain-cannabis-12/menu/5-cartridge-gmo-punch",
+        "order": "https://weedmaps.com/dispensaries/rocky-mountain-cannabis-12/menu/5-cartridge-gmo-punch"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 346339,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 2
+          },
+          "data": [
+            {
+              "id": 193,
+              "type": "category"
+            },
+            {
+              "id": 4,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 809011243,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 142729214,
+      "type": "menu_item",
+      "attributes": {
+        "name": "1G Cartridge",
+        "slug": "1g-cartridge",
+        "category_name": "Vape Pens",
+        "body": "",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/pictures/users/010/618/911/429206582_8cea54bf-d093-4f80-991b-645eaf82529b.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/users/010/618/911/429206582_8cea54bf-d093-4f80-991b-645eaf82529b.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/users/010/618/911/429206582_8cea54bf-d093-4f80-991b-645eaf82529b.jpg",
+        "is_badged": false,
+        "brand_name": "Bonanza",
+        "cannabinoids": {
+          "cbd": "0.29",
+          "thc": "91.8"
+        },
+        "genetics": "sativa",
+        "prices": {
+          "price_unit": 40,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2023-10-19T20:28:39Z",
+        "updated_at": "2023-10-19T20:31:46Z",
+        "parent_category": {
+          "id": 4,
+          "name": "Vape Pens",
+          "slug": "vape-pens"
+        },
+        "sub_category": {
+          "id": 193,
+          "name": "Cartridge",
+          "slug": "cartridge"
+        },
+        "measurements": [
+          {
+            "id": 1481027643,
+            "classification": "cannabinoid",
+            "full_name": "Cannabidiol",
+            "name": "CBD",
+            "unit": "%",
+            "value": "0.29"
+          },
+          {
+            "id": 1481027642,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "%",
+            "value": "91.8"
+          }
+        ],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/rocky-mountain-cannabis-12/menu/1g-cartridge",
+        "order": "https://weedmaps.com/dispensaries/rocky-mountain-cannabis-12/menu/1g-cartridge"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 346339,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 2
+          },
+          "data": [
+            {
+              "id": 193,
+              "type": "category"
+            },
+            {
+              "id": 4,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 809011243,
+            "type": "listing"
+          }
+        }
+      }
+    }
+  ]
+}

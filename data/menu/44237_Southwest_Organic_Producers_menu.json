@@ -1,0 +1,5565 @@
+{
+  "meta": {
+    "page": 1,
+    "per_page": 100,
+    "total": 49
+  },
+  "data": [
+    {
+      "id": 5714819,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Super Lemon Haze (Sativa)",
+        "slug": "super-lemon-haze-sativa--7",
+        "category_name": "Flower",
+        "body": "Our pre-rolls are strain-specific allowing patients to tailor desired effects with consistent results.",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/520/808/010/6419071_pre-rolls_1034w_edited.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/520/808/010/6419071_pre-rolls_1034w_edited.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/520/808/010/6419071_pre-rolls_1034w_edited.jpg",
+        "is_badged": false,
+        "brand_name": null,
+        "cannabinoids": {},
+        "genetics": "sativa",
+        "prices": {
+          "price_unit": 5.99,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2015-09-02T13:47:04Z",
+        "updated_at": "2023-07-18T01:32:26Z",
+        "parent_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "sub_category": {
+          "id": 185,
+          "name": "Pre Roll",
+          "slug": "pre-roll"
+        },
+        "measurements": [],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/southwest-organic-producers-2/menu/super-lemon-haze-sativa--7",
+        "order": "https://weedmaps.com/dispensaries/southwest-organic-producers-2/menu/super-lemon-haze-sativa--7"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 44237,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": {
+            "id": 237,
+            "type": "strain"
+          }
+        },
+        "categories": {
+          "meta": {
+            "total": 2
+          },
+          "data": [
+            {
+              "id": 2,
+              "type": "category"
+            },
+            {
+              "id": 185,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "type": "tag",
+              "id": "2c8f22c2-357a-4219-99f9-f0e2fd0e0571"
+            }
+          ]
+        },
+        "menu_parent": {
+          "data": {
+            "id": 520808010,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 8027252,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Grade B Kief - Lemon Sour Diesel (Sativa)",
+        "slug": "grade-b-kief-lemon-sour-diesel-sativa",
+        "category_name": "Concentrates",
+        "body": "THC%: 25.00 | CBD%: 0.00 | CBG%: 0.00 Kief can be added to bud to increase potency or alter effect. It can also be cooked, mixed into drinks, or consumed raw to gain the many benefits of using non-decarboxylated cannabinoid acids. Lemon Sour Diesel has a citrusy, sour/pungent aroma and euphoric/narcotic effects. SWOP has a dedicated following of patients who use LSD for pain and daytime stress. Many report a bit of a sedating crash towards the end of LSD’s effect. If you’re looking for a euphoric daytime strain, try this as a suppliment added to flower, or by itself. If you experience a heavy crash, ingest before dinner for a sleep aid.",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/520/808/010/4867171_Kief_edited_1034w.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/520/808/010/4867171_Kief_edited_1034w.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/520/808/010/4867171_Kief_edited_1034w.jpg",
+        "is_badged": false,
+        "brand_name": null,
+        "cannabinoids": {},
+        "genetics": "sativa",
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 0,
+          "price_gram": 29.99,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2016-11-10T22:07:40Z",
+        "updated_at": "2023-07-18T04:52:21Z",
+        "parent_category": {
+          "id": 3,
+          "name": "Concentrates",
+          "slug": "concentrates"
+        },
+        "sub_category": {
+          "id": 48,
+          "name": "Budder",
+          "slug": "budder"
+        },
+        "measurements": [],
+        "variants": [
+          {
+            "name": "1 gram",
+            "label": "1 g",
+            "price": {
+              "amount": "29.99",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 1,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 1000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/southwest-organic-producers-2/menu/grade-b-kief-lemon-sour-diesel-sativa",
+        "order": "https://weedmaps.com/dispensaries/southwest-organic-producers-2/menu/grade-b-kief-lemon-sour-diesel-sativa"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 44237,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": {
+            "id": 781,
+            "type": "strain"
+          }
+        },
+        "categories": {
+          "meta": {
+            "total": 2
+          },
+          "data": [
+            {
+              "id": 48,
+              "type": "category"
+            },
+            {
+              "id": 3,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 520808010,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 8461611,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Durban Poison (Sativa)",
+        "slug": "durban-poison-sativa--8",
+        "category_name": "Flower",
+        "body": "THC%: 13.30 | CBD%: 0.00 | CBG%: 0.07 Health: May help with anxiety and depression.",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/520/808/010/7145310_DPEdit.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/520/808/010/7145310_DPEdit.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/520/808/010/7145310_DPEdit.jpg",
+        "is_badged": false,
+        "brand_name": null,
+        "cannabinoids": {},
+        "genetics": "sativa",
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 0,
+          "price_gram": 12,
+          "price_two_grams": 0,
+          "price_eighth": 42,
+          "price_quarter": 84,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2017-01-12T18:16:25Z",
+        "updated_at": "2023-07-18T05:22:05Z",
+        "parent_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "sub_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "measurements": [],
+        "variants": [
+          {
+            "name": "1 gram",
+            "label": "1 g",
+            "price": {
+              "amount": "12.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 1,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 1000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          },
+          {
+            "name": "1/8 ounce",
+            "label": "1/8 oz",
+            "price": {
+              "amount": "42.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.125,
+              "unit": "oz"
+            },
+            "sku": null,
+            "compliance_net_mg": 3500,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          },
+          {
+            "name": "1/4 ounce",
+            "label": "1/4 oz",
+            "price": {
+              "amount": "84.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.25,
+              "unit": "oz"
+            },
+            "sku": null,
+            "compliance_net_mg": 7000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/southwest-organic-producers-2/menu/durban-poison-sativa--8",
+        "order": "https://weedmaps.com/dispensaries/southwest-organic-producers-2/menu/durban-poison-sativa--8"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 44237,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": {
+            "id": 69,
+            "type": "strain"
+          }
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 2,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "type": "tag",
+              "id": "edcefa08-584a-41d5-9cd0-11e7f24a5176"
+            }
+          ]
+        },
+        "menu_parent": {
+          "data": {
+            "id": 520808010,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 8478685,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Refined CO2 Oil – Cannatonic (CBD-Rich Hybrid)",
+        "slug": "refined-co2-oil-cannatonic-cbd-rich-hybrid",
+        "category_name": "Vape Pens",
+        "body": "THC-A: 13.38% | CBD-A: 63.28% | CBD: 8.57% Our refined oil is derived from a clean CO2 extraction of our Cannatonic (CBD-Rich Hybrid) harvest. This refined oil has a very pleasing amber color and retains many of its flavorful terpenes.",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/520/808/010/4303801_King_Kush_refined_thc-64-41_web.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/520/808/010/4303801_King_Kush_refined_thc-64-41_web.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/520/808/010/4303801_King_Kush_refined_thc-64-41_web.jpg",
+        "is_badged": false,
+        "brand_name": null,
+        "cannabinoids": {
+          "cbd": "8.57"
+        },
+        "genetics": "hybrid",
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 29.99,
+          "price_gram": 59.99,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2017-01-13T22:04:24Z",
+        "updated_at": "2023-07-18T05:22:26Z",
+        "parent_category": {
+          "id": 4,
+          "name": "Vape Pens",
+          "slug": "vape-pens"
+        },
+        "sub_category": {
+          "id": 4,
+          "name": "Vape Pens",
+          "slug": "vape-pens"
+        },
+        "measurements": [
+          {
+            "id": 4182740,
+            "classification": "cannabinoid",
+            "full_name": "Cannabidiol",
+            "name": "CBD",
+            "unit": "%",
+            "value": "8.57"
+          }
+        ],
+        "variants": [
+          {
+            "name": "1/2 gram",
+            "label": "1/2 g",
+            "price": {
+              "amount": "29.99",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.5,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 500,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          },
+          {
+            "name": "1 gram",
+            "label": "1 g",
+            "price": {
+              "amount": "59.99",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 1,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 1000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/southwest-organic-producers-2/menu/refined-co2-oil-cannatonic-cbd-rich-hybrid",
+        "order": "https://weedmaps.com/dispensaries/southwest-organic-producers-2/menu/refined-co2-oil-cannatonic-cbd-rich-hybrid"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 44237,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": {
+            "id": 43,
+            "type": "strain"
+          }
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 4,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 520808010,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 8986094,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Hard Candy Tabs – AK-47 (Hybrid-Sativa): Green Lemonade",
+        "slug": "hard-candy-tabs-ak-47-hybrid-sativa-green-lemonade",
+        "category_name": "Edibles",
+        "body": "Bhang’s delicious hard candy infused with SWOP’s AK-47 harvest. AK-47 is one of our favorite strains because of its calm, focused and happy effect. The prevalent terpenes are myrcene and pinene, followed by caryophyllene. The near equal amounts of pinene and myrcene duke it out to balance between myrcene’s sedative and muscle relaxing effects and pinene’s clear headed and focused effects. The caryophyllene may aid in a bit of pain relief as well for some patients. This strain is great for patients dealing with daytime anxiety, stress or depression.",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/520/808/010/4867638_Tabs_SLH_Green_Lemonade_product-510x287.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/520/808/010/4867638_Tabs_SLH_Green_Lemonade_product-510x287.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/520/808/010/4867638_Tabs_SLH_Green_Lemonade_product-510x287.jpg",
+        "is_badged": false,
+        "brand_name": null,
+        "cannabinoids": {},
+        "genetics": "hybrid",
+        "prices": {
+          "price_unit": 24.99,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2017-03-17T20:26:18Z",
+        "updated_at": "2023-07-18T06:01:35Z",
+        "parent_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "sub_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "measurements": [],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/southwest-organic-producers-2/menu/hard-candy-tabs-ak-47-hybrid-sativa-green-lemonade",
+        "order": "https://weedmaps.com/dispensaries/southwest-organic-producers-2/menu/hard-candy-tabs-ak-47-hybrid-sativa-green-lemonade"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 44237,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 5,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 520808010,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 8987066,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Organic Dark Chocolate Bar – Purple Kush (Indica)",
+        "slug": "organic-dark-chocolate-bar-purple-kush-indica",
+        "category_name": "Edibles",
+        "body": "Bhang’s delicious organic dark chocolate infused with SWOP’s Purple Kush. Our Purple Kush has a musty/earthy/floral smell with a calming, happy effect. PK’s main terpenes are myrcene, ocimene, and pinene. Myrcene as we all know by now effects the permeability of cell walls, making more cannabinoids available to more receptors, and carries its own sedative and muscle relaxing effects. Ocimene is used for an anxiolytic and for balance. Pinene keeps everything clear-headed and focused. We suggest Purple Kush for anxiety, muscular pain, and for our bi-polar patients to balance out.",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/520/808/010/4868864_2-7-2017_chocolate_durban-poison_web-510x287.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/520/808/010/4868864_2-7-2017_chocolate_durban-poison_web-510x287.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/520/808/010/4868864_2-7-2017_chocolate_durban-poison_web-510x287.jpg",
+        "is_badged": false,
+        "brand_name": null,
+        "cannabinoids": {},
+        "genetics": "indica",
+        "prices": {
+          "price_unit": 24.99,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2017-03-17T21:43:28Z",
+        "updated_at": "2024-03-12T13:18:41Z",
+        "parent_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "sub_category": {
+          "id": 212,
+          "name": "Chocolates",
+          "slug": "chocolates"
+        },
+        "measurements": [],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/southwest-organic-producers-2/menu/organic-dark-chocolate-bar-purple-kush-indica",
+        "order": "https://weedmaps.com/dispensaries/southwest-organic-producers-2/menu/organic-dark-chocolate-bar-purple-kush-indica"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 44237,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 3
+          },
+          "data": [
+            {
+              "id": 212,
+              "type": "category"
+            },
+            {
+              "id": 219,
+              "type": "category"
+            },
+            {
+              "id": 5,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 520808010,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 8987128,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Organic Dark Chocolate Bar by Bhang – Cannatonic (CBD-Rich Hybrid)",
+        "slug": "organic-dark-chocolate-bar-by-bhang-cannatonic-cbd-rich-hybrid",
+        "category_name": "Edibles",
+        "body": "CBD: 150 mg | THC: 65 mg Bhang’s delicious Dark chocolate infused with SWOP’s CBD-rich Cannatonic. The CBD in Cannatonic is highly neuro-protective and could prove to be quite useful for a large number of different symptoms and patients. CBD can be anti-inflammatory, anti-psychotic, anti-depressant, anti-spasmodic, anxiolytic, and can help temper the side effects of THC for some patients.",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/520/808/010/4868917_2-7-2017_chocolate_durban-poison_web-510x287.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/520/808/010/4868917_2-7-2017_chocolate_durban-poison_web-510x287.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/520/808/010/4868917_2-7-2017_chocolate_durban-poison_web-510x287.jpg",
+        "is_badged": false,
+        "brand_name": "Bhang",
+        "cannabinoids": {},
+        "genetics": "hybrid",
+        "prices": {
+          "price_unit": 29.99,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2017-03-17T21:46:49Z",
+        "updated_at": "2024-03-12T13:18:50Z",
+        "parent_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "sub_category": {
+          "id": 212,
+          "name": "Chocolates",
+          "slug": "chocolates"
+        },
+        "measurements": [
+          {
+            "id": 1343651578,
+            "classification": "cannabinoid",
+            "full_name": "Cannabidiol",
+            "name": "CBD",
+            "unit": "mg",
+            "value": "150.0"
+          }
+        ],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/southwest-organic-producers-2/menu/organic-dark-chocolate-bar-by-bhang-cannatonic-cbd-rich-hybrid",
+        "order": "https://weedmaps.com/dispensaries/southwest-organic-producers-2/menu/organic-dark-chocolate-bar-by-bhang-cannatonic-cbd-rich-hybrid"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 44237,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 3
+          },
+          "data": [
+            {
+              "id": 212,
+              "type": "category"
+            },
+            {
+              "id": 219,
+              "type": "category"
+            },
+            {
+              "id": 5,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 520808010,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 8987192,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Organic Ice Chocolate Bar – Purple Kush (Indica)",
+        "slug": "organic-ice-chocolate-bar-purple-kush-indica",
+        "category_name": "Edibles",
+        "body": "Bhang’s delicious organic dark chocolate infused with SWOP’s Purple Kush. Our Purple Kush has a musty/earthy/floral smell with a calming, happy effect. PK’s main terpenes are myrcene, ocimene, and pinene. Myrcene as we all know by now effects the permeability of cell walls, making more cannabinoids available to more receptors, and carries its own sedative and muscle relaxing effects. Ocimene is used for an anxiolytic and for balance. Pinene keeps everything clear-headed and focused. We suggest Purple Kush for anxiety, muscular pain, and for our bi-polar patients to balance out.",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/520/808/010/4869064_2-7-2017_chocolate_durban-poison_web-510x287.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/520/808/010/4869064_2-7-2017_chocolate_durban-poison_web-510x287.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/520/808/010/4869064_2-7-2017_chocolate_durban-poison_web-510x287.jpg",
+        "is_badged": false,
+        "brand_name": null,
+        "cannabinoids": {},
+        "genetics": "indica",
+        "prices": {
+          "price_unit": 24.99,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2017-03-17T21:51:23Z",
+        "updated_at": "2024-03-12T13:19:23Z",
+        "parent_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "sub_category": {
+          "id": 212,
+          "name": "Chocolates",
+          "slug": "chocolates"
+        },
+        "measurements": [],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/southwest-organic-producers-2/menu/organic-ice-chocolate-bar-purple-kush-indica",
+        "order": "https://weedmaps.com/dispensaries/southwest-organic-producers-2/menu/organic-ice-chocolate-bar-purple-kush-indica"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 44237,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 3
+          },
+          "data": [
+            {
+              "id": 212,
+              "type": "category"
+            },
+            {
+              "id": 219,
+              "type": "category"
+            },
+            {
+              "id": 5,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 520808010,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 9924950,
+      "type": "menu_item",
+      "attributes": {
+        "name": "MCT Tincture – Cannatonic (CBD-Rich Hybrid)",
+        "slug": "mct-tincture-cannatonic-cbd-rich-hybrid--3",
+        "category_name": "Edibles",
+        "body": "CBD: 2.74 mg/dropper | THC: 1.63 mg/dropper | CBD-A: 1.21 mg/dropper - This tincture is a great suggestion for our patients seeking relief from inflammation based diseases like arthritis and many auto immune disorders like MS or Parkinson’s, or patients facing inflammation based pain. CBD when consumed regularly is known to act as an anxiolytic and an anti-psychotic, so a standard edible or sublingual regimen would be highly recommended for patients with psychiatric disorders as well.",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/520/808/010/6694120_CTEdit.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/520/808/010/6694120_CTEdit.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/520/808/010/6694120_CTEdit.jpg",
+        "is_badged": false,
+        "brand_name": null,
+        "cannabinoids": {},
+        "genetics": "hybrid",
+        "prices": {
+          "price_unit": 24.99,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2017-06-22T18:58:31Z",
+        "updated_at": "2023-07-18T07:01:17Z",
+        "parent_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "sub_category": {
+          "id": 254,
+          "name": "Edible Oils",
+          "slug": "edible-oils"
+        },
+        "measurements": [
+          {
+            "id": 1343694489,
+            "classification": "cannabinoid",
+            "full_name": "Cannabidiol",
+            "name": "CBD",
+            "unit": "mg",
+            "value": "2.74"
+          }
+        ],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/southwest-organic-producers-2/menu/mct-tincture-cannatonic-cbd-rich-hybrid--3",
+        "order": "https://weedmaps.com/dispensaries/southwest-organic-producers-2/menu/mct-tincture-cannatonic-cbd-rich-hybrid--3"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 44237,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 2
+          },
+          "data": [
+            {
+              "id": 5,
+              "type": "category"
+            },
+            {
+              "id": 254,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 520808010,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 10438296,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Grade B Kief - Durban Poison (Sativa)",
+        "slug": "grade-b-kief-durban-poison-sativa",
+        "category_name": "Concentrates",
+        "body": "THC%: 29.00 | CBD%: 0.00 | CBG%: 0.00 | Durban Poison has a powerful fuely, sweet, floral aroma that overwhelms the senses. Durban Poison has a calm, tranquil, creative, uplifting and energetic effect. This can be a wonderful strain for depression, fatigue, anxiety, and nausea control.",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/520/808/010/6411299_Kief_edited_1034w.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/520/808/010/6411299_Kief_edited_1034w.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/520/808/010/6411299_Kief_edited_1034w.jpg",
+        "is_badged": false,
+        "brand_name": null,
+        "cannabinoids": {},
+        "genetics": "sativa",
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 0,
+          "price_gram": 29.99,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2017-08-15T21:28:40Z",
+        "updated_at": "2023-07-18T07:33:19Z",
+        "parent_category": {
+          "id": 3,
+          "name": "Concentrates",
+          "slug": "concentrates"
+        },
+        "sub_category": {
+          "id": 48,
+          "name": "Budder",
+          "slug": "budder"
+        },
+        "measurements": [],
+        "variants": [
+          {
+            "name": "1 gram",
+            "label": "1 g",
+            "price": {
+              "amount": "29.99",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 1,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 1000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/southwest-organic-producers-2/menu/grade-b-kief-durban-poison-sativa",
+        "order": "https://weedmaps.com/dispensaries/southwest-organic-producers-2/menu/grade-b-kief-durban-poison-sativa"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 44237,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": {
+            "id": 69,
+            "type": "strain"
+          }
+        },
+        "categories": {
+          "meta": {
+            "total": 2
+          },
+          "data": [
+            {
+              "id": 3,
+              "type": "category"
+            },
+            {
+              "id": 48,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 520808010,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 10438504,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Grade B Kief - Mercury Kush (Indica)",
+        "slug": "grade-b-kief-mercury-kush-indica--2",
+        "category_name": "Concentrates",
+        "body": "THC%: 26.00 | CBD%: 0.00 | CBG%: 0.00 | Mercury Kush is known around here for its sensory enhancing, calm effects that can be a great stress buster, and even help with insomnia for some.",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/520/808/010/6411415_Kief_edited_1034w.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/520/808/010/6411415_Kief_edited_1034w.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/520/808/010/6411415_Kief_edited_1034w.jpg",
+        "is_badged": false,
+        "brand_name": null,
+        "cannabinoids": {},
+        "genetics": "indica",
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 14.99,
+          "price_gram": 29.99,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2017-08-15T21:44:26Z",
+        "updated_at": "2023-07-18T07:33:19Z",
+        "parent_category": {
+          "id": 3,
+          "name": "Concentrates",
+          "slug": "concentrates"
+        },
+        "sub_category": {
+          "id": 48,
+          "name": "Budder",
+          "slug": "budder"
+        },
+        "measurements": [],
+        "variants": [
+          {
+            "name": "1/2 gram",
+            "label": "1/2 g",
+            "price": {
+              "amount": "14.99",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.5,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 500,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          },
+          {
+            "name": "1 gram",
+            "label": "1 g",
+            "price": {
+              "amount": "29.99",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 1,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 1000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/southwest-organic-producers-2/menu/grade-b-kief-mercury-kush-indica--2",
+        "order": "https://weedmaps.com/dispensaries/southwest-organic-producers-2/menu/grade-b-kief-mercury-kush-indica--2"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 44237,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 2
+          },
+          "data": [
+            {
+              "id": 3,
+              "type": "category"
+            },
+            {
+              "id": 48,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 520808010,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 10444133,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Coconut Oil - Cannatonic (CBD Rich Hybrid)",
+        "slug": "coconut-oil-cannatonic-cbd-rich-hybrid--3",
+        "category_name": "Edibles",
+        "body": "|CBD: 5.02 mg/tsp |THC-A: 6.40 mg/tsp | CBD-A: 40.10 mg/tsp | 594.24 mg Total Cannabinoids|  Cannatonic can help ease pain, relieve anxiety, psychosis, muscle spasms and seizures.",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/520/808/010/6445338_CTEdited.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/520/808/010/6445338_CTEdited.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/520/808/010/6445338_CTEdited.jpg",
+        "is_badged": false,
+        "brand_name": null,
+        "cannabinoids": {},
+        "genetics": "hybrid",
+        "prices": {
+          "price_unit": 39.99,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2017-08-16T15:52:10Z",
+        "updated_at": "2023-07-18T07:33:35Z",
+        "parent_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "sub_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "measurements": [],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/southwest-organic-producers-2/menu/coconut-oil-cannatonic-cbd-rich-hybrid--3",
+        "order": "https://weedmaps.com/dispensaries/southwest-organic-producers-2/menu/coconut-oil-cannatonic-cbd-rich-hybrid--3"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 44237,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 5,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 520808010,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 10444213,
+      "type": "menu_item",
+      "attributes": {
+        "name": "O.Pen Vape Craft Reserve Cartridge - Super Lemon Haze",
+        "slug": "o-pen-vape-craft-reserve-cartridge-super-lemon-haze",
+        "category_name": "Vape Pens",
+        "body": "| THC%: 69.94 | CBD%: 0.67 | CBN%: 0.31 | This cartridge is derived from SWOP's Super Lemon Haze harvest which is high in caryophyllene, myrcene, and limonene, with small amounts of humulene and linalool. Caryophyllene is a CB2 receptor agonist and potent anti-inflammatory, which could prove useful to patients suffering from immune system based diseases and inflammation. Myrcene is a muscle relaxer, and increases the felt potency of available cannabinoids by opening cell walls, which patients suffering from muscle spasms and pain may benefit from. Limonene is an anti-depressant and anxiolytic, and it also happens to accumulate in fatty tissues and exert effects on the cells around it, similar to how myrcene opens up cell walls.   SLH's terpene profile may also be extremely useful to patients undergoing standard cancer treatments such as chemotherapy, which can cause inflammation, pain, reduced immune functioning, nausea, fatigue, and depression. SLH is great for pain and is fairly energetic for most. In low doses it can be great aid in fighting fatigue. *Available in 250mg for $44.99*",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/520/808/010/6418220_openvape_craft_reserve_BSP_large_edited_tall.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/520/808/010/6418220_openvape_craft_reserve_BSP_large_edited_tall.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/520/808/010/6418220_openvape_craft_reserve_BSP_large_edited_tall.jpg",
+        "is_badged": false,
+        "brand_name": null,
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2017-08-16T16:07:23Z",
+        "updated_at": "2023-02-23T00:55:55Z",
+        "parent_category": {
+          "id": 4,
+          "name": "Vape Pens",
+          "slug": "vape-pens"
+        },
+        "sub_category": {
+          "id": 4,
+          "name": "Vape Pens",
+          "slug": "vape-pens"
+        },
+        "measurements": [],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/southwest-organic-producers-2/menu/o-pen-vape-craft-reserve-cartridge-super-lemon-haze",
+        "order": "https://weedmaps.com/dispensaries/southwest-organic-producers-2/menu/o-pen-vape-craft-reserve-cartridge-super-lemon-haze"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 44237,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": {
+            "id": 237,
+            "type": "strain"
+          }
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 4,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 520808010,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 10445089,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Rosin - Mercury Kush (Indica)",
+        "slug": "rosin-mercury-kush-indica",
+        "category_name": "Concentrates",
+        "body": "| THC-A%: 64.00 | THC%: 3.8 | Mercury Kush has cerebral, sensory enhancing, happy and generally calm effects which are useful for depression, insomnia, anxiety, and can also be very useful for listening to music because of its sensory enhancing effects.",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/520/808/010/6419017_rosin.png",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/520/808/010/6419017_rosin.png",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/520/808/010/6419017_rosin.png",
+        "is_badged": false,
+        "brand_name": null,
+        "cannabinoids": {},
+        "genetics": "indica",
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 29.99,
+          "price_gram": 59.99,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2017-08-16T17:42:34Z",
+        "updated_at": "2023-07-18T07:33:35Z",
+        "parent_category": {
+          "id": 3,
+          "name": "Concentrates",
+          "slug": "concentrates"
+        },
+        "sub_category": {
+          "id": 48,
+          "name": "Budder",
+          "slug": "budder"
+        },
+        "measurements": [],
+        "variants": [
+          {
+            "name": "1/2 gram",
+            "label": "1/2 g",
+            "price": {
+              "amount": "29.99",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.5,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 500,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          },
+          {
+            "name": "1 gram",
+            "label": "1 g",
+            "price": {
+              "amount": "59.99",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 1,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 1000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/southwest-organic-producers-2/menu/rosin-mercury-kush-indica",
+        "order": "https://weedmaps.com/dispensaries/southwest-organic-producers-2/menu/rosin-mercury-kush-indica"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 44237,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 2
+          },
+          "data": [
+            {
+              "id": 48,
+              "type": "category"
+            },
+            {
+              "id": 3,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 520808010,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 10460153,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Hard Candy Tabs - Bubba Kush (Indica): Green Lemonade",
+        "slug": "hard-candy-tabs-bubba-kush-indica-green-lemonade",
+        "category_name": "Edibles",
+        "body": "| 200mg | May help with pain, stress, anxiety, depression, arthritis, fibromyalgia, Parkinson’s disease, and Multiple Sclerosis. TERPENES: Caryophyllene and ocimene. EFFECTS: Powerful, clear-headed, body-dominant, relaxing and very sedative in larger doses.",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/520/808/010/6434409_Tabs_Green_Lemonade_product.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/520/808/010/6434409_Tabs_Green_Lemonade_product.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/520/808/010/6434409_Tabs_Green_Lemonade_product.jpg",
+        "is_badged": false,
+        "brand_name": null,
+        "cannabinoids": {},
+        "genetics": "indica",
+        "prices": {
+          "price_unit": 24.99,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2017-08-17T20:34:40Z",
+        "updated_at": "2023-07-18T07:34:03Z",
+        "parent_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "sub_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "measurements": [],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/southwest-organic-producers-2/menu/hard-candy-tabs-bubba-kush-indica-green-lemonade",
+        "order": "https://weedmaps.com/dispensaries/southwest-organic-producers-2/menu/hard-candy-tabs-bubba-kush-indica-green-lemonade"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 44237,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 5,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 520808010,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 10460326,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Hard Candy Crush - Bubba Kush (Indica): Green Lemonade",
+        "slug": "hard-candy-crush-bubba-kush-indica-green-lemonade",
+        "category_name": "Edibles",
+        "body": "| 200mg | May help with pain, stress, anxiety, depression, arthritis, fibromyalgia, Parkinson’s disease, and Multiple Sclerosis. TERPENES: Caryophyllene and ocimene. EFFECTS: Powerful, clear-headed, body-dominant, relaxing and very sedative in larger doses.",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/520/808/010/6434586_Crush_Green_Lemonade_product_web.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/520/808/010/6434586_Crush_Green_Lemonade_product_web.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/520/808/010/6434586_Crush_Green_Lemonade_product_web.jpg",
+        "is_badged": false,
+        "brand_name": "Hard Candy Crush",
+        "cannabinoids": {},
+        "genetics": "indica",
+        "prices": {
+          "price_unit": 19.99,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2017-08-17T20:42:09Z",
+        "updated_at": "2023-07-18T07:34:03Z",
+        "parent_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "sub_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "measurements": [],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/southwest-organic-producers-2/menu/hard-candy-crush-bubba-kush-indica-green-lemonade",
+        "order": "https://weedmaps.com/dispensaries/southwest-organic-producers-2/menu/hard-candy-crush-bubba-kush-indica-green-lemonade"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 44237,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 5,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 520808010,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 10470357,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Organic Ice Chocolate Nugget - Jack's Cleaner (Sativa)",
+        "slug": "organic-ice-chocolate-nugget-jack-s-cleaner-sativa",
+        "category_name": "Edibles",
+        "body": "| 50 mg | Jack's Cleaner is great for fatigue, inflammation, anxiety, and pain.",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/520/808/010/6445398_IMG_6406_web-edit.JPG",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/520/808/010/6445398_IMG_6406_web-edit.JPG",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/520/808/010/6445398_IMG_6406_web-edit.JPG",
+        "is_badged": false,
+        "brand_name": null,
+        "cannabinoids": {},
+        "genetics": "sativa",
+        "prices": {
+          "price_unit": 8.99,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2017-08-18T19:14:12Z",
+        "updated_at": "2024-03-13T16:32:20Z",
+        "parent_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "sub_category": {
+          "id": 212,
+          "name": "Chocolates",
+          "slug": "chocolates"
+        },
+        "measurements": [],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/southwest-organic-producers-2/menu/organic-ice-chocolate-nugget-jack-s-cleaner-sativa",
+        "order": "https://weedmaps.com/dispensaries/southwest-organic-producers-2/menu/organic-ice-chocolate-nugget-jack-s-cleaner-sativa"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 44237,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 3
+          },
+          "data": [
+            {
+              "id": 212,
+              "type": "category"
+            },
+            {
+              "id": 219,
+              "type": "category"
+            },
+            {
+              "id": 5,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 520808010,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 10470506,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Organic Dark Chocolate Nugget - Jack's Cleaner (Sativa)",
+        "slug": "organic-dark-chocolate-nugget-jack-s-cleaner-sativa",
+        "category_name": "Edibles",
+        "body": "| 50 mg | Jack's Cleaner is great for fatigue, inflammation, anxiety, and pain.",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/520/808/010/6445590_IMG_6403_web-edit.JPG",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/520/808/010/6445590_IMG_6403_web-edit.JPG",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/520/808/010/6445590_IMG_6403_web-edit.JPG",
+        "is_badged": false,
+        "brand_name": null,
+        "cannabinoids": {},
+        "genetics": "sativa",
+        "prices": {
+          "price_unit": 8.99,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2017-08-18T19:26:53Z",
+        "updated_at": "2023-07-18T07:34:24Z",
+        "parent_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "sub_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "measurements": [],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/southwest-organic-producers-2/menu/organic-dark-chocolate-nugget-jack-s-cleaner-sativa",
+        "order": "https://weedmaps.com/dispensaries/southwest-organic-producers-2/menu/organic-dark-chocolate-nugget-jack-s-cleaner-sativa"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 44237,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 5,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 520808010,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 10470595,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Organic Ice Chocolate Nugget - Purple Kush (Indica)",
+        "slug": "organic-ice-chocolate-nugget-purple-kush-indica",
+        "category_name": "Edibles",
+        "body": "| 50 mg | HEALTH: May be useful for many symptoms including anxiety, muscle pain, spasms, stress, and for some insomnia. TERPENES: Myrcene with lesser amounts of ocimene, pinene, and linalool. EFFECTS: Powerful but calm and clear-headed, and conducive to medicating at any time of the day. Can be quite sedative in high doses.",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/520/808/010/6445842_IMG_6406_web-edit.JPG",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/520/808/010/6445842_IMG_6406_web-edit.JPG",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/520/808/010/6445842_IMG_6406_web-edit.JPG",
+        "is_badged": false,
+        "brand_name": null,
+        "cannabinoids": {},
+        "genetics": "indica",
+        "prices": {
+          "price_unit": 8.99,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2017-08-18T19:32:18Z",
+        "updated_at": "2023-07-18T07:34:24Z",
+        "parent_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "sub_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "measurements": [],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/southwest-organic-producers-2/menu/organic-ice-chocolate-nugget-purple-kush-indica",
+        "order": "https://weedmaps.com/dispensaries/southwest-organic-producers-2/menu/organic-ice-chocolate-nugget-purple-kush-indica"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 44237,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 5,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 520808010,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 10470630,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Organic Dark Chocolate Nugget - Purple Kush (Indica)",
+        "slug": "organic-dark-chocolate-nugget-purple-kush-indica",
+        "category_name": "Edibles",
+        "body": "| 50 mg | HEALTH: May be useful for many symptoms including anxiety, muscle pain, spasms, stress, and for some insomnia. TERPENES: Myrcene with lesser amounts of ocimene, pinene, and linalool. EFFECTS: Powerful but calm and clear-headed, and conducive to medicating at any time of the day. Can be quite sedative in high doses.",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/520/808/010/6445866_IMG_6403_web-edit.JPG",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/520/808/010/6445866_IMG_6403_web-edit.JPG",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/520/808/010/6445866_IMG_6403_web-edit.JPG",
+        "is_badged": false,
+        "brand_name": null,
+        "cannabinoids": {},
+        "genetics": "indica",
+        "prices": {
+          "price_unit": 8.99,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2017-08-18T19:34:07Z",
+        "updated_at": "2023-07-18T07:34:24Z",
+        "parent_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "sub_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "measurements": [],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/southwest-organic-producers-2/menu/organic-dark-chocolate-nugget-purple-kush-indica",
+        "order": "https://weedmaps.com/dispensaries/southwest-organic-producers-2/menu/organic-dark-chocolate-nugget-purple-kush-indica"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 44237,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 5,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 520808010,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 10527772,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Cannatonic (CBD Hybrid)",
+        "slug": "cannatonic-cbd-hybrid",
+        "category_name": "Flower",
+        "body": "| CBD%: 6.40 | THC%: 3.10 | CBG%: 0.00 | Cannatonic is helpful for, anxiety, spasms, some seizures, inflammation, pain, and for some depression.   ",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/520/808/010/6513565_CTEdited.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/520/808/010/6513565_CTEdited.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/520/808/010/6513565_CTEdited.jpg",
+        "is_badged": false,
+        "brand_name": null,
+        "cannabinoids": {},
+        "genetics": "hybrid",
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 0,
+          "price_gram": 12,
+          "price_two_grams": 0,
+          "price_eighth": 42,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2017-08-24T22:35:02Z",
+        "updated_at": "2023-07-18T07:41:00Z",
+        "parent_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "sub_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "measurements": [],
+        "variants": [
+          {
+            "name": "1 gram",
+            "label": "1 g",
+            "price": {
+              "amount": "12.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 1,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 1000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          },
+          {
+            "name": "1/8 ounce",
+            "label": "1/8 oz",
+            "price": {
+              "amount": "42.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.125,
+              "unit": "oz"
+            },
+            "sku": null,
+            "compliance_net_mg": 3500,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/southwest-organic-producers-2/menu/cannatonic-cbd-hybrid",
+        "order": "https://weedmaps.com/dispensaries/southwest-organic-producers-2/menu/cannatonic-cbd-hybrid"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 44237,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": {
+            "id": 43,
+            "type": "strain"
+          }
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 2,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "type": "tag",
+              "id": "2c8f22c2-357a-4219-99f9-f0e2fd0e0571"
+            }
+          ]
+        },
+        "menu_parent": {
+          "data": {
+            "id": 520808010,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 10601429,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Grade B Kief - Purple Kush (Indica)",
+        "slug": "grade-b-kief-purple-kush-indica",
+        "category_name": "Vape Pens",
+        "body": "| THC%: 27.00 | HEALTH: May be useful for many symptoms including anxiety, muscle pain, spasms, stress, and for some insomnia. TERPENES: Myrcene with lesser amounts of ocimene, pinene, and linalool. EFFECTS: Powerful but calm and clear-headed, and conducive to medicating at any time of the day. Can be quite sedative in high doses.",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/520/808/010/6596590_Kief_edited_1034w.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/520/808/010/6596590_Kief_edited_1034w.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/520/808/010/6596590_Kief_edited_1034w.jpg",
+        "is_badged": false,
+        "brand_name": null,
+        "cannabinoids": {},
+        "genetics": "indica",
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 14.99,
+          "price_gram": 29.99,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2017-09-01T19:56:23Z",
+        "updated_at": "2023-07-18T07:43:34Z",
+        "parent_category": {
+          "id": 4,
+          "name": "Vape Pens",
+          "slug": "vape-pens"
+        },
+        "sub_category": {
+          "id": 4,
+          "name": "Vape Pens",
+          "slug": "vape-pens"
+        },
+        "measurements": [],
+        "variants": [
+          {
+            "name": "1/2 gram",
+            "label": "1/2 g",
+            "price": {
+              "amount": "14.99",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.5,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 500,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          },
+          {
+            "name": "1 gram",
+            "label": "1 g",
+            "price": {
+              "amount": "29.99",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 1,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 1000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/southwest-organic-producers-2/menu/grade-b-kief-purple-kush-indica",
+        "order": "https://weedmaps.com/dispensaries/southwest-organic-producers-2/menu/grade-b-kief-purple-kush-indica"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 44237,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": {
+            "id": 197,
+            "type": "strain"
+          }
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 4,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 520808010,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 10625777,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Jack's Cleaner (Sativa)",
+        "slug": "jack-s-cleaner-sativa--6",
+        "category_name": "Flower",
+        "body": "HEALTH: May be helpful with pain control, fatigue, anxiety, and ADHD TERPENES: Caryophyllene, Humulene, Limonene. EFFECTS: Uplifting, Energetic, Focusing, and Calming",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/520/808/010/6628741_pre-rolls_1034w_edited.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/520/808/010/6628741_pre-rolls_1034w_edited.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/520/808/010/6628741_pre-rolls_1034w_edited.jpg",
+        "is_badged": false,
+        "brand_name": null,
+        "cannabinoids": {},
+        "genetics": "sativa",
+        "prices": {
+          "price_unit": 5.99,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2017-09-05T15:32:52Z",
+        "updated_at": "2023-07-18T07:44:34Z",
+        "parent_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "sub_category": {
+          "id": 185,
+          "name": "Pre Roll",
+          "slug": "pre-roll"
+        },
+        "measurements": [],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/southwest-organic-producers-2/menu/jack-s-cleaner-sativa--6",
+        "order": "https://weedmaps.com/dispensaries/southwest-organic-producers-2/menu/jack-s-cleaner-sativa--6"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 44237,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": {
+            "id": 834,
+            "type": "strain"
+          }
+        },
+        "categories": {
+          "meta": {
+            "total": 2
+          },
+          "data": [
+            {
+              "id": 2,
+              "type": "category"
+            },
+            {
+              "id": 185,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "type": "tag",
+              "id": "2c8f22c2-357a-4219-99f9-f0e2fd0e0571"
+            }
+          ]
+        },
+        "menu_parent": {
+          "data": {
+            "id": 520808010,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 10682319,
+      "type": "menu_item",
+      "attributes": {
+        "name": "MCT Tincture - Mercury Kush (Indica)",
+        "slug": "mct-tincture-mercury-kush-indica",
+        "category_name": "Edibles",
+        "body": "| THC: 4.73 mg/dropper | THC-A: 0.86 mg/dropper | Mercury Kush has cerebral, sensory enhancing, happy and generally calm effects which are useful for depression, insomnia, anxiety, and can also be very useful for listening to music because of its sensory enhancing effects.",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/520/808/010/6694151_MKEdit.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/520/808/010/6694151_MKEdit.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/520/808/010/6694151_MKEdit.jpg",
+        "is_badged": false,
+        "brand_name": null,
+        "cannabinoids": {},
+        "genetics": "indica",
+        "prices": {
+          "price_unit": 19.99,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2017-09-11T17:16:52Z",
+        "updated_at": "2023-07-18T07:51:48Z",
+        "parent_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "sub_category": {
+          "id": 254,
+          "name": "Edible Oils",
+          "slug": "edible-oils"
+        },
+        "measurements": [],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/southwest-organic-producers-2/menu/mct-tincture-mercury-kush-indica",
+        "order": "https://weedmaps.com/dispensaries/southwest-organic-producers-2/menu/mct-tincture-mercury-kush-indica"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 44237,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 2
+          },
+          "data": [
+            {
+              "id": 5,
+              "type": "category"
+            },
+            {
+              "id": 254,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 520808010,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 10682449,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Rosin - Bubba Kush (Indica)",
+        "slug": "rosin-bubba-kush-indica",
+        "category_name": "Concentrates",
+        "body": "May help with pain, stress, anxiety, depression, arthritis, fibromyalgia, Parkinson’s disease, and Multiple Sclerosis.",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/520/808/010/6694259_Rosin_SLH_80mg_11-3-2016_web.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/520/808/010/6694259_Rosin_SLH_80mg_11-3-2016_web.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/520/808/010/6694259_Rosin_SLH_80mg_11-3-2016_web.jpg",
+        "is_badged": false,
+        "brand_name": null,
+        "cannabinoids": {},
+        "genetics": "indica",
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 29.99,
+          "price_gram": 59.99,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2017-09-11T17:26:43Z",
+        "updated_at": "2023-07-18T07:51:51Z",
+        "parent_category": {
+          "id": 3,
+          "name": "Concentrates",
+          "slug": "concentrates"
+        },
+        "sub_category": {
+          "id": 48,
+          "name": "Budder",
+          "slug": "budder"
+        },
+        "measurements": [],
+        "variants": [
+          {
+            "name": "1/2 gram",
+            "label": "1/2 g",
+            "price": {
+              "amount": "29.99",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.5,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 500,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          },
+          {
+            "name": "1 gram",
+            "label": "1 g",
+            "price": {
+              "amount": "59.99",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 1,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 1000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/southwest-organic-producers-2/menu/rosin-bubba-kush-indica",
+        "order": "https://weedmaps.com/dispensaries/southwest-organic-producers-2/menu/rosin-bubba-kush-indica"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 44237,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": {
+            "id": 38,
+            "type": "strain"
+          }
+        },
+        "categories": {
+          "meta": {
+            "total": 2
+          },
+          "data": [
+            {
+              "id": 48,
+              "type": "category"
+            },
+            {
+              "id": 3,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 520808010,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 10996451,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Crystal Candy - (Indica Hybrid)",
+        "slug": "crystal-candy-indica-hybrid",
+        "category_name": "Flower",
+        "body": "| THC%: 11.80 | | CBD%: 0.00 | CBG%: 0.00 | Crystal Candy is an awesome anxiety and stress buster, CC would also help with relaxation and some types of pain.",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/520/808/010/7145386_CCEdit.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/520/808/010/7145386_CCEdit.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/520/808/010/7145386_CCEdit.jpg",
+        "is_badged": false,
+        "brand_name": null,
+        "cannabinoids": {},
+        "genetics": "indica",
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 224,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2017-10-12T20:07:42Z",
+        "updated_at": "2023-07-18T08:13:26Z",
+        "parent_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "sub_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "measurements": [],
+        "variants": [
+          {
+            "name": "1 ounce",
+            "label": "1 oz",
+            "price": {
+              "amount": "224.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 1,
+              "unit": "oz"
+            },
+            "sku": null,
+            "compliance_net_mg": 28000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/southwest-organic-producers-2/menu/crystal-candy-indica-hybrid",
+        "order": "https://weedmaps.com/dispensaries/southwest-organic-producers-2/menu/crystal-candy-indica-hybrid"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 44237,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": {
+            "id": 2982,
+            "type": "strain"
+          }
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 2,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "type": "tag",
+              "id": "2c8f22c2-357a-4219-99f9-f0e2fd0e0571"
+            }
+          ]
+        },
+        "menu_parent": {
+          "data": {
+            "id": 520808010,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 11055798,
+      "type": "menu_item",
+      "attributes": {
+        "name": "CBD Blue Shark (Indica Hybrid)",
+        "slug": "cbd-blue-shark-indica-hybrid",
+        "category_name": "Flower",
+        "body": "| THC%: 3.20 | CBD%: 4.30 | CBG%: 0.00 | We have another CBD-rich strain here at SWOP. CBD Blue Shark is almost a 1:1 in CBD to THC, spicy in aroma and works good on pain, stress and depression.",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/520/808/010/7145430_CBSEdit.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/520/808/010/7145430_CBSEdit.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/520/808/010/7145430_CBSEdit.jpg",
+        "is_badged": false,
+        "brand_name": null,
+        "cannabinoids": {},
+        "genetics": "indica",
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 0,
+          "price_gram": 12,
+          "price_two_grams": 0,
+          "price_eighth": 42,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2017-10-18T14:37:28Z",
+        "updated_at": "2023-07-18T08:20:26Z",
+        "parent_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "sub_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "measurements": [],
+        "variants": [
+          {
+            "name": "1 gram",
+            "label": "1 g",
+            "price": {
+              "amount": "12.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 1,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 1000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          },
+          {
+            "name": "1/8 ounce",
+            "label": "1/8 oz",
+            "price": {
+              "amount": "42.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.125,
+              "unit": "oz"
+            },
+            "sku": null,
+            "compliance_net_mg": 3500,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/southwest-organic-producers-2/menu/cbd-blue-shark-indica-hybrid",
+        "order": "https://weedmaps.com/dispensaries/southwest-organic-producers-2/menu/cbd-blue-shark-indica-hybrid"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 44237,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": {
+            "id": 3610,
+            "type": "strain"
+          }
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 2,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "type": "tag",
+              "id": "2c8f22c2-357a-4219-99f9-f0e2fd0e0571"
+            }
+          ]
+        },
+        "menu_parent": {
+          "data": {
+            "id": 520808010,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 11391692,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Super Lemon Haze - Sativa",
+        "slug": "super-lemon-haze-sativa-e6f3b40d-b2b0-4a6d-82ee-f9cbc0fb65a2",
+        "category_name": "Flower",
+        "body": "|THC%: 15.00 | CBD%: 0.00 | CBG%: 0.09 | SWOP’s Super Lemon Haze has a musty lemon scent with potent head effects. SLH is great for pain and is fairly energetic for most. In low doses it can be great aid in fighting fatigue. SLH’s terpene profile may also be extremely useful to patients undergoing standard cancer treatments such as chemotherapy, which can cause inflammation, pain, reduced immune functioning, nausea, fatigue, and depression. SLH’s primary terpenes are caryophyllene, myrcene, and limonene, with small amounts of humulene and linalool. Caryophyllene is a CB2 receptor agonist and potent anti-inflammatory, which could prove useful to patients suffering from immune system based diseases and inflammation. Myrcene is a muscle relaxer, and increases the felt potency of available cannabinoids by opening cell walls, which patients suffering from muscle spasms and pain may benefit from. Limonene is an anti-depressant and anxiolytic, and it also happens to accumulate in fatty tissues and exert effects on the cells around it, similar to how myrcene opens up cell walls.",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/520/808/010/7595229_IMG_6138_web-edit.JPG",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/520/808/010/7595229_IMG_6138_web-edit.JPG",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/520/808/010/7595229_IMG_6138_web-edit.JPG",
+        "is_badged": false,
+        "brand_name": null,
+        "cannabinoids": {},
+        "genetics": "sativa",
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 0,
+          "price_gram": 12,
+          "price_two_grams": 0,
+          "price_eighth": 42,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2017-11-21T21:26:30Z",
+        "updated_at": "2023-07-18T08:42:39Z",
+        "parent_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "sub_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "measurements": [],
+        "variants": [
+          {
+            "name": "1 gram",
+            "label": "1 g",
+            "price": {
+              "amount": "12.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 1,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 1000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          },
+          {
+            "name": "1/8 ounce",
+            "label": "1/8 oz",
+            "price": {
+              "amount": "42.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.125,
+              "unit": "oz"
+            },
+            "sku": null,
+            "compliance_net_mg": 3500,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/southwest-organic-producers-2/menu/super-lemon-haze-sativa-e6f3b40d-b2b0-4a6d-82ee-f9cbc0fb65a2",
+        "order": "https://weedmaps.com/dispensaries/southwest-organic-producers-2/menu/super-lemon-haze-sativa-e6f3b40d-b2b0-4a6d-82ee-f9cbc0fb65a2"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 44237,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": {
+            "id": 237,
+            "type": "strain"
+          }
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 2,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "type": "tag",
+              "id": "edcefa08-584a-41d5-9cd0-11e7f24a5176"
+            }
+          ]
+        },
+        "menu_parent": {
+          "data": {
+            "id": 520808010,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 11619645,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Bubble Hash - Acapulco Gold (Hybrid Sativa)",
+        "slug": "bubble-hash-acapulco-gold-hybrid-sativa",
+        "category_name": "Concentrates",
+        "body": "| THC%: 55 | CBD%: 0.00 | CBG%: 0.25 | Acapulco Gold (AG) is a very popular strain here, and it’s easy to see why with its happy, calm and euphoric effects that can melt away stress and anxiety. **Also Available in 5g size for $199.99**",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/520/808/010/7858255_IMG_5585_web-edit.JPG",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/520/808/010/7858255_IMG_5585_web-edit.JPG",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/520/808/010/7858255_IMG_5585_web-edit.JPG",
+        "is_badged": false,
+        "brand_name": "Bubble Hash",
+        "cannabinoids": {},
+        "genetics": "hybrid",
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 19.99,
+          "price_gram": 39.99,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2017-12-13T22:11:28Z",
+        "updated_at": "2023-07-18T09:01:11Z",
+        "parent_category": {
+          "id": 3,
+          "name": "Concentrates",
+          "slug": "concentrates"
+        },
+        "sub_category": {
+          "id": 48,
+          "name": "Budder",
+          "slug": "budder"
+        },
+        "measurements": [],
+        "variants": [
+          {
+            "name": "1/2 gram",
+            "label": "1/2 g",
+            "price": {
+              "amount": "19.99",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.5,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 500,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          },
+          {
+            "name": "1 gram",
+            "label": "1 g",
+            "price": {
+              "amount": "39.99",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 1,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 1000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/southwest-organic-producers-2/menu/bubble-hash-acapulco-gold-hybrid-sativa",
+        "order": "https://weedmaps.com/dispensaries/southwest-organic-producers-2/menu/bubble-hash-acapulco-gold-hybrid-sativa"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 44237,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": {
+            "id": 643,
+            "type": "strain"
+          }
+        },
+        "categories": {
+          "meta": {
+            "total": 2
+          },
+          "data": [
+            {
+              "id": 3,
+              "type": "category"
+            },
+            {
+              "id": 48,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 520808010,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 11666601,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Dabaratus - Alien Stomper (Sativa)",
+        "slug": "dabaratus-alien-stomper-sativa",
+        "category_name": "Vape Pens",
+        "body": "| THC%: 70.00 | CBD%: 16.00 | CBN%: 1.10 | Meet the Dabaratus this unique tool from Bakked works as your oil storage and heat resistant dab tool all while delivering a pre-measured dose of the same great oil that fills the O.Pen Craft Reserve Cartridges. Alien Stomper is a unique cross between Alien VS Triangle and Sky Stomper with the top terpenes being Caryophyllene to help with Auto-immune disorders, inflammation and pain, Humulene to help with pain, and Farnesene to help with inflammation, calming and could be tumor inhibiting",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/520/808/010/7913118_IMG_5979_web-edit.JPG",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/520/808/010/7913118_IMG_5979_web-edit.JPG",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/520/808/010/7913118_IMG_5979_web-edit.JPG",
+        "is_badged": false,
+        "brand_name": "Bakked",
+        "cannabinoids": {},
+        "genetics": "sativa",
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 0,
+          "price_gram": 69.99,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2017-12-18T18:55:11Z",
+        "updated_at": "2023-07-18T09:02:46Z",
+        "parent_category": {
+          "id": 4,
+          "name": "Vape Pens",
+          "slug": "vape-pens"
+        },
+        "sub_category": {
+          "id": 4,
+          "name": "Vape Pens",
+          "slug": "vape-pens"
+        },
+        "measurements": [],
+        "variants": [
+          {
+            "name": "1 gram",
+            "label": "1 g",
+            "price": {
+              "amount": "69.99",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 1,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 1000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/southwest-organic-producers-2/menu/dabaratus-alien-stomper-sativa",
+        "order": "https://weedmaps.com/dispensaries/southwest-organic-producers-2/menu/dabaratus-alien-stomper-sativa"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 44237,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": {
+            "id": 8873,
+            "type": "strain"
+          }
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 4,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 520808010,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 11666634,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Dabaratus - Walter's Blue (Indica)",
+        "slug": "dabaratus-walter-s-blue-indica",
+        "category_name": "Vape Pens",
+        "body": "| THC%: 70.00 | CBD%: 11.60 | CBN%: 0.47 | Meet the Dabaratus this unique tool from Bakked works as your oil storage and heat resistant dab tool all while delivering a pre-measured dose of the same great oil that fills the O.Pen Craft Reserve Cartridges. Walter's Blue is a unique cross between Walter White and Chem City Blues with the top terpenes being Caryophyllene to help with Auto-immune disorders, inflammation and pain, Humulene to help with pain, and Farnesene to help with inflammation, calming and could be tumor inhibiting",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/520/808/010/7913163_IMG_5979_web-edit.JPG",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/520/808/010/7913163_IMG_5979_web-edit.JPG",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/520/808/010/7913163_IMG_5979_web-edit.JPG",
+        "is_badged": false,
+        "brand_name": "Bakked",
+        "cannabinoids": {},
+        "genetics": "indica",
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 0,
+          "price_gram": 69.99,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2017-12-18T18:58:06Z",
+        "updated_at": "2023-07-18T09:02:46Z",
+        "parent_category": {
+          "id": 4,
+          "name": "Vape Pens",
+          "slug": "vape-pens"
+        },
+        "sub_category": {
+          "id": 4,
+          "name": "Vape Pens",
+          "slug": "vape-pens"
+        },
+        "measurements": [],
+        "variants": [
+          {
+            "name": "1 gram",
+            "label": "1 g",
+            "price": {
+              "amount": "69.99",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 1,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 1000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/southwest-organic-producers-2/menu/dabaratus-walter-s-blue-indica",
+        "order": "https://weedmaps.com/dispensaries/southwest-organic-producers-2/menu/dabaratus-walter-s-blue-indica"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 44237,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 4,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 520808010,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 11667168,
+      "type": "menu_item",
+      "attributes": {
+        "name": "O.Pen Vape Craft Reserve Cartridge - Alien Stomper (Sativa)",
+        "slug": "o-pen-vape-craft-reserve-cartridge-alien-stomper-sativa",
+        "category_name": "Vape Pens",
+        "body": "| THC%: 70.00 | CBD%: 16.00 | CBN%: 1.10 |  Alien Stomper is a unique cross between Alien VS Triangle and Sky Stomper with the top terpenes being Caryophyllene to help with Auto-immune disorders, inflammation and pain, Humulene to help with pain, and Farnesene to help with inflammation, calming and could be tumor inhibiting ***Available in 250mg for $44.99 and 500mg for $89.99***",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/520/808/010/7913398_openvape_craft_reserve_BSP_large_edited_tall.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/520/808/010/7913398_openvape_craft_reserve_BSP_large_edited_tall.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/520/808/010/7913398_openvape_craft_reserve_BSP_large_edited_tall.jpg",
+        "is_badged": false,
+        "brand_name": null,
+        "cannabinoids": {},
+        "genetics": "sativa",
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 89.99,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2017-12-18T19:16:37Z",
+        "updated_at": "2023-07-18T09:02:48Z",
+        "parent_category": {
+          "id": 4,
+          "name": "Vape Pens",
+          "slug": "vape-pens"
+        },
+        "sub_category": {
+          "id": 4,
+          "name": "Vape Pens",
+          "slug": "vape-pens"
+        },
+        "measurements": [],
+        "variants": [
+          {
+            "name": "1/2 gram",
+            "label": "1/2 g",
+            "price": {
+              "amount": "89.99",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.5,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 500,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/southwest-organic-producers-2/menu/o-pen-vape-craft-reserve-cartridge-alien-stomper-sativa",
+        "order": "https://weedmaps.com/dispensaries/southwest-organic-producers-2/menu/o-pen-vape-craft-reserve-cartridge-alien-stomper-sativa"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 44237,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": {
+            "id": 8873,
+            "type": "strain"
+          }
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 4,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 520808010,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 11667723,
+      "type": "menu_item",
+      "attributes": {
+        "name": "O.Pen Vape Craft Reserve Cartridge - Walters' Blue (Indica)",
+        "slug": "o-pen-vape-craft-reserve-cartridge-walters-blue-indica",
+        "category_name": "Vape Pens",
+        "body": "| THC%: 70.00 | CBD%: 11.60 | CBN%: 0.47 |  Walter's Blue is a unique cross between Walter White and Chem City Blues with the top terpenes being Caryophyllene to help with Auto-immune disorders, inflammation and pain, Humulene to help with pain, and Farnesene to help with inflammation, calming and could be tumor inhibiting ***Available in 250mg for $44.99 and 500mg for $89.99 ***",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/520/808/010/7913738_openvape_craft_reserve_BSP_large_edited_tall.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/520/808/010/7913738_openvape_craft_reserve_BSP_large_edited_tall.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/520/808/010/7913738_openvape_craft_reserve_BSP_large_edited_tall.jpg",
+        "is_badged": false,
+        "brand_name": null,
+        "cannabinoids": {},
+        "genetics": "indica",
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 89.99,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2017-12-18T19:44:29Z",
+        "updated_at": "2023-07-18T09:02:48Z",
+        "parent_category": {
+          "id": 4,
+          "name": "Vape Pens",
+          "slug": "vape-pens"
+        },
+        "sub_category": {
+          "id": 4,
+          "name": "Vape Pens",
+          "slug": "vape-pens"
+        },
+        "measurements": [],
+        "variants": [
+          {
+            "name": "1/2 gram",
+            "label": "1/2 g",
+            "price": {
+              "amount": "89.99",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.5,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 500,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/southwest-organic-producers-2/menu/o-pen-vape-craft-reserve-cartridge-walters-blue-indica",
+        "order": "https://weedmaps.com/dispensaries/southwest-organic-producers-2/menu/o-pen-vape-craft-reserve-cartridge-walters-blue-indica"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 44237,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 4,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 520808010,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 11667742,
+      "type": "menu_item",
+      "attributes": {
+        "name": "O.Pen Vape Craft Reserve Cartridges - Sour Hubba Bubba (Hybrid)",
+        "slug": "o-pen-vape-craft-reserve-cartridges-sour-hubba-bubba-hybrid",
+        "category_name": "Vape Pens",
+        "body": "| THC%: 70.00 | CBD%: 13.00 | CBN%: 0.71 | Sour Hubba Bubba is a unique cross between Sour Bubbly and HubbaBubbaSmelloscope with the top terpenes being Caryophyllene to help with Auto-immune disorders, Guaiol to help with inflammation and pain, Humulene to help with pain as well. ***Available in 250mg for $44.99 and 500mg for $89.99***",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/520/808/010/7913772_openvape_craft_reserve_BSP_large_edited_tall.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/520/808/010/7913772_openvape_craft_reserve_BSP_large_edited_tall.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/520/808/010/7913772_openvape_craft_reserve_BSP_large_edited_tall.jpg",
+        "is_badged": false,
+        "brand_name": null,
+        "cannabinoids": {},
+        "genetics": "hybrid",
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 89.99,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2017-12-18T19:45:35Z",
+        "updated_at": "2023-07-18T09:02:48Z",
+        "parent_category": {
+          "id": 4,
+          "name": "Vape Pens",
+          "slug": "vape-pens"
+        },
+        "sub_category": {
+          "id": 4,
+          "name": "Vape Pens",
+          "slug": "vape-pens"
+        },
+        "measurements": [],
+        "variants": [
+          {
+            "name": "1/2 gram",
+            "label": "1/2 g",
+            "price": {
+              "amount": "89.99",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.5,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 500,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/southwest-organic-producers-2/menu/o-pen-vape-craft-reserve-cartridges-sour-hubba-bubba-hybrid",
+        "order": "https://weedmaps.com/dispensaries/southwest-organic-producers-2/menu/o-pen-vape-craft-reserve-cartridges-sour-hubba-bubba-hybrid"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 44237,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": {
+            "id": 7077,
+            "type": "strain"
+          }
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 4,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 520808010,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 11701604,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Refined C02 Oil - Purple Kush (Indica)",
+        "slug": "refined-c02-oil-purple-kush-indica",
+        "category_name": "Vape Pens",
+        "body": "| THC%: 24.19 | CBD%: 0.03 | CBD%: 0.25 | THC-A%: 43.78 | May be useful for many symptoms including anxiety, muscle pain, spasms, stress, and for some insomnia. TERPENES: Myrcene with lesser amounts of ocimene, pinene, and linalool. EFFECTS: Powerful but calm and clear-headed, and conducive to medicating at any time of the day. Can be quite sedative in high doses.",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/520/808/010/7956095_IMG_3142.JPG",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/520/808/010/7956095_IMG_3142.JPG",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/520/808/010/7956095_IMG_3142.JPG",
+        "is_badged": false,
+        "brand_name": null,
+        "cannabinoids": {},
+        "genetics": "indica",
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 29.99,
+          "price_gram": 59.99,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2017-12-21T18:24:08Z",
+        "updated_at": "2023-07-18T09:03:56Z",
+        "parent_category": {
+          "id": 4,
+          "name": "Vape Pens",
+          "slug": "vape-pens"
+        },
+        "sub_category": {
+          "id": 4,
+          "name": "Vape Pens",
+          "slug": "vape-pens"
+        },
+        "measurements": [],
+        "variants": [
+          {
+            "name": "1/2 gram",
+            "label": "1/2 g",
+            "price": {
+              "amount": "29.99",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.5,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 500,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          },
+          {
+            "name": "1 gram",
+            "label": "1 g",
+            "price": {
+              "amount": "59.99",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 1,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 1000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/southwest-organic-producers-2/menu/refined-c02-oil-purple-kush-indica",
+        "order": "https://weedmaps.com/dispensaries/southwest-organic-producers-2/menu/refined-c02-oil-purple-kush-indica"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 44237,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": {
+            "id": 197,
+            "type": "strain"
+          }
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 4,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 520808010,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 11799381,
+      "type": "menu_item",
+      "attributes": {
+        "name": "1:1 THC:CBD Pure Distillate Cartridge",
+        "slug": "1-1-thc-cbd-pure-distillate-cartridge",
+        "category_name": "Concentrates",
+        "body": "|THC%: 25.00 | CBD%: 28.00 | The spicy flavor lends to high amounts of caryophyllene which makes this cartridge great for pain, inflammation and anxiety. This package includes the battery and charger.",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/520/808/010/8075352_cartridges_small_1.JPG",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/520/808/010/8075352_cartridges_small_1.JPG",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/520/808/010/8075352_cartridges_small_1.JPG",
+        "is_badged": false,
+        "brand_name": null,
+        "cannabinoids": {},
+        "genetics": "hybrid",
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 44.99,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2018-01-02T17:18:52Z",
+        "updated_at": "2023-07-18T09:12:57Z",
+        "parent_category": {
+          "id": 3,
+          "name": "Concentrates",
+          "slug": "concentrates"
+        },
+        "sub_category": {
+          "id": 48,
+          "name": "Budder",
+          "slug": "budder"
+        },
+        "measurements": [],
+        "variants": [
+          {
+            "name": "1/2 gram",
+            "label": "1/2 g",
+            "price": {
+              "amount": "44.99",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.5,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 500,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/southwest-organic-producers-2/menu/1-1-thc-cbd-pure-distillate-cartridge",
+        "order": "https://weedmaps.com/dispensaries/southwest-organic-producers-2/menu/1-1-thc-cbd-pure-distillate-cartridge"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 44237,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 2
+          },
+          "data": [
+            {
+              "id": 3,
+              "type": "category"
+            },
+            {
+              "id": 48,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 520808010,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 11810820,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Bhang C02 Vape Cartridge 510mg - Cannatonic (CBD Rich)",
+        "slug": "bhang-c02-vape-cartridge-510mg-cannatonic-cbd-rich",
+        "category_name": "Vape Pens",
+        "body": "Our refined oil is derived from a clean CO2 extraction of our Cannatonic (CBD-Rich Hybrid). This refined oil has a very pleasing amber color and retains many of its flavorful terpenes. Housed in Bhangs .65g / 510mg Cartridge for easy vaporizing.",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/520/808/010/8090062_IMG_7636.JPG",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/520/808/010/8090062_IMG_7636.JPG",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/520/808/010/8090062_IMG_7636.JPG",
+        "is_badged": false,
+        "brand_name": "Bhang",
+        "cannabinoids": {},
+        "genetics": "hybrid",
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 54.99,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2018-01-03T17:15:07Z",
+        "updated_at": "2023-07-18T09:13:19Z",
+        "parent_category": {
+          "id": 4,
+          "name": "Vape Pens",
+          "slug": "vape-pens"
+        },
+        "sub_category": {
+          "id": 4,
+          "name": "Vape Pens",
+          "slug": "vape-pens"
+        },
+        "measurements": [],
+        "variants": [
+          {
+            "name": "1/2 gram",
+            "label": "1/2 g",
+            "price": {
+              "amount": "54.99",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.5,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 500,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/southwest-organic-producers-2/menu/bhang-c02-vape-cartridge-510mg-cannatonic-cbd-rich",
+        "order": "https://weedmaps.com/dispensaries/southwest-organic-producers-2/menu/bhang-c02-vape-cartridge-510mg-cannatonic-cbd-rich"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 44237,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": {
+            "id": 43,
+            "type": "strain"
+          }
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 4,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 520808010,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 11811041,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Bhang C02 Vape Cartridge 510mg - Purple Kush (Indica)",
+        "slug": "bhang-c02-vape-cartridge-510mg-purple-kush-indica",
+        "category_name": "Vape Pens",
+        "body": "Our refined oil is derived from a clean CO2 extraction of our Purple Kush (Indica). May be useful for many symptoms including anxiety, muscle pain, spasms, stress, and for some insomnia. TERPENES: Myrcene with lesser amounts of ocimene, pinene, and linalool. EFFECTS: Powerful but calm and clear-headed, and conducive to medicating at any time of the day. Can be quite sedative in high doses. Housed in Bhangs .65g / 510mg Cartridge for easy vaporizing.  ",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/520/808/010/8090280_IMG_7637.JPG",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/520/808/010/8090280_IMG_7637.JPG",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/520/808/010/8090280_IMG_7637.JPG",
+        "is_badged": false,
+        "brand_name": "Bhang",
+        "cannabinoids": {},
+        "genetics": "indica",
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 54.99,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2018-01-03T17:20:43Z",
+        "updated_at": "2023-07-18T09:13:20Z",
+        "parent_category": {
+          "id": 4,
+          "name": "Vape Pens",
+          "slug": "vape-pens"
+        },
+        "sub_category": {
+          "id": 4,
+          "name": "Vape Pens",
+          "slug": "vape-pens"
+        },
+        "measurements": [],
+        "variants": [
+          {
+            "name": "1/2 gram",
+            "label": "1/2 g",
+            "price": {
+              "amount": "54.99",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.5,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 500,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/southwest-organic-producers-2/menu/bhang-c02-vape-cartridge-510mg-purple-kush-indica",
+        "order": "https://weedmaps.com/dispensaries/southwest-organic-producers-2/menu/bhang-c02-vape-cartridge-510mg-purple-kush-indica"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 44237,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": {
+            "id": 197,
+            "type": "strain"
+          }
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 4,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 520808010,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 11811096,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Hard Candy Crush - Purple Kush (Indica): Green Lemonade",
+        "slug": "hard-candy-crush-purple-kush-indica-green-lemonade",
+        "category_name": "Edibles",
+        "body": "Bhang’s delicious hard candy infused with SWOP’s Purple Kush. May be useful for many symptoms including anxiety, muscle pain, spasms, stress, and for some insomnia. TERPENES: Myrcene with lesser amounts of ocimene, pinene, and linalool. EFFECTS: Powerful but calm and clear-headed, and conducive to medicating at any time of the day. Can be quite sedative in high doses.",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/520/808/010/8090338_Crush_Green_Lemonade_product_web.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/520/808/010/8090338_Crush_Green_Lemonade_product_web.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/520/808/010/8090338_Crush_Green_Lemonade_product_web.jpg",
+        "is_badged": false,
+        "brand_name": null,
+        "cannabinoids": {},
+        "genetics": "indica",
+        "prices": {
+          "price_unit": 19.99,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2018-01-03T17:27:26Z",
+        "updated_at": "2023-07-18T09:13:20Z",
+        "parent_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "sub_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "measurements": [],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/southwest-organic-producers-2/menu/hard-candy-crush-purple-kush-indica-green-lemonade",
+        "order": "https://weedmaps.com/dispensaries/southwest-organic-producers-2/menu/hard-candy-crush-purple-kush-indica-green-lemonade"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 44237,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 5,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 520808010,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 11811104,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Hard Candy Crush - Cannatonic (CBD Rich): Green Lemonade",
+        "slug": "hard-candy-crush-cannatonic-cbd-rich-green-lemonade",
+        "category_name": "Edibles",
+        "body": "Bhang’s delicious hard candy infused with SWOP’s CBD-rich Cannatonic. The CBD in Cannatonic is highly neuro-protective and could prove to be quite useful for a large number of different symptoms and patients. CBD can be anti-inflammatory, anti-psychotic, anti-depressant, anti-spasmodic, anxiolytic, and can help temper the side effects of THC for some patients.",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/520/808/010/8090349_Crush_Green_Lemonade_product_web.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/520/808/010/8090349_Crush_Green_Lemonade_product_web.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/520/808/010/8090349_Crush_Green_Lemonade_product_web.jpg",
+        "is_badged": false,
+        "brand_name": null,
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 24.99,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2018-01-03T17:29:16Z",
+        "updated_at": "2023-02-23T00:56:32Z",
+        "parent_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "sub_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "measurements": [],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/southwest-organic-producers-2/menu/hard-candy-crush-cannatonic-cbd-rich-green-lemonade",
+        "order": "https://weedmaps.com/dispensaries/southwest-organic-producers-2/menu/hard-candy-crush-cannatonic-cbd-rich-green-lemonade"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 44237,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 5,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 520808010,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 11811113,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Hard Candy Crush - Cannatonic (CBD Rich): Cherry",
+        "slug": "hard-candy-crush-cannatonic-cbd-rich-cherry",
+        "category_name": "Edibles",
+        "body": "Bhang’s delicious hard candy infused with SWOP’s CBD-rich Cannatonic. The CBD in Cannatonic is highly neuro-protective and could prove to be quite useful for a large number of different symptoms and patients. CBD can be anti-inflammatory, anti-psychotic, anti-depressant, anti-spasmodic, anxiolytic, and can help temper the side effects of THC for some patients.",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/520/808/010/8090379_Crush_Cherry_web.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/520/808/010/8090379_Crush_Cherry_web.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/520/808/010/8090379_Crush_Cherry_web.jpg",
+        "is_badged": false,
+        "brand_name": null,
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 24.99,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2018-01-03T17:31:31Z",
+        "updated_at": "2023-02-23T00:56:32Z",
+        "parent_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "sub_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "measurements": [],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/southwest-organic-producers-2/menu/hard-candy-crush-cannatonic-cbd-rich-cherry",
+        "order": "https://weedmaps.com/dispensaries/southwest-organic-producers-2/menu/hard-candy-crush-cannatonic-cbd-rich-cherry"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 44237,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 5,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 520808010,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 11811124,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Hard Candy Crush - Purple Kush (Indica): Cherry",
+        "slug": "hard-candy-crush-purple-kush-indica-cherry",
+        "category_name": "Edibles",
+        "body": "Bhang’s delicious hard candy infused with SWOP’s Purple Kush. May be useful for many symptoms including anxiety, muscle pain, spasms, stress, and for some insomnia. TERPENES: Myrcene with lesser amounts of ocimene, pinene, and linalool. EFFECTS: Powerful but calm and clear-headed, and conducive to medicating at any time of the day. Can be quite sedative in high doses.",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/520/808/010/8090382_Crush_Cherry_web.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/520/808/010/8090382_Crush_Cherry_web.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/520/808/010/8090382_Crush_Cherry_web.jpg",
+        "is_badged": false,
+        "brand_name": null,
+        "cannabinoids": {},
+        "genetics": "indica",
+        "prices": {
+          "price_unit": 19.99,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2018-01-03T17:32:31Z",
+        "updated_at": "2023-07-18T09:13:19Z",
+        "parent_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "sub_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "measurements": [],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/southwest-organic-producers-2/menu/hard-candy-crush-purple-kush-indica-cherry",
+        "order": "https://weedmaps.com/dispensaries/southwest-organic-producers-2/menu/hard-candy-crush-purple-kush-indica-cherry"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 44237,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 5,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 520808010,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 11811133,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Hard Candy Crush - Purple Kush (Indica): Sandia",
+        "slug": "hard-candy-crush-purple-kush-indica-sandia",
+        "category_name": "Edibles",
+        "body": "Bhang’s delicious hard candy infused with SWOP’s Purple Kush. May be useful for many symptoms including anxiety, muscle pain, spasms, stress, and for some insomnia. TERPENES: Myrcene with lesser amounts of ocimene, pinene, and linalool. EFFECTS: Powerful but calm and clear-headed, and conducive to medicating at any time of the day. Can be quite sedative in high doses.",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/520/808/010/8090394_Crush_Sandia_product.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/520/808/010/8090394_Crush_Sandia_product.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/520/808/010/8090394_Crush_Sandia_product.jpg",
+        "is_badged": false,
+        "brand_name": null,
+        "cannabinoids": {},
+        "genetics": "indica",
+        "prices": {
+          "price_unit": 19.99,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2018-01-03T17:33:24Z",
+        "updated_at": "2023-07-18T09:13:19Z",
+        "parent_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "sub_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "measurements": [],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/southwest-organic-producers-2/menu/hard-candy-crush-purple-kush-indica-sandia",
+        "order": "https://weedmaps.com/dispensaries/southwest-organic-producers-2/menu/hard-candy-crush-purple-kush-indica-sandia"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 44237,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 5,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 520808010,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 11811141,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Hard Candy Crush - Cannatonic (CBD Rich): Sandia",
+        "slug": "hard-candy-crush-cannatonic-cbd-rich-sandia",
+        "category_name": "Edibles",
+        "body": "Bhang’s delicious hard candy infused with SWOP’s CBD-rich Cannatonic. The CBD in Cannatonic is highly neuro-protective and could prove to be quite useful for a large number of different symptoms and patients. CBD can be anti-inflammatory, anti-psychotic, anti-depressant, anti-spasmodic, anxiolytic, and can help temper the side effects of THC for some patients.",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/520/808/010/8090402_Crush_Sandia_product.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/520/808/010/8090402_Crush_Sandia_product.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/520/808/010/8090402_Crush_Sandia_product.jpg",
+        "is_badged": false,
+        "brand_name": null,
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 24.99,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2018-01-03T17:34:22Z",
+        "updated_at": "2023-02-23T00:56:33Z",
+        "parent_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "sub_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "measurements": [],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/southwest-organic-producers-2/menu/hard-candy-crush-cannatonic-cbd-rich-sandia",
+        "order": "https://weedmaps.com/dispensaries/southwest-organic-producers-2/menu/hard-candy-crush-cannatonic-cbd-rich-sandia"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 44237,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 5,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 520808010,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 11811201,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Organic Ice Chocolate Nugget - Cannatonic (CBD Rich)",
+        "slug": "organic-ice-chocolate-nugget-cannatonic-cbd-rich",
+        "category_name": "Edibles",
+        "body": "The CBD in Cannatonic is highly neuro-protective and could prove to be quite useful for a large number of different symptoms and patients. CBD can be anti-inflammatory, anti-psychotic, anti-depressant, anti-spasmodic, anxiolytic, and can help temper the side effects of THC for some patients. *Ice chocolate is Peppermint Milk Chocolate*",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/520/808/010/8090530_IMG_7808.JPG",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/520/808/010/8090530_IMG_7808.JPG",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/520/808/010/8090530_IMG_7808.JPG",
+        "is_badged": false,
+        "brand_name": null,
+        "cannabinoids": {},
+        "genetics": "hybrid",
+        "prices": {
+          "price_unit": 14.99,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2018-01-03T17:42:16Z",
+        "updated_at": "2024-03-12T17:35:07Z",
+        "parent_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "sub_category": {
+          "id": 212,
+          "name": "Chocolates",
+          "slug": "chocolates"
+        },
+        "measurements": [
+          {
+            "id": 1343851899,
+            "classification": "cannabinoid",
+            "full_name": "Cannabidiol",
+            "name": "CBD",
+            "unit": "mg",
+            "value": "37.0"
+          },
+          {
+            "id": 1343851901,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "mg",
+            "value": "16.0"
+          }
+        ],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/southwest-organic-producers-2/menu/organic-ice-chocolate-nugget-cannatonic-cbd-rich",
+        "order": "https://weedmaps.com/dispensaries/southwest-organic-producers-2/menu/organic-ice-chocolate-nugget-cannatonic-cbd-rich"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 44237,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 3
+          },
+          "data": [
+            {
+              "id": 212,
+              "type": "category"
+            },
+            {
+              "id": 219,
+              "type": "category"
+            },
+            {
+              "id": 5,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 520808010,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 11811227,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Organic Dark Chocolate Nugget - Cannatonic",
+        "slug": "organic-dark-chocolate-nugget-cannatonic",
+        "category_name": "Edibles",
+        "body": "The CBD in Cannatonic is highly neuro-protective and could prove to be quite useful for a large number of different symptoms and patients. CBD can be anti-inflammatory, anti-psychotic, anti-depressant, anti-spasmodic, anxiolytic, and can help temper the side effects of THC for some patients.",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/520/808/010/8090572_IMG_7809.JPG",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/520/808/010/8090572_IMG_7809.JPG",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/520/808/010/8090572_IMG_7809.JPG",
+        "is_badged": false,
+        "brand_name": null,
+        "cannabinoids": {},
+        "genetics": "hybrid",
+        "prices": {
+          "price_unit": 14.99,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2018-01-03T17:47:35Z",
+        "updated_at": "2024-03-12T17:34:53Z",
+        "parent_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "sub_category": {
+          "id": 212,
+          "name": "Chocolates",
+          "slug": "chocolates"
+        },
+        "measurements": [
+          {
+            "id": 1343851902,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "mg",
+            "value": "16.0"
+          },
+          {
+            "id": 1343851897,
+            "classification": "cannabinoid",
+            "full_name": "Cannabidiol",
+            "name": "CBD",
+            "unit": "mg",
+            "value": "37.0"
+          }
+        ],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/southwest-organic-producers-2/menu/organic-dark-chocolate-nugget-cannatonic",
+        "order": "https://weedmaps.com/dispensaries/southwest-organic-producers-2/menu/organic-dark-chocolate-nugget-cannatonic"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 44237,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 3
+          },
+          "data": [
+            {
+              "id": 212,
+              "type": "category"
+            },
+            {
+              "id": 219,
+              "type": "category"
+            },
+            {
+              "id": 5,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 520808010,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 11811255,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Organic Ice Chocolate Bar by Bhang – Cannatonic (CBD-Rich Hybrid)",
+        "slug": "organic-ice-chocolate-bar-by-bhang-cannatonic-cbd-rich-hybrid",
+        "category_name": "Edibles",
+        "body": "The CBD in Cannatonic is highly neuro-protective and could prove to be quite useful for a large number of different symptoms and patients. CBD can be anti-inflammatory, anti-psychotic, anti-depressant, anti-spasmodic, anxiolytic, and can help temper the side effects of THC for some patients. *Ice chocolate is Peppermint Milk Chocolate*",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/520/808/010/8090614_Cannatonic_thc-cbd_dark_bars_opened_large_edited.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/520/808/010/8090614_Cannatonic_thc-cbd_dark_bars_opened_large_edited.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/520/808/010/8090614_Cannatonic_thc-cbd_dark_bars_opened_large_edited.jpg",
+        "is_badged": false,
+        "brand_name": "Bhang",
+        "cannabinoids": {},
+        "genetics": "hybrid",
+        "prices": {
+          "price_unit": 29.99,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2018-01-03T17:52:57Z",
+        "updated_at": "2024-03-12T17:34:53Z",
+        "parent_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "sub_category": {
+          "id": 212,
+          "name": "Chocolates",
+          "slug": "chocolates"
+        },
+        "measurements": [],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/southwest-organic-producers-2/menu/organic-ice-chocolate-bar-by-bhang-cannatonic-cbd-rich-hybrid",
+        "order": "https://weedmaps.com/dispensaries/southwest-organic-producers-2/menu/organic-ice-chocolate-bar-by-bhang-cannatonic-cbd-rich-hybrid"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 44237,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 3
+          },
+          "data": [
+            {
+              "id": 212,
+              "type": "category"
+            },
+            {
+              "id": 219,
+              "type": "category"
+            },
+            {
+              "id": 5,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 520808010,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 11986655,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Coconut Oil - Larry OG (Indica Hybrid)",
+        "slug": "coconut-oil-larry-og-indica-hybrid",
+        "category_name": "Edibles",
+        "body": "| 805.20mg total cannabinoids | THC: 6.40 mg/tsp | THC-A: 83.1 mg/tsp |",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/520/808/010/8342323_IMG_1222.JPG",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/520/808/010/8342323_IMG_1222.JPG",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/520/808/010/8342323_IMG_1222.JPG",
+        "is_badged": false,
+        "brand_name": null,
+        "cannabinoids": {},
+        "genetics": "indica",
+        "prices": {
+          "price_unit": 44.99,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2018-01-18T19:13:36Z",
+        "updated_at": "2023-07-18T09:24:40Z",
+        "parent_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "sub_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "measurements": [],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/southwest-organic-producers-2/menu/coconut-oil-larry-og-indica-hybrid",
+        "order": "https://weedmaps.com/dispensaries/southwest-organic-producers-2/menu/coconut-oil-larry-og-indica-hybrid"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 44237,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 5,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 520808010,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 12105728,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Do-Si-Dos - (Indica)",
+        "slug": "dos-si-dos-indica",
+        "category_name": "Flower",
+        "body": "| THC%: 19.20 | CBD%: 0.00 | CBG%: 0.06 | Do-Si-Dos is a heavy hitting Indica that starts with a buzzing in your head and travels all the way to your feet for whole body relaxation and pain relief.",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/pictures/listings/520/808/010/8487577_do_si_do_2.JPG",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/listings/520/808/010/8487577_do_si_do_2.JPG",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/listings/520/808/010/8487577_do_si_do_2.JPG",
+        "is_badged": false,
+        "brand_name": null,
+        "cannabinoids": {},
+        "genetics": "indica",
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 0,
+          "price_gram": 12,
+          "price_two_grams": 0,
+          "price_eighth": 42,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2018-01-25T16:42:43Z",
+        "updated_at": "2023-07-18T09:33:02Z",
+        "parent_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "sub_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "measurements": [],
+        "variants": [
+          {
+            "name": "1 gram",
+            "label": "1 g",
+            "price": {
+              "amount": "12.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 1,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 1000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          },
+          {
+            "name": "1/8 ounce",
+            "label": "1/8 oz",
+            "price": {
+              "amount": "42.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.125,
+              "unit": "oz"
+            },
+            "sku": null,
+            "compliance_net_mg": 3500,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/southwest-organic-producers-2/menu/dos-si-dos-indica",
+        "order": "https://weedmaps.com/dispensaries/southwest-organic-producers-2/menu/dos-si-dos-indica"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 44237,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": {
+            "id": 66,
+            "type": "strain"
+          }
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 2,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "type": "tag",
+              "id": "701cdc92-50a1-4f3c-afda-0e1b31775804"
+            }
+          ]
+        },
+        "menu_parent": {
+          "data": {
+            "id": 520808010,
+            "type": "listing"
+          }
+        }
+      }
+    }
+  ]
+}

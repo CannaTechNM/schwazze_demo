@@ -1,0 +1,4715 @@
+{
+  "meta": {
+    "page": 1,
+    "per_page": 100,
+    "total": 37
+  },
+  "data": [
+    {
+      "id": 152628059,
+      "type": "menu_item",
+      "attributes": {
+        "name": "The soap",
+        "slug": "the-soap",
+        "category_name": "Flower",
+        "body": "",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/pictures/users/016/018/564/430698537_image.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/users/016/018/564/430698537_image.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/users/016/018/564/430698537_image.jpg",
+        "is_badged": false,
+        "brand_name": "Juicy Joints",
+        "cannabinoids": {
+          "thc": "20.0"
+        },
+        "genetics": "sativa",
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 0,
+          "price_gram": 12,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2024-03-15T13:49:19Z",
+        "updated_at": "2024-03-15T13:49:52Z",
+        "parent_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "sub_category": {
+          "id": 185,
+          "name": "Pre Roll",
+          "slug": "pre-roll"
+        },
+        "measurements": [
+          {
+            "id": 1496793940,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "%",
+            "value": "20.0"
+          }
+        ],
+        "variants": [
+          {
+            "name": "1 gram",
+            "label": "1 g",
+            "price": {
+              "amount": "12.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 1,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 1000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/taos-420-cannabis-coffee-1/menu/the-soap",
+        "order": "https://weedmaps.com/dispensaries/taos-420-cannabis-coffee-1/menu/the-soap"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 353771,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 2
+          },
+          "data": [
+            {
+              "id": 185,
+              "type": "category"
+            },
+            {
+              "id": 2,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 789014764,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 152628158,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Cap Junky",
+        "slug": "cap-junky",
+        "category_name": "Flower",
+        "body": "",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/pictures/users/016/018/564/430698558_image.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/users/016/018/564/430698558_image.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/users/016/018/564/430698558_image.jpg",
+        "is_badged": false,
+        "brand_name": "Juicy Joints",
+        "cannabinoids": {
+          "thc": "29.0"
+        },
+        "genetics": "sativa",
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 0,
+          "price_gram": 12,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2024-03-15T13:52:45Z",
+        "updated_at": "2024-03-15T13:52:45Z",
+        "parent_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "sub_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "measurements": [
+          {
+            "id": 1496794063,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "%",
+            "value": "29.0"
+          }
+        ],
+        "variants": [
+          {
+            "name": "1 gram",
+            "label": "1 g",
+            "price": {
+              "amount": "12.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 1,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 1000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/taos-420-cannabis-coffee-1/menu/cap-junky",
+        "order": "https://weedmaps.com/dispensaries/taos-420-cannabis-coffee-1/menu/cap-junky"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 353771,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 2,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 789014764,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 152628587,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Alien 👽 Og Kush",
+        "slug": "alien-og-kush",
+        "category_name": "Flower",
+        "body": "",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/pictures/users/016/018/564/430698682_image.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/users/016/018/564/430698682_image.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/users/016/018/564/430698682_image.jpg",
+        "is_badged": false,
+        "brand_name": "Juicy Joints",
+        "cannabinoids": {},
+        "genetics": "hybrid",
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 0,
+          "price_gram": 14,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2024-03-15T14:06:29Z",
+        "updated_at": "2024-03-15T14:07:03Z",
+        "parent_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "sub_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "measurements": [],
+        "variants": [
+          {
+            "name": "1 gram",
+            "label": "1 g",
+            "price": {
+              "amount": "14.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 1,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 1000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/taos-420-cannabis-coffee-1/menu/alien-og-kush",
+        "order": "https://weedmaps.com/dispensaries/taos-420-cannabis-coffee-1/menu/alien-og-kush"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 353771,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 2,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 789014764,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 152628682,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Apples and bananas",
+        "slug": "apples-and-bananas",
+        "category_name": "Flower",
+        "body": "",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/pictures/users/016/018/564/430698724_image.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/users/016/018/564/430698724_image.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/users/016/018/564/430698724_image.jpg",
+        "is_badged": false,
+        "brand_name": "Juicy Joints",
+        "cannabinoids": {
+          "thc": "28.0"
+        },
+        "genetics": "sativa",
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 0,
+          "price_gram": 12,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2024-03-15T14:08:41Z",
+        "updated_at": "2024-03-15T14:09:11Z",
+        "parent_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "sub_category": {
+          "id": 185,
+          "name": "Pre Roll",
+          "slug": "pre-roll"
+        },
+        "measurements": [
+          {
+            "id": 1496794880,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "%",
+            "value": "28.0"
+          }
+        ],
+        "variants": [
+          {
+            "name": "1 gram",
+            "label": "1 g",
+            "price": {
+              "amount": "12.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 1,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 1000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/taos-420-cannabis-coffee-1/menu/apples-and-bananas",
+        "order": "https://weedmaps.com/dispensaries/taos-420-cannabis-coffee-1/menu/apples-and-bananas"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 353771,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 2
+          },
+          "data": [
+            {
+              "id": 185,
+              "type": "category"
+            },
+            {
+              "id": 2,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 789014764,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 152628757,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Chem9 / Blockhead",
+        "slug": "chem9-blockhead",
+        "category_name": "Flower",
+        "body": "",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/pictures/users/016/018/564/430698744_image.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/users/016/018/564/430698744_image.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/users/016/018/564/430698744_image.jpg",
+        "is_badged": false,
+        "brand_name": "Juicy Joints",
+        "cannabinoids": {
+          "thc": "28.0"
+        },
+        "genetics": "hybrid",
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 0,
+          "price_gram": 12,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2024-03-15T14:10:24Z",
+        "updated_at": "2024-03-15T14:11:04Z",
+        "parent_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "sub_category": {
+          "id": 185,
+          "name": "Pre Roll",
+          "slug": "pre-roll"
+        },
+        "measurements": [
+          {
+            "id": 1496795060,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "%",
+            "value": "28.0"
+          }
+        ],
+        "variants": [
+          {
+            "name": "1 gram",
+            "label": "1 g",
+            "price": {
+              "amount": "12.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 1,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 1000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/taos-420-cannabis-coffee-1/menu/chem9-blockhead",
+        "order": "https://weedmaps.com/dispensaries/taos-420-cannabis-coffee-1/menu/chem9-blockhead"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 353771,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 2
+          },
+          "data": [
+            {
+              "id": 185,
+              "type": "category"
+            },
+            {
+              "id": 2,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 789014764,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 152628974,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Cherry cheese cake 🍰",
+        "slug": "cherry-cheese-cake",
+        "category_name": "Flower",
+        "body": "",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/pictures/users/016/018/564/430698782_IMG_4238.jpeg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/users/016/018/564/430698782_IMG_4238.jpeg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/users/016/018/564/430698782_IMG_4238.jpeg",
+        "is_badged": false,
+        "brand_name": "Juicy Joints",
+        "cannabinoids": {},
+        "genetics": "hybrid",
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 0,
+          "price_gram": 12,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2024-03-15T14:16:45Z",
+        "updated_at": "2024-03-15T14:17:16Z",
+        "parent_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "sub_category": {
+          "id": 185,
+          "name": "Pre Roll",
+          "slug": "pre-roll"
+        },
+        "measurements": [],
+        "variants": [
+          {
+            "name": "1 gram",
+            "label": "1 g",
+            "price": {
+              "amount": "12.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 1,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 1000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/taos-420-cannabis-coffee-1/menu/cherry-cheese-cake",
+        "order": "https://weedmaps.com/dispensaries/taos-420-cannabis-coffee-1/menu/cherry-cheese-cake"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 353771,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 2
+          },
+          "data": [
+            {
+              "id": 185,
+              "type": "category"
+            },
+            {
+              "id": 2,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 789014764,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 152629039,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Juicy joint og",
+        "slug": "juicy-joint-og",
+        "category_name": "Flower",
+        "body": "",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/pictures/users/016/018/564/430698819_image.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/users/016/018/564/430698819_image.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/users/016/018/564/430698819_image.jpg",
+        "is_badged": false,
+        "brand_name": "Juicy Joints",
+        "cannabinoids": {
+          "thc": "23.0"
+        },
+        "genetics": "hybrid",
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 0,
+          "price_gram": 8,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2024-03-15T14:18:32Z",
+        "updated_at": "2024-03-15T14:19:23Z",
+        "parent_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "sub_category": {
+          "id": 185,
+          "name": "Pre Roll",
+          "slug": "pre-roll"
+        },
+        "measurements": [
+          {
+            "id": 1496795422,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "%",
+            "value": "23.0"
+          }
+        ],
+        "variants": [
+          {
+            "name": "1 gram",
+            "label": "1 g",
+            "price": {
+              "amount": "8.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 1,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 1000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/taos-420-cannabis-coffee-1/menu/juicy-joint-og",
+        "order": "https://weedmaps.com/dispensaries/taos-420-cannabis-coffee-1/menu/juicy-joint-og"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 353771,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 2
+          },
+          "data": [
+            {
+              "id": 185,
+              "type": "category"
+            },
+            {
+              "id": 2,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 789014764,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 152629214,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Icc animal mints",
+        "slug": "icc-animal-mints",
+        "category_name": "Flower",
+        "body": "",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/pictures/users/016/018/564/430371271_IMG_7957.jpeg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/users/016/018/564/430371271_IMG_7957.jpeg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/users/016/018/564/430371271_IMG_7957.jpeg",
+        "is_badged": false,
+        "brand_name": "Juicy Joints",
+        "cannabinoids": {
+          "thc": "30.0"
+        },
+        "genetics": "indica",
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 0,
+          "price_gram": 14,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2024-03-15T14:23:11Z",
+        "updated_at": "2024-03-15T14:23:44Z",
+        "parent_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "sub_category": {
+          "id": 185,
+          "name": "Pre Roll",
+          "slug": "pre-roll"
+        },
+        "measurements": [
+          {
+            "id": 1496795566,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "%",
+            "value": "30.0"
+          }
+        ],
+        "variants": [
+          {
+            "name": "1 gram",
+            "label": "1 g",
+            "price": {
+              "amount": "14.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 1,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 1000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/taos-420-cannabis-coffee-1/menu/icc-animal-mints",
+        "order": "https://weedmaps.com/dispensaries/taos-420-cannabis-coffee-1/menu/icc-animal-mints"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 353771,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 2
+          },
+          "data": [
+            {
+              "id": 185,
+              "type": "category"
+            },
+            {
+              "id": 2,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 789014764,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 152629310,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Pre rolls",
+        "slug": "pre-rolls",
+        "category_name": "Flower",
+        "body": "<p>Assorted strains 1gm </p>",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/pictures/users/016/018/564/430698925_image.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/users/016/018/564/430698925_image.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/users/016/018/564/430698925_image.jpg",
+        "is_badged": false,
+        "brand_name": "Juicy Joints",
+        "cannabinoids": {},
+        "genetics": "hybrid",
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 0,
+          "price_gram": 10,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2024-03-15T14:25:40Z",
+        "updated_at": "2024-03-15T15:38:46Z",
+        "parent_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "sub_category": {
+          "id": 185,
+          "name": "Pre Roll",
+          "slug": "pre-roll"
+        },
+        "measurements": [],
+        "variants": [
+          {
+            "name": "1 gram",
+            "label": "1 g",
+            "price": {
+              "amount": "10.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 1,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 1000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/taos-420-cannabis-coffee-1/menu/pre-rolls",
+        "order": "https://weedmaps.com/dispensaries/taos-420-cannabis-coffee-1/menu/pre-rolls"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 353771,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 2
+          },
+          "data": [
+            {
+              "id": 185,
+              "type": "category"
+            },
+            {
+              "id": 2,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 789014764,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 152635702,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Moon rock",
+        "slug": "moon-rock",
+        "category_name": "Flower",
+        "body": "<p></p><p>Northern lights </p>",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/pictures/users/016/018/564/430700324_image.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/users/016/018/564/430700324_image.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/users/016/018/564/430700324_image.jpg",
+        "is_badged": false,
+        "brand_name": "Minerva Canna",
+        "cannabinoids": {
+          "thc": "91.0"
+        },
+        "genetics": "hybrid",
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 0,
+          "price_gram": 30,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2024-03-15T15:37:11Z",
+        "updated_at": "2024-03-15T15:38:00Z",
+        "parent_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "sub_category": {
+          "id": 39,
+          "name": "Infused Flower",
+          "slug": "infused-flower"
+        },
+        "measurements": [
+          {
+            "id": 1496801078,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "%",
+            "value": "91.0"
+          }
+        ],
+        "variants": [
+          {
+            "name": "1 gram",
+            "label": "1 g",
+            "price": {
+              "amount": "30.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 1,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 1000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/taos-420-cannabis-coffee-1/menu/moon-rock",
+        "order": "https://weedmaps.com/dispensaries/taos-420-cannabis-coffee-1/menu/moon-rock"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 353771,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": {
+            "id": 162,
+            "type": "strain"
+          }
+        },
+        "categories": {
+          "meta": {
+            "total": 2
+          },
+          "data": [
+            {
+              "id": 39,
+              "type": "category"
+            },
+            {
+              "id": 2,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 789014764,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 152636207,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Twax blueberry 🫐",
+        "slug": "twax",
+        "category_name": "Flower",
+        "body": "<p></p><p>Blueberry 🫐 </p>",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/pictures/users/016/018/564/430700446_image.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/users/016/018/564/430700446_image.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/users/016/018/564/430700446_image.jpg",
+        "is_badged": false,
+        "brand_name": "The Clear",
+        "cannabinoids": {
+          "thc": "90.0"
+        },
+        "genetics": "indica",
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 76,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2024-03-15T15:41:06Z",
+        "updated_at": "2024-03-15T15:46:51Z",
+        "parent_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "sub_category": {
+          "id": 39,
+          "name": "Infused Flower",
+          "slug": "infused-flower"
+        },
+        "measurements": [
+          {
+            "id": 1496801573,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "%",
+            "value": "90.0"
+          }
+        ],
+        "variants": [
+          {
+            "name": "1/8 ounce",
+            "label": "1/8 oz",
+            "price": {
+              "amount": "76.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.125,
+              "unit": "oz"
+            },
+            "sku": null,
+            "compliance_net_mg": 3500,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/taos-420-cannabis-coffee-1/menu/twax",
+        "order": "https://weedmaps.com/dispensaries/taos-420-cannabis-coffee-1/menu/twax"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 353771,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 2
+          },
+          "data": [
+            {
+              "id": 39,
+              "type": "category"
+            },
+            {
+              "id": 2,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 789014764,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 152636551,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Twax grapevine",
+        "slug": "twax-grapevine",
+        "category_name": "Flower",
+        "body": "",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/pictures/users/016/018/564/430700528_image.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/users/016/018/564/430700528_image.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/users/016/018/564/430700528_image.jpg",
+        "is_badged": false,
+        "brand_name": "The Clear",
+        "cannabinoids": {
+          "thc": "90.0"
+        },
+        "genetics": null,
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 0,
+          "price_gram": 76,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2024-03-15T15:46:24Z",
+        "updated_at": "2024-03-15T15:47:02Z",
+        "parent_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "sub_category": {
+          "id": 39,
+          "name": "Infused Flower",
+          "slug": "infused-flower"
+        },
+        "measurements": [
+          {
+            "id": 1496801882,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "%",
+            "value": "90.0"
+          }
+        ],
+        "variants": [
+          {
+            "name": "1 gram",
+            "label": "1 g",
+            "price": {
+              "amount": "76.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 1,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 1000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/taos-420-cannabis-coffee-1/menu/twax-grapevine",
+        "order": "https://weedmaps.com/dispensaries/taos-420-cannabis-coffee-1/menu/twax-grapevine"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 353771,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 2
+          },
+          "data": [
+            {
+              "id": 39,
+              "type": "category"
+            },
+            {
+              "id": 2,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 789014764,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 152636789,
+      "type": "menu_item",
+      "attributes": {
+        "name": "1gm infused prerolls",
+        "slug": "1gm-infused-prerolls",
+        "category_name": "Flower",
+        "body": "<p>Mmog / white runtz / terep infused </p>",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/pictures/users/016/018/564/430700648_image.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/users/016/018/564/430700648_image.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/users/016/018/564/430700648_image.jpg",
+        "is_badged": false,
+        "brand_name": "Don verde ",
+        "cannabinoids": {
+          "thc": "54.0"
+        },
+        "genetics": "hybrid",
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 0,
+          "price_gram": 28,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2024-03-15T15:49:36Z",
+        "updated_at": "2024-03-15T15:49:36Z",
+        "parent_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "sub_category": {
+          "id": 39,
+          "name": "Infused Flower",
+          "slug": "infused-flower"
+        },
+        "measurements": [
+          {
+            "id": 1496802150,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "%",
+            "value": "54.0"
+          }
+        ],
+        "variants": [
+          {
+            "name": "1 gram",
+            "label": "1 g",
+            "price": {
+              "amount": "28.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 1,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 1000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/taos-420-cannabis-coffee-1/menu/1gm-infused-prerolls",
+        "order": "https://weedmaps.com/dispensaries/taos-420-cannabis-coffee-1/menu/1gm-infused-prerolls"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 353771,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 2
+          },
+          "data": [
+            {
+              "id": 39,
+              "type": "category"
+            },
+            {
+              "id": 2,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 789014764,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 152637007,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Sour Gushers",
+        "slug": "sour-gushers",
+        "category_name": "Flower",
+        "body": "<p>Infused joint 1.5 gm Infused </p>",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/pictures/users/016/018/564/430700697_image.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/users/016/018/564/430700697_image.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/users/016/018/564/430700697_image.jpg",
+        "is_badged": false,
+        "brand_name": "Packwoods",
+        "cannabinoids": {
+          "thc": "31.0"
+        },
+        "genetics": "hybrid",
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 0,
+          "price_gram": 30,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2024-03-15T15:51:57Z",
+        "updated_at": "2024-03-15T15:51:57Z",
+        "parent_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "sub_category": {
+          "id": 39,
+          "name": "Infused Flower",
+          "slug": "infused-flower"
+        },
+        "measurements": [
+          {
+            "id": 1496802327,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "%",
+            "value": "31.0"
+          }
+        ],
+        "variants": [
+          {
+            "name": "1 gram",
+            "label": "1 g",
+            "price": {
+              "amount": "30.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 1,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 1000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/taos-420-cannabis-coffee-1/menu/sour-gushers",
+        "order": "https://weedmaps.com/dispensaries/taos-420-cannabis-coffee-1/menu/sour-gushers"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 353771,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 2
+          },
+          "data": [
+            {
+              "id": 39,
+              "type": "category"
+            },
+            {
+              "id": 2,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 789014764,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 152705897,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Ishtar",
+        "slug": "ishtar",
+        "category_name": "Flower",
+        "body": "",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/pictures/users/016/018/564/430723776_732213773.jpeg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/users/016/018/564/430723776_732213773.jpeg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/users/016/018/564/430723776_732213773.jpeg",
+        "is_badged": false,
+        "brand_name": "100 oz deal",
+        "cannabinoids": {
+          "thc": "19.0"
+        },
+        "genetics": "sativa",
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 0,
+          "price_gram": 8,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2024-03-16T14:33:29Z",
+        "updated_at": "2024-03-16T14:33:29Z",
+        "parent_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "sub_category": {
+          "id": 184,
+          "name": "Shake",
+          "slug": "shake"
+        },
+        "measurements": [
+          {
+            "id": 1496870519,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "%",
+            "value": "19.0"
+          }
+        ],
+        "variants": [
+          {
+            "name": "1 gram",
+            "label": "1 g",
+            "price": {
+              "amount": "8.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 1,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 1000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/taos-420-cannabis-coffee-1/menu/ishtar",
+        "order": "https://weedmaps.com/dispensaries/taos-420-cannabis-coffee-1/menu/ishtar"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 353771,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 2
+          },
+          "data": [
+            {
+              "id": 184,
+              "type": "category"
+            },
+            {
+              "id": 2,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 789014764,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 152705965,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Apple jacks",
+        "slug": "apple-jacks",
+        "category_name": "Flower",
+        "body": "<p>100oz deal </p>",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/pictures/users/016/018/564/430723812_732213715.jpeg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/users/016/018/564/430723812_732213715.jpeg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/users/016/018/564/430723812_732213715.jpeg",
+        "is_badged": false,
+        "brand_name": "100 oz deal",
+        "cannabinoids": {
+          "thc": "25.0"
+        },
+        "genetics": "hybrid",
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 0,
+          "price_gram": 8,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2024-03-16T14:36:12Z",
+        "updated_at": "2024-03-16T14:36:12Z",
+        "parent_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "sub_category": {
+          "id": 184,
+          "name": "Shake",
+          "slug": "shake"
+        },
+        "measurements": [
+          {
+            "id": 1496870588,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "%",
+            "value": "25.0"
+          }
+        ],
+        "variants": [
+          {
+            "name": "1 gram",
+            "label": "1 g",
+            "price": {
+              "amount": "8.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 1,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 1000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/taos-420-cannabis-coffee-1/menu/apple-jacks",
+        "order": "https://weedmaps.com/dispensaries/taos-420-cannabis-coffee-1/menu/apple-jacks"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 353771,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 2
+          },
+          "data": [
+            {
+              "id": 184,
+              "type": "category"
+            },
+            {
+              "id": 2,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 789014764,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 152706147,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Fire diesel",
+        "slug": "fire-diesel",
+        "category_name": "Flower",
+        "body": "<p>100 oz deal</p>",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/pictures/users/016/018/564/430723848_image.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/users/016/018/564/430723848_image.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/users/016/018/564/430723848_image.jpg",
+        "is_badged": false,
+        "brand_name": "100 oz deal",
+        "cannabinoids": {
+          "thc": "25.0"
+        },
+        "genetics": "hybrid",
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 0,
+          "price_gram": 8,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2024-03-16T14:38:39Z",
+        "updated_at": "2024-03-16T14:38:39Z",
+        "parent_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "sub_category": {
+          "id": 184,
+          "name": "Shake",
+          "slug": "shake"
+        },
+        "measurements": [
+          {
+            "id": 1496870745,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "%",
+            "value": "25.0"
+          }
+        ],
+        "variants": [
+          {
+            "name": "1 gram",
+            "label": "1 g",
+            "price": {
+              "amount": "8.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 1,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 1000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/taos-420-cannabis-coffee-1/menu/fire-diesel",
+        "order": "https://weedmaps.com/dispensaries/taos-420-cannabis-coffee-1/menu/fire-diesel"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 353771,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 2
+          },
+          "data": [
+            {
+              "id": 184,
+              "type": "category"
+            },
+            {
+              "id": 2,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 789014764,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 152706249,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Obama runtz",
+        "slug": "obama-runtz",
+        "category_name": "Flower",
+        "body": "<p>100 oz deal</p>",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/pictures/users/016/018/564/430723855_732212804.jpeg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/users/016/018/564/430723855_732212804.jpeg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/users/016/018/564/430723855_732212804.jpeg",
+        "is_badged": false,
+        "brand_name": "100 oz deal",
+        "cannabinoids": {
+          "thc": "28.0"
+        },
+        "genetics": "indica",
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 0,
+          "price_gram": 8,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2024-03-16T14:40:12Z",
+        "updated_at": "2024-03-16T14:40:13Z",
+        "parent_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "sub_category": {
+          "id": 184,
+          "name": "Shake",
+          "slug": "shake"
+        },
+        "measurements": [
+          {
+            "id": 1496870914,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "%",
+            "value": "28.0"
+          }
+        ],
+        "variants": [
+          {
+            "name": "1 gram",
+            "label": "1 g",
+            "price": {
+              "amount": "8.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 1,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 1000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/taos-420-cannabis-coffee-1/menu/obama-runtz",
+        "order": "https://weedmaps.com/dispensaries/taos-420-cannabis-coffee-1/menu/obama-runtz"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 353771,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 2
+          },
+          "data": [
+            {
+              "id": 184,
+              "type": "category"
+            },
+            {
+              "id": 2,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 789014764,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 152706793,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Crescendo",
+        "slug": "crescendo",
+        "category_name": "Flower",
+        "body": "<p>100 oz deal</p>",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/pictures/users/016/018/564/430723875_image.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/users/016/018/564/430723875_image.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/users/016/018/564/430723875_image.jpg",
+        "is_badged": false,
+        "brand_name": "100 oz deal",
+        "cannabinoids": {
+          "thc": "28.0"
+        },
+        "genetics": "sativa",
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 0,
+          "price_gram": 8,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2024-03-16T14:42:15Z",
+        "updated_at": "2024-03-16T14:42:15Z",
+        "parent_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "sub_category": {
+          "id": 184,
+          "name": "Shake",
+          "slug": "shake"
+        },
+        "measurements": [
+          {
+            "id": 1496871586,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "%",
+            "value": "28.0"
+          }
+        ],
+        "variants": [
+          {
+            "name": "1 gram",
+            "label": "1 g",
+            "price": {
+              "amount": "8.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 1,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 1000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/taos-420-cannabis-coffee-1/menu/crescendo",
+        "order": "https://weedmaps.com/dispensaries/taos-420-cannabis-coffee-1/menu/crescendo"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 353771,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 2
+          },
+          "data": [
+            {
+              "id": 184,
+              "type": "category"
+            },
+            {
+              "id": 2,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 789014764,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 152706863,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Blueberry 🫐 Muffin",
+        "slug": "blueberry-muffin",
+        "category_name": "Flower",
+        "body": "",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/pictures/users/016/018/564/430723887_732213170.jpeg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/users/016/018/564/430723887_732213170.jpeg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/users/016/018/564/430723887_732213170.jpeg",
+        "is_badged": false,
+        "brand_name": "Blueberry 🫐 Muffin",
+        "cannabinoids": {
+          "thc": "23.0"
+        },
+        "genetics": "indica",
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 0,
+          "price_gram": 8,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2024-03-16T14:44:20Z",
+        "updated_at": "2024-03-16T14:44:20Z",
+        "parent_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "sub_category": {
+          "id": 184,
+          "name": "Shake",
+          "slug": "shake"
+        },
+        "measurements": [
+          {
+            "id": 1496871654,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "%",
+            "value": "23.0"
+          }
+        ],
+        "variants": [
+          {
+            "name": "1 gram",
+            "label": "1 g",
+            "price": {
+              "amount": "8.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 1,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 1000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/taos-420-cannabis-coffee-1/menu/blueberry-muffin",
+        "order": "https://weedmaps.com/dispensaries/taos-420-cannabis-coffee-1/menu/blueberry-muffin"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 353771,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 2
+          },
+          "data": [
+            {
+              "id": 184,
+              "type": "category"
+            },
+            {
+              "id": 2,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 789014764,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 152707383,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Kenny powers Og",
+        "slug": "kenny-powers-og",
+        "category_name": "Flower",
+        "body": "",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/pictures/users/016/018/564/430724084_732213077.jpeg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/users/016/018/564/430724084_732213077.jpeg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/users/016/018/564/430724084_732213077.jpeg",
+        "is_badged": false,
+        "brand_name": null,
+        "cannabinoids": {
+          "thc": "24.0"
+        },
+        "genetics": "indica",
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 0,
+          "price_gram": 10,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2024-03-16T14:54:23Z",
+        "updated_at": "2024-03-16T14:54:23Z",
+        "parent_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "sub_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "measurements": [
+          {
+            "id": 1496872350,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "%",
+            "value": "24.0"
+          }
+        ],
+        "variants": [
+          {
+            "name": "1 gram",
+            "label": "1 g",
+            "price": {
+              "amount": "10.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 1,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 1000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/taos-420-cannabis-coffee-1/menu/kenny-powers-og",
+        "order": "https://weedmaps.com/dispensaries/taos-420-cannabis-coffee-1/menu/kenny-powers-og"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 353771,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 2,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 789014764,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 152707443,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Kush Mints",
+        "slug": "kush-mints",
+        "category_name": "Flower",
+        "body": "",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/pictures/users/016/018/564/430724130_732213115.jpeg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/users/016/018/564/430724130_732213115.jpeg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/users/016/018/564/430724130_732213115.jpeg",
+        "is_badged": false,
+        "brand_name": null,
+        "cannabinoids": {
+          "thc": "27.0"
+        },
+        "genetics": "hybrid",
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 0,
+          "price_gram": 10,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2024-03-16T14:56:23Z",
+        "updated_at": "2024-03-16T14:56:23Z",
+        "parent_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "sub_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "measurements": [
+          {
+            "id": 1496872403,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "%",
+            "value": "27.0"
+          }
+        ],
+        "variants": [
+          {
+            "name": "1 gram",
+            "label": "1 g",
+            "price": {
+              "amount": "10.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 1,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 1000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/taos-420-cannabis-coffee-1/menu/kush-mints",
+        "order": "https://weedmaps.com/dispensaries/taos-420-cannabis-coffee-1/menu/kush-mints"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 353771,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 2,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 789014764,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 152707501,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Wedding Cake 🍰",
+        "slug": "wedding-cake",
+        "category_name": "Flower",
+        "body": "",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/pictures/users/016/018/564/430723855_732212804.jpeg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/users/016/018/564/430723855_732212804.jpeg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/users/016/018/564/430723855_732212804.jpeg",
+        "is_badged": false,
+        "brand_name": null,
+        "cannabinoids": {
+          "thc": "27.0"
+        },
+        "genetics": "indica",
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 0,
+          "price_gram": 10,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2024-03-16T14:57:36Z",
+        "updated_at": "2024-03-16T14:57:36Z",
+        "parent_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "sub_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "measurements": [
+          {
+            "id": 1496872451,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "%",
+            "value": "27.0"
+          }
+        ],
+        "variants": [
+          {
+            "name": "1 gram",
+            "label": "1 g",
+            "price": {
+              "amount": "10.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 1,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 1000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/taos-420-cannabis-coffee-1/menu/wedding-cake",
+        "order": "https://weedmaps.com/dispensaries/taos-420-cannabis-coffee-1/menu/wedding-cake"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 353771,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 2,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 789014764,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 152707520,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Runtz",
+        "slug": "runtz",
+        "category_name": "Flower",
+        "body": "",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/pictures/users/016/018/564/430724200_732212868.jpeg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/users/016/018/564/430724200_732212868.jpeg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/users/016/018/564/430724200_732212868.jpeg",
+        "is_badged": false,
+        "brand_name": null,
+        "cannabinoids": {
+          "thc": "28.0"
+        },
+        "genetics": "hybrid",
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 0,
+          "price_gram": 10,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2024-03-16T14:58:52Z",
+        "updated_at": "2024-03-16T14:58:52Z",
+        "parent_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "sub_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "measurements": [
+          {
+            "id": 1496872466,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "%",
+            "value": "28.0"
+          }
+        ],
+        "variants": [
+          {
+            "name": "1 gram",
+            "label": "1 g",
+            "price": {
+              "amount": "10.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 1,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 1000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/taos-420-cannabis-coffee-1/menu/runtz",
+        "order": "https://weedmaps.com/dispensaries/taos-420-cannabis-coffee-1/menu/runtz"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 353771,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 2,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 789014764,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 152707540,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Green Wave 🌊",
+        "slug": "green-wave",
+        "category_name": "Flower",
+        "body": "",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/pictures/users/016/018/564/430724249_732212713.jpeg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/users/016/018/564/430724249_732212713.jpeg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/users/016/018/564/430724249_732212713.jpeg",
+        "is_badged": false,
+        "brand_name": null,
+        "cannabinoids": {
+          "thc": "33.0"
+        },
+        "genetics": "hybrid",
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 0,
+          "price_gram": 14,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2024-03-16T14:59:58Z",
+        "updated_at": "2024-03-16T14:59:58Z",
+        "parent_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "sub_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "measurements": [
+          {
+            "id": 1496872483,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "%",
+            "value": "33.0"
+          }
+        ],
+        "variants": [
+          {
+            "name": "1 gram",
+            "label": "1 g",
+            "price": {
+              "amount": "14.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 1,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 1000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/taos-420-cannabis-coffee-1/menu/green-wave",
+        "order": "https://weedmaps.com/dispensaries/taos-420-cannabis-coffee-1/menu/green-wave"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 353771,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 2,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 789014764,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 152707621,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Biffs spliffs",
+        "slug": "biffs-spliffs",
+        "category_name": "Flower",
+        "body": "<p>3.5 gm mini prerolls </p>",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/pictures/users/016/018/564/430724309_732212474.jpeg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/users/016/018/564/430724309_732212474.jpeg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/users/016/018/564/430724309_732212474.jpeg",
+        "is_badged": false,
+        "brand_name": "Poquitos- mini preroll packs 3.5gm",
+        "cannabinoids": {
+          "thc": "22.0"
+        },
+        "genetics": "sativa",
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 40,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2024-03-16T15:02:48Z",
+        "updated_at": "2024-03-16T15:02:48Z",
+        "parent_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "sub_category": {
+          "id": 185,
+          "name": "Pre Roll",
+          "slug": "pre-roll"
+        },
+        "measurements": [
+          {
+            "id": 1496872616,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "%",
+            "value": "22.0"
+          }
+        ],
+        "variants": [
+          {
+            "name": "1/8 ounce",
+            "label": "1/8 oz",
+            "price": {
+              "amount": "40.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.125,
+              "unit": "oz"
+            },
+            "sku": null,
+            "compliance_net_mg": 3500,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/taos-420-cannabis-coffee-1/menu/biffs-spliffs",
+        "order": "https://weedmaps.com/dispensaries/taos-420-cannabis-coffee-1/menu/biffs-spliffs"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 353771,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 2
+          },
+          "data": [
+            {
+              "id": 185,
+              "type": "category"
+            },
+            {
+              "id": 2,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 789014764,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 152707691,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Goji og pinners (5 pk)",
+        "slug": "goji-og-pinners-5-pk",
+        "category_name": "Flower",
+        "body": "<p>2.5 gm mini prerolls </p>",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/pictures/users/016/018/564/430724342_732212464.jpeg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/users/016/018/564/430724342_732212464.jpeg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/users/016/018/564/430724342_732212464.jpeg",
+        "is_badged": false,
+        "brand_name": "Taos mountain grow ",
+        "cannabinoids": {
+          "thc": "20.0"
+        },
+        "genetics": "sativa",
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 25,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2024-03-16T15:04:42Z",
+        "updated_at": "2024-03-16T15:04:42Z",
+        "parent_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "sub_category": {
+          "id": 185,
+          "name": "Pre Roll",
+          "slug": "pre-roll"
+        },
+        "measurements": [
+          {
+            "id": 1496872712,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "%",
+            "value": "20.0"
+          }
+        ],
+        "variants": [
+          {
+            "name": "2 grams",
+            "label": "2 g",
+            "price": {
+              "amount": "25.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 2,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 2000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/taos-420-cannabis-coffee-1/menu/goji-og-pinners-5-pk",
+        "order": "https://weedmaps.com/dispensaries/taos-420-cannabis-coffee-1/menu/goji-og-pinners-5-pk"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 353771,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 2
+          },
+          "data": [
+            {
+              "id": 185,
+              "type": "category"
+            },
+            {
+              "id": 2,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 789014764,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 152707747,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Fossil fuel",
+        "slug": "fossil-fuel",
+        "category_name": "Flower",
+        "body": "<p></p><p>5pk mini prerolls </p>",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/pictures/users/016/018/564/430724376_IMG_9587.jpeg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/users/016/018/564/430724376_IMG_9587.jpeg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/users/016/018/564/430724376_IMG_9587.jpeg",
+        "is_badged": false,
+        "brand_name": "Don verde ",
+        "cannabinoids": {
+          "thc": "50.0"
+        },
+        "genetics": "sativa",
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 50,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2024-03-16T15:06:35Z",
+        "updated_at": "2024-03-16T15:08:32Z",
+        "parent_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "sub_category": {
+          "id": 185,
+          "name": "Pre Roll",
+          "slug": "pre-roll"
+        },
+        "measurements": [
+          {
+            "id": 1496872859,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "%",
+            "value": "50.0"
+          }
+        ],
+        "variants": [
+          {
+            "name": "1/8 ounce",
+            "label": "1/8 oz",
+            "price": {
+              "amount": "50.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.125,
+              "unit": "oz"
+            },
+            "sku": null,
+            "compliance_net_mg": 3500,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/taos-420-cannabis-coffee-1/menu/fossil-fuel",
+        "order": "https://weedmaps.com/dispensaries/taos-420-cannabis-coffee-1/menu/fossil-fuel"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 353771,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 2
+          },
+          "data": [
+            {
+              "id": 185,
+              "type": "category"
+            },
+            {
+              "id": 2,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 789014764,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 152707793,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Forest fire 🔥",
+        "slug": "forest-fire",
+        "category_name": "Flower",
+        "body": "<p>5pk mini prerolls </p>",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/pictures/users/016/018/564/430724376_IMG_9587.jpeg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/users/016/018/564/430724376_IMG_9587.jpeg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/users/016/018/564/430724376_IMG_9587.jpeg",
+        "is_badged": false,
+        "brand_name": "Don verde ",
+        "cannabinoids": {
+          "thc": "50.0"
+        },
+        "genetics": "indica",
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 50,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2024-03-16T15:08:13Z",
+        "updated_at": "2024-03-16T15:08:13Z",
+        "parent_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "sub_category": {
+          "id": 185,
+          "name": "Pre Roll",
+          "slug": "pre-roll"
+        },
+        "measurements": [
+          {
+            "id": 1496872842,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "%",
+            "value": "50.0"
+          }
+        ],
+        "variants": [
+          {
+            "name": "1/8 ounce",
+            "label": "1/8 oz",
+            "price": {
+              "amount": "50.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.125,
+              "unit": "oz"
+            },
+            "sku": null,
+            "compliance_net_mg": 3500,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/taos-420-cannabis-coffee-1/menu/forest-fire",
+        "order": "https://weedmaps.com/dispensaries/taos-420-cannabis-coffee-1/menu/forest-fire"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 353771,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 2
+          },
+          "data": [
+            {
+              "id": 185,
+              "type": "category"
+            },
+            {
+              "id": 2,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 789014764,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 152707834,
+      "type": "menu_item",
+      "attributes": {
+        "name": "White runtz",
+        "slug": "white-runtz",
+        "category_name": "Flower",
+        "body": "<p></p><p>5pk mini prerolls </p>",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/pictures/users/016/018/564/430724487_IMG_9586.jpeg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/users/016/018/564/430724487_IMG_9586.jpeg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/users/016/018/564/430724487_IMG_9586.jpeg",
+        "is_badged": false,
+        "brand_name": "Don verde ",
+        "cannabinoids": {
+          "thc": "48.0"
+        },
+        "genetics": "hybrid",
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 50,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2024-03-16T15:09:30Z",
+        "updated_at": "2024-03-16T15:09:49Z",
+        "parent_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "sub_category": {
+          "id": 185,
+          "name": "Pre Roll",
+          "slug": "pre-roll"
+        },
+        "measurements": [
+          {
+            "id": 1496872900,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "%",
+            "value": "48.0"
+          }
+        ],
+        "variants": [
+          {
+            "name": "1/8 ounce",
+            "label": "1/8 oz",
+            "price": {
+              "amount": "50.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.125,
+              "unit": "oz"
+            },
+            "sku": null,
+            "compliance_net_mg": 3500,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/taos-420-cannabis-coffee-1/menu/white-runtz",
+        "order": "https://weedmaps.com/dispensaries/taos-420-cannabis-coffee-1/menu/white-runtz"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 353771,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 2
+          },
+          "data": [
+            {
+              "id": 185,
+              "type": "category"
+            },
+            {
+              "id": 2,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 789014764,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 152708072,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Watermelon",
+        "slug": "watermelon",
+        "category_name": "Flower",
+        "body": "",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/pictures/users/016/018/564/430724540_732212406.jpeg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/users/016/018/564/430724540_732212406.jpeg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/users/016/018/564/430724540_732212406.jpeg",
+        "is_badged": false,
+        "brand_name": "Cinder Stix ( 2 ) 1/2 Gram infused prerolls",
+        "cannabinoids": {
+          "thc": "35.0"
+        },
+        "genetics": "hybrid",
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 16,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2024-03-16T15:12:58Z",
+        "updated_at": "2024-03-16T15:12:59Z",
+        "parent_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "sub_category": {
+          "id": 186,
+          "name": "Infused Pre Roll",
+          "slug": "infused-pre-roll"
+        },
+        "measurements": [
+          {
+            "id": 1496873323,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "%",
+            "value": "35.0"
+          }
+        ],
+        "variants": [
+          {
+            "name": "1/2 gram",
+            "label": "1/2 g",
+            "price": {
+              "amount": "16.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.5,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 500,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/taos-420-cannabis-coffee-1/menu/watermelon",
+        "order": "https://weedmaps.com/dispensaries/taos-420-cannabis-coffee-1/menu/watermelon"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 353771,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 3
+          },
+          "data": [
+            {
+              "id": 186,
+              "type": "category"
+            },
+            {
+              "id": 185,
+              "type": "category"
+            },
+            {
+              "id": 2,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 789014764,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 152708174,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Peach 🍑 Rings",
+        "slug": "peach-rings",
+        "category_name": "Flower",
+        "body": "",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/pictures/users/016/018/564/430724540_732212406.jpeg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/users/016/018/564/430724540_732212406.jpeg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/users/016/018/564/430724540_732212406.jpeg",
+        "is_badged": false,
+        "brand_name": "Cinder sticks (2) 1/2 Gram infused prerolls ",
+        "cannabinoids": {
+          "thc": "35.0"
+        },
+        "genetics": "hybrid",
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 16,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2024-03-16T15:14:56Z",
+        "updated_at": "2024-03-16T15:14:56Z",
+        "parent_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "sub_category": {
+          "id": 186,
+          "name": "Infused Pre Roll",
+          "slug": "infused-pre-roll"
+        },
+        "measurements": [
+          {
+            "id": 1496873452,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "%",
+            "value": "35.0"
+          }
+        ],
+        "variants": [
+          {
+            "name": "1/2 gram",
+            "label": "1/2 g",
+            "price": {
+              "amount": "16.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.5,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 500,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/taos-420-cannabis-coffee-1/menu/peach-rings",
+        "order": "https://weedmaps.com/dispensaries/taos-420-cannabis-coffee-1/menu/peach-rings"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 353771,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 3
+          },
+          "data": [
+            {
+              "id": 186,
+              "type": "category"
+            },
+            {
+              "id": 185,
+              "type": "category"
+            },
+            {
+              "id": 2,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 789014764,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 152708268,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Blackberry cream",
+        "slug": "blackberry-cream",
+        "category_name": "Flower",
+        "body": "",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/pictures/users/016/018/564/430724540_732212406.jpeg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/users/016/018/564/430724540_732212406.jpeg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/users/016/018/564/430724540_732212406.jpeg",
+        "is_badged": false,
+        "brand_name": "Cinder sticks (2) 1/2 Gram infused prerolls ",
+        "cannabinoids": {
+          "thc": "35.0"
+        },
+        "genetics": "hybrid",
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 16,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2024-03-16T15:16:50Z",
+        "updated_at": "2024-03-16T15:16:50Z",
+        "parent_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "sub_category": {
+          "id": 186,
+          "name": "Infused Pre Roll",
+          "slug": "infused-pre-roll"
+        },
+        "measurements": [
+          {
+            "id": 1496873591,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "%",
+            "value": "35.0"
+          }
+        ],
+        "variants": [
+          {
+            "name": "1/2 gram",
+            "label": "1/2 g",
+            "price": {
+              "amount": "16.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.5,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 500,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/taos-420-cannabis-coffee-1/menu/blackberry-cream",
+        "order": "https://weedmaps.com/dispensaries/taos-420-cannabis-coffee-1/menu/blackberry-cream"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 353771,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 3
+          },
+          "data": [
+            {
+              "id": 186,
+              "type": "category"
+            },
+            {
+              "id": 185,
+              "type": "category"
+            },
+            {
+              "id": 2,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 789014764,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 152708281,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Blood orange 🍊",
+        "slug": "blood-orange",
+        "category_name": "Flower",
+        "body": "",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/pictures/users/016/018/564/430724540_732212406.jpeg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/users/016/018/564/430724540_732212406.jpeg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/users/016/018/564/430724540_732212406.jpeg",
+        "is_badged": false,
+        "brand_name": "Cinder stixs (2) 1/2 Gram infused prerolls ",
+        "cannabinoids": {
+          "thc": "35.0"
+        },
+        "genetics": "hybrid",
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 16,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2024-03-16T15:18:13Z",
+        "updated_at": "2024-03-16T15:18:13Z",
+        "parent_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "sub_category": {
+          "id": 186,
+          "name": "Infused Pre Roll",
+          "slug": "infused-pre-roll"
+        },
+        "measurements": [
+          {
+            "id": 1496873605,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "%",
+            "value": "35.0"
+          }
+        ],
+        "variants": [
+          {
+            "name": "1/2 gram",
+            "label": "1/2 g",
+            "price": {
+              "amount": "16.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.5,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 500,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/taos-420-cannabis-coffee-1/menu/blood-orange",
+        "order": "https://weedmaps.com/dispensaries/taos-420-cannabis-coffee-1/menu/blood-orange"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 353771,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 3
+          },
+          "data": [
+            {
+              "id": 186,
+              "type": "category"
+            },
+            {
+              "id": 185,
+              "type": "category"
+            },
+            {
+              "id": 2,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 789014764,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 152708369,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Grape 🍇",
+        "slug": "grape",
+        "category_name": "Flower",
+        "body": "",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/pictures/users/016/018/564/430724540_732212406.jpeg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/users/016/018/564/430724540_732212406.jpeg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/users/016/018/564/430724540_732212406.jpeg",
+        "is_badged": false,
+        "brand_name": "Cinder sticks (2) 1/2 Gram infused prerolls ",
+        "cannabinoids": {
+          "thc": "35.0"
+        },
+        "genetics": "hybrid",
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 16,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2024-03-16T15:20:06Z",
+        "updated_at": "2024-03-16T15:20:06Z",
+        "parent_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "sub_category": {
+          "id": 186,
+          "name": "Infused Pre Roll",
+          "slug": "infused-pre-roll"
+        },
+        "measurements": [
+          {
+            "id": 1496873694,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "%",
+            "value": "35.0"
+          }
+        ],
+        "variants": [
+          {
+            "name": "1/2 gram",
+            "label": "1/2 g",
+            "price": {
+              "amount": "16.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.5,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 500,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/taos-420-cannabis-coffee-1/menu/grape",
+        "order": "https://weedmaps.com/dispensaries/taos-420-cannabis-coffee-1/menu/grape"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 353771,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 3
+          },
+          "data": [
+            {
+              "id": 186,
+              "type": "category"
+            },
+            {
+              "id": 185,
+              "type": "category"
+            },
+            {
+              "id": 2,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 789014764,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 152708502,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Banana cream 🍌/ Grape 🍇/ lemon 🍋 haze / blueberry 🫐",
+        "slug": "banana-cream",
+        "category_name": "Flower",
+        "body": "",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/pictures/users/016/018/564/430724725_732211968.jpeg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/users/016/018/564/430724725_732211968.jpeg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/users/016/018/564/430724725_732211968.jpeg",
+        "is_badged": false,
+        "brand_name": "Twax 1 Gram infused preroll ",
+        "cannabinoids": {
+          "thc": "33.0"
+        },
+        "genetics": "hybrid",
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 0,
+          "price_gram": 28,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2024-03-16T15:24:39Z",
+        "updated_at": "2024-03-16T15:25:33Z",
+        "parent_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "sub_category": {
+          "id": 186,
+          "name": "Infused Pre Roll",
+          "slug": "infused-pre-roll"
+        },
+        "measurements": [
+          {
+            "id": 1496873828,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "%",
+            "value": "33.0"
+          }
+        ],
+        "variants": [
+          {
+            "name": "1 gram",
+            "label": "1 g",
+            "price": {
+              "amount": "28.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 1,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 1000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/taos-420-cannabis-coffee-1/menu/banana-cream",
+        "order": "https://weedmaps.com/dispensaries/taos-420-cannabis-coffee-1/menu/banana-cream"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 353771,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 3
+          },
+          "data": [
+            {
+              "id": 186,
+              "type": "category"
+            },
+            {
+              "id": 185,
+              "type": "category"
+            },
+            {
+              "id": 2,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 789014764,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 152708785,
+      "type": "menu_item",
+      "attributes": {
+        "name": "The Soap/ Alien og kush/ cherry cheesecake/icc animal mints",
+        "slug": "the-soap-alien-og-kush-cherry-cheesecake-icc-animal-mints",
+        "category_name": "Flower",
+        "body": "<p></p><p>2 Gram kief infused Blunt </p>",
+        "is_published": true,
+        "license_type": "recreational",
+        "online_orderable": null,
+        "picture_url": "https://images.weedmaps.com/pictures/users/016/018/564/430724833_image.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/pictures/users/016/018/564/430724833_image.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/pictures/users/016/018/564/430724833_image.jpg",
+        "is_badged": false,
+        "brand_name": "Juicy joints 2 Gram Blunt",
+        "cannabinoids": {
+          "thc": "32.0"
+        },
+        "genetics": "hybrid",
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 40,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2024-03-16T15:30:30Z",
+        "updated_at": "2024-03-16T15:39:15Z",
+        "parent_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "sub_category": {
+          "id": 187,
+          "name": "Blunt Wrap",
+          "slug": "blunt-wrap"
+        },
+        "measurements": [
+          {
+            "id": 1496874153,
+            "classification": "cannabinoid",
+            "full_name": "Tetrahydrocannabinol",
+            "name": "THC",
+            "unit": "%",
+            "value": "32.0"
+          }
+        ],
+        "variants": [
+          {
+            "name": "2 grams",
+            "label": "2 g",
+            "price": {
+              "amount": "40.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 2,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 2000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/taos-420-cannabis-coffee-1/menu/the-soap-alien-og-kush-cherry-cheesecake-icc-animal-mints",
+        "order": "https://weedmaps.com/dispensaries/taos-420-cannabis-coffee-1/menu/the-soap-alien-og-kush-cherry-cheesecake-icc-animal-mints"
+      },
+      "relationships": {
+        "brand": null,
+        "listing": {
+          "data": {
+            "id": 353771,
+            "type": "dispensary"
+          }
+        },
+        "product": null,
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 3
+          },
+          "data": [
+            {
+              "id": 187,
+              "type": "category"
+            },
+            {
+              "id": 185,
+              "type": "category"
+            },
+            {
+              "id": 2,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 789014764,
+            "type": "listing"
+          }
+        }
+      }
+    }
+  ]
+}

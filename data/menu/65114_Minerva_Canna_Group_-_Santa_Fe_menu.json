@@ -1,0 +1,3779 @@
+{
+  "meta": {
+    "page": 1,
+    "per_page": 100,
+    "total": 34
+  },
+  "data": [
+    {
+      "id": 80293532,
+      "type": "menu_item",
+      "attributes": {
+        "name": "CANDY SUCKERS",
+        "slug": "candy-suckers",
+        "category_name": "Edibles",
+        "body": "Don’t be sucker eat one! 100 MG THC per pack of four. Assorted flavors.<br><br>",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/products/000/321/684/avatar/1637266835-3007-fc2b293adea4a06b0ae504ff1607722467345.png",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/products/000/321/684/avatar/1637266835-3007-fc2b293adea4a06b0ae504ff1607722467345.png",
+        "avatar_image_url": "https://images.weedmaps.com/products/000/321/684/avatar/1637266835-3007-fc2b293adea4a06b0ae504ff1607722467345.png",
+        "is_badged": true,
+        "brand_name": "Canna Cafe",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 12,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2021-11-18T20:34:07Z",
+        "updated_at": "2023-07-27T01:12:29Z",
+        "parent_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "sub_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "measurements": [],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/minerva-canna-group-albuquerque/menu/candy-suckers",
+        "order": "https://weedmaps.com/dispensaries/minerva-canna-group-albuquerque/menu/candy-suckers"
+      },
+      "relationships": {
+        "brand": {
+          "data": {
+            "id": 10210,
+            "type": "brand"
+          }
+        },
+        "listing": {
+          "data": {
+            "id": 14767,
+            "type": "dispensary"
+          }
+        },
+        "product": {
+          "data": {
+            "id": 321684,
+            "type": "product"
+          }
+        },
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 5,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 190303269,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 80293603,
+      "type": "menu_item",
+      "attributes": {
+        "name": "HARD CANDY CUBES 200MG",
+        "slug": "hard-candy-cubes-200mg",
+        "category_name": "Edibles",
+        "body": "Go hard on your aches and pains with these lovely little Hard Candy NiceCubes. 5mg of THC per cube totaling, 200 mg of THC Distillate per a container of 40.",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/products/000/321/685/avatar/1637266840-3007-7d1addb00b31f960d4504bed1607631772452.png",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/products/000/321/685/avatar/1637266840-3007-7d1addb00b31f960d4504bed1607631772452.png",
+        "avatar_image_url": "https://images.weedmaps.com/products/000/321/685/avatar/1637266840-3007-7d1addb00b31f960d4504bed1607631772452.png",
+        "is_badged": true,
+        "brand_name": "Canna Cafe",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 25,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2021-11-18T20:34:31Z",
+        "updated_at": "2021-11-18T20:52:56Z",
+        "parent_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "sub_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "measurements": [],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/minerva-canna-group-albuquerque/menu/hard-candy-cubes-200mg",
+        "order": "https://weedmaps.com/dispensaries/minerva-canna-group-albuquerque/menu/hard-candy-cubes-200mg"
+      },
+      "relationships": {
+        "brand": {
+          "data": {
+            "id": 10210,
+            "type": "brand"
+          }
+        },
+        "listing": {
+          "data": {
+            "id": 14767,
+            "type": "dispensary"
+          }
+        },
+        "product": {
+          "data": {
+            "id": 321685,
+            "type": "product"
+          }
+        },
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 5,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 190303269,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 80293626,
+      "type": "menu_item",
+      "attributes": {
+        "name": "MAUI CRUNCH BAR",
+        "slug": "maui-crunch-bar",
+        "category_name": "Edibles",
+        "body": "Where the the tropics meets your mouth. With 200 mg of THC The Maui Crunch Bar is a far and away experience. Leave the desert behind and go to paradise!",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/products/000/321/686/avatar/1637266843-3007-c47dba4c0afbad20293906c71607706487261.png",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/products/000/321/686/avatar/1637266843-3007-c47dba4c0afbad20293906c71607706487261.png",
+        "avatar_image_url": "https://images.weedmaps.com/products/000/321/686/avatar/1637266843-3007-c47dba4c0afbad20293906c71607706487261.png",
+        "is_badged": true,
+        "brand_name": "Canna Cafe",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 22,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2021-11-18T20:35:01Z",
+        "updated_at": "2023-07-27T01:12:29Z",
+        "parent_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "sub_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "measurements": [],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/minerva-canna-group-albuquerque/menu/maui-crunch-bar",
+        "order": "https://weedmaps.com/dispensaries/minerva-canna-group-albuquerque/menu/maui-crunch-bar"
+      },
+      "relationships": {
+        "brand": {
+          "data": {
+            "id": 10210,
+            "type": "brand"
+          }
+        },
+        "listing": {
+          "data": {
+            "id": 14767,
+            "type": "dispensary"
+          }
+        },
+        "product": {
+          "data": {
+            "id": 321686,
+            "type": "product"
+          }
+        },
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 5,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 190303269,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 80293646,
+      "type": "menu_item",
+      "attributes": {
+        "name": "MILK CHOCOLATE HONEY PEANUT BAR 200MG",
+        "slug": "milk-chocolate-honey-peanut-bar-200mg",
+        "category_name": "Edibles",
+        "body": "The name says it all, Milk Chocolate Honey Peanut Bar. The only thing left to say is, YUM! 200mg THC per bar.<br>",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/products/000/321/687/avatar/1637266847-3007-64d7c68dadb236010e0223ed1607706374696.png",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/products/000/321/687/avatar/1637266847-3007-64d7c68dadb236010e0223ed1607706374696.png",
+        "avatar_image_url": "https://images.weedmaps.com/products/000/321/687/avatar/1637266847-3007-64d7c68dadb236010e0223ed1607706374696.png",
+        "is_badged": true,
+        "brand_name": "Canna Cafe",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 22,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2021-11-18T20:35:19Z",
+        "updated_at": "2023-07-27T01:12:29Z",
+        "parent_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "sub_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "measurements": [],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/minerva-canna-group-albuquerque/menu/milk-chocolate-honey-peanut-bar-200mg",
+        "order": "https://weedmaps.com/dispensaries/minerva-canna-group-albuquerque/menu/milk-chocolate-honey-peanut-bar-200mg"
+      },
+      "relationships": {
+        "brand": {
+          "data": {
+            "id": 10210,
+            "type": "brand"
+          }
+        },
+        "listing": {
+          "data": {
+            "id": 14767,
+            "type": "dispensary"
+          }
+        },
+        "product": {
+          "data": {
+            "id": 321687,
+            "type": "product"
+          }
+        },
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 5,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 190303269,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 80293664,
+      "type": "menu_item",
+      "attributes": {
+        "name": "NICE CUBES 2MG",
+        "slug": "nice-cubes-2mg",
+        "category_name": "Edibles",
+        "body": "Feel Nice with Nice Cubes! 2mg THC per piece. 40 per container.<br>",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/products/000/321/688/avatar/1637266850-3007-389a2fbc45f3a06702b869c51607634587967.png",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/products/000/321/688/avatar/1637266850-3007-389a2fbc45f3a06702b869c51607634587967.png",
+        "avatar_image_url": "https://images.weedmaps.com/products/000/321/688/avatar/1637266850-3007-389a2fbc45f3a06702b869c51607634587967.png",
+        "is_badged": true,
+        "brand_name": "Canna Cafe",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 15,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2021-11-18T20:35:31Z",
+        "updated_at": "2023-07-27T01:12:29Z",
+        "parent_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "sub_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "measurements": [],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/minerva-canna-group-albuquerque/menu/nice-cubes-2mg",
+        "order": "https://weedmaps.com/dispensaries/minerva-canna-group-albuquerque/menu/nice-cubes-2mg"
+      },
+      "relationships": {
+        "brand": {
+          "data": {
+            "id": 10210,
+            "type": "brand"
+          }
+        },
+        "listing": {
+          "data": {
+            "id": 14767,
+            "type": "dispensary"
+          }
+        },
+        "product": {
+          "data": {
+            "id": 321688,
+            "type": "product"
+          }
+        },
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 5,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 190303269,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 80293671,
+      "type": "menu_item",
+      "attributes": {
+        "name": "PEANUT BUTTER COOKIE 4PK 100MG",
+        "slug": "peanut-butter-cookie-4pk-100mg",
+        "category_name": "Edibles",
+        "body": "butter, sugar, brown sugar, peanut butter, chopped peanuts, eggs, vanilla extract, flour, salt, baking soda",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/products/000/321/689/avatar/1637266854-3007-e34cbebe527cddb4ec7efe011612293348108.png",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/products/000/321/689/avatar/1637266854-3007-e34cbebe527cddb4ec7efe011612293348108.png",
+        "avatar_image_url": "https://images.weedmaps.com/products/000/321/689/avatar/1637266854-3007-e34cbebe527cddb4ec7efe011612293348108.png",
+        "is_badged": true,
+        "brand_name": "Canna Cafe",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 14,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2021-11-18T20:35:45Z",
+        "updated_at": "2021-11-18T20:52:57Z",
+        "parent_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "sub_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "measurements": [],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/minerva-canna-group-albuquerque/menu/peanut-butter-cookie-4pk-100mg",
+        "order": "https://weedmaps.com/dispensaries/minerva-canna-group-albuquerque/menu/peanut-butter-cookie-4pk-100mg"
+      },
+      "relationships": {
+        "brand": {
+          "data": {
+            "id": 10210,
+            "type": "brand"
+          }
+        },
+        "listing": {
+          "data": {
+            "id": 14767,
+            "type": "dispensary"
+          }
+        },
+        "product": {
+          "data": {
+            "id": 321689,
+            "type": "product"
+          }
+        },
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 5,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 190303269,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 80293682,
+      "type": "menu_item",
+      "attributes": {
+        "name": "SNICKERDOODLE 4 X 25MG",
+        "slug": "snickerdoodle-4-x-25mg",
+        "category_name": "Edibles",
+        "body": "Classic cookies for classic people! 4 cookies per package at 2 mg THC each cookie.",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/products/000/321/690/avatar/1637266857-3007-74eedc66ed7d6047dfaa2ab31607639296778.png",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/products/000/321/690/avatar/1637266857-3007-74eedc66ed7d6047dfaa2ab31607639296778.png",
+        "avatar_image_url": "https://images.weedmaps.com/products/000/321/690/avatar/1637266857-3007-74eedc66ed7d6047dfaa2ab31607639296778.png",
+        "is_badged": true,
+        "brand_name": "Canna Cafe",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 14,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2021-11-18T20:35:58Z",
+        "updated_at": "2023-07-27T01:12:29Z",
+        "parent_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "sub_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "measurements": [],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/minerva-canna-group-albuquerque/menu/snickerdoodle-4-x-25mg",
+        "order": "https://weedmaps.com/dispensaries/minerva-canna-group-albuquerque/menu/snickerdoodle-4-x-25mg"
+      },
+      "relationships": {
+        "brand": {
+          "data": {
+            "id": 10210,
+            "type": "brand"
+          }
+        },
+        "listing": {
+          "data": {
+            "id": 14767,
+            "type": "dispensary"
+          }
+        },
+        "product": {
+          "data": {
+            "id": 321690,
+            "type": "product"
+          }
+        },
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 5,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 190303269,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 80293706,
+      "type": "menu_item",
+      "attributes": {
+        "name": "STRAWBERRY COVERED DARK CHOCOLATE BAR",
+        "slug": "strawberry-covered-dark-chocolate-bar",
+        "category_name": "Edibles",
+        "body": "Like dark chocolate? Like strawberries? Got aches and pains? With 200 mg THC and the finest ingredients, it’s a no brainer.",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/products/000/321/691/avatar/1637266861-3007-a0740640c2c29d5752714e2f1607554883194.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/products/000/321/691/avatar/1637266861-3007-a0740640c2c29d5752714e2f1607554883194.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/products/000/321/691/avatar/1637266861-3007-a0740640c2c29d5752714e2f1607554883194.jpg",
+        "is_badged": true,
+        "brand_name": "Canna Cafe",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 22,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2021-11-18T20:36:15Z",
+        "updated_at": "2023-07-27T01:12:29Z",
+        "parent_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "sub_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "measurements": [],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/minerva-canna-group-albuquerque/menu/strawberry-covered-dark-chocolate-bar",
+        "order": "https://weedmaps.com/dispensaries/minerva-canna-group-albuquerque/menu/strawberry-covered-dark-chocolate-bar"
+      },
+      "relationships": {
+        "brand": {
+          "data": {
+            "id": 10210,
+            "type": "brand"
+          }
+        },
+        "listing": {
+          "data": {
+            "id": 14767,
+            "type": "dispensary"
+          }
+        },
+        "product": {
+          "data": {
+            "id": 321691,
+            "type": "product"
+          }
+        },
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 5,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 190303269,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 80293736,
+      "type": "menu_item",
+      "attributes": {
+        "name": "STRAWBERRY MILKSHAKE BAR 200MG",
+        "slug": "strawberry-milkshake-bar-200mg",
+        "category_name": "Edibles",
+        "body": "Just like gettin your favorite drink from the diner with a little something extra ;). 200mg per bar.<br>",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/products/000/321/692/avatar/1637266865-3007-b723dcce20a1d4e1a733185e1607554579611.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/products/000/321/692/avatar/1637266865-3007-b723dcce20a1d4e1a733185e1607554579611.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/products/000/321/692/avatar/1637266865-3007-b723dcce20a1d4e1a733185e1607554579611.jpg",
+        "is_badged": true,
+        "brand_name": "Canna Cafe",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 22,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2021-11-18T20:36:27Z",
+        "updated_at": "2023-07-27T01:12:29Z",
+        "parent_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "sub_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "measurements": [],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/minerva-canna-group-albuquerque/menu/strawberry-milkshake-bar-200mg",
+        "order": "https://weedmaps.com/dispensaries/minerva-canna-group-albuquerque/menu/strawberry-milkshake-bar-200mg"
+      },
+      "relationships": {
+        "brand": {
+          "data": {
+            "id": 10210,
+            "type": "brand"
+          }
+        },
+        "listing": {
+          "data": {
+            "id": 14767,
+            "type": "dispensary"
+          }
+        },
+        "product": {
+          "data": {
+            "id": 321692,
+            "type": "product"
+          }
+        },
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 5,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 190303269,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 80293756,
+      "type": "menu_item",
+      "attributes": {
+        "name": "ARNOLD PALMER 40MG",
+        "slug": "arnold-palmer-40mg",
+        "category_name": "Edibles",
+        "body": "Who would have thought the marriage of iced tea and lemonade would equal the venerable “Arnold Palmer” drink. We’ve somehow made it better with 40 mg of THC!!!",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/products/000/321/693/avatar/1637266868-3007-18a4fe6e88c939eb185e26c01612458833311.png",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/products/000/321/693/avatar/1637266868-3007-18a4fe6e88c939eb185e26c01612458833311.png",
+        "avatar_image_url": "https://images.weedmaps.com/products/000/321/693/avatar/1637266868-3007-18a4fe6e88c939eb185e26c01612458833311.png",
+        "is_badged": true,
+        "brand_name": "Canna Cafe",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 9,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2021-11-18T20:36:42Z",
+        "updated_at": "2023-07-27T01:12:29Z",
+        "parent_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "sub_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "measurements": [],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/minerva-canna-group-albuquerque/menu/arnold-palmer-40mg",
+        "order": "https://weedmaps.com/dispensaries/minerva-canna-group-albuquerque/menu/arnold-palmer-40mg"
+      },
+      "relationships": {
+        "brand": {
+          "data": {
+            "id": 10210,
+            "type": "brand"
+          }
+        },
+        "listing": {
+          "data": {
+            "id": 14767,
+            "type": "dispensary"
+          }
+        },
+        "product": {
+          "data": {
+            "id": 321693,
+            "type": "product"
+          }
+        },
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 5,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 190303269,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 80293765,
+      "type": "menu_item",
+      "attributes": {
+        "name": "BLACK THC TEA",
+        "slug": "black-thc-tea",
+        "category_name": "Edibles",
+        "body": "Classic black tea meets THC in friendly way. Sugar Free and 40 mg THC in one package…<br>",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/products/000/321/694/avatar/1637266870-3007-586d7fadc87ebeba80d9fad81612377645783.png",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/products/000/321/694/avatar/1637266870-3007-586d7fadc87ebeba80d9fad81612377645783.png",
+        "avatar_image_url": "https://images.weedmaps.com/products/000/321/694/avatar/1637266870-3007-586d7fadc87ebeba80d9fad81612377645783.png",
+        "is_badged": true,
+        "brand_name": "Canna Cafe",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 9,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2021-11-18T20:36:56Z",
+        "updated_at": "2023-07-27T01:12:29Z",
+        "parent_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "sub_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "measurements": [],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/minerva-canna-group-albuquerque/menu/black-thc-tea",
+        "order": "https://weedmaps.com/dispensaries/minerva-canna-group-albuquerque/menu/black-thc-tea"
+      },
+      "relationships": {
+        "brand": {
+          "data": {
+            "id": 10210,
+            "type": "brand"
+          }
+        },
+        "listing": {
+          "data": {
+            "id": 14767,
+            "type": "dispensary"
+          }
+        },
+        "product": {
+          "data": {
+            "id": 321694,
+            "type": "product"
+          }
+        },
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 5,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 190303269,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 80293778,
+      "type": "menu_item",
+      "attributes": {
+        "name": "BLUEBERRY CHEESECAKE 100MG",
+        "slug": "blueberry-cheesecake-100mg",
+        "category_name": "Edibles",
+        "body": "It the place where blueberry, THC, and cheesecake meet. Oh what wonderful place!100mg of THC per slice.",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/products/000/321/695/avatar/1637266874-3007-33cc2d48b885e0c11fc1a0081607720788244.png",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/products/000/321/695/avatar/1637266874-3007-33cc2d48b885e0c11fc1a0081607720788244.png",
+        "avatar_image_url": "https://images.weedmaps.com/products/000/321/695/avatar/1637266874-3007-33cc2d48b885e0c11fc1a0081607720788244.png",
+        "is_badged": true,
+        "brand_name": "Canna Cafe",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 15,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2021-11-18T20:37:09Z",
+        "updated_at": "2023-07-27T01:12:29Z",
+        "parent_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "sub_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "measurements": [],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/minerva-canna-group-albuquerque/menu/blueberry-cheesecake-100mg",
+        "order": "https://weedmaps.com/dispensaries/minerva-canna-group-albuquerque/menu/blueberry-cheesecake-100mg"
+      },
+      "relationships": {
+        "brand": {
+          "data": {
+            "id": 10210,
+            "type": "brand"
+          }
+        },
+        "listing": {
+          "data": {
+            "id": 14767,
+            "type": "dispensary"
+          }
+        },
+        "product": {
+          "data": {
+            "id": 321695,
+            "type": "product"
+          }
+        },
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 5,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 190303269,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 80293801,
+      "type": "menu_item",
+      "attributes": {
+        "name": "CBD CANNA BALM",
+        "slug": "cbd-canna-balm",
+        "category_name": "Other",
+        "body": "CBD brings relief to aches and pains<br><br>",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/products/000/321/710/avatar/1637267609-3007-29934ccc1650940e2963baba1612300759266.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/products/000/321/710/avatar/1637267609-3007-29934ccc1650940e2963baba1612300759266.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/products/000/321/710/avatar/1637267609-3007-29934ccc1650940e2963baba1612300759266.jpg",
+        "is_badged": true,
+        "brand_name": "Minerva Canna",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 43.48,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2021-11-18T20:37:37Z",
+        "updated_at": "2023-07-27T01:12:29Z",
+        "parent_category": {
+          "id": 349,
+          "name": "Other",
+          "slug": "other"
+        },
+        "sub_category": {
+          "id": 349,
+          "name": "Other",
+          "slug": "other"
+        },
+        "measurements": [],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/minerva-canna-group-albuquerque/menu/cbd-canna-balm",
+        "order": "https://weedmaps.com/dispensaries/minerva-canna-group-albuquerque/menu/cbd-canna-balm"
+      },
+      "relationships": {
+        "brand": {
+          "data": {
+            "id": 10353,
+            "type": "brand"
+          }
+        },
+        "listing": {
+          "data": {
+            "id": 14767,
+            "type": "dispensary"
+          }
+        },
+        "product": {
+          "data": {
+            "id": 321710,
+            "type": "product"
+          }
+        },
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 349,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 190303269,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 80293809,
+      "type": "menu_item",
+      "attributes": {
+        "name": "CHOCOLATE CHIP COOKIES 100MG X 4PK",
+        "slug": "chocolate-chip-cookies-100mg-x-4pk",
+        "category_name": "Edibles",
+        "body": "Flour, baking soda, salt, butter, sugar, brown sugar, vanilla bean paste, eggs, chocolate chips",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/products/000/321/696/avatar/1637266877-3007-70d99ee0306da7877cb75de71612459735270.png",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/products/000/321/696/avatar/1637266877-3007-70d99ee0306da7877cb75de71612459735270.png",
+        "avatar_image_url": "https://images.weedmaps.com/products/000/321/696/avatar/1637266877-3007-70d99ee0306da7877cb75de71612459735270.png",
+        "is_badged": true,
+        "brand_name": "Canna Cafe",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 14,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2021-11-18T20:37:50Z",
+        "updated_at": "2021-11-18T20:52:57Z",
+        "parent_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "sub_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "measurements": [],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/minerva-canna-group-albuquerque/menu/chocolate-chip-cookies-100mg-x-4pk",
+        "order": "https://weedmaps.com/dispensaries/minerva-canna-group-albuquerque/menu/chocolate-chip-cookies-100mg-x-4pk"
+      },
+      "relationships": {
+        "brand": {
+          "data": {
+            "id": 10210,
+            "type": "brand"
+          }
+        },
+        "listing": {
+          "data": {
+            "id": 14767,
+            "type": "dispensary"
+          }
+        },
+        "product": {
+          "data": {
+            "id": 321696,
+            "type": "product"
+          }
+        },
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 5,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 190303269,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 80293851,
+      "type": "menu_item",
+      "attributes": {
+        "name": "CHOCOLATE MINT OG X BLUE POWER",
+        "slug": "chocolate-mint-og-x-blue-power",
+        "category_name": "Flower",
+        "body": "This beauty is a Minerva Original. She is a potent mix of a wonderful hybridit is claimed to produce deeprelaxingeffects that are a great answer formigrainesandsleepless nights along with muscle spasms, and appetite loss.",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/products/000/321/711/avatar/1637267613-3007-6f7519c76e3b2d852dd9e67b1612898274030.png",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/products/000/321/711/avatar/1637267613-3007-6f7519c76e3b2d852dd9e67b1612898274030.png",
+        "avatar_image_url": "https://images.weedmaps.com/products/000/321/711/avatar/1637267613-3007-6f7519c76e3b2d852dd9e67b1612898274030.png",
+        "is_badged": true,
+        "brand_name": "Minerva Canna",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 0,
+          "price_gram": 10.2,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2021-11-18T20:38:16Z",
+        "updated_at": "2021-11-18T20:53:25Z",
+        "parent_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "sub_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "measurements": [],
+        "variants": [
+          {
+            "name": "1 gram",
+            "label": "1 g",
+            "price": {
+              "amount": "10.20",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 1,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 1000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/minerva-canna-group-albuquerque/menu/chocolate-mint-og-x-blue-power",
+        "order": "https://weedmaps.com/dispensaries/minerva-canna-group-albuquerque/menu/chocolate-mint-og-x-blue-power"
+      },
+      "relationships": {
+        "brand": {
+          "data": {
+            "id": 10353,
+            "type": "brand"
+          }
+        },
+        "listing": {
+          "data": {
+            "id": 14767,
+            "type": "dispensary"
+          }
+        },
+        "product": {
+          "data": {
+            "id": 321711,
+            "type": "product"
+          }
+        },
+        "strain": {
+          "data": {
+            "id": 6051,
+            "type": "strain"
+          }
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 2,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 190303269,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 80293894,
+      "type": "menu_item",
+      "attributes": {
+        "name": "COOKIES AND CREAM BAR 200MG",
+        "slug": "cookies-and-cream-bar-200mg",
+        "category_name": "Edibles",
+        "body": "The classic flavor meets cannabis. 200 mg THC.",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/products/000/321/697/avatar/1637266880-3007-39390c3eb1b7459853c9f8681612299408399.png",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/products/000/321/697/avatar/1637266880-3007-39390c3eb1b7459853c9f8681612299408399.png",
+        "avatar_image_url": "https://images.weedmaps.com/products/000/321/697/avatar/1637266880-3007-39390c3eb1b7459853c9f8681612299408399.png",
+        "is_badged": true,
+        "brand_name": "Canna Cafe",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 22,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2021-11-18T20:38:34Z",
+        "updated_at": "2023-07-27T01:12:29Z",
+        "parent_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "sub_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "measurements": [],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/minerva-canna-group-albuquerque/menu/cookies-and-cream-bar-200mg",
+        "order": "https://weedmaps.com/dispensaries/minerva-canna-group-albuquerque/menu/cookies-and-cream-bar-200mg"
+      },
+      "relationships": {
+        "brand": {
+          "data": {
+            "id": 10210,
+            "type": "brand"
+          }
+        },
+        "listing": {
+          "data": {
+            "id": 14767,
+            "type": "dispensary"
+          }
+        },
+        "product": {
+          "data": {
+            "id": 321697,
+            "type": "product"
+          }
+        },
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 5,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 190303269,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 80293917,
+      "type": "menu_item",
+      "attributes": {
+        "name": "DARK CHOCOLATE BAR 200MG",
+        "slug": "dark-chocolate-bar-200mg",
+        "category_name": "Edibles",
+        "body": "62% satilia Dark Chocolate, Sugar, Cocoa Butter, Soy Lecithin, cannabis oil.",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/products/000/321/698/avatar/1637266882-3007-5bec40efd954a15a3b69b0cd1609896013798.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/products/000/321/698/avatar/1637266882-3007-5bec40efd954a15a3b69b0cd1609896013798.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/products/000/321/698/avatar/1637266882-3007-5bec40efd954a15a3b69b0cd1609896013798.jpg",
+        "is_badged": true,
+        "brand_name": "Canna Cafe",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 22,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2021-11-18T20:38:46Z",
+        "updated_at": "2021-11-18T20:52:57Z",
+        "parent_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "sub_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "measurements": [],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/minerva-canna-group-albuquerque/menu/dark-chocolate-bar-200mg",
+        "order": "https://weedmaps.com/dispensaries/minerva-canna-group-albuquerque/menu/dark-chocolate-bar-200mg"
+      },
+      "relationships": {
+        "brand": {
+          "data": {
+            "id": 10210,
+            "type": "brand"
+          }
+        },
+        "listing": {
+          "data": {
+            "id": 14767,
+            "type": "dispensary"
+          }
+        },
+        "product": {
+          "data": {
+            "id": 321698,
+            "type": "product"
+          }
+        },
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 5,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 190303269,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 80293925,
+      "type": "menu_item",
+      "attributes": {
+        "name": "DARK CHOCOLATE BAR 500MG",
+        "slug": "dark-chocolate-bar-500mg",
+        "category_name": "Edibles",
+        "body": "62% satilia Dark Chocolate, Sugar, Cocoa Butter, Soy Lecithin, cannabis oil.",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/products/000/321/699/avatar/1637266884-3007-5bec40efd954a15a3b69b0cd1609896013798.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/products/000/321/699/avatar/1637266884-3007-5bec40efd954a15a3b69b0cd1609896013798.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/products/000/321/699/avatar/1637266884-3007-5bec40efd954a15a3b69b0cd1609896013798.jpg",
+        "is_badged": true,
+        "brand_name": "Canna Cafe",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 47,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2021-11-18T20:38:59Z",
+        "updated_at": "2021-11-18T20:52:57Z",
+        "parent_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "sub_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "measurements": [],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/minerva-canna-group-albuquerque/menu/dark-chocolate-bar-500mg",
+        "order": "https://weedmaps.com/dispensaries/minerva-canna-group-albuquerque/menu/dark-chocolate-bar-500mg"
+      },
+      "relationships": {
+        "brand": {
+          "data": {
+            "id": 10210,
+            "type": "brand"
+          }
+        },
+        "listing": {
+          "data": {
+            "id": 14767,
+            "type": "dispensary"
+          }
+        },
+        "product": {
+          "data": {
+            "id": 321699,
+            "type": "product"
+          }
+        },
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 5,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 190303269,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 80293943,
+      "type": "menu_item",
+      "attributes": {
+        "name": "GALAXY BAR MILK CHOCOLATE 200MG",
+        "slug": "galaxy-bar-milk-chocolate-200mg",
+        "category_name": "Edibles",
+        "body": "So good it will take you to another galaxy, especially with 200 mg THC per bar. This far out medication is a Minerva hall of famer! Try it and you won’t forget how you felt!",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/products/000/321/700/avatar/1637266887-3007-c270569ef07d8575910b4e081607963211145.png",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/products/000/321/700/avatar/1637266887-3007-c270569ef07d8575910b4e081607963211145.png",
+        "avatar_image_url": "https://images.weedmaps.com/products/000/321/700/avatar/1637266887-3007-c270569ef07d8575910b4e081607963211145.png",
+        "is_badged": true,
+        "brand_name": "Canna Cafe",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 22,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2021-11-18T20:39:12Z",
+        "updated_at": "2023-07-27T01:12:29Z",
+        "parent_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "sub_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "measurements": [],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/minerva-canna-group-albuquerque/menu/galaxy-bar-milk-chocolate-200mg",
+        "order": "https://weedmaps.com/dispensaries/minerva-canna-group-albuquerque/menu/galaxy-bar-milk-chocolate-200mg"
+      },
+      "relationships": {
+        "brand": {
+          "data": {
+            "id": 10210,
+            "type": "brand"
+          }
+        },
+        "listing": {
+          "data": {
+            "id": 14767,
+            "type": "dispensary"
+          }
+        },
+        "product": {
+          "data": {
+            "id": 321700,
+            "type": "product"
+          }
+        },
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 5,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 190303269,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 80294063,
+      "type": "menu_item",
+      "attributes": {
+        "name": "JOINT HARVEST BLEND",
+        "slug": "joint-harvest-blend",
+        "category_name": "Flower",
+        "body": "<p>Premium Cannabis Pre Roll</p>",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/products/000/321/712/avatar/1637267616-3007-f74c946b2608fc753e5230ab1608155136889.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/products/000/321/712/avatar/1637267616-3007-f74c946b2608fc753e5230ab1608155136889.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/products/000/321/712/avatar/1637267616-3007-f74c946b2608fc753e5230ab1608155136889.jpg",
+        "is_badged": true,
+        "brand_name": "Minerva Canna",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 8.5,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2021-11-18T20:41:05Z",
+        "updated_at": "2021-11-18T20:53:25Z",
+        "parent_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "sub_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "measurements": [],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/minerva-canna-group-albuquerque/menu/joint-harvest-blend",
+        "order": "https://weedmaps.com/dispensaries/minerva-canna-group-albuquerque/menu/joint-harvest-blend"
+      },
+      "relationships": {
+        "brand": {
+          "data": {
+            "id": 10353,
+            "type": "brand"
+          }
+        },
+        "listing": {
+          "data": {
+            "id": 14767,
+            "type": "dispensary"
+          }
+        },
+        "product": {
+          "data": {
+            "id": 321712,
+            "type": "product"
+          }
+        },
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 2,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 190303269,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 80294090,
+      "type": "menu_item",
+      "attributes": {
+        "name": "JOINT PURPLE THAI HAZE",
+        "slug": "joint-purple-thai-haze",
+        "category_name": "Flower",
+        "body": "<p>Premium Cannabis Pre Roll</p>",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/products/000/321/713/avatar/1637267618-3007-f74c946b2608fc753e5230ab1608155136889.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/products/000/321/713/avatar/1637267618-3007-f74c946b2608fc753e5230ab1608155136889.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/products/000/321/713/avatar/1637267618-3007-f74c946b2608fc753e5230ab1608155136889.jpg",
+        "is_badged": true,
+        "brand_name": "Minerva Canna",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 8.5,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2021-11-18T20:41:24Z",
+        "updated_at": "2021-11-18T20:53:25Z",
+        "parent_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "sub_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "measurements": [],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/minerva-canna-group-albuquerque/menu/joint-purple-thai-haze",
+        "order": "https://weedmaps.com/dispensaries/minerva-canna-group-albuquerque/menu/joint-purple-thai-haze"
+      },
+      "relationships": {
+        "brand": {
+          "data": {
+            "id": 10353,
+            "type": "brand"
+          }
+        },
+        "listing": {
+          "data": {
+            "id": 14767,
+            "type": "dispensary"
+          }
+        },
+        "product": {
+          "data": {
+            "id": 321713,
+            "type": "product"
+          }
+        },
+        "strain": {
+          "data": {
+            "id": 850,
+            "type": "strain"
+          }
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 2,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 190303269,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 80294226,
+      "type": "menu_item",
+      "attributes": {
+        "name": "JUNIOR MINTS",
+        "slug": "junior-mints",
+        "category_name": "Flower",
+        "body": "<p>Premium Cannabis by Minerva</p>",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/products/000/321/714/avatar/1637267621-3007-4b470e137dd10d704c49d1261607535839343.png",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/products/000/321/714/avatar/1637267621-3007-4b470e137dd10d704c49d1261607535839343.png",
+        "avatar_image_url": "https://images.weedmaps.com/products/000/321/714/avatar/1637267621-3007-4b470e137dd10d704c49d1261607535839343.png",
+        "is_badged": true,
+        "brand_name": "Minerva Canna",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 0,
+          "price_gram": 10.2,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2021-11-18T20:43:30Z",
+        "updated_at": "2021-11-18T20:53:25Z",
+        "parent_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "sub_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "measurements": [],
+        "variants": [
+          {
+            "name": "1 gram",
+            "label": "1 g",
+            "price": {
+              "amount": "10.20",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 1,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 1000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/minerva-canna-group-albuquerque/menu/junior-mints",
+        "order": "https://weedmaps.com/dispensaries/minerva-canna-group-albuquerque/menu/junior-mints"
+      },
+      "relationships": {
+        "brand": {
+          "data": {
+            "id": 10353,
+            "type": "brand"
+          }
+        },
+        "listing": {
+          "data": {
+            "id": 14767,
+            "type": "dispensary"
+          }
+        },
+        "product": {
+          "data": {
+            "id": 321714,
+            "type": "product"
+          }
+        },
+        "strain": {
+          "data": {
+            "id": 3850,
+            "type": "strain"
+          }
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 2,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 190303269,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 80294244,
+      "type": "menu_item",
+      "attributes": {
+        "name": "LEMONADE 40MG",
+        "slug": "lemonade-40mg",
+        "category_name": "Edibles",
+        "body": "Summertime in a bottle! Cool down and medicate with 40 mg THC per bottle!",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/products/000/321/701/avatar/1637266889-3007-17386dcf89e7bc668b48f0301609895680319.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/products/000/321/701/avatar/1637266889-3007-17386dcf89e7bc668b48f0301609895680319.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/products/000/321/701/avatar/1637266889-3007-17386dcf89e7bc668b48f0301609895680319.jpg",
+        "is_badged": true,
+        "brand_name": "Canna Cafe",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 9,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2021-11-18T20:43:55Z",
+        "updated_at": "2023-07-27T01:12:29Z",
+        "parent_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "sub_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "measurements": [],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/minerva-canna-group-albuquerque/menu/lemonade-40mg",
+        "order": "https://weedmaps.com/dispensaries/minerva-canna-group-albuquerque/menu/lemonade-40mg"
+      },
+      "relationships": {
+        "brand": {
+          "data": {
+            "id": 10210,
+            "type": "brand"
+          }
+        },
+        "listing": {
+          "data": {
+            "id": 14767,
+            "type": "dispensary"
+          }
+        },
+        "product": {
+          "data": {
+            "id": 321701,
+            "type": "product"
+          }
+        },
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 5,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 190303269,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 80294259,
+      "type": "menu_item",
+      "attributes": {
+        "name": "PEANUT BUTTER 250MG",
+        "slug": "peanut-butter-250mg",
+        "category_name": "Edibles",
+        "body": "A Minerva original with 250 mg per container, this Peanut Butter will bring new highs to your day!",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/products/000/321/702/avatar/1637266893-3007-be2de343ffeda8210d3762ea1607700168299.png",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/products/000/321/702/avatar/1637266893-3007-be2de343ffeda8210d3762ea1607700168299.png",
+        "avatar_image_url": "https://images.weedmaps.com/products/000/321/702/avatar/1637266893-3007-be2de343ffeda8210d3762ea1607700168299.png",
+        "is_badged": true,
+        "brand_name": "Canna Cafe",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 28,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2021-11-18T20:44:07Z",
+        "updated_at": "2023-07-27T01:12:29Z",
+        "parent_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "sub_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "measurements": [],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/minerva-canna-group-albuquerque/menu/peanut-butter-250mg",
+        "order": "https://weedmaps.com/dispensaries/minerva-canna-group-albuquerque/menu/peanut-butter-250mg"
+      },
+      "relationships": {
+        "brand": {
+          "data": {
+            "id": 10210,
+            "type": "brand"
+          }
+        },
+        "listing": {
+          "data": {
+            "id": 14767,
+            "type": "dispensary"
+          }
+        },
+        "product": {
+          "data": {
+            "id": 321702,
+            "type": "product"
+          }
+        },
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 5,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 190303269,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 80294307,
+      "type": "menu_item",
+      "attributes": {
+        "name": "PURPLE THAI HAZE",
+        "slug": "purple-thai-haze",
+        "category_name": "Flower",
+        "body": "<p>Premium Cannabis by Minerva</p>",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/products/000/321/715/avatar/1637267623-3007-db682289e4f2bd7aee6a32841608144054675.png",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/products/000/321/715/avatar/1637267623-3007-db682289e4f2bd7aee6a32841608144054675.png",
+        "avatar_image_url": "https://images.weedmaps.com/products/000/321/715/avatar/1637267623-3007-db682289e4f2bd7aee6a32841608144054675.png",
+        "is_badged": true,
+        "brand_name": "Minerva Canna",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 0,
+          "price_gram": 10.2,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2021-11-18T20:44:23Z",
+        "updated_at": "2021-11-18T20:53:25Z",
+        "parent_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "sub_category": {
+          "id": 2,
+          "name": "Flower",
+          "slug": "flower"
+        },
+        "measurements": [],
+        "variants": [
+          {
+            "name": "1 gram",
+            "label": "1 g",
+            "price": {
+              "amount": "10.20",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 1,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 1000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/minerva-canna-group-albuquerque/menu/purple-thai-haze",
+        "order": "https://weedmaps.com/dispensaries/minerva-canna-group-albuquerque/menu/purple-thai-haze"
+      },
+      "relationships": {
+        "brand": {
+          "data": {
+            "id": 10353,
+            "type": "brand"
+          }
+        },
+        "listing": {
+          "data": {
+            "id": 14767,
+            "type": "dispensary"
+          }
+        },
+        "product": {
+          "data": {
+            "id": 321715,
+            "type": "product"
+          }
+        },
+        "strain": {
+          "data": {
+            "id": 850,
+            "type": "strain"
+          }
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 2,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 190303269,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 80294338,
+      "type": "menu_item",
+      "attributes": {
+        "name": "STRAWBERRY LEMONADE 40MG",
+        "slug": "strawberry-lemonade-40mg",
+        "category_name": "Edibles",
+        "body": "Simple and amazing with 40 mg THC per bottle. Great taste and magic medicine, couldn’t ask for more…<br>",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/products/000/321/703/avatar/1637266896-3007-96bffcbaab44ae89c89dfedf1612377686453.png",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/products/000/321/703/avatar/1637266896-3007-96bffcbaab44ae89c89dfedf1612377686453.png",
+        "avatar_image_url": "https://images.weedmaps.com/products/000/321/703/avatar/1637266896-3007-96bffcbaab44ae89c89dfedf1612377686453.png",
+        "is_badged": true,
+        "brand_name": "Canna Cafe",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 9,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2021-11-18T20:44:44Z",
+        "updated_at": "2023-07-27T01:12:29Z",
+        "parent_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "sub_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "measurements": [],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/minerva-canna-group-albuquerque/menu/strawberry-lemonade-40mg",
+        "order": "https://weedmaps.com/dispensaries/minerva-canna-group-albuquerque/menu/strawberry-lemonade-40mg"
+      },
+      "relationships": {
+        "brand": {
+          "data": {
+            "id": 10210,
+            "type": "brand"
+          }
+        },
+        "listing": {
+          "data": {
+            "id": 14767,
+            "type": "dispensary"
+          }
+        },
+        "product": {
+          "data": {
+            "id": 321703,
+            "type": "product"
+          }
+        },
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 5,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 190303269,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 80294350,
+      "type": "menu_item",
+      "attributes": {
+        "name": "STRAWBERRY LIMEADE 250MG",
+        "slug": "strawberry-limeade-250mg",
+        "category_name": "Edibles",
+        "body": "Powerful, tasty, and natural. Get the fresh taste of strawberry and lime with 250 mg’s of THC. Now that power to the people!",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/products/000/321/704/avatar/1637266899-3007-32fbd36b845a2eb1979a8f151612377778153.png",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/products/000/321/704/avatar/1637266899-3007-32fbd36b845a2eb1979a8f151612377778153.png",
+        "avatar_image_url": "https://images.weedmaps.com/products/000/321/704/avatar/1637266899-3007-32fbd36b845a2eb1979a8f151612377778153.png",
+        "is_badged": true,
+        "brand_name": "Canna Cafe",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 27,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2021-11-18T20:44:58Z",
+        "updated_at": "2023-07-27T01:12:29Z",
+        "parent_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "sub_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "measurements": [],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/minerva-canna-group-albuquerque/menu/strawberry-limeade-250mg",
+        "order": "https://weedmaps.com/dispensaries/minerva-canna-group-albuquerque/menu/strawberry-limeade-250mg"
+      },
+      "relationships": {
+        "brand": {
+          "data": {
+            "id": 10210,
+            "type": "brand"
+          }
+        },
+        "listing": {
+          "data": {
+            "id": 14767,
+            "type": "dispensary"
+          }
+        },
+        "product": {
+          "data": {
+            "id": 321704,
+            "type": "product"
+          }
+        },
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 5,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 190303269,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 80294365,
+      "type": "menu_item",
+      "attributes": {
+        "name": "WHITE MACADAMIA COOKIE 4 X 25MG",
+        "slug": "white-macadamia-cookie-4-x-25mg",
+        "category_name": "Edibles",
+        "body": "With the taste of Macadamia, and white chocolate the taste will not only help take your troubles away but delight your taste buds as well!",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/products/000/321/705/avatar/1637266904-3007-03eaa8b282e10343b9b285fd1607638946378.png",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/products/000/321/705/avatar/1637266904-3007-03eaa8b282e10343b9b285fd1607638946378.png",
+        "avatar_image_url": "https://images.weedmaps.com/products/000/321/705/avatar/1637266904-3007-03eaa8b282e10343b9b285fd1607638946378.png",
+        "is_badged": true,
+        "brand_name": "Canna Cafe",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 14,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2021-11-18T20:45:09Z",
+        "updated_at": "2021-11-18T20:52:57Z",
+        "parent_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "sub_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "measurements": [],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/minerva-canna-group-albuquerque/menu/white-macadamia-cookie-4-x-25mg",
+        "order": "https://weedmaps.com/dispensaries/minerva-canna-group-albuquerque/menu/white-macadamia-cookie-4-x-25mg"
+      },
+      "relationships": {
+        "brand": {
+          "data": {
+            "id": 10210,
+            "type": "brand"
+          }
+        },
+        "listing": {
+          "data": {
+            "id": 14767,
+            "type": "dispensary"
+          }
+        },
+        "product": {
+          "data": {
+            "id": 321705,
+            "type": "product"
+          }
+        },
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 1
+          },
+          "data": [
+            {
+              "id": 5,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 190303269,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 80294439,
+      "type": "menu_item",
+      "attributes": {
+        "name": "200mg Watermelon THC Syrup Tincture",
+        "slug": "200mg-watermelon-thc-syrup-tincture",
+        "category_name": "Edibles",
+        "body": "<p>Cannavis Syrup 200mg THC Watermelon Syrup Tincture</p><p>Cannavis Syrup 200mg only currently available in New Mexico and Oklahoma</p>",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/products/000/103/879/avatar/1560962795-Watermelon-FRONT.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/products/000/103/879/avatar/1560962795-Watermelon-FRONT.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/products/000/103/879/avatar/1560962795-Watermelon-FRONT.jpg",
+        "is_badged": true,
+        "brand_name": "Cannavis",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 22,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2021-11-18T20:46:01Z",
+        "updated_at": "2023-07-26T22:22:27Z",
+        "parent_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "sub_category": {
+          "id": 206,
+          "name": "Sugar Free",
+          "slug": "sugar-free"
+        },
+        "measurements": [],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/minerva-canna-group-albuquerque/menu/200mg-watermelon-thc-syrup-tincture",
+        "order": "https://weedmaps.com/dispensaries/minerva-canna-group-albuquerque/menu/200mg-watermelon-thc-syrup-tincture"
+      },
+      "relationships": {
+        "brand": {
+          "data": {
+            "id": 861,
+            "type": "brand"
+          }
+        },
+        "listing": {
+          "data": {
+            "id": 14767,
+            "type": "dispensary"
+          }
+        },
+        "product": {
+          "data": {
+            "id": 103879,
+            "type": "product"
+          }
+        },
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 4
+          },
+          "data": [
+            {
+              "id": 254,
+              "type": "category"
+            },
+            {
+              "id": 5,
+              "type": "category"
+            },
+            {
+              "id": 206,
+              "type": "category"
+            },
+            {
+              "id": 189,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 2
+          },
+          "data": [
+            {
+              "type": "tag",
+              "id": "0777c485-a69d-41fe-bf47-ad91ff185525"
+            },
+            {
+              "type": "tag",
+              "id": "727bd616-2e29-4c8a-9fd8-9db906add6af"
+            }
+          ]
+        },
+        "menu_parent": {
+          "data": {
+            "id": 190303269,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 80294467,
+      "type": "menu_item",
+      "attributes": {
+        "name": "200mg Strawberry THC Syrup Tincture",
+        "slug": "200mg-strawberry-thc-syrup-tincture",
+        "category_name": "Edibles",
+        "body": "<p></p><p>Cannavis Syrup 200mg THC Strawberry Syrup Tincture</p><p>Cannavis Syrup 200mg only currently available in New Mexico and Oklahoma</p>",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/products/000/103/877/avatar/1560962368-2oz_Strawberry.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/products/000/103/877/avatar/1560962368-2oz_Strawberry.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/products/000/103/877/avatar/1560962368-2oz_Strawberry.jpg",
+        "is_badged": true,
+        "brand_name": "Cannavis",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2021-11-18T20:46:18Z",
+        "updated_at": "2023-07-26T22:22:27Z",
+        "parent_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "sub_category": {
+          "id": 206,
+          "name": "Sugar Free",
+          "slug": "sugar-free"
+        },
+        "measurements": [],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/minerva-canna-group-albuquerque/menu/200mg-strawberry-thc-syrup-tincture",
+        "order": "https://weedmaps.com/dispensaries/minerva-canna-group-albuquerque/menu/200mg-strawberry-thc-syrup-tincture"
+      },
+      "relationships": {
+        "brand": {
+          "data": {
+            "id": 861,
+            "type": "brand"
+          }
+        },
+        "listing": {
+          "data": {
+            "id": 14767,
+            "type": "dispensary"
+          }
+        },
+        "product": {
+          "data": {
+            "id": 103877,
+            "type": "product"
+          }
+        },
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 4
+          },
+          "data": [
+            {
+              "id": 254,
+              "type": "category"
+            },
+            {
+              "id": 5,
+              "type": "category"
+            },
+            {
+              "id": 206,
+              "type": "category"
+            },
+            {
+              "id": 189,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 2
+          },
+          "data": [
+            {
+              "type": "tag",
+              "id": "0777c485-a69d-41fe-bf47-ad91ff185525"
+            },
+            {
+              "type": "tag",
+              "id": "727bd616-2e29-4c8a-9fd8-9db906add6af"
+            }
+          ]
+        },
+        "menu_parent": {
+          "data": {
+            "id": 190303269,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 80294483,
+      "type": "menu_item",
+      "attributes": {
+        "name": "100mg Pineapple THC Syrup Tincture",
+        "slug": "100mg-pineapple-thc-syrup-tincture",
+        "category_name": "Edibles",
+        "body": "<p>Cannavis Syrup 100mg THC Pineapple Syrup Tincture</p><p>10 Servings - Sugar Free, Gluten Free, Lab Tested</p><p>Cannavis Syrup 100mg only currently available in New Mexico and Oklahoma</p>",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/products/000/097/588/avatar/1554756010-1oz_Pineapple.png",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/products/000/097/588/avatar/1554756010-1oz_Pineapple.png",
+        "avatar_image_url": "https://images.weedmaps.com/products/000/097/588/avatar/1554756010-1oz_Pineapple.png",
+        "is_badged": true,
+        "brand_name": "Cannavis",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 15,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2021-11-18T20:46:37Z",
+        "updated_at": "2023-07-26T22:11:59Z",
+        "parent_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "sub_category": {
+          "id": 206,
+          "name": "Sugar Free",
+          "slug": "sugar-free"
+        },
+        "measurements": [],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/minerva-canna-group-albuquerque/menu/100mg-pineapple-thc-syrup-tincture",
+        "order": "https://weedmaps.com/dispensaries/minerva-canna-group-albuquerque/menu/100mg-pineapple-thc-syrup-tincture"
+      },
+      "relationships": {
+        "brand": {
+          "data": {
+            "id": 861,
+            "type": "brand"
+          }
+        },
+        "listing": {
+          "data": {
+            "id": 14767,
+            "type": "dispensary"
+          }
+        },
+        "product": {
+          "data": {
+            "id": 97588,
+            "type": "product"
+          }
+        },
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 4
+          },
+          "data": [
+            {
+              "id": 189,
+              "type": "category"
+            },
+            {
+              "id": 206,
+              "type": "category"
+            },
+            {
+              "id": 254,
+              "type": "category"
+            },
+            {
+              "id": 5,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 2
+          },
+          "data": [
+            {
+              "type": "tag",
+              "id": "0777c485-a69d-41fe-bf47-ad91ff185525"
+            },
+            {
+              "type": "tag",
+              "id": "727bd616-2e29-4c8a-9fd8-9db906add6af"
+            }
+          ]
+        },
+        "menu_parent": {
+          "data": {
+            "id": 190303269,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 80294499,
+      "type": "menu_item",
+      "attributes": {
+        "name": "100mg Watermelon THC Syrup Tincture",
+        "slug": "100mg-watermelon-thc-syrup-tincture",
+        "category_name": "Edibles",
+        "body": "<p>Cannavis Syrup 100mg THC Watermelon Syrup Tincture</p><p>10 Servings - Sugar Free, Gluten Free, Lab Tested</p><p>Cannavis Syrup 100mg only currently available in New Mexico and Oklahoma</p>",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/products/000/097/589/avatar/1554756178-1oz_Watermelon.png",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/products/000/097/589/avatar/1554756178-1oz_Watermelon.png",
+        "avatar_image_url": "https://images.weedmaps.com/products/000/097/589/avatar/1554756178-1oz_Watermelon.png",
+        "is_badged": true,
+        "brand_name": "Cannavis",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 15,
+          "price_half_gram": 0,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2021-11-18T20:46:54Z",
+        "updated_at": "2023-07-26T22:11:59Z",
+        "parent_category": {
+          "id": 5,
+          "name": "Edibles",
+          "slug": "edibles"
+        },
+        "sub_category": {
+          "id": 206,
+          "name": "Sugar Free",
+          "slug": "sugar-free"
+        },
+        "measurements": [],
+        "variants": [],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/minerva-canna-group-albuquerque/menu/100mg-watermelon-thc-syrup-tincture",
+        "order": "https://weedmaps.com/dispensaries/minerva-canna-group-albuquerque/menu/100mg-watermelon-thc-syrup-tincture"
+      },
+      "relationships": {
+        "brand": {
+          "data": {
+            "id": 861,
+            "type": "brand"
+          }
+        },
+        "listing": {
+          "data": {
+            "id": 14767,
+            "type": "dispensary"
+          }
+        },
+        "product": {
+          "data": {
+            "id": 97589,
+            "type": "product"
+          }
+        },
+        "strain": {
+          "data": null
+        },
+        "categories": {
+          "meta": {
+            "total": 4
+          },
+          "data": [
+            {
+              "id": 189,
+              "type": "category"
+            },
+            {
+              "id": 254,
+              "type": "category"
+            },
+            {
+              "id": 5,
+              "type": "category"
+            },
+            {
+              "id": 206,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 2
+          },
+          "data": [
+            {
+              "type": "tag",
+              "id": "0777c485-a69d-41fe-bf47-ad91ff185525"
+            },
+            {
+              "type": "tag",
+              "id": "727bd616-2e29-4c8a-9fd8-9db906add6af"
+            }
+          ]
+        },
+        "menu_parent": {
+          "data": {
+            "id": 190303269,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 80294569,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Bloom Classic Vape | Granddaddy Purple | 1g",
+        "slug": "bloom-dart-pod-granddaddy-purple",
+        "category_name": "Vape Pens",
+        "body": "<p></p><p><em>When I was your age…</em></p><p><br></p><p>A blissful, relaxing high with floral notes of lavender.</p><p><br></p><p>Floral, Berry, Earthy, Haze.</p><p><br></p><p>Linalool:</p><p>Naturally Found In: lavender, cilantro, basil</p><p>B-Myrcene:</p><p>Naturally Found In: mango, wild thyme, cardamom, hops</p><p>Valencene:</p><p>Naturally Found In: Valencia oranges</p><p><br></p><p>Bloom Classic highlights the compounds that make up each strain. Crafted with 99% pure terpenes and a broad spectrum of cannabinoids, each vape delivers bold flavor and consistent effects.</p><p>Available in 1000mg and 500mg cartridges. </p>",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/products/000/050/583/avatar/1640138385-bloom_classic_cartdeet_gdp.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/products/000/050/583/avatar/1640138385-bloom_classic_cartdeet_gdp.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/products/000/050/583/avatar/1640138385-bloom_classic_cartdeet_gdp.jpg",
+        "is_badged": true,
+        "brand_name": "BLOOM",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 42,
+          "price_gram": 0,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2021-11-18T20:47:57Z",
+        "updated_at": "2024-05-03T20:31:47Z",
+        "parent_category": {
+          "id": 4,
+          "name": "Vape Pens",
+          "slug": "vape-pens"
+        },
+        "sub_category": {
+          "id": 193,
+          "name": "Cartridge",
+          "slug": "cartridge"
+        },
+        "measurements": [],
+        "variants": [
+          {
+            "name": "1/2 gram",
+            "label": "1/2 g",
+            "price": {
+              "amount": "42.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 0.5,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 500,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/minerva-canna-group-albuquerque/menu/bloom-dart-pod-granddaddy-purple",
+        "order": "https://weedmaps.com/dispensaries/minerva-canna-group-albuquerque/menu/bloom-dart-pod-granddaddy-purple"
+      },
+      "relationships": {
+        "brand": {
+          "data": {
+            "id": 230,
+            "type": "brand"
+          }
+        },
+        "listing": {
+          "data": {
+            "id": 14767,
+            "type": "dispensary"
+          }
+        },
+        "product": {
+          "data": {
+            "id": 50583,
+            "type": "product"
+          }
+        },
+        "strain": {
+          "data": {
+            "id": 96,
+            "type": "strain"
+          }
+        },
+        "categories": {
+          "meta": {
+            "total": 2
+          },
+          "data": [
+            {
+              "id": 4,
+              "type": "category"
+            },
+            {
+              "id": 193,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 190303269,
+            "type": "listing"
+          }
+        }
+      }
+    },
+    {
+      "id": 80294621,
+      "type": "menu_item",
+      "attributes": {
+        "name": "Bloom Classic Vape | GSC | 1G",
+        "slug": "bloom-vape-gsc",
+        "category_name": "Vape Pens",
+        "body": "<p></p><p><em>Fresh baked from the oven.</em></p><p><br></p><p>Earthy, uplifting haze ideal for relaxation.</p><p><br></p><p>D-Limonene:</p><p>Naturally Found In: citrus rinds (lemon, lime, orange etc.)</p><p>Valencene:</p><p>Naturally Found In: Valencia oranges</p><p>B-Myrcene:</p><p>Naturally Found In: mango, wild thyme, cardamom, hops</p><p><br></p><p>Bloom Classic highlights the compounds that make up each strain. Crafted with 99% pure terpenes and a broad spectrum of cannabinoids, each vape delivers bold flavor and consistent effects.</p><p>Available in 1000mg and 500mg cartridges.</p>",
+        "is_published": true,
+        "license_type": "medical",
+        "online_orderable": true,
+        "picture_url": "https://images.weedmaps.com/products/000/050/577/avatar/1640204132-bloom_classic_cartdeet_gsc.jpg",
+        "position": null,
+        "original_picture_url": "https://images.weedmaps.com/products/000/050/577/avatar/1640204132-bloom_classic_cartdeet_gsc.jpg",
+        "avatar_image_url": "https://images.weedmaps.com/products/000/050/577/avatar/1640204132-bloom_classic_cartdeet_gsc.jpg",
+        "is_badged": true,
+        "brand_name": "BLOOM",
+        "cannabinoids": {},
+        "genetics": null,
+        "prices": {
+          "price_unit": 0,
+          "price_half_gram": 0,
+          "price_gram": 65,
+          "price_two_grams": 0,
+          "price_eighth": 0,
+          "price_quarter": 0,
+          "price_half_ounce": 0,
+          "price_ounce": 0,
+          "prices_other": {}
+        },
+        "grams_per_eighth": "3.5 grams",
+        "created_at": "2021-11-18T20:48:29Z",
+        "updated_at": "2024-05-03T20:33:18Z",
+        "parent_category": {
+          "id": 4,
+          "name": "Vape Pens",
+          "slug": "vape-pens"
+        },
+        "sub_category": {
+          "id": 193,
+          "name": "Cartridge",
+          "slug": "cartridge"
+        },
+        "measurements": [],
+        "variants": [
+          {
+            "name": "1 gram",
+            "label": "1 g",
+            "price": {
+              "amount": "65.00",
+              "currency": "USD"
+            },
+            "weight": {
+              "value": 1,
+              "unit": "g"
+            },
+            "sku": null,
+            "compliance_net_mg": 1000,
+            "compliance_net_precalc": false,
+            "cart_quantity_multiplier": null,
+            "inventory_quantity": null
+          }
+        ],
+        "external_id": null,
+        "sale": null,
+        "sku": null,
+        "compliance_net_mg": null,
+        "compliance_net_precalc": null,
+        "cart_quantity_multiplier": null,
+        "inventory_quantity": null,
+        "shared_inventory": null
+      },
+      "links": {
+        "self": "/dispensaries/minerva-canna-group-albuquerque/menu/bloom-vape-gsc",
+        "order": "https://weedmaps.com/dispensaries/minerva-canna-group-albuquerque/menu/bloom-vape-gsc"
+      },
+      "relationships": {
+        "brand": {
+          "data": {
+            "id": 230,
+            "type": "brand"
+          }
+        },
+        "listing": {
+          "data": {
+            "id": 14767,
+            "type": "dispensary"
+          }
+        },
+        "product": {
+          "data": {
+            "id": 50577,
+            "type": "product"
+          }
+        },
+        "strain": {
+          "data": {
+            "id": 102,
+            "type": "strain"
+          }
+        },
+        "categories": {
+          "meta": {
+            "total": 2
+          },
+          "data": [
+            {
+              "id": 4,
+              "type": "category"
+            },
+            {
+              "id": 193,
+              "type": "category"
+            }
+          ]
+        },
+        "tags": {
+          "meta": {
+            "total": 0
+          },
+          "data": []
+        },
+        "menu_parent": {
+          "data": {
+            "id": 190303269,
+            "type": "listing"
+          }
+        }
+      }
+    }
+  ]
+}
