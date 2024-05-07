@@ -53,7 +53,7 @@ This starts the backend server, connecting to MongoDB and serving API endpoints.
 
 2. **Start the Frontend:**
 
-   npm start
+   npm run start
 
 This launches the React application in your default web browser, typically at `http://localhost:3000`.
 
